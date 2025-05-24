@@ -1,0 +1,161 @@
+{
+  "reaction": {
+    "reactant": {
+      "cas_rn": "",
+      "name": "",
+      "formula": ""
+    },
+    "product": {
+      "cas_rn": "",
+      "name": "",
+      "formula": ""
+    },
+    "yield": 0,
+    "reaction_number": "",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "conditions": {
+      "temperature": "",
+      "pressure": "",
+      "time": ""
+    },
+    "notes": "",
+    "reference": {
+      "title": ""
+    }
+  },
+  "multi_reactant_reaction": {
+    "reactants": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": "",
+        "annotation": ""
+      },
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "product": {
+      "cas_rn": "",
+      "name": "",
+      "formula": ""
+    },
+    "yield": 0,
+    "reaction_number": "",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "conditions": {
+      "temperature": "",
+      "pressure": "",
+      "time": ""
+    },
+    "experimental procedure": "",
+    "notes": "",
+    "reference": {
+      "title": ""
+    }
+  },
+  "multi_product_reaction": {
+    "reactants": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      },
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "products": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      },
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "yield of product 1": 0,
+    "yield of product 2": 0,
+    "reaction_number": "",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "",
+        "name": "",
+        "formula": ""
+      }
+    ],
+    "conditions": {
+      "temperature": "",
+      "pressure": "",
+      "time": ""
+    },
+    "notes": ""
+  }
+} 

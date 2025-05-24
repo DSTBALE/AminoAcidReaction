@@ -1,0 +1,940 @@
+{
+  "reaction1": {
+    "reaction_number": "31-614-CAS-29933497",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Butane",
+        "formula": "C4H10",
+        "cas_rn": "106-97-8"
+      },
+      {
+        "name": "1-Butene",
+        "formula": "C4H8",
+        "cas_rn": "106-98-9"
+      },
+      {
+        "name": "2-Butene",
+        "formula": "C4H8",
+        "cas_rn": "107-01-7"
+      },
+      {
+        "name": "Isobutylene",
+        "formula": "C4H8",
+        "cas_rn": "115-11-7"
+      },
+      {
+        "name": "cis-2-Butene",
+        "formula": "C4H8",
+        "cas_rn": "590-18-1"
+      },
+      {
+        "name": "trans-2-Butene",
+        "formula": "C4H8",
+        "cas_rn": "624-64-6"
+      }
+    ],
+    "product": {
+      "name": "Isobutane",
+      "formula": "C4H10",
+      "cas_rn": "75-28-5",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "1333-74-0"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "14808-79-8"
+      }
+    ]
+  },
+  "reaction2": {
+    "reaction_number": "31-614-CAS-31974038",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Acetic acid",
+        "formula": "C2H4O2",
+        "cas_rn": "64-19-7"
+      },
+      {
+        "name": "Butane",
+        "formula": "C4H10",
+        "cas_rn": "106-97-8"
+      },
+      {
+        "name": "1-Butene",
+        "formula": "C4H8",
+        "cas_rn": "106-98-9"
+      },
+      {
+        "name": "cis-2-Butene",
+        "formula": "C4H8",
+        "cas_rn": "590-18-1"
+      },
+      {
+        "name": "trans-2-Butene",
+        "formula": "C4H8",
+        "cas_rn": "624-64-6"
+      }
+    ],
+    "product": {
+      "name": "sec-Butyl acetate",
+      "formula": "C6H12O2",
+      "cas_rn": "105-46-4",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "75-28-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "1344-28-1"
+      },
+      {
+        "cas_rn": "10026-22-9"
+      },
+      {
+        "cas_rn": "10196-18-6"
+      }
+    ]
+  },
+  "reaction3": {
+    "reaction_number": "31-614-CAS-36894533",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "1314-62-1"
+      },
+      {
+        "cas_rn": "7664-38-2"
+      },
+      {
+        "cas_rn": "1351508-49-0"
+      }
+    ]
+  },
+  "reaction4": {
+    "reaction_number": "31-479-CAS-14285341",
+    "steps": 1,
+    "stages": 3,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "77-85-0"
+      },
+      {
+        "cas_rn": "7782-42-5"
+      },
+      {
+        "cas_rn": "9002-89-5"
+      },
+      {
+        "cas_rn": "9005-25-8"
+      },
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7439-89-6"
+      },
+      {
+        "cas_rn": "7439-98-7"
+      },
+      {
+        "cas_rn": "7440-32-6"
+      },
+      {
+        "cas_rn": "7440-52-0"
+      },
+      {
+        "cas_rn": "7440-62-2"
+      },
+      {
+        "cas_rn": "7440-66-6"
+      },
+      {
+        "cas_rn": "7723-14-0"
+      }
+    ]
+  },
+  "reaction5": {
+    "reaction_number": "31-479-CAS-19400142",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ]
+  },
+  "reaction6": {
+    "reaction_number": "31-479-CAS-19032486",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "512-56-1"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "65506-75-4"
+      }
+    ]
+  },
+  "reaction7": {
+    "reaction_number": "31-479-CAS-2949258",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ]
+  },
+  "reaction8": {
+    "reaction_number": "31-479-CAS-11977209",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "58834-75-6"
+      }
+    ]
+  },
+  "reaction9": {
+    "reaction_number": "31-614-CAS-24025117",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "65506-75-4"
+      }
+    ]
+  },
+  "reaction10": {
+    "reaction_number": "31-479-CAS-9572702",
+    "steps": 1,
+    "stages": 3,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-42-5"
+      },
+      {
+        "cas_rn": "9003-20-7"
+      },
+      {
+        "cas_rn": "9003-53-6"
+      },
+      {
+        "cas_rn": "9005-25-8"
+      },
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7439-98-7"
+      },
+      {
+        "cas_rn": "7440-22-4"
+      },
+      {
+        "cas_rn": "7440-32-6"
+      },
+      {
+        "cas_rn": "7440-54-2"
+      },
+      {
+        "cas_rn": "7440-62-2"
+      },
+      {
+        "cas_rn": "7440-66-6"
+      },
+      {
+        "cas_rn": "7723-14-0"
+      }
+    ]
+  },
+  "reaction11": {
+    "reaction_number": "31-479-CAS-11399445",
+    "steps": 1,
+    "stages": 3,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-42-5"
+      },
+      {
+        "cas_rn": "9003-01-4"
+      },
+      {
+        "cas_rn": "9005-25-8"
+      },
+      {
+        "cas_rn": "25322-68-3"
+      },
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7439-98-7"
+      },
+      {
+        "cas_rn": "7440-22-4"
+      },
+      {
+        "cas_rn": "7440-32-6"
+      },
+      {
+        "cas_rn": "7440-54-2"
+      },
+      {
+        "cas_rn": "7440-62-2"
+      },
+      {
+        "cas_rn": "7440-66-6"
+      },
+      {
+        "cas_rn": "7723-14-0"
+      }
+    ]
+  },
+  "reaction12": {
+    "reaction_number": "31-479-CAS-9294173",
+    "steps": 1,
+    "stages": 3,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "77-85-0"
+      },
+      {
+        "cas_rn": "7782-42-5"
+      },
+      {
+        "cas_rn": "9002-89-5"
+      },
+      {
+        "cas_rn": "9005-25-8"
+      },
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7439-98-7"
+      },
+      {
+        "cas_rn": "7440-22-4"
+      },
+      {
+        "cas_rn": "7440-32-6"
+      },
+      {
+        "cas_rn": "7440-54-2"
+      },
+      {
+        "cas_rn": "7440-62-2"
+      },
+      {
+        "cas_rn": "7440-66-6"
+      },
+      {
+        "cas_rn": "7723-14-0"
+      }
+    ]
+  },
+  "reaction13": {
+    "reaction_number": "31-479-CAS-5024019",
+    "steps": 1,
+    "stages": 3,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "77-85-0"
+      },
+      {
+        "cas_rn": "7782-42-5"
+      },
+      {
+        "cas_rn": "9002-89-5"
+      },
+      {
+        "cas_rn": "9005-25-8"
+      },
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7440-22-4"
+      },
+      {
+        "cas_rn": "7440-32-6"
+      },
+      {
+        "cas_rn": "7440-48-4"
+      },
+      {
+        "cas_rn": "7440-60-0"
+      },
+      {
+        "cas_rn": "7440-62-2"
+      },
+      {
+        "cas_rn": "7440-66-6"
+      },
+      {
+        "cas_rn": "7723-14-0"
+      }
+    ]
+  },
+  "reaction14": {
+    "reaction_number": "31-479-CAS-29366414",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "1314-62-1"
+      },
+      {
+        "cas_rn": "7664-38-2"
+      },
+      {
+        "cas_rn": "34041-09-3"
+      }
+    ]
+  },
+  "reaction15": {
+    "reaction_number": "31-479-CAS-10764822",
+    "steps": 1,
+    "stages": 3,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Maleic anhydride",
+      "formula": "C4H2O3",
+      "cas_rn": "108-31-6",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "77-85-0"
+      },
+      {
+        "cas_rn": "7782-42-5"
+      },
+      {
+        "cas_rn": "9002-89-5"
+      },
+      {
+        "cas_rn": "9005-25-8"
+      },
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7439-98-7"
+      },
+      {
+        "cas_rn": "7440-32-6"
+      },
+      {
+        "cas_rn": "7440-52-0"
+      },
+      {
+        "cas_rn": "7440-62-2"
+      },
+      {
+        "cas_rn": "7440-66-6"
+      },
+      {
+        "cas_rn": "7723-14-0"
+      }
+    ]
+  },
+  "reaction16": {
+    "reaction_number": "31-614-CAS-29786722",
+    "steps": 1,
+    "stages": 2,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Tetrahydrofuran",
+      "formula": "C4H8O",
+      "cas_rn": "109-99-9",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      },
+      {
+        "cas_rn": "1333-74-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "84-74-2"
+      }
+    ]
+  },
+  "reaction17": {
+    "reaction_number": "31-614-CAS-27312352",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Propane",
+        "formula": "C3H8",
+        "cas_rn": "74-98-6"
+      },
+      {
+        "name": "Butane",
+        "formula": "C4H10",
+        "cas_rn": "106-97-8"
+      }
+    ],
+    "product": {
+      "name": "Propylene",
+      "formula": "C3H6",
+      "cas_rn": "115-07-1",
+      "yield": 99
+    },
+    "reagents": [
+      {
+        "cas_rn": "74-84-0"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7440-06-4"
+      },
+      {
+        "cas_rn": "7440-09-7"
+      }
+    ]
+  },
+  "reaction18": {
+    "reaction_number": "31-569-CAS-21031761",
+    "steps": 1,
+    "stages": 2,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "P-Butylphosphonous dichloride",
+      "formula": "C4H9Cl2P",
+      "cas_rn": "6460-27-1",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "7719-12-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "5593-70-4"
+      },
+      {
+        "cas_rn": "7775-27-1"
+      }
+    ]
+  },
+  "reaction19": {
+    "reaction_number": "31-464-CAS-21419280",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Isobutane",
+      "formula": "C4H10",
+      "cas_rn": "75-28-5",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "1333-74-0"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7440-05-3"
+      }
+    ]
+  },
+  "reaction20": {
+    "reaction_number": "31-464-CAS-21095395",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "product": {
+      "name": "Isobutane",
+      "formula": "C4H10",
+      "cas_rn": "75-28-5",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "1333-74-0"
+      }
+    ]
+  },
+  "reaction21": {
+    "reaction_number": "31-614-CAS-39929708",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Butane",
+        "formula": "C4H10",
+        "cas_rn": "106-97-8"
+      },
+      {
+        "name": "Bromobenzene",
+        "formula": "C6H5Br",
+        "cas_rn": "108-86-1"
+      }
+    ],
+    "product": {
+      "name": "N-Butylaniline",
+      "formula": "C10H15N",
+      "cas_rn": "1126-78-9",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "4271-96-9"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "563-71-3"
+      },
+      {
+        "cas_rn": "37275-48-2"
+      }
+    ]
+  },
+  "reaction22": {
+    "reaction_number": "31-614-CAS-27103266",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Butane",
+        "formula": "C4H10",
+        "cas_rn": "106-97-8"
+      },
+      {
+        "name": "Carbon monoxide",
+        "formula": "CO",
+        "cas_rn": "630-08-0"
+      }
+    ],
+    "products": [
+      {
+        "name": "Pentanoic acid",
+        "formula": "C5H10O2",
+        "cas_rn": "109-52-4",
+        "yield": 5
+      },
+      {
+        "name": "2-Methylbutanoic acid",
+        "formula": "C5H10O2",
+        "cas_rn": "116-53-0",
+        "yield": 91
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "7727-21-1"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "1234672-90-2"
+      }
+    ]
+  },
+  "reaction23": {
+    "reaction_number": "31-161-CAS-11996760",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Butane",
+      "formula": "C4H10",
+      "cas_rn": "106-97-8"
+    },
+    "products": [
+      {
+        "name": "Methane",
+        "formula": "CH4",
+        "cas_rn": "74-82-8",
+        "yield": 96
+      },
+      {
+        "name": "Ethane",
+        "formula": "C2H6",
+        "cas_rn": "74-84-0",
+        "yield": 2
+      },
+      {
+        "name": "Propane",
+        "formula": "C3H8",
+        "cas_rn": "74-98-6",
+        "yield": 3
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "1333-74-0"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7440-16-6"
+      }
+    ]
+  }
+}

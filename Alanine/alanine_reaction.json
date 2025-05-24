@@ -1,0 +1,1106 @@
+{
+  "reaction1": {
+    "reactant": {
+      "cas_rn": "74-84-0",
+      "name": "Ethane",
+      "formula": "C2H6"
+    },
+    "product": {
+      "cas_rn": "75-01-4",
+      "name": "Vinyl chloride",
+      "formula": "C2H3Cl"
+    },
+    "yield": 100,
+    "reaction_number": "31-614-CAS-29488924",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7647-01-0",
+        "name": "Hydrochloric acid",
+        "formula": "HCl"
+      },
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "formula": "O2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7447-39-4",
+        "name": "Cupric chloride",
+        "formula": "CuCl2"
+      },
+      {
+        "cas_rn": "22152-00-7",
+        "name": "Aluminum cobalt lanthanum oxide",
+        "formula": "Al0.5Co0.5LaO3"
+      }
+    ],
+    "conditions": {
+      "temperature" : "500 C"
+    }
+  },
+  "reaction2": {
+    "reactant": {
+      "cas_rn": "74-84-0",
+      "name": "Ethane",
+      "formula": "C2H6"
+    },
+    "product": {
+      "cas_rn": "75-01-4",
+      "name": "Vinyl chloride",
+      "formula": "C2H3Cl"
+    },
+    "yield": 100,
+    "reaction_number": "31-614-CAS-29095560",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7647-01-0",
+        "name": "Hydrochloric acid",
+        "formula": "HCl"
+      },
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "formula": "O2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7447-39-4",
+        "name": "Copper(II) chloride",
+        "formula": "CuCl2"
+      },
+      {
+        "cas_rn": "7757-79-1",
+        "name": "Potassium Nitrate",
+        "formula": "KNO3"
+      },
+      {
+        "cas_rn": "10099-59-9",
+        "name": "Lanthanum nitrate",
+        "formula": "La(NO3)3"
+      },
+      {
+        "cas_rn": "10377-66-9",
+        "name": "Manganese nitrate",
+        "formula": "Mn(NO3)2"
+      },
+      {
+        "cas_rn": "13138-45-9",
+        "name": "Nickel nitrate",
+        "formula": "Ni(NO3)2"
+      },
+      {
+        "cas_rn": "63920-03-6",
+        "name": "Lanthanum manganese nickel oxide",
+        "formula": "La2MnNiO6"
+      },
+      {
+        "cas_rn": "1365536-69-1",
+        "name": "Lanthanum manganese nickel potassium oxide",
+        "formula": "La1.7MnNiK0.3O6"
+      }
+    ],
+    "conditions": {
+      "time" : "90 h",
+      "temperature" : "500 C"
+    }
+  },
+  "reaction3": {
+    "reactant": {
+      "cas_rn": "74-84-0",
+      "name": "Ethane",
+      "formula": "C2H6"
+    },
+    "product": {
+      "cas_rn": "74-85-1",
+      "name": "Ethylene",
+      "formula": "C2H4"
+    },
+    "yield": 96,
+    "reaction_number": "31-479-CAS-23206396",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "1344-28-1",
+        "name": "Alumina",
+        "formula": "Al2O3"
+      },
+      {
+        "cas_rn": "7440-05-3",
+        "name": "Palladium",
+        "formula": "Pd"
+      }
+    ],
+    "conditions": {
+      "temperature" : "500 C"
+    }
+  },
+  "reaction4": {
+    "reactant": {
+      "cas_rn": "74-84-0",
+      "name": "Ethane",
+      "formula": "C2H6"
+    },
+    "product": {
+      "cas_rn": "74-85-1",
+      "name": "Ethylene",
+      "formula": "C2H4"
+    },
+    "yield": 94,
+    "reaction_number": "31-479-CAS-18397865",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "formula": "O2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "3375-31-3",
+        "name": "Palladium diacetate",
+        "formula": "Pd(CH3COO)2"
+      },
+      {
+        "cas_rn": "7440-05-3",
+        "name": "Palladium",
+        "formula": "Pd",
+        "annotation": "A palladium(II) salt in a 2:1 ratio"
+      },
+      {
+        "cas_rn": "13601-08-6",
+        "name": "Tetraamminepalladium dinitrate",
+        "formula": " Pd(NH3)4(NO3)"
+      },
+      {
+        "cas_rn": "91864-05-0",
+        "name": "Carbonic acid",
+        "formula": "H2CO3"
+      }
+    ],
+    "conditions": {
+      "temperature" : "420 C",
+      "pressure" : "1 atm"
+    }
+  },
+  "reaction5": {
+    "reactant": {
+      "cas_rn": "74-84-0",
+      "name": "Ethane",
+      "formula": "C2H6"
+    },
+    "product": {
+      "cas_rn": "74-85-1",
+      "name": "Ethylene",
+      "formula": "C2H4"
+    },
+    "yield": 93,
+    "reaction_number": "31-479-CAS-23775952",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "formula": "O2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "1313-99-1",
+        "name": "Nickel Oxide",
+        "formula": "NiO"
+      },
+      {
+        "cas_rn": "1344-28-1",
+        "name": "Alumina",
+        "formula": "Al2O3"
+      }
+    ],
+    "notes": "solid-supported catalyst, catalyst prepared and used, fixed bed quartz reactor used, nickel-support and used, optimization study, optimized on reaction conditions, selectivity, 95.0%, conversion, 3.4%",
+    "reference": {
+      "title": "The nickel-support interaction as determining factor of the selectivity to ethylene in the oxidative dehydrogenation of ethane over nickel oxide/alumina catalysts"
+    }
+  },
+  "reaction6": {
+    "reactant": {
+      "cas_rn": "74-84-0",
+      "name": "Ethane",
+      "formula": "C2H6"
+    },
+    "product": {
+      "cas_rn": "74-85-1",
+      "name": "Ethylene",
+      "formula": "C2H4"
+    },
+    "yield": 92,
+    "reaction_number": "31-479-CAS-17584329",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "formula": "O2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "1313-27-5",
+        "name": "Molybdenum Trioxide",
+        "formula": "MoO3"
+      },
+      {
+        "cas_rn": "13463-67-7",
+        "name": "Titanium Dioxide(Titania)",
+        "formula": "TiO2"
+      }
+    ],
+    "notes": "solid-supported catalyst, optimized on catalyst, time and temperature, optimization study, helium gas used, scalable, MoO3 supported TiO2 nanorods catalyst prepared and used, fixed-bed down flow quartz reactor used, other products also detected",
+    "reference": {
+      "title": "MoO3 Nanoclusters Decorated on TiO2 Nanorods for Oxidative dehydrogenation of ethane to ethylene"
+    }
+  },
+  "reaction7": {
+    "reactant": {
+      "cas_rn": "74-84-0",
+      "name": "Ethane",
+      "formula": "C2H6"
+    },
+    "product": {
+      "cas_rn": "74-85-1",
+      "name": "Ethylene",
+      "formula": "C2H4"
+    },
+    "yield": 90,
+    "reaction_number": "31-479-CAS-17815985",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7647-01-0",
+        "name": "Hydrochloric acid",
+        "formula": "HCl"
+      },
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "formula": "O2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "13759-95-0",
+        "name": "Europium chloride oxide",
+        "formula": "EuClO"
+      }
+    ],
+    "conditions": {
+      "temperature" : "623–847 K"
+    }
+  },
+  "reaction8": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "76-05-1",
+        "name": "Trifluoroacetic acid",
+        "formula": "C2HF3O2"
+      }
+    ],
+    "product": {
+      "cas_rn": "431-47-0",
+      "name": "Methyl trifluoroacetate",
+      "formula": "C3H3F3O2"
+    },
+    "yield": 100,
+    "reaction_number": "31-614-CAS-35252944",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "formula": "O2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "21907-43-7",
+        "name": "Acetic acid",
+        "formula": "CH3COOH"
+      },
+      {
+        "name": "2,2,2-Trifluoroacetic acid iron(III) salt (in a 3:1 ratio)"
+      }
+    ],
+    "conditions": {
+      "temperature" : "room temperature",
+      "pressure" : "100 psi",
+      "time" : "10 h"
+    }
+  },
+  "reaction9": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4",
+        "annotation": "bromo or iodo derivative"
+      },
+      {
+        "cas_rn": "1037235-03-2",
+        "name": "cis-1-(3-Chlorophenyl)-4-hydroxycyclohexanecarbonitrile",
+        "formula": "C13H14ClNO"
+      }
+    ],
+    "product": {
+      "cas_rn": "1037235-05-4",
+      "name": "cis-1-(3-Chlorophenyl)-4-methoxycyclohexanecarbonitrile",
+      "formula": "C14H16ClNO"
+    },
+    "yield": 99,
+    "reaction_number": "31-008-CAS-14169738",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7646-69-7",
+        "name": "Sodium hydride",
+        "formula": "NaH"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9",
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O"
+      }
+    ],
+    "conditions": {
+      "temperature" : "0 C & rt",
+      "time" : "3 h"
+    }
+  },
+  "reaction10": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4",
+        "annotation": "bromo or iodo derivative"
+      },
+      {
+        "cas_rn": "1552305-97-1",
+        "name": "cis-4-Hydroxy-1-(2,4,5-trifluorophenyl)cyclohexanecarbonitrile",
+        "formula": "C13H12F3NO"
+      }
+    ],
+    "product": {
+      "cas_rn": "1552306-07-6",
+      "name": "cis-4-Methoxy-1-(2,4,5-trifluorophenyl)cyclohexanecarbonitrile",
+      "formula": "C14H14F3NO"
+    },
+    "yield": 99,
+    "reaction_number": "31-008-CAS-785316",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7646-69-7",
+        "name": "Sodium hydride",
+        "formula": "NaH"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9",
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O"
+      }
+    ],
+    "conditions": {
+      "temperature" : "0 C & rt",
+      "time" : "3 h"
+    }
+  },
+  "reaction11": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4",
+        "annotation": "bromo or iodo derivative"
+      },
+      {
+        "cas_rn": "1552305-97-1",
+        "name": "cis-4-Hydroxy-1-(2,4,5-trifluorophenyl)cyclohexanecarbonitrile",
+        "formula": "C13H12F3NO"
+      }
+    ],
+    "product": {
+      "cas_rn": "1552306-07-6",
+      "name": "cis-4-Methoxy-1-(2,4,5-trifluorophenyl)cyclohexanecarbonitrile",
+      "formula": "C14H14F3NO"
+    },
+    "yield": 99,
+    "reaction_number": "31-008-CAS-785316",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7646-69-7",
+        "name": "Sodium hydride",
+        "formula": "NaH"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9",
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O"
+      }
+    ],
+    "conditions": {
+      "temperature" : "0 C & rt",
+      "time" : "3 h"
+    }
+  },
+  "reaction12": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4",
+        "annotation": "bromo or iodo derivative"
+      },
+      {
+        "cas_rn": "38289-22-4",
+        "name": "cis-4-Hydroxy-1-phenylcyclohexanecarbonitrile",
+        "formula": "C13H15NO"
+      }
+    ],
+    "product": {
+      "cas_rn": "1552306-02-1",
+      "name": "cis-4-Methoxy-1-phenylcyclohexanecarbonitrile",
+      "formula": "C14H17NO"
+    },
+    "yield": 99,
+    "reaction_number": "31-008-CAS-12025021",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7646-69-7",
+        "name": "Sodium hydride",
+        "formula": "NaH"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9",
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O"
+      }
+    ],
+    "conditions": {
+      "temperature" : "0 C & rt",
+      "time" : "3 h"
+    }
+  },
+  "reaction13": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "2700-22-3",
+        "name": "Benzylidenemalononitrile",
+        "formula": "C10H6N2"
+      }
+    ],
+    "product": {
+      "cas_rn": "51084-12-9",
+      "name": "2-(1-Phenylethyl)propanedinitrile",
+      "formula": "C11H10N2"
+    },
+    "yield": 98,
+    "reaction_number": "31-614-CAS-31570418",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "7705-08-0",
+        "name": "Iron(III) chloride",
+        "formula": "FeCl3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "14 h",
+      "pressure" : "5 MPa"
+    }
+  },
+  "reaction14": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "3129-16-6",
+        "name": "Methyl 4-(2,2-dicyanoethenyl)benzoate",
+        "formula": "C12H8N2O2"
+      }
+    ],
+    "product": {
+      "cas_rn": "2473757-10-5",
+      "name": "Methyl 4-(2,2-dicyano-1-methylethyl)benzoate",
+      "formula": "C13H12N2O2"
+    },
+    "yield": 97,
+    "reaction_number": "31-614-CAS-31570421",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "7705-08-0",
+        "name": "Iron(III) chloride",
+        "formula": "FeCl3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "10 h",
+      "pressure" : "5 MPa"
+    }
+  },
+  "reaction15": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "60595-33-7",
+        "name": "2-[(3-Cyanophenyl)methylene]propanedinitrile",
+        "formula": "C11H5N3"
+      }
+    ],
+    "product": {
+      "cas_rn": "2754402-82-7",
+      "name": "2-[1-(3-Cyanophenyl)ethyl]propanedinitrile",
+      "formula": "C12H9N3"
+    },
+    "yield": 97,
+    "reaction_number": "31-614-CAS-31570413",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "7705-08-0",
+        "name": "Iron(III) chloride",
+        "formula": "FeCl3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "10 h",
+      "pressure" : "5 MPa"
+    }
+  },
+  "reaction16": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "75833-84-0",
+        "name": "2-[1-[4-(Trifluoromethyl)phenyl]ethyl]propanedinitrile",
+        "formula": "C11H5F3N2"
+      }
+    ],
+    "product": {
+      "cas_rn": "474889-66-2",
+      "name": "based on this json file format, please add another reaction to it according to the information that image shows",
+      "formula": "C12H9F3N2"
+    },
+    "yield": 97,
+    "reaction_number": "31-614-CAS-31570416",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "7705-08-0",
+        "name": "Iron(III) chloride",
+        "formula": "FeCl3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "10 h",
+      "pressure" : "5 MPa"
+    }
+  },
+  "reaction17": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "1867-38-5",
+        "name": "(4-Chlorobenzylidene)malononitrile",
+        "formula": "C10H5ClN2"
+      }
+    ],
+    "product": {
+      "cas_rn": "359713-44-3",
+      "name": "2-[1-(4-Chlorophenyl)ethyl]propanedinitrile",
+      "formula": "C11H9ClN2"
+    },
+    "yield": 96,
+    "reaction_number": "31-614-CAS-31570415",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "7705-08-0",
+        "name": "Iron(III) chloride",
+        "formula": "FeCl3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "14 h",
+      "pressure" : "5 MPa"
+    }
+  },
+  "reaction18": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "2826-22-4",
+        "name": "4-Fluorobenzylidenemalononitrile",
+        "formula": "C10H5FN2"
+      }
+    ],
+    "product": {
+      "cas_rn": "2754402-79-2",
+      "name": "2-[1-(4-Fluorophenyl)ethyl]propanedinitrile",
+      "formula": "C11H9FN2"
+    },
+    "yield": 96,
+    "reaction_number": "31-614-CAS-31570410",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "7705-08-0",
+        "name": "Iron(III) chloride",
+        "formula": "FeCl3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "14 h",
+      "pressure" : "5 MPa"
+    }
+  },
+  "reaction19": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "941-69-5",
+        "name": "N-Phenylmaleimide",
+        "formula": "C10H7NO2"
+      }
+    ],
+    "product": {
+      "cas_rn": "75619-07-7",
+      "name": "N-Phenyl-2-methylsuccinimide",
+      "formula": "C11H11NO2"
+    },
+    "yield": 94,
+    "reaction_number": "31-614-CAS-31570414",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "7705-08-0",
+        "name": "Iron(III) chloride",
+        "formula": "FeCl3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "10 h",
+      "pressure" : "5 MPa"
+    }
+  },
+  "reaction20": {
+    "reactants": [
+      {
+        "cas_rn": "676-51-7",
+        "name": "Methane-t",
+        "formula": "CH3T"
+      },
+      {
+        "cas_rn": "439857-58-6",
+        "name": "Phenylmethyl 2,6-dideoxy-2-[[(phenylmethoxy)carbonyl]amino]-3,4-bis-O-(trieth...",
+        "formula": "C33H53NO6Si2"
+      }
+    ],
+    "product": {
+      "cas_rn": "439857-59-7",
+      "name": "β-D-Galactopyranoside, phenylmethyl 2,6-dideoxy-2-[methyl-t-[(phenylmethoxy)c...",
+      "formula": "C34H54NO6Si2T"
+    },
+    "yield": 93,
+    "reaction_number": "31-614-CAS-25067125",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7646-69-7",
+        "name": "Sodium hydride",
+        "formula": "NaH"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9",
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O"
+      }
+    ],
+    "experimental procedure": "3H-Labeled methyl carbamate 116. A 10-mL round-bottomed flask was charged with carbamate 115 (250 mg, 0.40 mmol, 8.0 equiv) and tetrahydrofuran (1.0 mL). The resultant solution was cooled to 0 °C, and sodium hydride (32 mg, 60% dispersion in mineral oil, 0.80 mmol, 16 equiv) was added in one portion. After 15 min at 0 °C, freshly distilled hexamethylphosphoramide (HMPA) (100 μL), and a solution of 3H-iodomethane (7 mg, 0.05 mmol, 1.0 equiv, 2.0 Ci/mmol) in toluene (200 μL)were added sequentially. The reaction mixture was maintained at 0 °C for 15 min and then heated to 40 °C for 30 min. Unlabeled iodomethane (92 mg, 0.65 mmol, 13 equiv) was then added and the reaction mixture stirred at 23°C for 30 min. Upon dilution with 1:1 ethyl acetate/hexanes (100 mL), the organic layer was separated, washed with phosphate buffer (pH 7.0, 0.5 M, two 30-mL portions), dried over sodium sulfate and concentrated. Purification of the residue by flash column chromatography (8% ethyl acetate in hexanes) afforded the 3H-labeled methyl carbamate 116, (237 mg, 93% yield) having a specific activity of ~ 140 mCi/mmol. 3H-Labeled methyl carbamate 116, yield 237 mg, 93%",
+    "notes": "stereoselective",
+    "reference": {
+      "title": "Development of an Enantioselective Synthetic Route to Neocarzinostatin Chromophore and Its Use for Multiple Radio-Isotopic Incorporation"
+    }
+  },
+  "reaction21": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "889-98-5",
+        "name": "N,N-Diethyl-2,3,4,5,6-pentafluorobenzamide",
+        "formula": "C11H10F5NO"
+      }
+    ],
+    "product": {
+      "cas_rn": "3056915-60-4",
+      "name": " Benzamide, N,N-diethyl-2,3,5,6-tetrafluoro-4-(methylthio)-",
+      "formula": "C12H13F4NOS"
+    },
+    "yield": 91,
+    "reaction_number": "31-614-CAS-41800204",
+    "steps": 1,
+    "stages": 2,
+    "reagents": [
+      {
+        "cas_rn": "62-56-6",
+        "name": "Thiourea",
+        "formula": "CH4N2S"
+      },
+      {
+        "cas_rn": "534-17-8",
+        "name": "Cesium carbonate",
+        "formula": "Cs2CO3"
+      },
+      {
+        "cas_rn": "7732-18-5",
+        "name": "Water",
+        "formula": "H2O"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "80 C",
+      "time" : "12 h"
+    }
+  },
+  "reaction22": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4",
+        "amd": "halide derivative"
+      },
+      {
+        "cas_rn": "1558013-40-3",
+        "name": "1,1-Dimethylethyl 3-(4-methyl-2-oxo-4-oxazolidinyl)-1-piperidinecarboxylate",
+        "formula": "C14H24N2O4"
+      }
+    ],
+    "product": {
+      "cas_rn": "1558013-41-4",
+      "name": "1,1-Dimethylethyl 3-(3,4-dimethyl-2-oxo-4-oxazolidinyl)-1-piperidinecarboxylate",
+      "formula": "C15H26N2O4"
+    },
+    "yield": 90,
+    "reaction_number": "31-614-CAS-29641819",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7646-69-7",
+        "name": "Sodium hydride",
+        "formula": "NaH"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "68-12-2",
+        "name": "Dimethylformamide",
+        "formula": "C3H7NO"
+      }
+    ],
+    "conditions": {
+      "temperature" : "0 C to room temperature",
+      "time" : "6 h"
+    }
+  },
+  "reaction23": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "63000-75-1",
+        "name": "2-(4-Pyridinylmethylene)propanedinitrile",
+        "formula": "C9H5N3"
+      }
+    ],
+    "product": {
+      "cas_rn": "2754402-80-5",
+      "name": "2-[1-(4-Pyridinyl)ethyl]propanedinitrile",
+      "formula": "C10H9N3"
+    },
+    "yield": 90,
+    "reaction_number": "31-614-CAS-31570411",
+    "steps": 1,
+    "stages": 1,
+    "catalysts": [
+      {
+        "cas_rn": "7705-08-0",
+        "name": "Iron(III) chloride",
+        "formula": "FeCl3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "formula": "C2H3N"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "12 h",
+      "pressure" : "5 MPa"
+    }
+  },
+  "reaction24": {
+    "reactants": [
+      {
+        "cas_rn": "3282-30-2",
+        "name": "Pivaloyl chloride",
+        "formula": "C5H9ClO"
+      },
+      {
+        "cas_rn": "7440-44-0",
+        "name": "Carbon",
+        "formula": "C"
+      }
+    ],
+    "products": [
+      {
+        "cas_rn": "507-20-0",
+        "name": "tert-Butyl chloride",
+        "formula": "C4H9Cl"
+      },
+      {
+        "cas_rn": "630-08-0",
+        "name": "Carbon monoxide",
+        "formula": "CO"
+      },
+      {
+        "cas_rn": "34188-78-8",
+        "name": "2-Chloro-1,1-dimethylcyclopropane",
+        "formula": "C5H9Cl"
+      }
+    ],
+    "conditions": {
+      "temperature" : "77 K",
+      "pressure" : "1.0E-5 - 1.0E-4 torr (ultra high vacuum)"
+    },
+    "yield of product 1": 95,
+    "yield of product 3": 5,
+    "reaction_number": "31-614-CAS-27951410",
+    "steps": 1,
+    "stages": 1,
+    "notes": "arc-generated C used"
+  },
+  "reaction25": {
+    "reactants": [
+      {
+        "cas_rn": "74-82-8",
+        "name": "Methane",
+        "formula": "CH4"
+      },
+      {
+        "cas_rn": "76-05-1",
+        "name": "Trifluoroacetic acid",
+        "formula": "C2HF3O2"
+      }
+    ],
+    "products": [
+      {
+        "cas_rn": "64-18-6",
+        "name": "Formic acid",
+        "formula": "CH2O2"
+      },
+      {
+        "cas_rn": "74-87-3",
+        "name": "Methyl chloride",
+        "formula": "CH3Cl"
+      },
+      {
+        "cas_rn": "75-09-2",
+        "name": "Dichloromethane",
+        "formula": "CH2Cl2"
+      },
+      {
+        "cas_rn": "431-47-0",
+        "name": "Methyl trifluoroacetate",
+        "formula": "C3H3F3O2"
+      }
+    ],
+    "yield of product 4": 91,
+    "reaction_number": "31-614-CAS-39865700",
+    "steps": 1,
+    "stages": 1,
+    "reagents": [
+      {
+        "cas_rn": "7647-01-0",
+        "name": "Hydrochloric acid",
+        "formula": "HCl"
+      },
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "formula": "O2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7632-00-0",
+        "name": "Sodium nitrite",
+        "formula": "NaNO2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5",
+        "name": "Water",
+        "formula": "H2O"
+      }
+    ],
+    "conditions": {
+      "temperature" : "25 C",
+      "time" : "72 h"
+    }
+  }
+} 

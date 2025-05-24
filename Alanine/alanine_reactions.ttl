@@ -1,0 +1,147 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix chem: <http://example.org/chemistry#> .
+@prefix cas: <http://example.org/cas#> .
+
+# Define base URIs for our entities
+@base <http://example.org/reactions/> .
+
+# Reaction 1: Ethane to Vinyl Chloride
+<reaction/31-614-CAS-29488924> a chem:Reaction ;
+    chem:reactant cas:74-84-0 ;  # Ethane
+    chem:product cas:75-01-4 ;   # Vinyl chloride
+    chem:yield "100"^^xsd:decimal ;
+    chem:steps "1"^^xsd:integer ;
+    chem:stages "1"^^xsd:integer ;
+    chem:reagent cas:7647-01-0, cas:7782-44-7 ;  # HCl, O2
+    chem:catalyst cas:7447-39-4, cas:221552-00-7 ;  # CuCl2, La2AlCoO6
+    chem:notes "solid-supported catalyst, supported on alumina, catalyst prepared and used, fixed bed reactor, molecular seives used, optimization study, optimization on catalyst and stoichiometry of catalyst, selectivity 43.8%" ;
+    chem:reference [
+        a chem:Publication ;
+        chem:title "The effect of interaction between La2AlCoO6 and CuCl2 on ethane oxychlorination" ;
+        chem:author "Yang, Lirong; Hu, Ruisheng; Li, Huan; Jia, Yun; Zhou, Qihua; Wang, Hongye" ;
+        chem:citation "Journal of Industrial and Engineering Chemistry (Amsterdam, Netherlands) (2017), 56120-128"
+    ] .
+
+# Reaction 2: Ethane to Vinyl Chloride (Alternative)
+<reaction/31-614-CAS-29095560> a chem:Reaction ;
+    chem:reactant cas:74-84-0 ;  # Ethane
+    chem:product cas:75-01-4 ;   # Vinyl chloride
+    chem:yield "100"^^xsd:decimal ;
+    chem:steps "1"^^xsd:integer ;
+    chem:stages "1"^^xsd:integer ;
+    chem:reagent cas:7647-01-0, cas:7782-44-7 ;  # HCl, O2
+    chem:catalyst cas:7447-39-4, cas:7757-79-1, cas:10099-59-9, cas:10377-66-9, cas:13138-45-9, cas:63920-03-6, cas:1365536-69-1 ;
+    chem:notes "solid-supported catalyst, fixed-bed reactor used, catalyst prepared and used, selectivity, 59.4%, alumina support used" ;
+    chem:reference [
+        a chem:Publication ;
+        chem:title "Catalytic activities of supported perovskite promoter catalysts La2NiMnO6-CuCl2/γ-Al2O3 and La1.7K0.3NiMnO6-CuCl2/γ-Al2O3 for ethane oxychlorination" ;
+        chem:author "Shi, Dezhi; Hu, Ruisheng; Zhou, Qihua; Yang, Lirong" ;
+        chem:citation "Chemical Engineering Journal (Amsterdam, Netherlands) (2016), 288588-595"
+    ] .
+
+# Reaction 3: Ethane to Ethylene
+<reaction/31-479-CAS-23206396> a chem:Reaction ;
+    chem:reactant cas:74-84-0 ;  # Ethane
+    chem:product cas:74-85-1 ;   # Ethylene
+    chem:yield "96"^^xsd:decimal ;
+    chem:steps "1"^^xsd:integer ;
+    chem:stages "1"^^xsd:integer ;
+    chem:catalyst cas:1344-28-1, cas:7440-05-3 ;  # Al2O3, Pd
+    chem:notes "kinetic study" ;
+    chem:reference [
+        a chem:Publication ;
+        chem:title "Intensification of the dehydrogenation process of different hydrocarbons in a catalytic membrane reactor" ;
+        chem:author "Shelepova, Ekaterina V.; Vedyagin, Aleksey A." ;
+        chem:citation "Chemical Engineering and Processing (2020), 155108072"
+    ] .
+
+# Reaction 4: Ethane to Ethylene (Alternative)
+<reaction/31-479-CAS-18397865> a chem:Reaction ;
+    chem:reactant cas:74-84-0 ;  # Ethane
+    chem:product cas:74-85-1 ;   # Ethylene
+    chem:yield "94"^^xsd:decimal ;
+    chem:steps "1"^^xsd:integer ;
+    chem:stages "1"^^xsd:integer ;
+    chem:reagent cas:7782-44-7 ;  # O2
+    chem:catalyst cas:3375-31-3, cas:7440-05-3, cas:13601-08-6, cas:91864-05-0 ;
+    chem:notes "conversion, 49%, selectivity, 98%, Fed plug-flow reactor used, catalyst prepared and used, optimization study, optimized on reaction conditions" ;
+    chem:reference [
+        a chem:Publication ;
+        chem:title "Catalyst for oxidative dehydrogenation of ethane" ;
+        chem:author "Simanzhenkov, Vasily; Gao, Xiaoliang; Sullivan, David Jeffrey; Kustov, Leonid Modestovich; Kucherov, Aleksey Victorovich; Finashina, Elena Dmitrievna" ;
+        chem:citation "United States, US20170361309 A1 2017-12-21"
+    ] .
+
+# Reaction 5: Ethane to Ethylene (Alternative)
+<reaction/31-479-CAS-23775952> a chem:Reaction ;
+    chem:reactant cas:74-84-0 ;  # Ethane
+    chem:product cas:74-85-1 ;   # Ethylene
+    chem:yield "93"^^xsd:decimal ;
+    chem:steps "1"^^xsd:integer ;
+    chem:stages "1"^^xsd:integer ;
+    chem:reagent cas:7782-44-7 ;  # O2
+    chem:catalyst cas:1313-99-1, cas:1344-28-1 ;  # NiO, Al2O3
+    chem:notes "solid-supported catalyst, catalyst prepared and used, fixed bed quartz reactor used, nickel-support and used, optimization study, optimized on reaction conditions, selectivity,95.0%, conversion,3.4%" ;
+    chem:reference [
+        a chem:Publication ;
+        chem:title "The nickel-support interaction as determining factor of the selectivity to ethylene in the oxidative dehydrogenation of ethane over nickel oxide/alumina catalysts" ;
+        chem:author "Abdelbaki, Yousra; de Arriba, Agustin; Solsona, Benjamin; Delgado, Daniel; Garcia-Gonzalez, Ester; Issaadi, Rachid; Lopez Nieto, Jose M." ;
+        chem:citation "Applied Catalysis, A: General (2021), 623118242"
+    ] .
+
+# Reaction 6: Ethane to Ethylene (Alternative)
+<reaction/31-479-CAS-17584329> a chem:Reaction ;
+    chem:reactant cas:74-84-0 ;  # Ethane
+    chem:product cas:74-85-1 ;   # Ethylene
+    chem:yield "92"^^xsd:decimal ;
+    chem:steps "1"^^xsd:integer ;
+    chem:stages "1"^^xsd:integer ;
+    chem:reagent cas:7782-44-7 ;  # O2
+    chem:catalyst cas:1313-27-5, cas:13463-67-7 ;  # MoO3, TiO2
+    chem:notes "solid-supported catalyst, optimized on catalyst, time and temperature, optimization study, helium gas used, scalable, MoO3 supported TiO2 nanorods catalyst prepared and used, fixed-bed down flow quartz reactor used, other products also detected" ;
+    chem:reference [
+        a chem:Publication ;
+        chem:title "MoO3 Nanoclusters Decorated on TiO2 Nanorods for Oxidative dehydrogenation of ethane to ethylene" ;
+        chem:author "Sarkar, Bipul; Goyal, Reena; Sivakumar Konathala, L. N.; Pendem, Chandrashekar; Sasaki, Takehiko; Bal, Rajaram" ;
+        chem:citation "Applied Catalysis, B: Environmental (2017), 217637-649"
+    ] .
+
+# Reaction 7: Ethane to Ethylene (Alternative)
+<reaction/31-479-CAS-17815985> a chem:Reaction ;
+    chem:reactant cas:74-84-0 ;  # Ethane
+    chem:product cas:74-85-1 ;   # Ethylene
+    chem:yield "90"^^xsd:decimal ;
+    chem:steps "1"^^xsd:integer ;
+    chem:stages "1"^^xsd:integer ;
+    chem:reagent cas:7647-01-0, cas:7782-44-7 ;  # HCl, O2
+    chem:catalyst cas:13759-95-0 ;  # EuOCl/TiO2
+    chem:notes "gas phase, solid-supported catalyst, selective reaction, EuOCl/TiO2 used, catalyst prepared and used, scalable" ;
+    chem:reference [
+        a chem:Publication ;
+        chem:title "Olefins from Natural Gas by Oxychlorination" ;
+        chem:author "Zichittella, Guido; Aellen, Nicolas; Paunovic, Vladimir; Amrute, Amol P.; Perez-Ramirez, Javier" ;
+        chem:citation "Angewandte Chemie, International Edition (2017), 56(44), 13670-13674"
+    ] .
+
+# Define some common chemical compounds
+cas:74-84-0 a chem:Compound ;
+    rdfs:label "Ethane" ;
+    chem:formula "C2H6" .
+
+cas:75-01-4 a chem:Compound ;
+    rdfs:label "Vinyl chloride" ;
+    chem:formula "C2H3Cl" .
+
+cas:74-85-1 a chem:Compound ;
+    rdfs:label "Ethylene" ;
+    chem:formula "C2H4" .
+
+cas:7647-01-0 a chem:Compound ;
+    rdfs:label "Hydrogen chloride" ;
+    chem:formula "HCl" .
+
+cas:7782-44-7 a chem:Compound ;
+    rdfs:label "Oxygen" ;
+    chem:formula "O2" .

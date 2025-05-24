@@ -1,0 +1,4836 @@
+{
+  "reaction1": {
+    "reaction_number": "31-614-CAS-34355987",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Methanol",
+        "formula": "CH4O",
+        "cas_rn": "67-56-1"
+      },
+      {
+        "name": "C6H15N.C2H14B12N.H",
+        "formula": "",
+        "cas_rn": "2763983-30-6"
+      }
+    ],
+    "product": {
+      "name": "C6H15N.C3H17B12NO.2H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2763960-16-1",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction2": {
+    "reaction_number": "31-614-CAS-28437728",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Methanol",
+        "formula": "CH4O",
+        "cas_rn": "67-56-1"
+      },
+      {
+        "name": "Pentacarbahexadecaborate(1-), heptadecahydro-B-methoxy-, hydrogen, compd. wit...",
+        "formula": "C14H18N2.C6H20B11O.H",
+        "cas_rn": "1318227-50-7"
+      }
+    ],
+    "product": {
+      "name": "7-Carbaundecaborate(1-), 7,8-[4-(dimethoxyboryl)-1,4-butanediyl]undecahydro-,...",
+      "formula": "C14H18N2.C7H24B11O2.H",
+      "cas_rn": "1318227-45-0",
+      "yield": 99
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-56-1"
+      }
+    ]
+  },
+  "reaction3": {
+    "reaction_number": "31-562-CAS-4397521",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethylzinc",
+        "formula": "C2H6Zn",
+        "cas_rn": "544-97-8"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1227640-61-0"
+      }
+    ],
+    "product": {
+      "name": "Zinc(1+), [N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranylidyne)]bis[2-(1-...",
+      "formula": "C55H51N2OP2Zn.C24H20B",
+      "cas_rn": "1227640-70-1",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-86-1"
+      },
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction4": {
+    "reaction_number": "31-562-CAS-4400827",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethylzinc",
+        "formula": "C2H6Zn",
+        "cas_rn": "544-97-8"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1227640-61-0"
+      }
+    ],
+    "product": {
+      "name": "Zinc(1+), [N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranylidyne)]bis[2-(1-...",
+      "formula": "C55H51N2OP2Zn.C24H20B",
+      "cas_rn": "1227640-70-1",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-86-1"
+      },
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction5": {
+    "reaction_number": "31-562-CAS-5219815",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethylzinc",
+        "formula": "C2H6Zn",
+        "cas_rn": "544-97-8"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1227640-61-0"
+      }
+    ],
+    "product": {
+      "name": "Zinc(1+), [N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranylidyne)]bis[2-(1-...",
+      "formula": "C55H51N2OP2Zn.C24H20B",
+      "cas_rn": "1227640-70-1",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-86-1"
+      },
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction6": {
+    "reaction_number": "31-614-CAS-34355992",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Ethanol",
+        "formula": "C2H6O",
+        "cas_rn": "64-17-5"
+      },
+      {
+        "name": "C6H15N.C2H14B12N.H",
+        "formula": "",
+        "cas_rn": "2763983-30-6"
+      }
+    ],
+    "product": {
+      "name": "C6H15N.C4H19B12NO.2H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2763960-20-7",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction7": {
+    "reaction_number": "31-614-CAS-30792721",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Ethanol",
+        "formula": "C2H6O",
+        "cas_rn": "64-17-5"
+      },
+      {
+        "name": "4,7-Diphenyl-1,10-phenanthroline",
+        "formula": "C24H16N2",
+        "cas_rn": "1662-01-7"
+      },
+      {
+        "name": "Europate(6-), tetrakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]octakis(2,2-dimethyl...",
+        "formula": "C60H108Eu2O24.C5H10O2.6H",
+        "cas_rn": "852149-95-2"
+      }
+    ],
+    "product": {
+      "name": "Europium, bis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO,\u03baO\u2032)]bis[\u03bc-(2,2-dimethylpropano...",
+      "formula": "C78H86Eu2N4O12.2C2H6O",
+      "cas_rn": "1402454-96-9",
+      "yield": 93
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ]
+  },
+  "reaction8": {
+    "reaction_number": "31-614-CAS-29972262",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Ethanol",
+        "formula": "C2H6O",
+        "cas_rn": "64-17-5"
+      },
+      {
+        "name": "4,7-Diphenyl-1,10-phenanthroline",
+        "formula": "C24H16N2",
+        "cas_rn": "1662-01-7"
+      },
+      {
+        "name": "Terbate(6-), tetrakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]octakis(2,2-dimethylp...",
+        "formula": "C60H108O24Tb2.6H",
+        "cas_rn": "1312159-78-6"
+      }
+    ],
+    "product": {
+      "name": "Terbium, tetrakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]bis(2,2-dimethylpropanoat...",
+      "formula": "C78H86N4O12Tb2.3/2C2H6O",
+      "cas_rn": "1402454-94-7",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ]
+  },
+  "reaction9": {
+    "reaction_number": "31-562-CAS-5520886",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethylzinc",
+        "formula": "C2H6Zn",
+        "cas_rn": "544-97-8"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1257304-21-4"
+      }
+    ],
+    "products": [
+      {
+        "name": "Zinc(1+), [N,N\u2032-[(4,6-dibenzofurandiyl-\u03baO)bis(diphenylphosphoranylidyne)]bis[...",
+        "formula": "C55H51N2OP2Zn.C24H20B",
+        "cas_rn": "1257304-24-7",
+        "yield": 97
+      },
+      {
+        "name": "Zinc(1+), [N,N\u2032-[(4,6-dibenzofurandiyl-\u03baO)bis(diphenylphosphoranylidyne)]bis[...",
+        "formula": "C60H53N2OP2Zn.C24H20B",
+        "cas_rn": "1257304-28-1"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction10": {
+    "reaction_number": "31-317-CAS-13832221",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Acetonitrile",
+        "formula": "C2H3N",
+        "cas_rn": "75-05-8"
+      },
+      {
+        "name": "2,6-Diaminopyridine",
+        "formula": "C5H7N3",
+        "cas_rn": "141-86-6"
+      },
+      {
+        "name": "Nickelate(4-), \u03bc-aquabis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]hexakis(2,2-dimeth...",
+        "formula": "C40H74Ni2O17.4H",
+        "cas_rn": "515845-82-6"
+      }
+    ],
+    "product": {
+      "name": "Nickel, [N-(6-amino-2-pyridinyl-\u03baN)ethanimidamide-\u03baN\u2032]bis(2,2-dimethylpropano...",
+      "formula": "C17H28N4NiO4.C2H3N",
+      "cas_rn": "721396-99-2",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction11": {
+    "reaction_number": "31-614-CAS-36112160",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Acetonitrile",
+        "formula": "C2H3N",
+        "cas_rn": "75-05-8"
+      },
+      {
+        "name": "1,1\u2032-(9,9-Dimethyl-9H-xanthene-4,5-diyl)bis[1,1-diphenylphosphine]",
+        "formula": "C39H32OP2",
+        "cas_rn": "161265-03-8"
+      },
+      {
+        "name": "Cobaltate(4-), \u03bc-aquabis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]hexakis(2,2-dimeth...",
+        "formula": "C40H74Co2O17.4H",
+        "cas_rn": "515845-83-7"
+      }
+    ],
+    "product": {
+      "name": "C49H50CoO5P2.C2H3N",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2920363-04-6",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      },
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction12": {
+    "reaction_number": "31-562-CAS-4781114",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Diethylzinc",
+        "formula": "C4H10Zn",
+        "cas_rn": "557-20-0"
+      },
+      {
+        "name": "Borate(1-), tris[(4S)-4,5-dihydro-5,5-dimethyl-4-(1-methylethyl)-2-oxazolyl]p...",
+        "formula": "C30H47BN3O3.H",
+        "cas_rn": "1801456-49-4"
+      }
+    ],
+    "product": {
+      "name": "Zinc, ethyl[tris[(4S)-4,5-dihydro-5,5-dimethyl-4-(1-methylethyl)-2-oxazolyl]p...",
+      "formula": "C32H52BN3O3Zn",
+      "cas_rn": "1801456-52-9",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction13": {
+    "reaction_number": "31-614-CAS-34355998",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Isopropanol",
+        "formula": "C3H8O",
+        "cas_rn": "67-63-0"
+      },
+      {
+        "name": "C6H15N.C2H14B12N.H",
+        "formula": "",
+        "cas_rn": "2763983-30-6"
+      }
+    ],
+    "product": {
+      "name": "C6H15N.C5H21B12NO.2H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2763960-24-1",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction14": {
+    "reaction_number": "31-614-CAS-28970322",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Borate(1-), [[P(S)]-P-(1,1-dimethylethyl)-P-methylphosphinito-\u03baP]trihydro-, (...",
+        "formula": "C6H15N.C5H15BOP.H",
+        "cas_rn": "2313538-12-2"
+      },
+      {
+        "name": "Chloromethyl methyl ether",
+        "formula": "C2H5ClO",
+        "cas_rn": "107-30-2"
+      }
+    ],
+    "product": {
+      "name": "C7H20BO2P",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2659322-35-5",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction15": {
+    "reaction_number": "31-562-CAS-1578777",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Propargylamine",
+        "formula": "C3H5N",
+        "cas_rn": "2450-71-7"
+      },
+      {
+        "name": "Cobaltate(4-), octakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]bis[\u03bc3-(2,2-dimethyl...",
+        "formula": "C70H128Co6O30.4H",
+        "cas_rn": "256460-18-1"
+      }
+    ],
+    "product": {
+      "name": "(OC-6-12)-Bis(2,2-dimethylpropanoato-\u03baO)tetrakis(2-propyn-1-amine)cobalt",
+      "formula": "C22H38CoN4O4",
+      "cas_rn": "299187-91-0",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction16": {
+    "reaction_number": "31-368-CAS-14123951",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Methyl 4,5,6-trideoxy-3,7-bis-O-[(4-methoxyphenyl)methyl]-4,6-dimethyl-2-O-me...",
+        "formula": "C27H38O7",
+        "cas_rn": "930803-53-5"
+      },
+      {
+        "name": "Methanamine, N-methoxy-, conjugate monoacid",
+        "formula": "C2H7NO.H",
+        "cas_rn": "70754-90-4"
+      }
+    ],
+    "product": {
+      "name": "4,5,6-Trideoxy-N-methoxy-3,7-bis-O-[(4-methoxyphenyl)methyl]-N,4,6-trimethyl-...",
+      "formula": "C28H41NO7",
+      "cas_rn": "930803-54-6",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "2712-78-9"
+      },
+      {
+        "cas_rn": "4039-32-1"
+      },
+      {
+        "cas_rn": "12125-02-9"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "60-29-7"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction17": {
+    "reaction_number": "31-614-CAS-28254306",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Borate(1-), [P-(1,1-dimethylethyl)-P-phenylphosphinito-\u03baP]trihydro-, hydrogen...",
+        "formula": "C10H17BOP.H",
+        "cas_rn": "690670-58-7"
+      },
+      {
+        "name": "Allyl bromide",
+        "formula": "C3H5Br",
+        "cas_rn": "106-95-6"
+      }
+    ],
+    "product": {
+      "name": "Boron, trihydro[2-propenyl (1,1-dimethylethyl)phenylphosphinite-\u03baP]-, (T-4)-",
+      "formula": "C13H22BOP",
+      "cas_rn": "860465-82-3",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction18": {
+    "reaction_number": "31-614-CAS-28044381",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Allyl bromide",
+        "formula": "C3H5Br",
+        "cas_rn": "106-95-6"
+      },
+      {
+        "name": "Borate(1-), [[P(S)]-P-(1,1-dimethylethyl)-P-methylphosphinito-\u03baP]trihydro-, (...",
+        "formula": "C6H15N.C5H15BOP.H",
+        "cas_rn": "2313538-12-2"
+      }
+    ],
+    "product": {
+      "name": "C8H20BOP",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2659325-00-3",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "534-17-8"
+      },
+      {
+        "cas_rn": "7647-01-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      },
+      {
+        "cas_rn": "141-78-6"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction19": {
+    "reaction_number": "31-562-CAS-6259800",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dibutylmagnesium",
+        "formula": "C8H18Mg",
+        "cas_rn": "1191-47-5"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1215381-71-7"
+      }
+    ],
+    "product": {
+      "name": "Magnesium(1+), butyl[N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranylidyne)...",
+      "formula": "C58H57MgN2OP2.C24H20B",
+      "cas_rn": "1215381-79-5",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      },
+      {
+        "cas_rn": "142-82-5"
+      }
+    ]
+  },
+  "reaction20": {
+    "reaction_number": "31-562-CAS-14374336",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dibutylmagnesium",
+        "formula": "C8H18Mg",
+        "cas_rn": "1191-47-5"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1215381-71-7"
+      }
+    ],
+    "product": {
+      "name": "Magnesium(1+), butyl[N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranylidyne)...",
+      "formula": "C58H57MgN2OP2.C24H20B",
+      "cas_rn": "1215381-79-5",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      },
+      {
+        "cas_rn": "142-82-5"
+      }
+    ]
+  },
+  "reaction21": {
+    "reaction_number": "31-562-CAS-9578733",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dibutylmagnesium",
+        "formula": "C8H18Mg",
+        "cas_rn": "1191-47-5"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1215381-71-7"
+      }
+    ],
+    "product": {
+      "name": "Magnesium(1+), butyl[N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranylidyne)...",
+      "formula": "C58H57MgN2OP2.C24H20B",
+      "cas_rn": "1215381-79-5",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      },
+      {
+        "cas_rn": "142-82-5"
+      }
+    ]
+  },
+  "reaction22": {
+    "reaction_number": "31-614-CAS-27517557",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "C107H164Mg4N3O14.4C7H8.C6H15N.C4H10O.H",
+      "formula": "",
+      "cas_rn": "1670261-41-2"
+    },
+    "products": [
+      {
+        "name": "(-)-2-Butanol",
+        "formula": "C4H10O",
+        "cas_rn": "14898-79-4"
+      },
+      {
+        "name": "C99H144Mg4N3O12.C6H15N.H",
+        "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+        "cas_rn": "1670261-44-5",
+        "yield": 95
+      }
+    ]
+  },
+  "reaction23": {
+    "reaction_number": "31-614-CAS-41524000",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Molybdate (MoO42-), (T-4)-, dihydrogen, compd. with methanamine (1:2)",
+      "formula": "CH5N.1/2H.1/4MoO4",
+      "cas_rn": "52364-58-6"
+    },
+    "product": {
+      "name": "CH5N.1/6H.1/36Mo7O24",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "3038328-00-3",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ]
+  },
+  "reaction24": {
+    "reaction_number": "31-614-CAS-41524001",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Molybdate (MoO42-), (T-4)-, dihydrogen, compd. with methanamine (1:2)",
+      "formula": "CH5N.1/2H.1/4MoO4",
+      "cas_rn": "52364-58-6"
+    },
+    "product": {
+      "name": "CH5N.1/4H.1/16Mo8O26",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "3038328-03-6",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7"
+      }
+    ]
+  },
+  "reaction25": {
+    "reaction_number": "31-562-CAS-19909206",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "1,2-Dimethoxyethane",
+        "formula": "C4H10O2",
+        "cas_rn": "110-71-4"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "C32H72N4Si3Th",
+        "formula": "",
+        "cas_rn": "2222309-93-3"
+      },
+      {
+        "name": "Benzene",
+        "formula": "C6H6",
+        "cas_rn": "71-43-2"
+      }
+    ],
+    "product": {
+      "name": "C37H85N4O2Si3Th.C24H20B.C6H6",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2222361-14-8",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "110-71-4"
+      }
+    ]
+  },
+  "reaction26": {
+    "reaction_number": "31-614-CAS-26354751",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "4-Methoxyphenyl glycidyl ether",
+        "formula": "C10H12O3",
+        "cas_rn": "2211-94-1"
+      },
+      {
+        "name": "Carbamimidothioic acid, methyl ester, conjugate monoacid",
+        "formula": "C2H6N2S.H",
+        "cas_rn": "54496-46-7"
+      }
+    ],
+    "product": {
+      "name": "1-(4-Methoxyphenoxy)-3-(methylthio)-2-propanol",
+      "formula": "C11H16O3S",
+      "cas_rn": "1174168-15-0",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction27": {
+    "reaction_number": "31-614-CAS-27965613",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "1-Carbadodecaborate(1-), dodecahydro-, hydrogen, compd. with N,N-dimethylmeth...",
+        "formula": "C3H9N.CH12B11.H",
+        "cas_rn": "108608-25-9"
+      },
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "product": {
+      "name": "C16H32LiO4.C9H27B11Cl2LiO2Zn",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2387903-90-2",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "109-72-8"
+      },
+      {
+        "cas_rn": "7646-85-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      },
+      {
+        "cas_rn": "110-54-3"
+      }
+    ]
+  },
+  "reaction28": {
+    "reaction_number": "31-562-CAS-3064847",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "(1,4-Dioxane-\u03baO1)tris(\u03b73-2-propen-1-yl)praseodymium",
+        "formula": "C13H23O2Pr",
+        "cas_rn": "1204203-94-0"
+      }
+    ],
+    "product": {
+      "name": "Praseodymium(1+), bis(\u03b73-2-propen-1-yl)tris(tetrahydrofuran)-, stereoisomer, ...",
+      "formula": "C24H20B.C18H34O3Pr",
+      "cas_rn": "1204204-08-9",
+      "yield": 97
+    }
+  },
+  "reaction29": {
+    "reaction_number": "31-562-CAS-3637401",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Tris[(1,2,3,4,5-\u03b7)-1-(trimethylsilyl)-2,4-cyclopentadien-1-yl]yttrium",
+        "formula": "C24H39Si3Y",
+        "cas_rn": "1334604-62-4"
+      }
+    ],
+    "product": {
+      "name": "Yttrium(1+), bis(tetrahydrofuran)bis[(1,2,3,4,5-\u03b7)-1-(trimethylsilyl)-2,4-cyc...",
+      "formula": "C24H42O2Si2Y.C24H20B",
+      "cas_rn": "1334604-66-8",
+      "yield": 97
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction30": {
+    "reaction_number": "31-614-CAS-25694777",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "1-Carbadodecaborate(1-), dodecahydro-, hydrogen, compd. with N,N-dimethylmeth...",
+        "formula": "C3H9N.CH12B11.H",
+        "cas_rn": "108608-25-9"
+      },
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Chlorodiisopropylphosphine",
+        "formula": "C6H14ClP",
+        "cas_rn": "40244-90-4"
+      }
+    ],
+    "product": {
+      "name": "Lithium(1+), tris(tetrahydrofuran)-, 1-[bis(1-methylethyl)phosphino]-2,3,4,5,...",
+      "formula": "C12H24LiO3.C7H25B11P",
+      "cas_rn": "1492904-40-1",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "109-72-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction31": {
+    "reaction_number": "31-562-CAS-13431583",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Bis(dimethylaluminum)tetra-\u03bc-methyl[(1,2,3,4,5-\u03b7)-1,2,3,4-tetramethyl-5-(trim...",
+        "formula": "C20H45Al2SiY",
+        "cas_rn": "1071512-59-8"
+      }
+    ],
+    "product": {
+      "name": "Yttrium(1+), methyltris(tetrahydrofuran)[(1,2,3,4,5-\u03b7)-1,2,3,4-tetramethyl-5-...",
+      "formula": "C25H48O3SiY.C24H20B",
+      "cas_rn": "1158827-89-4",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction32": {
+    "reaction_number": "31-614-CAS-26400608",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "1-Carbadodecaborate(1-), dodecahydro-, hydrogen, compd. with N,N-dimethylmeth...",
+        "formula": "C3H9N.CH12B11.H",
+        "cas_rn": "108608-25-9"
+      },
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "product": {
+      "name": "C16H32LiO4.C13H35B11LiO3",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2387903-88-8",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "109-72-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      },
+      {
+        "cas_rn": "110-54-3"
+      }
+    ]
+  },
+  "reaction33": {
+    "reaction_number": "31-562-CAS-371728",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Dimethylanilinium tetraphenylborate",
+        "formula": "C24H20B.C8H11N.H",
+        "cas_rn": "118573-45-8"
+      },
+      {
+        "name": "Bis(\u03b76-2,4-cyclopentadien-1-ylidenetricyclo[3.3.1.13,7]decane)[\u03bc-(dinitrogen-...",
+        "formula": "C50H66N2Ti2",
+        "cas_rn": "872332-71-3"
+      }
+    ],
+    "product": {
+      "name": "Titanium(1+), [(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]bi...",
+      "formula": "C33H50O2Ti.C24H20B",
+      "cas_rn": "1202498-15-4",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction34": {
+    "reaction_number": "31-562-CAS-1317793",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Tributylammonium tetraphenylborate",
+        "formula": "C24H20B.C12H27N.H",
+        "cas_rn": "64167-39-1"
+      },
+      {
+        "name": "Bis(\u03b75-2,4-cyclopentadien-1-yl)(N,N\u2032-diphenylmethanimidamidato-\u03baN,\u03baN\u2032)methylz...",
+        "formula": "C24H24N2Zr",
+        "cas_rn": "206051-39-0"
+      }
+    ],
+    "product": {
+      "name": "Zirconium(1+), bis(\u03b75-2,4-cyclopentadien-1-yl)(N,N\u2032-diphenylmethanimidamidato...",
+      "formula": "C27H29N2OZr.C24H20B",
+      "cas_rn": "863651-75-6",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction35": {
+    "reaction_number": "31-562-CAS-17799779",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "C26H42CaN4",
+        "formula": "",
+        "cas_rn": "2130859-70-8"
+      },
+      {
+        "name": "C40H52B.C6H15N.H",
+        "formula": "",
+        "cas_rn": "2130859-86-6"
+      }
+    ],
+    "product": {
+      "name": "C40H52B.1/2C20H44CaN4O2",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2130860-30-7",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction36": {
+    "reaction_number": "31-562-CAS-8570017",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Bis(dimethylaluminum)tetra-\u03bc-methyl[(1,2,3,4,5-\u03b7)-1,2,3,4-tetramethyl-5-(trim...",
+        "formula": "C20H45Al2LuSi",
+        "cas_rn": "1071512-56-5"
+      }
+    ],
+    "product": {
+      "name": "Lutetium(1+), methyltris(tetrahydrofuran)[(1,2,3,4,5-\u03b7)-1,2,3,4-tetramethyl-5...",
+      "formula": "C25H48LuO3Si.C24H20B",
+      "cas_rn": "1158827-97-4",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction37": {
+    "reaction_number": "31-562-CAS-9713760",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "(1,4-Dioxane-\u03baO1)tris(\u03b73-2-propenyl)lanthanum",
+        "formula": "C13H23LaO2",
+        "cas_rn": "201608-31-3"
+      }
+    ],
+    "product": {
+      "name": "Lanthanum(2+), (\u03b73-2-propen-1-yl)hexakis(tetrahydrofuran)-, tetraphenylborate...",
+      "formula": "C27H53LaO6.2C24H20B",
+      "cas_rn": "1204204-19-2",
+      "yield": 94
+    }
+  },
+  "reaction38": {
+    "reaction_number": "31-562-CAS-17799777",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "C26H42CaN4",
+        "formula": "",
+        "cas_rn": "2130859-70-8"
+      },
+      {
+        "name": "C40H52B.C6H15N.H",
+        "formula": "",
+        "cas_rn": "2130859-86-6"
+      }
+    ],
+    "product": {
+      "name": "C40H52B.C23H43CaN4O",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2130859-77-5",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction39": {
+    "reaction_number": "31-562-CAS-2324233",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Tris[tetrahydroborato(1-)-\u03baH,\u03baH\u2032,\u03baH\u2032\u2032]tris(tetrahydrofuran)uranium",
+        "formula": "C12H36B3O3U",
+        "cas_rn": "102695-65-8"
+      }
+    ],
+    "product": {
+      "name": "Uranium(1+), bis[tetrahydroborato(1-)-H,H\u2032,H\u2032\u2032]pentakis(tetrahydrofuran)-, te...",
+      "formula": "C24H20B.C20H48B2O5U",
+      "cas_rn": "156832-39-2",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction40": {
+    "reaction_number": "31-562-CAS-7557950",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "(TB-5-13)-Iodo[N2-[tris(1-methylethyl)silyl]-N1,N1-bis[2-[[tris(1-methylethyl...",
+        "formula": "C33H75IN4Si3U",
+        "cas_rn": "1434528-01-4"
+      },
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      }
+    ],
+    "product": {
+      "name": "Uranium(1+), (tetrahydrofuran)[N2-[tris(1-methylethyl)silyl]-N1,N1-bis[2-[[tr...",
+      "formula": "C37H83N4OSi3U.C24H20B",
+      "cas_rn": "1626381-28-9",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "2785-29-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      },
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction41": {
+    "reaction_number": "31-138-CAS-21446508",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "C28H79N5OSi8U2",
+        "formula": "",
+        "cas_rn": "2408174-77-4"
+      },
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "product": {
+      "name": "C32H88N5O2Si8U2.C24H20B",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2408174-79-6",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction42": {
+    "reaction_number": "31-562-CAS-23921676",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Borate(1-), tetrakis(3,5-dimethylphenyl)-, hydrogen, compd. with N,N-diethyle...",
+        "formula": "C32H36B.C6H15N.H",
+        "cas_rn": "2130860-21-6"
+      },
+      {
+        "name": "C26H42N4Sr",
+        "formula": "",
+        "cas_rn": "2654762-72-6"
+      }
+    ],
+    "product": {
+      "name": "C32H36B.C23H43N4OSr",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2654762-63-5",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "109-66-0"
+      }
+    ]
+  },
+  "reaction43": {
+    "reaction_number": "31-562-CAS-23921181",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Borate(1-), tetrakis(3,5-dimethylphenyl)-, hydrogen, compd. with N,N-diethyle...",
+        "formula": "C32H36B.C6H15N.H",
+        "cas_rn": "2130860-21-6"
+      },
+      {
+        "name": "C26H42N4Sr",
+        "formula": "",
+        "cas_rn": "2654762-72-6"
+      }
+    ],
+    "product": {
+      "name": "C32H36B.1/2C20H44N4O2Sr",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2654762-65-7",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "109-66-0"
+      }
+    ]
+  },
+  "reaction44": {
+    "reaction_number": "31-562-CAS-11289728",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Bis[[2-(dimethylamino-\u03baN)phenyl]methyl-\u03baC][(1,2,3,4,5-\u03b7)-1,2,3,4-tetramethyl-...",
+        "formula": "C30H45N2ScSi",
+        "cas_rn": "1020408-03-0"
+      },
+      {
+        "name": "2-Ethylpyridine",
+        "formula": "C7H9N",
+        "cas_rn": "100-71-0"
+      }
+    ],
+    "product": {
+      "name": "C27H45NO2ScSi.C24H20B",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1802908-59-3",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction45": {
+    "reaction_number": "31-614-CAS-36982089",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with 2,6-dimethylpyridine (1:1:1)",
+        "formula": "C24H20B.C7H9N.H",
+        "cas_rn": "164164-16-3"
+      },
+      {
+        "name": "C10H26B4Ti2",
+        "formula": "",
+        "cas_rn": "2906087-27-0"
+      }
+    ],
+    "product": {
+      "name": "C24H20B.C13H25BO2Ti",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2906087-37-2",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction46": {
+    "reaction_number": "31-614-CAS-23916457",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "C26H42CaN4",
+        "formula": "",
+        "cas_rn": "2130859-70-8"
+      },
+      {
+        "name": "Borate(1-), tetrakis(3,5-dimethylphenyl)-, hydrogen, compd. with N,N-diethyle...",
+        "formula": "C32H36B.C6H15N.H",
+        "cas_rn": "2130860-21-6"
+      }
+    ],
+    "product": {
+      "name": "C32H36B.1/2C20H44CaN4O2",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2696233-95-9",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction47": {
+    "reaction_number": "31-562-CAS-8924467",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Yttrium, tetrakis[(trimethylsilyl)methyl]bis[\u03bc-[tris(1,1-dimethylethyl) ortho...",
+        "formula": "C40H98O8Si6Y2",
+        "cas_rn": "881994-92-9"
+      }
+    ],
+    "product": {
+      "name": "Yttrium(1+), tetrakis(tetrahydrofuran)[(trimethylsilyl)methyl][tris(1,1-dimet...",
+      "formula": "C32H70O8Si2Y.C24H20B",
+      "cas_rn": "881994-98-5",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction48": {
+    "reaction_number": "31-562-CAS-11791448",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tetrahydrofuran",
+        "formula": "C4H8O",
+        "cas_rn": "109-99-9"
+      },
+      {
+        "name": "Aluminate(1-), [bis(1,1-dimethylethyl) orthosilicato(2-)-\u03baO\u2032\u2032][[N,N\u2032-(1,3-dim...",
+        "formula": "C37H60AlN2O4SSi.H",
+        "cas_rn": "960297-62-5"
+      }
+    ],
+    "product": {
+      "name": "Bis[\u03bc4-[bis(1,1-dimethylethyl) orthosilicato(2-)-\u03baO\u2032\u2032:\u03baO\u2032\u2032:\u03baO\u2032\u2032:\u03baO\u2032\u2032\u2032]]bis[[[...",
+      "formula": "C90H150Al2Li4N4O12S2Si2",
+      "cas_rn": "960297-67-0",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "84040-90-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction49": {
+    "reaction_number": "31-614-CAS-27704811",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Toluene",
+        "formula": "C7H8",
+        "cas_rn": "108-88-3"
+      },
+      {
+        "name": "Lanthanate(3-), tris[(1S)-[1,1\u2032-binaphthalene]-2,2\u2032-diolato(2-)-\u03baO2,\u03baO2\u2032]-, (...",
+        "formula": "C60H36LaO6.3C9H16N2.3H",
+        "cas_rn": "2244559-23-5"
+      }
+    ],
+    "product": {
+      "name": "C87H84Cu3LaN6O6.1/2C7H8",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2244533-80-8",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "75732-01-3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction50": {
+    "reaction_number": "31-562-CAS-2272833",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "(Acetato-\u03baO)methylzinc",
+        "formula": "C3H6O2Zn",
+        "cas_rn": "1000-85-7"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1215381-71-7"
+      }
+    ],
+    "product": {
+      "name": "Zinc(1+), (acetato-\u03baO,\u03baO\u2032)[N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranyl...",
+      "formula": "C56H51N2O3P2Zn.C24H20B",
+      "cas_rn": "1227640-68-7",
+      "yield": 99
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-86-1"
+      },
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction51": {
+    "reaction_number": "31-562-CAS-3096197",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "(Acetato-\u03baO)methylzinc",
+        "formula": "C3H6O2Zn",
+        "cas_rn": "1000-85-7"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1215381-71-7"
+      }
+    ],
+    "product": {
+      "name": "Zinc(1+), (acetato-\u03baO,\u03baO\u2032)[N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranyl...",
+      "formula": "C56H51N2O3P2Zn.C24H20B",
+      "cas_rn": "1227640-68-7",
+      "yield": 99
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-86-1"
+      },
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction52": {
+    "reaction_number": "31-562-CAS-4181903",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "(Acetato-\u03baO)methylzinc",
+        "formula": "C3H6O2Zn",
+        "cas_rn": "1000-85-7"
+      },
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032-[4,6-dibenzofurandiylbis...",
+        "formula": "C54H48N2OP2.C24H20B.H",
+        "cas_rn": "1215381-71-7"
+      }
+    ],
+    "product": {
+      "name": "Zinc(1+), (acetato-\u03baO,\u03baO\u2032)[N,N\u2032-[4,6-dibenzofurandiylbis(diphenylphosphoranyl...",
+      "formula": "C56H51N2O3P2Zn.C24H20B",
+      "cas_rn": "1227640-68-7",
+      "yield": 99
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-86-1"
+      }
+    ]
+  },
+  "reaction53": {
+    "reaction_number": "31-614-CAS-26135332",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "N,N,N\u2032,N\u2032-Tetramethylethylenediamine",
+        "formula": "C6H16N2",
+        "cas_rn": "110-18-9"
+      },
+      {
+        "name": "Borate(1-), (diethyl phosphito-\u03baP)trihydro-, (T-4)-, hydrogen, compd. with N,...",
+        "formula": "C6H15N.C4H13BO3P.H",
+        "cas_rn": "2410571-45-6"
+      }
+    ],
+    "product": {
+      "name": "C10H28BN2O3P",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2410571-88-7",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "7553-56-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction54": {
+    "reaction_number": "31-614-CAS-26337504",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Borate(1-), [[P(R)]-P-(1,1-dimethylethyl)-P-methylphosphinito-\u03baP]trihydro-, h...",
+        "formula": "C5H15BOP.H",
+        "cas_rn": "1820930-40-2"
+      },
+      {
+        "name": "(2R)-2-Amino-N-[(1S)-2-hydroxy-1-phenylethyl]-3-methylbutanamide",
+        "formula": "C13H20N2O2",
+        "cas_rn": "790653-50-8"
+      }
+    ],
+    "product": {
+      "name": "C18H34BN2O2P",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1932602-81-7",
+      "yield": 93
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      },
+      {
+        "cas_rn": "7143-01-3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction55": {
+    "reaction_number": "31-614-CAS-27070139",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Morpholine",
+        "formula": "C4H9NO",
+        "cas_rn": "110-91-8"
+      },
+      {
+        "name": "C8H28B21O4.H",
+        "formula": "",
+        "cas_rn": "1883448-77-8"
+      }
+    ],
+    "product": {
+      "name": "C8H28B21O4.C4H9NO.H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1883448-79-0",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction56": {
+    "reaction_number": "31-614-CAS-27880547",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Adenosine, N-benzoyl-2\u2032-deoxy-, 3\u2032-benzoate",
+        "formula": "C24H21N5O5",
+        "cas_rn": "51549-54-3"
+      },
+      {
+        "name": "Borate(1-), (cyano-\u03baC)(diethyl phosphito-\u03baP)dihydro-, hydrogen, (T-4)-",
+        "formula": "C5H12BNO3P.H",
+        "cas_rn": "137484-30-1"
+      }
+    ],
+    "product": {
+      "name": "Boron, [N-benzoyl-2\u2032-deoxyadenosine 3\u2032-benzoate 5\u2032-(diethyl phosphite-\u03baP)](cy...",
+      "formula": "C29H32BN6O7P",
+      "cas_rn": "389086-93-5",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "538-75-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      },
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction57": {
+    "reaction_number": "31-614-CAS-25431619",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Cytidine, N-benzoyl-2\u2032-deoxy-, 3\u2032-benzoate",
+        "formula": "C23H21N3O6",
+        "cas_rn": "51549-49-6"
+      },
+      {
+        "name": "Borate(1-), (cyano-\u03baC)(diethyl phosphito-\u03baP)dihydro-, hydrogen, (T-4)-",
+        "formula": "C5H12BNO3P.H",
+        "cas_rn": "137484-30-1"
+      }
+    ],
+    "product": {
+      "name": "Boron, [N-benzoyl-2\u2032-deoxycytidine 3\u2032-benzoate 5\u2032-(diethyl phosphite-\u03baP)](cya...",
+      "formula": "C28H32BN4O8P",
+      "cas_rn": "389086-95-7",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "538-75-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      },
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction58": {
+    "reaction_number": "31-614-CAS-25624303",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "2-Cyclohexen-1-one",
+        "formula": "C6H8O",
+        "cas_rn": "930-68-7"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      }
+    ],
+    "product": {
+      "name": "(S)-3-Phenylcyclohexanone",
+      "formula": "C12H14O",
+      "cas_rn": "57344-86-2",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-58-3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "123-91-1"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "12081-16-2"
+      },
+      {
+        "cas_rn": "1306764-56-6"
+      }
+    ]
+  },
+  "reaction59": {
+    "reaction_number": "31-614-CAS-26064507",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "N-Benzoyl-5\u2032-O-(4,4\u2032-dimethoxytrityl)-2\u2032-deoxycytidine",
+        "formula": "C37H35N3O7",
+        "cas_rn": "67219-55-0"
+      },
+      {
+        "name": "Borate(1-), (dimethyl phosphito-\u03baP)trihydro-, (T-4)-, hydrogen, compd. with N...",
+        "formula": "C6H15N.C2H9BO3P.H",
+        "cas_rn": "457957-33-4"
+      }
+    ],
+    "product": {
+      "name": "Boron, [N-benzoyl-5\u2032-O-[bis(4-methoxyphenyl)phenylmethyl]-2\u2032-deoxycytidine 3\u2032...",
+      "formula": "C39H43BN3O9P",
+      "cas_rn": "457957-35-6",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "7087-68-5"
+      },
+      {
+        "cas_rn": "24807-55-4"
+      },
+      {
+        "cas_rn": "68641-49-6"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction60": {
+    "reaction_number": "31-614-CAS-25517955",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "N-Benzoyl-5\u2032-O-(4,4\u2032-dimethoxytrityl)-2\u2032-deoxycytidine",
+        "formula": "C37H35N3O7",
+        "cas_rn": "67219-55-0"
+      },
+      {
+        "name": "Borate(1-), (dimethyl phosphito-\u03baP)trihydro-, (T-4)-, hydrogen, compd. with N...",
+        "formula": "C6H15N.C2H9BO3P.H",
+        "cas_rn": "457957-33-4"
+      }
+    ],
+    "product": {
+      "name": "Boron, [N-benzoyl-5\u2032-O-[bis(4-methoxyphenyl)phenylmethyl]-2\u2032-deoxycytidine 3\u2032...",
+      "formula": "C39H43BN3O9P",
+      "cas_rn": "457957-35-6",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "7087-68-5"
+      },
+      {
+        "cas_rn": "68641-49-6"
+      },
+      {
+        "cas_rn": "74257-00-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction61": {
+    "reaction_number": "31-614-CAS-30576992",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "5\u2032-O-(4,4\u2032-Dimethoxytrityl)thymidine",
+        "formula": "C31H32N2O7",
+        "cas_rn": "40615-39-2"
+      },
+      {
+        "name": "Borate(1-), (dimethyl phosphito-\u03baP)trihydro-, (T-4)-, hydrogen, compd. with N...",
+        "formula": "C6H15N.C2H9BO3P.H",
+        "cas_rn": "457957-33-4"
+      }
+    ],
+    "product": {
+      "name": "Boron, [5\u2032-O-[bis(4-methoxyphenyl)phenylmethyl]thymidine 3\u2032-(dimethyl phosphi...",
+      "formula": "C33H40BN2O9P",
+      "cas_rn": "457957-37-8",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "7087-68-5"
+      },
+      {
+        "cas_rn": "68641-49-6"
+      },
+      {
+        "cas_rn": "74257-00-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction62": {
+    "reaction_number": "31-614-CAS-30603112",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]bicyclo[2.2.1]hept-2-yl-, (S...",
+        "formula": "C19H19O4Si.C6H15N.H",
+        "cas_rn": "1870008-46-0"
+      },
+      {
+        "name": "(Bromomethylene)cyclohexane",
+        "formula": "C7H11Br",
+        "cas_rn": "1121-49-9"
+      }
+    ],
+    "product": {
+      "name": "2-(Cyclohexylidenemethyl)bicyclo[2.2.1]heptane",
+      "formula": "C14H22",
+      "cas_rn": "1870003-23-8",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      }
+    ]
+  },
+  "reaction63": {
+    "reaction_number": "31-562-CAS-2982502",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "2-Aminopyridine",
+        "formula": "C5H6N2",
+        "cas_rn": "504-29-0"
+      },
+      {
+        "name": "Cuprate(2-), tetrakis[\u03bc-(benzoato-\u03baO:\u03baO\u2032)]bis(benzoato-\u03baO)di-, hydrogen (1:2)",
+        "formula": "C42H30Cu2O12.2H",
+        "cas_rn": "326798-89-4"
+      }
+    ],
+    "product": {
+      "name": "(SP-4-1)-Bis(benzoato-\u03baO)bis(2-pyridinamine-\u03baN1)copper",
+      "formula": "C24H22CuN4O4",
+      "cas_rn": "375383-74-7",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction64": {
+    "reaction_number": "31-562-CAS-9390869",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "2-Aminopyridine",
+        "formula": "C5H6N2",
+        "cas_rn": "504-29-0"
+      },
+      {
+        "name": "Cuprate(2-), tetrakis[\u03bc-(benzoato-\u03baO:\u03baO\u2032)]bis(benzoato-\u03baO)di-, hydrogen (1:2)",
+        "formula": "C42H30Cu2O12.2H",
+        "cas_rn": "326798-89-4"
+      }
+    ],
+    "product": {
+      "name": "Tetrakis[\u03bc-(benzoato-\u03baO:\u03baO\u2032)]bis(2-pyridinamine-\u03baN1)dicopper",
+      "formula": "C38H32Cu2N4O8",
+      "cas_rn": "375383-75-8",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction65": {
+    "reaction_number": "31-562-CAS-15746954",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Trifluoromethanesulfonic acid",
+        "formula": "CHF3O3S",
+        "cas_rn": "1493-13-6"
+      },
+      {
+        "name": "Ruthenate(2-), bis(2,2\u2032-bipyridine-N,N\u2032)bis[carbonato(2-)-O]-, dihydrogen, (O...",
+        "formula": "C22H16N4O6Ru.2H",
+        "cas_rn": "111618-79-2"
+      },
+      {
+        "name": "1,3,5-Triaza-7-phosphaadamantane",
+        "formula": "C6H12N3P",
+        "cas_rn": "53597-69-6"
+      }
+    ],
+    "product": {
+      "name": "C26H30N7OPRu.2CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1886001-11-1",
+      "yield": 99
+    },
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction66": {
+    "reaction_number": "31-614-CAS-28673290",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "3-Hydroxypyridine",
+        "formula": "C5H5NO",
+        "cas_rn": "109-00-2"
+      },
+      {
+        "name": "Borate(1-), (diethyl phosphito-\u03baP)trihydro-, (T-4)-, hydrogen, compd. with N,...",
+        "formula": "C6H15N.C4H13BO3P.H",
+        "cas_rn": "2410571-45-6"
+      }
+    ],
+    "product": {
+      "name": "C9H17BNO4P",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2410571-69-4",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "7553-56-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction67": {
+    "reaction_number": "31-614-CAS-24069217",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Borate(1-), [[P(R)]-P-(1,1-dimethylethyl)-P-methylphosphinito-\u03baP]trihydro-, (...",
+        "formula": "C6H15N.C5H15BOP.H",
+        "cas_rn": "2100306-24-7"
+      },
+      {
+        "name": "(\u03b1S)-1-Methyl-\u03b1-(1-methylethyl)-1H-benzimidazole-2-methanamine",
+        "formula": "C12H17N3",
+        "cas_rn": "1565819-28-4"
+      }
+    ],
+    "product": {
+      "name": "C17H31BN3P",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2313538-18-8",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      },
+      {
+        "cas_rn": "7143-01-3"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction68": {
+    "reaction_number": "31-614-CAS-28293475",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Borate(1-), [[P(R)]-P-(1,1-dimethylethyl)-P-methylphosphinito-\u03baP]trihydro-, (...",
+        "formula": "C6H15N.C5H15BOP.H",
+        "cas_rn": "2100306-24-7"
+      },
+      {
+        "name": "(2S)-2-Amino-N-[(1S)-1-(hydroxymethyl)-2-methylpropyl]-3-methylbutanamide",
+        "formula": "C10H22N2O2",
+        "cas_rn": "162020-91-9"
+      }
+    ],
+    "product": {
+      "name": "Boron, [(2R)-2-[[(S)-(1,1-dimethylethyl)methylphosphino-\u03baP]amino]-N-[(1S)-1-(...",
+      "formula": "C15H36BN2O2P",
+      "cas_rn": "2100306-26-9",
+      "yield": 93
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      },
+      {
+        "cas_rn": "7143-01-3"
+      },
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction69": {
+    "reaction_number": "31-614-CAS-30466996",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Borate(1-), [[P(S)]-P-(1,1-dimethylethyl)-P-methylphosphinito-\u03baP]trihydro-, (...",
+        "formula": "C6H15N.C5H15BOP.H",
+        "cas_rn": "2313538-12-2"
+      },
+      {
+        "name": "Benzyl chloromethyl ether",
+        "formula": "C8H9ClO",
+        "cas_rn": "3587-60-8"
+      }
+    ],
+    "product": {
+      "name": "C13H24BO2P",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2659322-33-3",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction70": {
+    "reaction_number": "31-614-CAS-25350502",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Borate(1-), [[P(S)]-P-(1,1-dimethylethyl)-P-methylphosphinito-\u03baP]trihydro-, (...",
+        "formula": "C6H15N.C5H15BOP.H",
+        "cas_rn": "2313538-12-2"
+      },
+      {
+        "name": "Benzyl chloromethyl ether",
+        "formula": "C8H9ClO",
+        "cas_rn": "3587-60-8"
+      }
+    ],
+    "product": {
+      "name": "C13H24BO2P",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2659325-91-2",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction71": {
+    "reaction_number": "31-614-CAS-28810867",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "5-Bromopyrimidine",
+        "formula": "C4H3BrN2",
+        "cas_rn": "4595-59-9"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.C6H15N.H",
+        "cas_rn": "1843232-65-4"
+      }
+    ],
+    "product": {
+      "name": "rel-5-(1R,2R,4S)-Bicyclo[2.2.1]hept-2-ylpyrimidine",
+      "formula": "C11H14N2",
+      "cas_rn": "1843232-87-0",
+      "yield": 98
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction72": {
+    "reaction_number": "31-614-CAS-30583977",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "1,2:4,5-Bis-O-(1-methylethylidene)-3-O-(2-oxiranylmethyl)-\u03b2-D-fructopyranose",
+        "formula": "C15H24O7",
+        "cas_rn": "1095620-64-6"
+      },
+      {
+        "name": "Carbamimidothioic acid, tetradecyl ester, conjugate acid (1:1)",
+        "formula": "C15H32N2S.H",
+        "cas_rn": "1174168-30-9"
+      }
+    ],
+    "product": {
+      "name": "3-O-[2-Hydroxy-3-(tetradecylthio)propyl]-1,2:4,5-bis-O-(1-methylethylidene)-\u03b2...",
+      "formula": "C29H54O7S",
+      "cas_rn": "1174168-13-8",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction73": {
+    "reaction_number": "31-614-CAS-25636170",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Phenyl glycidyl ether",
+        "formula": "C9H10O2",
+        "cas_rn": "122-60-1"
+      },
+      {
+        "name": "Carbamimidothioic acid, tetradecyl ester, conjugate acid (1:1)",
+        "formula": "C15H32N2S.H",
+        "cas_rn": "1174168-30-9"
+      }
+    ],
+    "product": {
+      "name": "1-Phenoxy-3-(tetradecylthio)-2-propanol",
+      "formula": "C23H40O2S",
+      "cas_rn": "1174168-17-2",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction74": {
+    "reaction_number": "31-614-CAS-25654851",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "1,2:5,6-Bis-O-(1-methylethylidene)-3-O-(2-oxiranylmethyl)-\u03b1-D-glucofuranose",
+        "formula": "C15H24O7",
+        "cas_rn": "27994-41-8"
+      },
+      {
+        "name": "Carbamimidothioic acid, tetradecyl ester, conjugate acid (1:1)",
+        "formula": "C15H32N2S.H",
+        "cas_rn": "1174168-30-9"
+      }
+    ],
+    "product": {
+      "name": "3-O-[2-Hydroxy-3-(tetradecylthio)propyl]-1,2:5,6-bis-O-(1-methylethylidene)-\u03b1...",
+      "formula": "C29H54O7S",
+      "cas_rn": "1174168-02-5",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction75": {
+    "reaction_number": "31-614-CAS-29700679",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2](phenylmethyl)-, (SP-5-21)-,...",
+        "formula": "C19H15O4Si.C6H15N.H",
+        "cas_rn": "1843232-61-0"
+      },
+      {
+        "name": "Ethyl (2Z)-3-bromo-2-propenoate",
+        "formula": "C5H7BrO2",
+        "cas_rn": "31930-34-4"
+      }
+    ],
+    "product": {
+      "name": "Ethyl (2Z)-4-phenyl-2-butenoate",
+      "formula": "C12H14O2",
+      "cas_rn": "559062-83-8",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      }
+    ]
+  },
+  "reaction76": {
+    "reaction_number": "31-562-CAS-16739735",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "3,5-Dimethylpyrazole",
+        "formula": "C5H8N2",
+        "cas_rn": "67-51-6"
+      },
+      {
+        "name": "Manganate(2-), tetrakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]bis(2,2-dimethylpro...",
+        "formula": "C30H54Mn2O12.2C6H15N.2H",
+        "cas_rn": "804499-77-2"
+      }
+    ],
+    "product": {
+      "name": "C30H50MnN8O4",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1883269-99-5",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction77": {
+    "reaction_number": "31-575-CAS-20993243",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "1,4,7-Trimethyl-1,4,7-triazacyclononane",
+        "formula": "C9H21N3",
+        "cas_rn": "96556-05-7"
+      },
+      {
+        "name": "Borate(1-), tetrakis(3,5-dimethylphenyl)-, hydrogen, compd. with N,N-diethyle...",
+        "formula": "C32H36B.C6H15N.H",
+        "cas_rn": "2130860-21-6"
+      }
+    ],
+    "product": {
+      "name": "C32H36B.C9H21N3.H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2396525-49-6",
+      "yield": 97
+    },
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      }
+    ]
+  },
+  "reaction78": {
+    "reaction_number": "31-614-CAS-28881466",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Carbamimidothioic acid, phenylmethyl ester, conjugate acid (1:1)",
+        "formula": "C8H10N2S.H",
+        "cas_rn": "45961-60-2"
+      },
+      {
+        "name": "1,2:3,4-Bis-O-(1-methylethylidene)-6-O-(2-oxiranylmethyl)-\u03b1-D-galactopyranose",
+        "formula": "C15H24O7",
+        "cas_rn": "70969-90-3"
+      }
+    ],
+    "product": {
+      "name": "6-O-[2-Hydroxy-3-[(phenylmethyl)thio]propyl]-1,2:3,4-bis-O-(1-methylethyliden...",
+      "formula": "C22H32O7S",
+      "cas_rn": "1174168-06-9",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction79": {
+    "reaction_number": "31-614-CAS-29895087",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "L-Lysine",
+        "formula": "C6H14N2O2",
+        "cas_rn": "56-87-1"
+      },
+      {
+        "name": "C8H28B21O4.H",
+        "formula": "",
+        "cas_rn": "1883448-77-8"
+      }
+    ],
+    "product": {
+      "name": "C8H28B21O4.C6H14N2O2.H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1883448-83-6",
+      "yield": 93
+    },
+    "solvents": [
+      {
+        "cas_rn": "64-17-5"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction80": {
+    "reaction_number": "31-614-CAS-30726178",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "1,2:5,6-Bis-O-(1-methylethylidene)-3-O-(2-oxiranylmethyl)-\u03b1-D-glucofuranose",
+        "formula": "C15H24O7",
+        "cas_rn": "27994-41-8"
+      },
+      {
+        "name": "Carbamimidothioic acid, phenylmethyl ester, conjugate acid (1:1)",
+        "formula": "C8H10N2S.H",
+        "cas_rn": "45961-60-2"
+      }
+    ],
+    "product": {
+      "name": "3-O-[2-Hydroxy-3-[(phenylmethyl)thio]propyl]-1,2:5,6-bis-O-(1-methylethyliden...",
+      "formula": "C22H32O7S",
+      "cas_rn": "1174168-01-4",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction81": {
+    "reaction_number": "31-614-CAS-27672022",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "3-Benzoyl-5\u2032-O-[bis(4-methoxyphenyl)phenylmethyl]thymidine",
+        "formula": "C38H36N2O8",
+        "cas_rn": "102573-69-3"
+      },
+      {
+        "name": "Borate(1-), trihydro[monomethyl mono[2-(trimethylsilyl)ethyl] phosphito-\u03baP]-,...",
+        "formula": "C6H19BO3PSi.C6H15N.H",
+        "cas_rn": "752259-11-3"
+      }
+    ],
+    "product": {
+      "name": "(T-4)-[3-Benzoyl-5\u2032-O-[bis(4-methoxyphenyl)phenylmethyl]thymidine 3\u2032-[methyl ...",
+      "formula": "C44H54BN2O10PSi",
+      "cas_rn": "752259-12-4",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "7087-68-5"
+      },
+      {
+        "cas_rn": "24807-55-4"
+      },
+      {
+        "cas_rn": "68641-49-6"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction82": {
+    "reaction_number": "31-614-CAS-29662986",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Benzyl glycidyl ether",
+        "formula": "C10H12O2",
+        "cas_rn": "2930-05-4"
+      },
+      {
+        "name": "Carbamimidothioic acid, phenylmethyl ester, conjugate acid (1:1)",
+        "formula": "C8H10N2S.H",
+        "cas_rn": "45961-60-2"
+      }
+    ],
+    "product": {
+      "name": "1-(Phenylmethoxy)-3-[(phenylmethyl)thio]-2-propanol",
+      "formula": "C17H20O2S",
+      "cas_rn": "150855-01-9",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction83": {
+    "reaction_number": "31-614-CAS-25069454",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "l-Methionine",
+        "formula": "C5H11NO2S",
+        "cas_rn": "63-68-3"
+      },
+      {
+        "name": "C8H28B21O4.H",
+        "formula": "",
+        "cas_rn": "1883448-77-8"
+      }
+    ],
+    "product": {
+      "name": "C8H28B21O4.C5H11NO2S.H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1883448-82-5",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "64-17-5"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction84": {
+    "reaction_number": "31-562-CAS-9893089",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Borate(1-), tris(4,5-dihydro-4,4-dimethyl-2-oxazolyl)phenyl-, hydrogen (1:1),...",
+        "formula": "C21H29BN3O3.H",
+        "cas_rn": "1177320-23-8"
+      },
+      {
+        "name": "(T-4)-Bis(1,4-dioxane-\u03baO1)dimethylmagnesium",
+        "formula": "C10H22MgO4",
+        "cas_rn": "1262995-29-8"
+      }
+    ],
+    "product": {
+      "name": "Magnesium, methyl[tris(4,5-dihydro-4,4-dimethyl-2-oxazolyl)phenylborato(1-)-\u03ba...",
+      "formula": "C22H32BMgN3O3",
+      "cas_rn": "1259436-60-6",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction85": {
+    "reaction_number": "31-575-CAS-20888016",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "1,4,7,10-Tetramethyl-1,4,7,10-tetraazacyclododecane",
+        "formula": "C12H28N4",
+        "cas_rn": "76282-33-2"
+      },
+      {
+        "name": "Borate(1-), tetrakis(3,5-dimethylphenyl)-, hydrogen, compd. with N,N-diethyle...",
+        "formula": "C32H36B.C6H15N.H",
+        "cas_rn": "2130860-21-6"
+      }
+    ],
+    "product": {
+      "name": "C32H36B.C12H28N4.H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2393847-59-9",
+      "yield": 98
+    },
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      }
+    ]
+  },
+  "reaction86": {
+    "reaction_number": "31-614-CAS-26444394",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "4-Bromoanisole",
+        "formula": "C7H7BrO",
+        "cas_rn": "104-92-7"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]cyclohexyl-, (SP-5-21)-, hyd...",
+        "formula": "C18H19O4Si.C6H15N.H",
+        "cas_rn": "1843232-62-1"
+      }
+    ],
+    "product": {
+      "name": "1-Cyclohexyl-4-methoxybenzene",
+      "formula": "C13H18O",
+      "cas_rn": "613-36-5",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction87": {
+    "reaction_number": "31-614-CAS-27233862",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "4-Bromoanisole",
+        "formula": "C7H7BrO",
+        "cas_rn": "104-92-7"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.C6H15N.H",
+        "cas_rn": "1843232-65-4"
+      }
+    ],
+    "product": {
+      "name": "rel-(1R,2R,4S)-2-(4-Methoxyphenyl)bicyclo[2.2.1]heptane",
+      "formula": "C14H18O",
+      "cas_rn": "24739-56-8",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction88": {
+    "reaction_number": "31-614-CAS-27190422",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "p-Bromoacetophenone",
+        "formula": "C8H7BrO",
+        "cas_rn": "99-90-1"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2](2-methylpropyl)-, (SP-5-21)...",
+        "formula": "C16H17O4Si.C6H15N.H",
+        "cas_rn": "1869119-27-6"
+      }
+    ],
+    "product": {
+      "name": "4\u2032-Isobutylacetophenone",
+      "formula": "C12H16O",
+      "cas_rn": "38861-78-8",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      }
+    ]
+  },
+  "reaction89": {
+    "reaction_number": "31-614-CAS-29276342",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "4,4\u2032-Bipyridine",
+        "formula": "C10H8N2",
+        "cas_rn": "553-26-4"
+      },
+      {
+        "name": "C96H186Cu2O12.2H",
+        "formula": "",
+        "cas_rn": "1627953-26-7"
+      }
+    ],
+    "product": {
+      "name": "C52H78CuN4O4.2C16H32O2",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1817813-02-7",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "64-17-5"
+      }
+    ]
+  },
+  "reaction90": {
+    "reaction_number": "31-614-CAS-31604808",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "1,4,7,10,13-Pentamethyl-1,4,7,10,13-pentaazacyclopentadecane",
+        "formula": "C15H35N5",
+        "cas_rn": "210300-20-2"
+      },
+      {
+        "name": "Borate(1-), tetrakis(3,5-dimethylphenyl)-, hydrogen, compd. with N,N-diethyle...",
+        "formula": "C32H36B.C6H15N.H",
+        "cas_rn": "2130860-21-6"
+      }
+    ],
+    "product": {
+      "name": "C32H36B.C15H35N5.H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2752462-76-1",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      }
+    ]
+  },
+  "reaction91": {
+    "reaction_number": "31-177-CAS-11766675",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      },
+      {
+        "name": "4-Cyanophenyl triflate",
+        "formula": "C8H4F3NO3S",
+        "cas_rn": "66107-32-2"
+      }
+    ],
+    "product": {
+      "name": "4-Cyanobiphenyl",
+      "formula": "C13H9N",
+      "cas_rn": "2920-38-9",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction92": {
+    "reaction_number": "31-614-CAS-31604815",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "1,4,7,10,13-Pentamethyl-1,4,7,10,13-pentaazacyclopentadecane",
+        "formula": "C15H35N5",
+        "cas_rn": "210300-20-2"
+      },
+      {
+        "name": "Borate(1-), tetrakis(4-butylphenyl)-, hydrogen, compd. with N,N-diethylethana...",
+        "formula": "C40H52B.C6H15N.H",
+        "cas_rn": "2752462-91-0"
+      }
+    ],
+    "product": {
+      "name": "C40H52B.C15H35N5.H",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2752462-87-4",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction93": {
+    "reaction_number": "31-177-CAS-12378198",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "4-Formylphenyl triflate",
+        "formula": "C8H5F3O4S",
+        "cas_rn": "17763-69-8"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      }
+    ],
+    "product": {
+      "name": "[1,1\u2032-Biphenyl]-4-carboxaldehyde",
+      "formula": "C13H10O",
+      "cas_rn": "3218-36-8",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction94": {
+    "reaction_number": "31-614-CAS-29397439",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Benzenediazonium, 4-chloro-, tetrafluoroborate(1-) (1:1)",
+        "formula": "C6H4ClN2.BF4",
+        "cas_rn": "673-41-6"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      }
+    ],
+    "product": {
+      "name": "4-Chlorobiphenyl",
+      "formula": "C12H9Cl",
+      "cas_rn": "2051-62-9",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "67-56-1"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "385815-83-8"
+      }
+    ]
+  },
+  "reaction95": {
+    "reaction_number": "31-177-CAS-12272858",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "1-Iodo-4-nitrobenzene",
+        "formula": "C6H4INO2",
+        "cas_rn": "636-98-6"
+      },
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      }
+    ],
+    "product": {
+      "name": "4-Nitro-1,1\u2032-biphenyl",
+      "formula": "C12H9NO2",
+      "cas_rn": "92-93-3",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "497-19-8"
+      },
+      {
+        "cas_rn": "7647-01-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "3375-31-3"
+      }
+    ]
+  },
+  "reaction96": {
+    "reaction_number": "31-177-CAS-14507255",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      },
+      {
+        "name": "4-Acetylphenyl triflate",
+        "formula": "C9H7F3O4S",
+        "cas_rn": "109613-00-5"
+      }
+    ],
+    "product": {
+      "name": "4-Acetylbiphenyl",
+      "formula": "C14H12O",
+      "cas_rn": "92-91-1",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction97": {
+    "reaction_number": "31-177-CAS-11056605",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      },
+      {
+        "name": "4-Methoxyphenyl triflate",
+        "formula": "C8H7F3O4S",
+        "cas_rn": "66107-29-7"
+      }
+    ],
+    "product": {
+      "name": "4-Methoxybiphenyl",
+      "formula": "C13H12O",
+      "cas_rn": "613-37-6",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "123-91-1"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction98": {
+    "reaction_number": "31-575-CAS-20714248",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with N,N\u2032,N\u2032\u2032,N\u2032\u2032\u2032-tetrakis[3-(dim...",
+      "formula": "C24H20B.C20H51N8P.H",
+      "cas_rn": "2378691-92-8"
+    },
+    "products": [
+      {
+        "name": "Potassium tetraphenylborate",
+        "formula": "C24H20B.K",
+        "cas_rn": "3244-41-5"
+      },
+      {
+        "name": "C20H51N8P",
+        "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+        "cas_rn": "2378691-91-7",
+        "yield": 98
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "865-47-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction99": {
+    "reaction_number": "31-614-CAS-27797426",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Dimethylbis[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]thorium",
+        "formula": "C22H36Th",
+        "cas_rn": "67506-90-5"
+      }
+    ],
+    "product": {
+      "name": "Thorium(1+), methylbis[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien...",
+      "formula": "C24H20B.C21H33Th",
+      "cas_rn": "108834-70-4",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction100": {
+    "reaction_number": "31-562-CAS-5732312",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "[2,6-Bis(diphenylphosphinothioyl-\u03baS)-1-methyl-3,5-diphenyl-1\u03bb5-phosphorinato-...",
+        "formula": "C50H46BP3S2U",
+        "cas_rn": "1050381-16-2"
+      }
+    ],
+    "product": {
+      "name": "Uranium(1+), [2,6-bis(diphenylphosphinothioyl-\u03baS)-1-methyl-3,5-diphenyl-1\u03bb5-p...",
+      "formula": "C56H57NP3S2U.C24H20B",
+      "cas_rn": "1050381-21-9",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction101": {
+    "reaction_number": "31-614-CAS-28703812",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Bis[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl](\u03b73-2-propeny...",
+        "formula": "C23H35Ce",
+        "cas_rn": "863223-66-9"
+      }
+    ],
+    "product": {
+      "name": "Cerocenium, decamethyl-, tetraphenylborate(1-) (1:1)",
+      "formula": "C24H20B.C20H30Ce",
+      "cas_rn": "261355-60-6",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction102": {
+    "reaction_number": "31-614-CAS-25954448",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "(\u03b73-2-Propen-1-yl)bis[(1,2,3,4,5-\u03b7)-1,2,3,4-tetramethyl-2,4-cyclopentadien-1-...",
+        "formula": "C21H31Lu",
+        "cas_rn": "872871-75-5"
+      }
+    ],
+    "product": {
+      "name": "Lutetocenium, 1,1\u2032,2,2\u2032,3,3\u2032,4,4\u2032-octamethyl-, tetraphenylborate(1-)",
+      "formula": "C24H20B.C18H26Lu",
+      "cas_rn": "872871-69-7",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction103": {
+    "reaction_number": "31-614-CAS-25258236",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Bis[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl](\u03b73-2-propeny...",
+        "formula": "C23H35Pr",
+        "cas_rn": "863223-74-9"
+      }
+    ],
+    "product": {
+      "name": "Praseodymocenium, decamethyl-, tetraphenylborate(1-) (1:1)",
+      "formula": "C24H20B.C20H30Pr",
+      "cas_rn": "863223-78-3",
+      "yield": 93
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction104": {
+    "reaction_number": "31-614-CAS-26978087",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Amidobis[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl](tetrahy...",
+        "formula": "C24H40NOY",
+        "cas_rn": "2214238-42-1"
+      }
+    ],
+    "product": {
+      "name": "C24H41NOY.C24H20B",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2214238-44-3",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction105": {
+    "reaction_number": "31-177-CAS-615217",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "4-Methoxyphenyl triflate",
+        "formula": "C8H7F3O4S",
+        "cas_rn": "66107-29-7"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO,\u03baO\u2032](4-methylphenyl)-, hydrogen, ...",
+        "formula": "C19H15O4Si.C6H15N.H",
+        "cas_rn": "667420-13-5"
+      }
+    ],
+    "product": {
+      "name": "4-Methoxy-4\u2032-methyl-1,1\u2032-biphenyl",
+      "formula": "C14H14O",
+      "cas_rn": "53040-92-9",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction106": {
+    "reaction_number": "31-614-CAS-28717047",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Bis[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl](\u03b73-2-propen-...",
+        "formula": "C23H35Tb",
+        "cas_rn": "1407168-95-9"
+      }
+    ],
+    "product": {
+      "name": "Terbocenium, 1,1\u2032,2,2\u2032,3,3\u2032,4,4\u2032,5,5\u2032-decamethyl-, tetraphenylborate(1-) (1:1)",
+      "formula": "C24H20B.C20H30Tb",
+      "cas_rn": "1407168-97-1",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction107": {
+    "reaction_number": "31-614-CAS-29838910",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Bis[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl](\u03b73-2-propen-...",
+        "formula": "C23H35Dy",
+        "cas_rn": "1407168-99-3"
+      }
+    ],
+    "product": {
+      "name": "Dysprosocenium, 1,1\u2032,2,2\u2032,3,3\u2032,4,4\u2032,5,5\u2032-decamethyl-, tetraphenylborate(1-) (...",
+      "formula": "C24H20B.C20H30Dy",
+      "cas_rn": "1407169-01-0",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction108": {
+    "reaction_number": "31-614-CAS-31011773",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Methyltris[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]thorium",
+        "formula": "C31H48Th",
+        "cas_rn": "108834-71-5"
+      }
+    ],
+    "product": {
+      "name": "Thorium(1+), tris[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl...",
+      "formula": "C30H45Th.C24H20B",
+      "cas_rn": "2079896-44-7",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction109": {
+    "reaction_number": "31-614-CAS-27433373",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "(SP-4-1)-[2-(Dicyclohexylphosphino-\u03baP)-N-[2-(dicyclohexylphosphino-\u03baP)ethyl]e...",
+        "formula": "C32H63CoNP2Si",
+        "cas_rn": "1418299-84-9"
+      }
+    ],
+    "product": {
+      "name": "Cobalt(1+), [2-(dicyclohexylphosphino-\u03baP)-N-[2-(dicyclohexylphosphino-\u03baP)ethy...",
+      "formula": "C32H64CoNP2Si.C24H20B",
+      "cas_rn": "1438287-81-0",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-66-0"
+      },
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction110": {
+    "reaction_number": "31-614-CAS-26723059",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Triethylammonium tetraphenylborate",
+        "formula": "C24H20B.C6H15N.H",
+        "cas_rn": "53860-54-1"
+      },
+      {
+        "name": "Bis[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl](\u03b73-2-propen-...",
+        "formula": "C23H35Er",
+        "cas_rn": "2102612-78-0"
+      }
+    ],
+    "product": {
+      "name": "Erbocenium, 1,1\u2032,2,2\u2032,3,3\u2032,4,4\u2032,5,5\u2032-decamethyl-, tetraphenylborate(1-) (1:1)",
+      "formula": "C24H20B.C20H30Er",
+      "cas_rn": "2102612-80-4",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction111": {
+    "reaction_number": "31-177-CAS-6518278",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "4-Methoxyphenyl triflate",
+        "formula": "C8H7F3O4S",
+        "cas_rn": "66107-29-7"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO,\u03baO\u2032](3-methylphenyl)-, hydrogen, ...",
+        "formula": "C19H15O4Si.C6H15N.H",
+        "cas_rn": "667420-11-3"
+      }
+    ],
+    "product": {
+      "name": "4\u2032-Methoxy-3-methyl-1,1\u2032-biphenyl",
+      "formula": "C14H14O",
+      "cas_rn": "17171-17-4",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction112": {
+    "reaction_number": "31-177-CAS-1119579",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      },
+      {
+        "name": "2-Acetylphenyl 1,1,1-trifluoromethanesulfonate",
+        "formula": "C9H7F3O4S",
+        "cas_rn": "129849-05-4"
+      }
+    ],
+    "product": {
+      "name": "1-[1,1\u2032-Biphenyl]-2-ylethanone",
+      "formula": "C14H12O",
+      "cas_rn": "2142-66-7",
+      "yield": 93
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction113": {
+    "reaction_number": "31-203-CAS-11690525",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethylanilinium tetraphenylborate",
+        "formula": "C24H20B.C8H11N.H",
+        "cas_rn": "118573-45-8"
+      },
+      {
+        "name": "Zirconium, (\u03b75-2,4-cyclopentadien-1-yl)dimethyl[P,P,P-tris(1,1-dimethylethyl)...",
+        "formula": "C19H38NPZr",
+        "cas_rn": "374559-03-2"
+      }
+    ],
+    "product": {
+      "name": "Zirconium(1+), (\u03b75-2,4-cyclopentadien-1-yl)(N,N-dimethylbenzenamine)methyl[P,...",
+      "formula": "C26H46N2PZr.C24BF20",
+      "cas_rn": "680573-88-0",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction114": {
+    "reaction_number": "31-177-CAS-15310201",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      },
+      {
+        "name": "2-Methoxyphenyl trifluoromethanesulfonate",
+        "formula": "C8H7F3O4S",
+        "cas_rn": "59099-58-0"
+      }
+    ],
+    "product": {
+      "name": "2-Methoxybiphenyl",
+      "formula": "C13H12O",
+      "cas_rn": "86-26-0",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction115": {
+    "reaction_number": "31-177-CAS-3223415",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Benzoic acid, 4-[[(trifluoromethyl)sulfonyl]oxy]-, methyl ester",
+        "formula": "C9H7F3O5S",
+        "cas_rn": "17763-71-2"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      }
+    ],
+    "product": {
+      "name": "[1,1\u2032-Biphenyl]-4-carboxylic acid, methyl ester",
+      "formula": "C14H12O2",
+      "cas_rn": "720-75-2",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction116": {
+    "reaction_number": "31-614-CAS-39889227",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with 2,6-dimethylpyridine (1:1:1)",
+        "formula": "C24H20B.C7H9N.H",
+        "cas_rn": "164164-16-3"
+      },
+      {
+        "name": "C24H39N7Ni",
+        "formula": "",
+        "cas_rn": "3031473-76-1"
+      }
+    ],
+    "product": {
+      "name": "C24H40N7Ni.C24H20B",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "3031473-78-3",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction117": {
+    "reaction_number": "31-614-CAS-38007513",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Borate(1-), tetraphenyl-, hydrogen, compd. with 2,6-dimethylpyridine (1:1:1)",
+        "formula": "C24H20B.C7H9N.H",
+        "cas_rn": "164164-16-3"
+      },
+      {
+        "name": "C30H45Co2NS",
+        "formula": "",
+        "cas_rn": "2982794-35-2"
+      }
+    ],
+    "product": {
+      "name": "C30H46Co2NS.C24H20B",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2982794-37-4",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction118": {
+    "reaction_number": "31-614-CAS-27337043",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2](2-methylpropyl)-, hydrogen ...",
+        "formula": "C16H17O4Si.H",
+        "cas_rn": "1869119-26-5"
+      },
+      {
+        "name": "2-(4-Bromophenyl)-1,2-dihydro-1,2-benzazaborine",
+        "formula": "C14H11BBrN",
+        "cas_rn": "1884521-08-7"
+      }
+    ],
+    "product": {
+      "name": "1,2-Dihydro-2-[4-(2-methylpropyl)phenyl]-1,2-benzazaborine",
+      "formula": "C18H20BN",
+      "cas_rn": "1884521-18-9",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction119": {
+    "reaction_number": "31-614-CAS-29242377",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2](2-methylpropyl)-, hydrogen ...",
+        "formula": "C16H17O4Si.H",
+        "cas_rn": "1869119-26-5"
+      },
+      {
+        "name": "3-Bromo-2-(2,3-dihydro-1,4-benzodioxin-6-yl)-1,2-dihydro-1,2-benzazaborine",
+        "formula": "C16H13BBrNO2",
+        "cas_rn": "1884521-11-2"
+      }
+    ],
+    "product": {
+      "name": "2-(2,3-Dihydro-1,4-benzodioxin-6-yl)-1,2-dihydro-3-(2-methylpropyl)-1,2-benza...",
+      "formula": "C20H22BNO2",
+      "cas_rn": "1884521-41-8",
+      "yield": 94
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction120": {
+    "reaction_number": "31-614-CAS-24979911",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "N-[(4-Chlorophenyl)methylene]methanesulfonamide",
+        "formula": "C8H8ClNO2S",
+        "cas_rn": "16715-05-2"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]cyclohexyl-, (SP-5-21)-, hyd...",
+        "formula": "C18H19O4Si.C6H15N.H",
+        "cas_rn": "2064225-07-4"
+      }
+    ],
+    "product": {
+      "name": "N-[(4-Chlorophenyl)cyclohexylmethyl]methanesulfonamide",
+      "formula": "C14H20ClNO2S",
+      "cas_rn": "2075718-76-0",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "67-68-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "1416881-52-1"
+      }
+    ]
+  },
+  "reaction121": {
+    "reaction_number": "31-562-CAS-16202308",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "3,6-Di(4-pyridyl)-1,2,4,5-tetrazine",
+        "formula": "C12H8N6",
+        "cas_rn": "57654-36-1"
+      },
+      {
+        "name": "Ferrate(3-), hexakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]bis(2,2-dimethylpropan...",
+        "formula": "C45H81Fe2NiO19.3H",
+        "cas_rn": "612480-70-3"
+      }
+    ],
+    "product": {
+      "name": "C42H62Fe2N6NiO13",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1820688-16-1",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "75-98-9"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "68-12-2"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction122": {
+    "reaction_number": "31-614-CAS-25707154",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]hexyl-, hydrogen (1:1), (SP-...",
+        "formula": "C18H21O4Si.H",
+        "cas_rn": "1844886-84-5"
+      },
+      {
+        "name": "2-(2-Bromophenyl)-1,2-dihydro-1,2-benzazaborine",
+        "formula": "C14H11BBrN",
+        "cas_rn": "1884521-10-1"
+      }
+    ],
+    "product": {
+      "name": "2-(2-Hexylphenyl)-1,2-dihydro-1,2-benzazaborine",
+      "formula": "C20H24BN",
+      "cas_rn": "1884521-32-7",
+      "yield": 97
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction123": {
+    "reaction_number": "31-614-CAS-29588915",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "4-Acetylphenyl triflate",
+        "formula": "C9H7F3O4S",
+        "cas_rn": "109613-00-5"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]bicyclo[2.2.1]hept-2-yl-, (S...",
+        "formula": "C19H19O4Si.C6H15N.H",
+        "cas_rn": "1870008-46-0"
+      }
+    ],
+    "product": {
+      "name": "1-(4-Bicyclo[2.2.1]hept-2-ylphenyl)ethanone",
+      "formula": "C15H18O",
+      "cas_rn": "1932712-89-4",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction124": {
+    "reaction_number": "31-614-CAS-29874509",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-O,O\u2032]cyclohexyl-, hydrogen, (SP-5-21)-",
+        "formula": "C18H19O4Si.H",
+        "cas_rn": "125764-10-5"
+      },
+      {
+        "name": "2-(4-Bromophenyl)-1,2-dihydro-1,2-benzazaborine",
+        "formula": "C14H11BBrN",
+        "cas_rn": "1884521-08-7"
+      }
+    ],
+    "product": {
+      "name": "2-(4-Cyclohexylphenyl)-1,2-dihydro-1,2-benzazaborine",
+      "formula": "C20H22BN",
+      "cas_rn": "1884521-14-5",
+      "yield": 97
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction125": {
+    "reaction_number": "31-614-CAS-26425944",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.H",
+        "cas_rn": "1843232-64-3"
+      },
+      {
+        "name": "2-(3-Bromophenyl)-1,2-dihydro-1,2-benzazaborine",
+        "formula": "C14H11BBrN",
+        "cas_rn": "1884521-09-8"
+      }
+    ],
+    "product": {
+      "name": "rel-2-[3-(1R,2R,4S)-Bicyclo[2.2.1]hept-2-ylphenyl]-1,2-dihydro-1,2-benzazaborine",
+      "formula": "C21H22BN",
+      "cas_rn": "1884521-29-2",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction126": {
+    "reaction_number": "31-177-CAS-5367798",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      },
+      {
+        "name": "4-Acetamidophenyl triflate",
+        "formula": "C9H8F3NO4S",
+        "cas_rn": "32578-30-6"
+      }
+    ],
+    "product": {
+      "name": "N-Acetyl-4-aminobiphenyl",
+      "formula": "C14H13NO",
+      "cas_rn": "4075-79-0",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction127": {
+    "reaction_number": "31-614-CAS-25474120",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "3-Bromo-1,2-dihydro-2-phenyl-1,2-benzazaborine",
+        "formula": "C14H11BBrN",
+        "cas_rn": "1616634-99-1"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.H",
+        "cas_rn": "1843232-64-3"
+      }
+    ],
+    "product": {
+      "name": "rel-3-(1R,2R,4S)-Bicyclo[2.2.1]hept-2-yl-1,2-dihydro-2-phenyl-1,2-benzazaborine",
+      "formula": "C21H22BN",
+      "cas_rn": "1884521-39-4",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction128": {
+    "reaction_number": "31-614-CAS-29976760",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.H",
+        "cas_rn": "1843232-64-3"
+      },
+      {
+        "name": "2-(4-Bromophenyl)-1,2-dihydro-1,2-benzazaborine",
+        "formula": "C14H11BBrN",
+        "cas_rn": "1884521-08-7"
+      }
+    ],
+    "product": {
+      "name": "rel-2-[4-(1R,2R,4S)-Bicyclo[2.2.1]hept-2-ylphenyl]-1,2-dihydro-1,2-benzazaborine",
+      "formula": "C21H22BN",
+      "cas_rn": "1884521-15-6",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction129": {
+    "reaction_number": "31-614-CAS-30797211",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.H",
+        "cas_rn": "1843232-64-3"
+      },
+      {
+        "name": "2-(4-Bromophenyl)-1,2-dihydro-1,2-benzazaborine",
+        "formula": "C14H11BBrN",
+        "cas_rn": "1884521-08-7"
+      }
+    ],
+    "product": {
+      "name": "rel-2-[4-(1R,2R,4S)-Bicyclo[2.2.1]hept-2-ylphenyl]-1,2-dihydro-1,2-benzazaborine",
+      "formula": "C21H22BN",
+      "cas_rn": "1884521-15-6",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction130": {
+    "reaction_number": "31-614-CAS-31823864",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Borate(1-), tetrakis(4-butylphenyl)-, hydrogen, compd. with N,N-diethylethana...",
+        "formula": "C40H52B.C6H15N.H",
+        "cas_rn": "2752462-91-0"
+      },
+      {
+        "name": "C29H49N5Sr",
+        "formula": "",
+        "cas_rn": "2760893-08-9"
+      }
+    ],
+    "product": {
+      "name": "C40H52B.C22H42N5Sr",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2761270-09-9",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction131": {
+    "reaction_number": "31-177-CAS-4696597",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      },
+      {
+        "name": "2-Quinolinyl 1,1,1-trifluoromethanesulfonate",
+        "formula": "C10H6F3NO3S",
+        "cas_rn": "109586-44-9"
+      }
+    ],
+    "product": {
+      "name": "2-Phenylquinoline",
+      "formula": "C15H11N",
+      "cas_rn": "612-96-4",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction132": {
+    "reaction_number": "31-614-CAS-30944221",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "2-(4-Bromo-3-thienyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane",
+        "formula": "C10H14BBrO2S",
+        "cas_rn": "1310404-31-9"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.C6H15N.H",
+        "cas_rn": "1843232-65-4"
+      }
+    ],
+    "product": {
+      "name": "2-(4-Bicyclo[2.2.1]hept-2-yl-3-thienyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane",
+      "formula": "C17H25BO2S",
+      "cas_rn": "2064225-52-9",
+      "yield": 98
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "2064225-11-0"
+      }
+    ]
+  },
+  "reaction133": {
+    "reaction_number": "31-614-CAS-29014649",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tricarbonylmethyl[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl...",
+        "formula": "C14H18MoO3",
+        "cas_rn": "12129-92-9"
+      },
+      {
+        "name": "1-Carbadodecaborate(1-), dodecahydro-, hydrogen (1:1)",
+        "formula": "CH12B11.H",
+        "cas_rn": "108608-24-8"
+      }
+    ],
+    "product": {
+      "name": "Molybdenum, tricarbonyl[(12-\u03b7)-dodecahydro-1-carbadodecaborato(1-)-\u03baH12][(1,2...",
+      "formula": "C14H27B11MoO3",
+      "cas_rn": "334941-95-6",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction134": {
+    "reaction_number": "31-177-CAS-228954",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2]phenyl-, (SP-5-21)-, hydroge...",
+        "formula": "C18H13O4Si.C6H15N.H",
+        "cas_rn": "19333-09-6"
+      },
+      {
+        "name": "(2R)-3,4-Dihydro-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-2H-...",
+        "formula": "C30H49F3O4S",
+        "cas_rn": "261929-85-5"
+      }
+    ],
+    "product": {
+      "name": "(2R)-3,4-Dihydro-2,5,7,8-tetramethyl-6-phenyl-2-[(4R,8R)-4,8,12-trimethyltrid...",
+      "formula": "C35H54O",
+      "cas_rn": "667420-18-0",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "123-91-1"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "32005-36-0"
+      },
+      {
+        "cas_rn": "247940-06-3"
+      }
+    ]
+  },
+  "reaction135": {
+    "reaction_number": "31-614-CAS-30841011",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "3-Bromo-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyridine",
+        "formula": "C11H15BBrNO2",
+        "cas_rn": "452972-13-3"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.C6H15N.H",
+        "cas_rn": "1843232-65-4"
+      }
+    ],
+    "product": {
+      "name": "3-Bicyclo[2.2.1]hept-2-yl-5-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyri...",
+      "formula": "C18H26BNO2",
+      "cas_rn": "2064225-49-4",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "2064225-11-0"
+      }
+    ]
+  },
+  "reaction136": {
+    "reaction_number": "31-562-CAS-13209836",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Tris(4-pyridyl)-1,3,5-triazine",
+        "formula": "C18H12N6",
+        "cas_rn": "42333-78-8"
+      },
+      {
+        "name": "Ferrate(3-), hexakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]bis(2,2-dimethylpropan...",
+        "formula": "C45H81Fe2NiO19.3H",
+        "cas_rn": "612480-70-3"
+      }
+    ],
+    "product": {
+      "name": "Hexakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)](nickel)-\u03bc3-oxo[2-(4-pyridinyl-\u03baN)-...",
+      "formula": "C48H66Fe2N6NiO13",
+      "cas_rn": "1770916-17-0",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "75-98-9"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "68-12-2"
+      }
+    ]
+  },
+  "reaction137": {
+    "reaction_number": "31-614-CAS-26695618",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "2-(2-Bromo-5-methoxyphenyl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane",
+        "formula": "C13H18BBrO3",
+        "cas_rn": "1256781-58-4"
+      },
+      {
+        "name": "Silicate(1-), bis[1,2-benzenediolato(2-)-\u03baO1,\u03baO2][rel-(1R,2R,4S)-bicyclo[2.2....",
+        "formula": "C19H19O4Si.C6H15N.H",
+        "cas_rn": "1843232-65-4"
+      }
+    ],
+    "product": {
+      "name": "2-(2-Bicyclo[2.2.1]hept-2-yl-5-methoxyphenyl)-4,4,5,5-tetramethyl-1,3,2-dioxa...",
+      "formula": "C20H29BO3",
+      "cas_rn": "2064225-53-0",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "68-12-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "29046-78-4"
+      },
+      {
+        "cas_rn": "72914-19-3"
+      },
+      {
+        "cas_rn": "2064225-11-0"
+      }
+    ]
+  },
+  "reaction138": {
+    "reaction_number": "31-562-CAS-1960506",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Ferrate(3-), hexakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)]bis(2,2-dimethylpropan...",
+        "formula": "C45H81Fe2NiO19.3H",
+        "cas_rn": "612480-70-3"
+      },
+      {
+        "name": "6\u2032-(3-Pyridinyl)-3,2\u2032:4\u2032,4\u2032\u2032-terpyridine",
+        "formula": "C20H14N4",
+        "cas_rn": "887917-75-1"
+      }
+    ],
+    "product": {
+      "name": "Hexakis[\u03bc-(2,2-dimethylpropanoato-\u03baO:\u03baO\u2032)](nickel)-\u03bc3-oxo[4-(4-pyridinyl)-3,2...",
+      "formula": "C50H68Fe2N4NiO13",
+      "cas_rn": "1770916-18-1",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "75-98-9"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-68-5"
+      }
+    ]
+  },
+  "reaction139": {
+    "reaction_number": "31-575-CAS-2577471",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "C21H25NO4.C16H12BO6.H",
+      "formula": "",
+      "cas_rn": "1810723-64-8"
+    },
+    "product": {
+      "name": "(+)-Tetrahydropalmatine",
+      "formula": "C21H25NO4",
+      "cas_rn": "3520-14-7",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "1336-21-6"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction140": {
+    "reaction_number": "31-491-CAS-18140416",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Spiro[2\u2032H-[5,6]fullereno-C60-Ih-[1,9-c]pyrrole-2\u2032,4\u2032\u2032-piperidin]-1\u2032\u2032-yloxy, 1...",
+      "formula": "C70H19N2O.H2",
+      "cas_rn": "1219937-68-4"
+    },
+    "product": {
+      "name": "Spiro[2\u2032H-[5,6]fullereno-C60-Ih-[1,2-c]pyrrole-2\u2032,4\u2032\u2032-piperidine], 1\u2032,5\u2032-dihy...",
+      "formula": "C70H20N2O.H2",
+      "cas_rn": "1219937-70-8",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "100-63-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "865-49-6"
+      }
+    ]
+  },
+  "reaction141": {
+    "reaction_number": "31-614-CAS-29126813",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Spiro[2\u2032H-[5,6]fullereno-C60-Ih-[1,2-c]pyrrole-2\u2032,4\u2032\u2032-piperidine], 1\u2032,5\u2032-dihy...",
+      "formula": "C70H20N2O.H2",
+      "cas_rn": "1219937-70-8"
+    },
+    "product": {
+      "name": "Spiro[2\u2032H-[5,6]fullereno-C60-Ih-[1,9-c]pyrrole-2\u2032,4\u2032\u2032-piperidin]-1\u2032\u2032-yloxy, 1...",
+      "formula": "C70H19N2O.H2",
+      "cas_rn": "1219937-68-4",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "142-71-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "865-49-6"
+      }
+    ]
+  },
+  "reaction142": {
+    "reaction_number": "31-353-CAS-3821386",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "L-Lysinamide, N2-[(phenylmethoxy)carbonyl]-L-arginyl-L-tryptophyl-L-prolyl-L-...",
+      "formula": "C91H119N25O14.3C24H20B.3H",
+      "cas_rn": "1201793-92-1"
+    },
+    "product": {
+      "name": "L-Arginyl-L-tryptophyl-L-prolyl-L-tryptophyl-L-tryptophyl-L-prolyl-L-tryptoph...",
+      "formula": "C78H104N24O11",
+      "cas_rn": "1202247-28-6",
+      "yield": 93
+    },
+    "reagents": [
+      {
+        "cas_rn": "1333-74-0"
+      },
+      {
+        "cas_rn": "79620-27-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-56-1"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7440-05-3"
+      }
+    ]
+  }
+}

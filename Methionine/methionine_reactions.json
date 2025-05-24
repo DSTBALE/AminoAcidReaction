@@ -1,0 +1,4821 @@
+{
+  "reaction1": {
+    "reaction_number": "31-614-CAS-29049961",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "(Trimethylsilyl)acetylene",
+        "formula": "C5H10Si",
+        "cas_rn": "1066-54-2"
+      }
+    ],
+    "product": {
+      "name": "Trimethyl[2-(methylthio)ethynyl]silane",
+      "formula": "C6H12SSi",
+      "cas_rn": "79966-98-6",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "109-72-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction2": {
+    "reaction_number": "31-562-CAS-5355848",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "(SP-4-3)-[1-[5-[4-[[4-[Bis(2,4,6-trimethylphenyl)boryl]phenyl]diphenylsilyl]p...",
+        "formula": "C66H58BN3PtSi",
+        "cas_rn": "1228785-51-0"
+      }
+    ],
+    "product": {
+      "name": "(SP-4-3)-[1-[5-[4-[[4-[Bis(2,4,6-trimethylphenyl)boryl]phenyl]diphenylsilyl]p...",
+      "formula": "C62H58BN3PtSSi",
+      "cas_rn": "1228785-52-1",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction3": {
+    "reaction_number": "31-614-CAS-35689064",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Rhodium(1+), bis[(1,2,5,6-\u03b7)-1,5-cyclooctadiene]-, (OC-6-11)-hexafluoroantimo...",
+        "formula": "C16H24Rh.F6Sb",
+        "cas_rn": "130296-28-5"
+      }
+    ],
+    "product": {
+      "name": "C12H24RhS2.F6Sb",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2892560-54-0",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      }
+    ]
+  },
+  "reaction4": {
+    "reaction_number": "31-562-CAS-2287710",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Chloro[(1,2,5,6-\u03b7)-1,5-cyclooctadiene][4-[(2S)-2-[[(1,1-dimethylethoxy)carbon...",
+        "formula": "C22H35ClN3O4Rh",
+        "cas_rn": "1386445-83-5"
+      }
+    ],
+    "product": {
+      "name": "Rhodium(1+), [(1,2,5,6-\u03b7)-1,5-cyclooctadiene][4-[(2S)-2-[[(1,1-dimethylethoxy...",
+      "formula": "C24H41N3O4RhS.F6P",
+      "cas_rn": "1407151-28-3",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "17084-13-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction5": {
+    "reaction_number": "31-614-CAS-29972729",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-Isoquinolinamine",
+        "formula": "C9H8N2",
+        "cas_rn": "1532-84-9"
+      }
+    ],
+    "product": {
+      "name": "N-(Dimethyl-\u03bb4-sulfanylidene)-1-isoquinolinamine",
+      "formula": "C11H12N2S",
+      "cas_rn": "79917-36-5",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "128-09-6"
+      },
+      {
+        "cas_rn": "124-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      }
+    ]
+  },
+  "reaction6": {
+    "reaction_number": "31-614-CAS-30702411",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "[(2-Bromoethenyl)sulfonyl]benzene",
+        "formula": "C8H7BrO2S",
+        "cas_rn": "17101-79-0"
+      }
+    ],
+    "product": {
+      "name": "[[2-(Methylthio)ethenyl]sulfonyl]benzene",
+      "formula": "C9H10O2S2",
+      "cas_rn": "84827-09-8",
+      "yield": 100
+    }
+  },
+  "reaction7": {
+    "reaction_number": "31-614-CAS-28531099",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Amino-6-methylpyridine",
+        "formula": "C6H8N2",
+        "cas_rn": "1824-81-3"
+      }
+    ],
+    "product": {
+      "name": "N-(Dimethyl-\u03bb4-sulfanylidene)-6-methyl-2-pyridinamine",
+      "formula": "C8H12N2S",
+      "cas_rn": "62135-44-8",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "128-09-6"
+      },
+      {
+        "cas_rn": "124-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction8": {
+    "reaction_number": "31-614-CAS-25297508",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Bis(pentafluorophenyl)borinic acid",
+        "formula": "C12HBF10O",
+        "cas_rn": "2118-02-7"
+      },
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      }
+    ],
+    "product": {
+      "name": "(T-4)-Hydrobis(2,3,4,5,6-pentafluorophenyl)[1,1\u2032-thiobis[methane]]boron",
+      "formula": "C14H7BF10S",
+      "cas_rn": "1000399-06-3",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "694-53-1"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "865-49-6"
+      }
+    ]
+  },
+  "reaction9": {
+    "reaction_number": "31-478-CAS-21487940",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C54H76Au2N4.2F6Sb",
+        "formula": "",
+        "cas_rn": "2396654-15-0"
+      }
+    ],
+    "product": {
+      "name": "C29H44AuN2S.F6Sb",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2396654-16-1",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction10": {
+    "reaction_number": "31-026-CAS-999911",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Bromobutanal",
+        "formula": "C4H7BrO",
+        "cas_rn": "24764-97-4"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (1-formylpropyl)dimethyl-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C6H13OS.BF4",
+      "cas_rn": "367926-56-5",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction11": {
+    "reaction_number": "31-026-CAS-24181015",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Bis(4-methoxyphenyl)methyl chloride",
+        "formula": "C15H15ClO2",
+        "cas_rn": "7525-23-7"
+      },
+      {
+        "name": "Trimethylsilyl triflate",
+        "formula": "C4H9F3O3SSi",
+        "cas_rn": "27607-77-8"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [bis(4-methoxyphenyl)methyl]dimethyl-, 1,1,1-trifluoromethanesulfo...",
+      "formula": "C17H21O2S.CF3O3S",
+      "cas_rn": "2667032-03-1",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction12": {
+    "reaction_number": "31-614-CAS-35689062",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C15H20Rh.F6Sb",
+        "formula": "",
+        "cas_rn": "2892560-53-9"
+      }
+    ],
+    "product": {
+      "name": "C12H24RhS2.F6Sb",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2892560-54-0",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      }
+    ]
+  },
+  "reaction13": {
+    "reaction_number": "31-614-CAS-38312125",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "5H-Pyrrolo[2,3-b]pyrazine, 3-chloro-6-[1-(trifluoromethyl)cyclopropyl]-",
+        "formula": "C10H7ClF3N3",
+        "cas_rn": "2993451-48-0"
+      },
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      }
+    ],
+    "product": {
+      "name": "5H-Pyrrolo[2,3-b]pyrazine, 3-chloro-5-methyl-6-[1-(trifluoromethyl)cyclopropyl]-",
+      "formula": "C11H9ClF3N3",
+      "cas_rn": "2993451-50-4",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "7646-69-7"
+      },
+      {
+        "cas_rn": "12125-02-9"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "68-12-2"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction14": {
+    "reaction_number": "31-614-CAS-40506268",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C19H26N3Ru.C2F6NO4S2",
+        "formula": "",
+        "cas_rn": "3031475-81-4"
+      }
+    ],
+    "product": {
+      "name": "C19H29N2RuS.C2F6NO4S2",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "3031475-85-8",
+      "yield": 100
+    }
+  },
+  "reaction15": {
+    "reaction_number": "31-562-CAS-2437638",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Chloro[(1,2,5,6-\u03b7)-1,5-cyclooctadiene]methylplatinum",
+        "formula": "C9H15ClPt",
+        "cas_rn": "50978-00-2"
+      }
+    ],
+    "product": {
+      "name": "(SP-4-3)-Chloromethylbis[thiobis[methane]]platinum",
+      "formula": "C5H15ClPtS2",
+      "cas_rn": "87145-39-9",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "67-56-1"
+      }
+    ]
+  },
+  "reaction16": {
+    "reaction_number": "31-026-CAS-20770861",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "tert-Butyl bromoacetate",
+        "formula": "C6H11BrO2",
+        "cas_rn": "5292-43-3"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [2-(1,1-dimethylethoxy)-2-oxoethyl]dimethyl-, inner salt",
+      "formula": "C8H16O2S",
+      "cas_rn": "79261-11-3",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      },
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      },
+      {
+        "cas_rn": "67-66-3"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction17": {
+    "reaction_number": "31-113-CAS-1471655",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "3-Bromo-\u03b1-methylbenzeneacetaldehyde",
+        "formula": "C9H9BrO",
+        "cas_rn": "59452-90-3"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl[2-oxo-1-(phenylmethyl)ethyl]-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C11H15OS.BF4",
+      "cas_rn": "367926-58-7",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction18": {
+    "reaction_number": "31-026-CAS-12856693",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Phosphonium, (3-bromo-2-oxopropyl)triphenyl-, inner salt",
+        "formula": "C21H18BrOP",
+        "cas_rn": "59924-94-6"
+      }
+    ],
+    "product": {
+      "name": "Phosphonium, [3-(dimethylsulfonio)-2-oxopropyl]triphenyl-, bis(inner salt)",
+      "formula": "C23H23OPS",
+      "cas_rn": "59924-97-9",
+      "yield": 100
+    }
+  },
+  "reaction19": {
+    "reaction_number": "31-562-CAS-15188454",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Ruthenium(2+), aqua[4\u2032-[3,5-bis(1,1-dimethylethyl)phenyl]-2,2\u2032:6\u2032,2\u2032\u2032-terpyri...",
+        "formula": "C41H41N5ORu.2F6P",
+        "cas_rn": "660860-62-8"
+      }
+    ],
+    "product": {
+      "name": "Ruthenium(2+), [4\u2032-[3,5-bis(1,1-dimethylethyl)phenyl]-2,2\u2032:6\u2032,2\u2032\u2032-terpyridine...",
+      "formula": "C43H45N5RuS.2F6P",
+      "cas_rn": "824401-25-4",
+      "yield": 100
+    },
+    "solvents": [
+      {
+        "cas_rn": "64-17-5"
+      },
+      {
+        "cas_rn": "75-18-3"
+      }
+    ]
+  },
+  "reaction20": {
+    "reaction_number": "31-614-CAS-27445405",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Allyltrimethylsilane",
+        "formula": "C6H14Si",
+        "cas_rn": "762-72-1"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl-2-propen-1-yl-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C5H11S.BF4",
+      "cas_rn": "27557-59-1",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "2023-48-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction21": {
+    "reaction_number": "31-614-CAS-28760344",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-[(2-Bromoethenyl)sulfonyl]-4-methylbenzene",
+        "formula": "C9H9BrO2S",
+        "cas_rn": "84827-11-2"
+      }
+    ],
+    "product": {
+      "name": "1-Methyl-4-[[2-(methylthio)ethenyl]sulfonyl]benzene",
+      "formula": "C10H12O2S2",
+      "cas_rn": "84827-10-1",
+      "yield": 100
+    }
+  },
+  "reaction22": {
+    "reaction_number": "31-614-CAS-27970170",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-[(2-Bromoethenyl)sulfonyl]-4-methylbenzene",
+        "formula": "C9H9BrO2S",
+        "cas_rn": "84827-11-2"
+      }
+    ],
+    "product": {
+      "name": "1-Methyl-4-[[2-(methylthio)ethenyl]sulfonyl]benzene",
+      "formula": "C10H12O2S2",
+      "cas_rn": "84827-10-1",
+      "yield": 100
+    }
+  },
+  "reaction23": {
+    "reaction_number": "31-614-CAS-25317836",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Bromoacetic acid methyl ester",
+        "formula": "C3H5BrO2",
+        "cas_rn": "96-32-2"
+      }
+    ],
+    "product": {
+      "name": "Methyl 2-bromo-2-(methylthio)acetate",
+      "formula": "C4H7BrO2S",
+      "cas_rn": "77825-52-6",
+      "yield": 100
+    }
+  },
+  "reaction24": {
+    "reaction_number": "31-137-CAS-659058",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Dimethyl sulfide",
+      "formula": "C2H6S",
+      "cas_rn": "75-18-3"
+    },
+    "product": {
+      "name": "Lithium, [(methylthio)methyl]-",
+      "formula": "C2H5LiS",
+      "cas_rn": "10415-47-1",
+      "yield": 100
+    },
+    "reagents": [
+      {
+        "cas_rn": "109-72-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "110-54-3"
+      }
+    ]
+  },
+  "reaction25": {
+    "reaction_number": "31-026-CAS-20227332",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "4-Methoxybenzyl alcohol",
+        "formula": "C8H10O2",
+        "cas_rn": "105-13-5"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [(4-methoxyphenyl)methyl]dimethyl-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C10H15OS.BF4",
+      "cas_rn": "186956-40-1",
+      "yield": 99
+    },
+    "reagents": [
+      {
+        "cas_rn": "16872-11-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction26": {
+    "reaction_number": "31-614-CAS-37839263",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "4-Methoxybenzyl alcohol",
+        "formula": "C8H10O2",
+        "cas_rn": "105-13-5"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [(4-methoxyphenyl)methyl]dimethyl-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C10H15OS.BF4",
+      "cas_rn": "186956-40-1",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "67969-82-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction27": {
+    "reaction_number": "31-614-CAS-38072214",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "4-Methoxybenzyl alcohol",
+        "formula": "C8H10O2",
+        "cas_rn": "105-13-5"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [(4-methoxyphenyl)methyl]dimethyl-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C10H15OS.BF4",
+      "cas_rn": "186956-40-1",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "67969-82-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction28": {
+    "reaction_number": "31-562-CAS-381434",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Rhenium, carbonyl(\u03b75-2,4-cyclopentadien-1-yl)nitrosyl(trifluoromethanesulfona...",
+        "formula": "C7H5F3NO5ReS",
+        "cas_rn": "134818-57-8"
+      }
+    ],
+    "product": {
+      "name": "Rhenium(1+), carbonyl(\u03b75-2,4-cyclopentadien-1-yl)nitrosyl[thiobis[methane]]-,...",
+      "formula": "C8H11NO2ReS.CF3O3S",
+      "cas_rn": "134818-59-0",
+      "yield": 99
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction29": {
+    "reaction_number": "31-562-CAS-4989931",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iron(1+), dicarbonyl(\u03b75-2,4-cyclopentadien-1-yl)[(1,2-\u03b7)-1-pentene]-, salt wi...",
+        "formula": "C12H15FeO2.C2F6NO4S2",
+        "cas_rn": "1393090-83-9"
+      }
+    ],
+    "product": {
+      "name": "Iron(1+), dicarbonyl(\u03b75-2,4-cyclopentadien-1-yl)[1,1\u2032-thiobis[methane]]-, sal...",
+      "formula": "C9H11FeO2S.C2F6NO4S2",
+      "cas_rn": "1393090-85-1",
+      "yield": 99
+    }
+  },
+  "reaction30": {
+    "reaction_number": "31-026-CAS-8094619",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Bromo-N,N-bis(1-methylethyl)acetamide",
+        "formula": "C8H16BrNO",
+        "cas_rn": "51321-61-0"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [2-[bis(1-methylethyl)amino]-2-oxoethyl]dimethyl-, tetrafluorobora...",
+      "formula": "C10H22NOS.BF4",
+      "cas_rn": "1231941-46-0",
+      "yield": 99
+    },
+    "reagents": [
+      {
+        "cas_rn": "13755-29-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction31": {
+    "reaction_number": "31-562-CAS-20780079",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Stereoisomer of di-\u03bc-bromodibromobis[1,3-dihydro-1,3-bis(1-methylethyl)-2H-be...",
+        "formula": "C26H36Br4N4Pd2",
+        "cas_rn": "895632-19-6"
+      }
+    ],
+    "product": {
+      "name": "C15H24Br2N2PdS",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2378047-29-9",
+      "yield": 99
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction32": {
+    "reaction_number": "31-129-CAS-12765604",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-[3,4-Dimethoxy-6-(phenylmethoxy)-2-(1-propen-1-yl)phenyl]-3-hydroxy-4-(2-me...",
+        "formula": "C26H32O7",
+        "cas_rn": "95730-74-8"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [1-[3,4-dimethoxy-6-(phenylmethoxy)-2-(1-propen-1-yl)benzoyl]-3-(2...",
+      "formula": "C28H34O7S",
+      "cas_rn": "111492-54-7",
+      "yield": 99
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      },
+      {
+        "cas_rn": "128-09-6"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction33": {
+    "reaction_number": "31-026-CAS-757198",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iodonium, [diazo(diethoxyphosphinyl)methyl]phenyl-, 1,1,1-trifluoromethanesul...",
+        "formula": "C11H15IN2O3P.CF3O3S",
+        "cas_rn": "1446712-94-2"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [diazo(diethoxyphosphinyl)methyl]dimethyl-, 1,1,1-trifluoromethane...",
+      "formula": "C7H16N2O3PS.CF3O3S",
+      "cas_rn": "1446712-98-6",
+      "yield": 98
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction34": {
+    "reaction_number": "31-026-CAS-2900472",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-Piperidineethanehydrazonoyl iodide, \u03b1-oxo-I-phenyl-, 1,1,1-trifluoromethane...",
+        "formula": "C13H15IN3O.CF3O3S",
+        "cas_rn": "1446712-96-4"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [1-diazo-2-oxo-2-(1-piperidinyl)ethyl]dimethyl-, 1,1,1-trifluorome...",
+      "formula": "C9H16N3OS.CF3O3S",
+      "cas_rn": "1446713-00-3",
+      "yield": 98
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction35": {
+    "reaction_number": "31-614-CAS-40276223",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Acetic acid, 2-diazo-2-(phenyliodo)-, ethyl ester, 1,1,1-trifluoromethanesulf...",
+        "formula": "C10H10IN2O2.CF3O3S",
+        "cas_rn": "169141-25-7"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (1-diazo-2-ethoxy-2-oxoethyl)dimethyl-, 1,1,1-trifluoromethanesulf...",
+      "formula": "C6H11N2O2S.CF3O3S",
+      "cas_rn": "169141-29-1",
+      "yield": 98
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction36": {
+    "reaction_number": "31-026-CAS-4418054",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl \u03b4-bromobenzenepentanoate",
+        "formula": "C12H15BrO2",
+        "cas_rn": "263750-46-5"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (5-methoxy-5-oxo-1-phenylpentyl)dimethyl-, tetrafluoroborate(1-) (...",
+      "formula": "C14H21O2S.BF4",
+      "cas_rn": "1477519-54-2",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction37": {
+    "reaction_number": "31-026-CAS-1225941",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl \u03b4-bromobenzenepentanoate",
+        "formula": "C12H15BrO2",
+        "cas_rn": "263750-46-5"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (5-methoxy-5-oxo-1-phenylpentyl)dimethyl-, tetrafluoroborate(1-) (...",
+      "formula": "C14H21O2S.BF4",
+      "cas_rn": "1477519-54-2",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction38": {
+    "reaction_number": "31-614-CAS-32065161",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C39H32O4P2Tc.BF4",
+        "formula": "",
+        "cas_rn": "2719051-12-2"
+      }
+    ],
+    "product": {
+      "name": "Technetium(1+)-99Tc, tricarbonyl[1,1\u2032-thiobis[methane]]bis(triphenylphosphine...",
+      "formula": "C41H36O3P2STc.BF4",
+      "cas_rn": "2719050-95-8",
+      "yield": 98
+    },
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      },
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "109-66-0"
+      }
+    ]
+  },
+  "reaction39": {
+    "reaction_number": "31-026-CAS-12357231",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "tert-Butyl bromoacetate",
+        "formula": "C6H11BrO2",
+        "cas_rn": "5292-43-3"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [2-(1,1-dimethylethoxy)-2-oxoethyl]dimethyl-, tetrafluoroborate(1-...",
+      "formula": "C8H17O2S.BF4",
+      "cas_rn": "1231941-48-2",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "13755-29-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction40": {
+    "reaction_number": "31-026-CAS-12148644",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "3-Methyl-2-buten-1-ol",
+        "formula": "C5H10O",
+        "cas_rn": "556-82-1"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl(3-methyl-2-buten-1-yl)-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C7H15S.BF4",
+      "cas_rn": "27557-60-4",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "16872-11-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "60-29-7"
+      }
+    ]
+  },
+  "reaction41": {
+    "reaction_number": "31-026-CAS-19010342",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "3-Methyl-2-buten-1-ol",
+        "formula": "C5H10O",
+        "cas_rn": "556-82-1"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl(3-methyl-2-buten-1-yl)-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C7H15S.BF4",
+      "cas_rn": "27557-60-4",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "67969-82-8"
+      },
+      {
+        "cas_rn": "60-29-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "60-29-7"
+      }
+    ]
+  },
+  "reaction42": {
+    "reaction_number": "31-614-CAS-29765831",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-(2,4-Dichlorophenyl)-1-butanone",
+        "formula": "C10H10Cl2O",
+        "cas_rn": "66353-47-7"
+      }
+    ],
+    "product": {
+      "name": "2-(2,4-Dichlorophenyl)-2-propyloxirane",
+      "formula": "C11H12Cl2O",
+      "cas_rn": "94745-38-7",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "77-78-1"
+      },
+      {
+        "cas_rn": "1310-58-3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-68-5"
+      }
+    ]
+  },
+  "reaction43": {
+    "reaction_number": "31-129-CAS-5933951",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-Hydroxy-1,6-diphenyl-3-hexanone",
+        "formula": "C18H20O2",
+        "cas_rn": "843667-63-0"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (1-benzoyl-2-oxo-5-phenylpentyl)dimethyl-, inner salt",
+      "formula": "C20H22O2S",
+      "cas_rn": "1036384-66-3",
+      "yield": 98
+    },
+    "reagents": [
+      {
+        "cas_rn": "128-09-6"
+      },
+      {
+        "cas_rn": "121-44-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction44": {
+    "reaction_number": "31-562-CAS-14635055",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iridium(1+), aqua(pentafluoroethyl)[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-c...",
+        "formula": "C15H26F5IrOP.BF4",
+        "cas_rn": "231945-50-9"
+      }
+    ],
+    "product": {
+      "name": "Iridium(1+), (pentafluoroethyl)[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclo...",
+      "formula": "C17H30F5IrPS.BF4",
+      "cas_rn": "432493-69-1",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction45": {
+    "reaction_number": "31-614-CAS-31376503",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl (2S,4R)-3-(2-bromoacetyl)-4-phenyl-2-oxazolidineacetate",
+        "formula": "C14H16BrNO4",
+        "cas_rn": "2761597-00-4"
+      }
+    ],
+    "product": {
+      "name": "(3R,8aR)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-3-phenyl-5H-oxazolo[3,2-a]py...",
+      "formula": "C15H17NO3S",
+      "cas_rn": "2761597-06-0",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction46": {
+    "reaction_number": "31-614-CAS-39573026",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Propenoic acid, 2-bromo-3-(4-chloro-2-isocyanophenyl)-, methyl ester, (2Z)-",
+        "formula": "C11H7BrClNO2",
+        "cas_rn": "3031648-08-2"
+      }
+    ],
+    "product": {
+      "name": "3-Quinolinecarboxylic acid, 7-chloro-2-(methylthio)-, methyl ester",
+      "formula": "C12H10ClNO2S",
+      "cas_rn": "3031647-96-5",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "6674-22-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction47": {
+    "reaction_number": "31-614-CAS-29873659",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Benzoic acid",
+        "formula": "C7H6O2",
+        "cas_rn": "65-85-0"
+      },
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      }
+    ],
+    "product": {
+      "name": "Methanol, 1-(methylthio)-, 1-benzoate",
+      "formula": "C9H10O2S",
+      "cas_rn": "19207-88-6",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-42-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction48": {
+    "reaction_number": "31-097-CAS-22168752",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Methylquinoline",
+        "formula": "C10H9N",
+        "cas_rn": "91-63-4"
+      }
+    ],
+    "product": {
+      "name": "2-Methyl-4-[(methylthio)methyl]quinoline",
+      "formula": "C12H13NS",
+      "cas_rn": "2230245-51-7",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "75-77-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-68-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "676525-77-2"
+      }
+    ]
+  },
+  "reaction49": {
+    "reaction_number": "31-614-CAS-25362034",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "2,2\u2032-Dithiobis[5-bromobenzoic acid]",
+        "formula": "C14H8Br2O4S2",
+        "cas_rn": "100540-90-7"
+      },
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      }
+    ],
+    "product": {
+      "name": "5-Bromo-2-(methylthio)benzoic acid",
+      "formula": "C8H7BrO2S",
+      "cas_rn": "62176-40-3",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      },
+      {
+        "cas_rn": "16940-66-2"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "64-17-5"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction50": {
+    "reaction_number": "31-562-CAS-8681147",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "(SP-4-2)-Chloro[2-(diphenylphosphino-\u03baP)-5-methylphenyl-\u03baC][(4-methylphenyl)d...",
+        "formula": "C38H33ClP2Pt",
+        "cas_rn": "1173144-40-5"
+      }
+    ],
+    "product": {
+      "name": "Platinum(1+), [2-(diphenylphosphino-\u03baP)-5-methylphenyl-\u03baC][(4-methylphenyl)di...",
+      "formula": "C40H39P2PtS.BF4",
+      "cas_rn": "1173144-76-7",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-66-3"
+      }
+    ]
+  },
+  "reaction51": {
+    "reaction_number": "31-491-CAS-5155524",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Menthol",
+        "formula": "C10H20O",
+        "cas_rn": "1490-04-6"
+      }
+    ],
+    "product": {
+      "name": "4-Methyl-1-(1-methylethyl)-2-[(methylthio)methoxy]cyclohexane",
+      "formula": "C12H24OS",
+      "cas_rn": "99054-41-8",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "94-36-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction52": {
+    "reaction_number": "31-026-CAS-15041505",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "[(7,8,9,10,11-\u03b7)-10-(1,4-Dioxane-\u03baO1)-1,2,3,4,5,6,7,8,9,11-decahydro-7,8-dica...",
+        "formula": "C8H29B18CoO2",
+        "cas_rn": "188478-29-7"
+      }
+    ],
+    "product": {
+      "name": "C10H35B18CoO2S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1772632-72-0",
+      "yield": 96
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction53": {
+    "reaction_number": "31-026-CAS-12066534",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Acetic acid, 2-bromo-, phenyl ester",
+        "formula": "C8H7BrO2",
+        "cas_rn": "620-72-4"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl(2-oxo-2-phenoxyethyl)-, perchlorate (1:1)",
+      "formula": "C10H13O2S.ClO4",
+      "cas_rn": "1879909-44-0",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "7601-89-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction54": {
+    "reaction_number": "31-614-CAS-29518696",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "1-Methoxy-N,N-dimethyl-1H-indole-3-methanamine",
+        "formula": "C12H16N2O",
+        "cas_rn": "69111-94-0"
+      },
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      }
+    ],
+    "product": {
+      "name": "1-Methoxy-N,N-dimethyl-2-(methylthio)-1H-indole-3-methanamine",
+      "formula": "C13H18N2OS",
+      "cas_rn": "160858-21-9",
+      "yield": 96
+    },
+    "reagents": [
+      {
+        "cas_rn": "109-72-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      },
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction55": {
+    "reaction_number": "31-562-CAS-6062828",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Dicarbonyl(\u03b75-cyclopentadienyl)cobalt",
+        "formula": "C7H5CoO2",
+        "cas_rn": "12078-25-0"
+      }
+    ],
+    "product": {
+      "name": "Cobalt(2+), (\u03b75-2,4-cyclopentadien-1-yl)tris[thiobis[methane]]-, bis[tetraflu...",
+      "formula": "C11H23CoS3.2BF4",
+      "cas_rn": "112908-49-3",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "1282-37-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction56": {
+    "reaction_number": "31-614-CAS-28381416",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "4-Methoxystyrene",
+        "formula": "C9H10O",
+        "cas_rn": "637-69-4"
+      },
+      {
+        "name": "Thiohypochlorous acid, anhydrosulfide with O,O-dimethyl hydrogen phosphorothi...",
+        "formula": "C2H6ClO3PS",
+        "cas_rn": "13894-35-4"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [2-[(dimethoxyphosphinyl)thio]-1-(4-methoxyphenyl)ethyl]dimethyl-,...",
+      "formula": "C13H22O4PS2.ClO4",
+      "cas_rn": "140240-68-2",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "7791-03-9"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-52-5"
+      }
+    ]
+  },
+  "reaction57": {
+    "reaction_number": "31-614-CAS-30797095",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Lauric acid",
+        "formula": "C12H24O2",
+        "cas_rn": "143-07-7"
+      }
+    ],
+    "product": {
+      "name": "(Methylthio)methyl dodecanoate",
+      "formula": "C14H28O2S",
+      "cas_rn": "2619751-25-4",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "429-42-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction58": {
+    "reaction_number": "31-562-CAS-7282573",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Dibromo[(7,8,9,10,11-\u03b7)-1,2,3,4,5,6,8,9-octahydro-7,11-dimethyl-10-[1,1\u2032-thio...",
+        "formula": "C6H20B9Br2RhS",
+        "cas_rn": "1441048-37-8"
+      }
+    ],
+    "product": {
+      "name": "Dibromo[(7,8,9,10,11-\u03b7)-1,2,3,4,5,6,9,10-octahydro-7,8-dimethyl-11-[1,1\u2032-thio...",
+      "formula": "C8H26B9Br2RhS2",
+      "cas_rn": "1441048-29-8",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction59": {
+    "reaction_number": "31-491-CAS-4307562",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Benzenepropanoic acid, \u03b2-(benzoylamino)-\u03b1-[(triethylsilyl)oxy]-, (2aR,4S,4aS,...",
+        "formula": "C53H65NO14Si",
+        "cas_rn": "148930-54-5"
+      }
+    ],
+    "product": {
+      "name": "(2aR,4S,4aS,6R,9S,11S,12S,12aR,12bS)-6,12b-Bis(acetyloxy)-12-(benzoyloxy)-2a,...",
+      "formula": "C55H69NO14SSi",
+      "cas_rn": "174674-03-4",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "94-36-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction60": {
+    "reaction_number": "31-491-CAS-1048747",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Benzenepropanoic acid, \u03b2-(benzoylamino)-\u03b1-[(triethylsilyl)oxy]-, (2aR,4S,4aS,...",
+        "formula": "C53H65NO14Si",
+        "cas_rn": "148930-54-5"
+      }
+    ],
+    "product": {
+      "name": "(2aR,4S,4aS,6R,9S,11S,12S,12aR,12bS)-6,12b-Bis(acetyloxy)-12-(benzoyloxy)-2a,...",
+      "formula": "C55H69NO14SSi",
+      "cas_rn": "174674-03-4",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "144-55-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "94-36-0"
+      }
+    ]
+  },
+  "reaction61": {
+    "reaction_number": "31-013-CAS-9037030",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1,1-Dimethylethyl (4R)-4-(3-bromo-4-hydroxyphenyl)-2,2-dimethyl-3-oxazolidine...",
+        "formula": "C16H22BrNO4",
+        "cas_rn": "162458-73-3"
+      }
+    ],
+    "product": {
+      "name": "3-Oxazolidinecarboxylic acid, 4-(3-bromo-4-methoxyphenyl)-2,2-dimethyl-, 1,1-...",
+      "formula": "C17H24BrNO4",
+      "cas_rn": "162458-74-4",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction62": {
+    "reaction_number": "31-026-CAS-18221779",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Ethyl (2R)-2-(2-bromoacetyl)-2-ethyl-4-pentenoate",
+        "formula": "C11H17BrO3",
+        "cas_rn": "1686093-30-0"
+      }
+    ],
+    "product": {
+      "name": "Ethyl (2R)-2-ethyl-2-[2-(methylthio)acetyl]-4-pentenoate",
+      "formula": "C12H20O3S",
+      "cas_rn": "1686092-92-1",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction63": {
+    "reaction_number": "31-614-CAS-36700069",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C11H10IN2O3.CF3O3S",
+        "formula": "",
+        "cas_rn": "2935928-11-1"
+      }
+    ],
+    "product": {
+      "name": "C7H11N2O3S.CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2935928-13-3",
+      "yield": 95
+    },
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction64": {
+    "reaction_number": "31-614-CAS-39573025",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Propenoic acid, 2-bromo-3-(4-fluoro-2-isocyanophenyl)-, methyl ester, (2Z)-",
+        "formula": "C11H7BrFNO2",
+        "cas_rn": "3031648-07-1"
+      }
+    ],
+    "product": {
+      "name": "3-Quinolinecarboxylic acid, 7-fluoro-2-(methylthio)-, methyl ester",
+      "formula": "C12H10FNO2S",
+      "cas_rn": "3031647-95-4",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "6674-22-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction65": {
+    "reaction_number": "31-614-CAS-39573027",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Propenoic acid, 2-bromo-3-(6-isocyano-1,3-benzodioxol-5-yl)-, methyl ester,...",
+        "formula": "C12H8BrNO4",
+        "cas_rn": "3031648-12-8"
+      }
+    ],
+    "product": {
+      "name": "1,3-Dioxolo[4,5-g]quinoline-7-carboxylic acid, 6-(methylthio)-, methyl ester",
+      "formula": "C13H11NO4S",
+      "cas_rn": "3031648-01-5",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "6674-22-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction66": {
+    "reaction_number": "31-026-CAS-20227335",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Piperonyl alcohol",
+        "formula": "C8H8O3",
+        "cas_rn": "495-76-1"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (1,3-benzodioxol-5-ylmethyl)dimethyl-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C10H13O2S.BF4",
+      "cas_rn": "2345749-34-8",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "16872-11-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction67": {
+    "reaction_number": "31-614-CAS-26094928",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Aminopyridine",
+        "formula": "C5H6N2",
+        "cas_rn": "504-29-0"
+      }
+    ],
+    "product": {
+      "name": "N-(Dimethyl-\u03bb4-sulfanylidene)-2-pyridinamine",
+      "formula": "C7H10N2S",
+      "cas_rn": "42860-85-5",
+      "yield": 95
+    },
+    "reagents": [
+      {
+        "cas_rn": "128-09-6"
+      },
+      {
+        "cas_rn": "124-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction68": {
+    "reaction_number": "31-026-CAS-7605195",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Ethyl (E)-4-bromo-2-butenoate",
+        "formula": "C6H9BrO2",
+        "cas_rn": "37746-78-4"
+      }
+    ],
+    "product": {
+      "name": "Ethyl (2E)-4-(methylthio)-2-butenoate",
+      "formula": "C7H12O2S",
+      "cas_rn": "350809-55-1",
+      "yield": 94
+    }
+  },
+  "reaction69": {
+    "reaction_number": "31-614-CAS-25755839",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Bromo-4-butyrolactone",
+        "formula": "C4H5BrO2",
+        "cas_rn": "5061-21-2"
+      }
+    ],
+    "product": {
+      "name": "Dihydro-3-(methylthio)-2(3H)-furanone",
+      "formula": "C5H8O2S",
+      "cas_rn": "40587-54-0",
+      "yield": 94
+    }
+  },
+  "reaction70": {
+    "reaction_number": "31-341-CAS-18293503",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-(4-Chlorophenyl)-4,4-dimethyl-3-pentanone",
+        "formula": "C13H17ClO",
+        "cas_rn": "66346-01-8"
+      }
+    ],
+    "product": {
+      "name": "2-[2-(4-Chlorophenyl)ethyl]-2-(1,1-dimethylethyl)oxirane",
+      "formula": "C14H19ClO",
+      "cas_rn": "80443-63-6",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "74-83-9"
+      },
+      {
+        "cas_rn": "1310-58-3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "1330-20-7"
+      }
+    ]
+  },
+  "reaction71": {
+    "reaction_number": "31-026-CAS-20770857",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "4-Nitrophenacyl bromide",
+        "formula": "C8H6BrNO3",
+        "cas_rn": "99-81-0"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl[2-(4-nitrophenyl)-2-oxoethyl]-, inner salt",
+      "formula": "C10H11NO3S",
+      "cas_rn": "7380-84-9",
+      "yield": 94
+    },
+    "reagents": [
+      {
+        "cas_rn": "1310-73-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction72": {
+    "reaction_number": "31-614-CAS-27386711",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "5-Fluoro-2-(phenylmethoxy)-4-pyrimidinamine",
+        "formula": "C11H10FN3O",
+        "cas_rn": "1174376-56-7"
+      }
+    ],
+    "product": {
+      "name": "N-(Dimethyl-\u03bb4-sulfanylidene)-5-fluoro-2-(phenylmethoxy)-4-pyrimidinamine",
+      "formula": "C13H14FN3OS",
+      "cas_rn": "1174376-57-8",
+      "yield": 93
+    },
+    "reagents": [
+      {
+        "cas_rn": "128-09-6"
+      },
+      {
+        "cas_rn": "124-41-4"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      }
+    ]
+  },
+  "reaction73": {
+    "reaction_number": "31-013-CAS-19246636",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "2-Pyridinecarbonitrile, 6-amino-3-(1-hydroxy-1-methylethyl)-",
+        "formula": "C9H11N3O",
+        "cas_rn": "2222950-44-7"
+      },
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      }
+    ],
+    "product": {
+      "name": "2-Pyridinecarbonitrile, 6-amino-3-(1-methoxy-1-methylethyl)-",
+      "formula": "C10H13N3O",
+      "cas_rn": "2222950-45-8",
+      "yield": 93
+    },
+    "reagents": [
+      {
+        "cas_rn": "7646-69-7"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ]
+  },
+  "reaction74": {
+    "reaction_number": "31-614-CAS-31589053",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iodonium, (1-diazo-2-oxo-2-phenylethyl)phenyl-, 1,1,1-trifluoromethanesulfona...",
+        "formula": "C14H10IN2O.CF3O3S",
+        "cas_rn": "2608988-64-1"
+      }
+    ],
+    "product": {
+      "name": "C10H11N2OS.CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2764777-37-7",
+      "yield": 93
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction75": {
+    "reaction_number": "31-129-CAS-12315281",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Hydroxy-1,7-diphenyl-4-heptanone",
+        "formula": "C19H22O2",
+        "cas_rn": "1036384-54-9"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl[2-oxo-5-phenyl-1-(2-phenylacetyl)pentyl]-, inner salt",
+      "formula": "C21H24O2S",
+      "cas_rn": "1036384-69-6",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "128-09-6"
+      },
+      {
+        "cas_rn": "121-44-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction76": {
+    "reaction_number": "31-013-CAS-16744601",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "(2E,6E)-3,7-Dimethyl-2,6-dodecadiene-1,8-diol",
+        "formula": "C14H26O2",
+        "cas_rn": "1354779-81-9"
+      }
+    ],
+    "product": {
+      "name": "(2E,6E)-1-Chloro-8-methoxy-3,7-dimethyl-2,6-dodecadiene",
+      "formula": "C15H27ClO",
+      "cas_rn": "1354779-82-0",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "128-09-6"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction77": {
+    "reaction_number": "31-614-CAS-38098840",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Trifluoromethanesulfonic acid",
+        "formula": "CHF3O3S",
+        "cas_rn": "1493-13-6"
+      },
+      {
+        "name": "[1,1\u2032-Biphenyl]-4-methanol",
+        "formula": "C13H12O",
+        "cas_rn": "3597-91-9"
+      }
+    ],
+    "product": {
+      "name": "C15H17S.CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2761013-64-1",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction78": {
+    "reaction_number": "31-298-CAS-17348677",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "4,5-Dihydro-5-[(2,3,4,5,6-pentafluorophenyl)methyl]-3-(phenylmethyl)isoxazole",
+        "formula": "C17H12F5NO",
+        "cas_rn": "161151-99-1"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl[2-oxo-1-[2-(2,3,4,5,6-pentafluorophenyl)acetyl]-3-phenylp...",
+      "formula": "C19H15F5O2S",
+      "cas_rn": "161152-05-2",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      },
+      {
+        "cas_rn": "128-09-6"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction79": {
+    "reaction_number": "31-614-CAS-31589078",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Benzeneethanehydrazonoyl iodide, 4-cyano-\u03b1-oxo-I-phenyl-, 1,1,1-trifluorometh...",
+        "formula": "C15H9IN3O.CF3O3S",
+        "cas_rn": "2764777-41-3"
+      }
+    ],
+    "product": {
+      "name": "C11H10N3OS.CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2764777-43-5",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction80": {
+    "reaction_number": "31-614-CAS-31589081",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C15H12IN2O.CF3O3S",
+        "formula": "",
+        "cas_rn": "2764777-44-6"
+      }
+    ],
+    "product": {
+      "name": "C11H13N2OS.CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2764777-46-8",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction81": {
+    "reaction_number": "31-614-CAS-31589072",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C9H5D3IN2O2.CF3O3S",
+        "formula": "",
+        "cas_rn": "2764777-50-4"
+      }
+    ],
+    "product": {
+      "name": "C5H6D3N2O2S.CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2764777-52-6",
+      "yield": 92
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction82": {
+    "reaction_number": "31-614-CAS-39573019",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Propenoic acid, 2-bromo-3-(5-fluoro-2-isocyanophenyl)-, methyl ester, (2Z)-",
+        "formula": "C11H7BrFNO2",
+        "cas_rn": "3031648-04-8"
+      }
+    ],
+    "product": {
+      "name": "3-Quinolinecarboxylic acid, 6-fluoro-2-(methylthio)-, methyl ester",
+      "formula": "C12H10FNO2S",
+      "cas_rn": "3031647-92-1",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "6674-22-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction83": {
+    "reaction_number": "31-614-CAS-39573024",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Propenoic acid, 2-bromo-3-(4-bromo-2-isocyanophenyl)-, methyl ester, (2Z)-",
+        "formula": "C11H7Br2NO2",
+        "cas_rn": "3031648-09-3"
+      }
+    ],
+    "product": {
+      "name": "3-Quinolinecarboxylic acid, 7-bromo-2-(methylthio)-, methyl ester",
+      "formula": "C12H10BrNO2S",
+      "cas_rn": "3031647-97-6",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "6674-22-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction84": {
+    "reaction_number": "31-614-CAS-39573028",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Propenoic acid, 2-bromo-3-(2-isocyano-5-methoxyphenyl)-, methyl ester, (2Z)-",
+        "formula": "C12H10BrNO3",
+        "cas_rn": "3031648-10-6"
+      }
+    ],
+    "product": {
+      "name": "3-Quinolinecarboxylic acid, 6-methoxy-2-(methylthio)-, methyl ester",
+      "formula": "C13H13NO3S",
+      "cas_rn": "3031647-98-7",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "6674-22-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "109-99-9"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "60804-74-2"
+      }
+    ]
+  },
+  "reaction85": {
+    "reaction_number": "31-026-CAS-20227337",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "trans-Cinnamyl alcohol",
+        "formula": "C9H10O",
+        "cas_rn": "4407-36-7"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl[(2E)-3-phenyl-2-propen-1-yl]-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C11H15S.BF4",
+      "cas_rn": "2345749-37-1",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "16872-11-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction86": {
+    "reaction_number": "31-530-CAS-1982963",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-(Bromomethyl)-6-methyl-4H-pyran-4-one",
+        "formula": "C7H7BrO2",
+        "cas_rn": "99809-37-7"
+      }
+    ],
+    "product": {
+      "name": "2,6-Dimethyl-3-[(methylthio)methyl]-4H-pyran-4-one",
+      "formula": "C9H12O2S",
+      "cas_rn": "124082-69-5",
+      "yield": 92
+    },
+    "reagents": [
+      {
+        "cas_rn": "124-41-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-66-3"
+      },
+      {
+        "cas_rn": "67-56-1"
+      }
+    ]
+  },
+  "reaction87": {
+    "reaction_number": "31-614-CAS-34569011",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Benzyl alcohol",
+        "formula": "C7H8O",
+        "cas_rn": "100-51-6"
+      },
+      {
+        "name": "Trifluoromethanesulfonic acid",
+        "formula": "CHF3O3S",
+        "cas_rn": "1493-13-6"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl(phenylmethyl)-, 1,1,1-trifluoromethanesulfonate (1:1)",
+      "formula": "C9H13S.CF3O3S",
+      "cas_rn": "127138-66-3",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction88": {
+    "reaction_number": "31-614-CAS-36070578",
+    "steps": 1,
+    "stages": 4,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Acrylonitrile",
+        "formula": "C3H3N",
+        "cas_rn": "107-13-1"
+      }
+    ],
+    "product": {
+      "name": "Cyclopropanecarbonitrile",
+      "formula": "C4H5N",
+      "cas_rn": "5500-21-0",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "74-88-4"
+      },
+      {
+        "cas_rn": "124-41-4"
+      },
+      {
+        "cas_rn": "7647-01-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction89": {
+    "reaction_number": "31-562-CAS-5639995",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iron, [(1,2,3,4-\u03b7)-1,3-cyclohexadiene](\u03b75-2,4-cyclopentadien-1-yl)[tetrafluor...",
+        "formula": "C11H13BF4Fe",
+        "cas_rn": "110096-11-2"
+      }
+    ],
+    "product": {
+      "name": "Iron(1+), (\u03b75-2,4-cyclopentadien-1-yl)tris[thiobis[methane]]-, tetrafluorobor...",
+      "formula": "C11H23FeS3.BF4",
+      "cas_rn": "110096-19-0",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction90": {
+    "reaction_number": "31-562-CAS-9454144",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Glutarimide",
+        "formula": "C5H7NO2",
+        "cas_rn": "1121-89-7"
+      }
+    ],
+    "product": {
+      "name": "(SP-4-1)-Bis(2,6-piperidinedionato-\u03baN1)bis[1,1\u2032-thiobis[methane]]palladium",
+      "formula": "C14H24N2O4PdS2",
+      "cas_rn": "1351023-49-8",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "3375-31-3"
+      }
+    ]
+  },
+  "reaction91": {
+    "reaction_number": "31-562-CAS-12359965",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Tricarbonyl(\u03b75-2,4-cyclopentadien-1-yl)molybdenum",
+        "formula": "C8H5MoO3",
+        "cas_rn": "12079-69-5"
+      }
+    ],
+    "product": {
+      "name": "Molybdenum(1+), tricarbonyl(\u03b75-2,4-cyclopentadien-1-yl)[thiobis[methane]]-, t...",
+      "formula": "C10H11MoO3S.BF4",
+      "cas_rn": "123246-73-1",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction92": {
+    "reaction_number": "31-562-CAS-1477011",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Dicarbonyl[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]cobalt",
+        "formula": "C12H15CoO2",
+        "cas_rn": "12129-77-0"
+      }
+    ],
+    "product": {
+      "name": "Cobalt(2+), [(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]tris...",
+      "formula": "C16H33CoS3.2BF4",
+      "cas_rn": "945742-32-5",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "1293-04-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction93": {
+    "reaction_number": "31-614-CAS-24841047",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-(1-Chlorocyclopropyl)-2-(2-chlorophenyl)ethanone",
+        "formula": "C11H10Cl2O",
+        "cas_rn": "139297-65-7"
+      }
+    ],
+    "product": {
+      "name": "2-(1-Chlorocyclopropyl)-2-[(2-chlorophenyl)methyl]oxirane",
+      "formula": "C12H12Cl2O",
+      "cas_rn": "134818-68-1",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "77-78-1"
+      },
+      {
+        "cas_rn": "1310-58-3"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ]
+  },
+  "reaction94": {
+    "reaction_number": "31-562-CAS-20265287",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Tetramethylbis[\u03bc-[1,1\u2032-thiobis[methane]]]diplatinum",
+        "formula": "C8H24Pt2S2",
+        "cas_rn": "79870-64-7"
+      },
+      {
+        "name": "1,3-Dihydro-1,3-bis(2,4,6-trimethylphenyl)-2H-imidazol-2-ylidene",
+        "formula": "C21H24N2",
+        "cas_rn": "141556-42-5"
+      }
+    ],
+    "product": {
+      "name": "C25H36N2PtS",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2321416-93-5",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "71-43-2"
+      }
+    ]
+  },
+  "reaction95": {
+    "reaction_number": "31-562-CAS-15643299",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "[1,3-Bis[2,6-bis(1-methylethyl)phenyl]-1,3-dihydro-2H-imidazol-2-ylidene]chlo...",
+        "formula": "C27H36AuClN2",
+        "cas_rn": "852445-83-1"
+      },
+      {
+        "name": "C62H92AlNaO4",
+        "formula": "",
+        "cas_rn": "1644638-25-4"
+      }
+    ],
+    "product": {
+      "name": "C62H92AlO4.C29H42AuN2S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "1644638-29-8",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction96": {
+    "reaction_number": "31-026-CAS-14652072",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Ethyl 2-(bromomethyl)-2-propenoate",
+        "formula": "C6H9BrO2",
+        "cas_rn": "17435-72-2"
+      }
+    ],
+    "product": {
+      "name": "Ethyl 2-[(methylthio)methyl]-2-propenoate",
+      "formula": "C7H12O2S",
+      "cas_rn": "61784-47-2",
+      "yield": 91
+    }
+  },
+  "reaction97": {
+    "reaction_number": "31-614-CAS-29969136",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "(SP-4-1)-Dichlorobis[thiobis[methane]]platinum",
+        "formula": "C4H12Cl2PtS2",
+        "cas_rn": "17457-51-1"
+      },
+      {
+        "name": "(SP-4-2)-Dichlorobis[1,1\u2032-thiobis[methane]]platinum",
+        "formula": "C4H12Cl2PtS2",
+        "cas_rn": "17836-09-8"
+      }
+    ],
+    "product": {
+      "name": "(SP-4-3)-Chloromethylbis[thiobis[methane]]platinum",
+      "formula": "C5H15ClPtS2",
+      "cas_rn": "87145-39-9",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction98": {
+    "reaction_number": "31-614-CAS-26526977",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "9-Bromo-9-BBN",
+        "formula": "C8H14BBr",
+        "cas_rn": "22086-45-9"
+      }
+    ],
+    "product": {
+      "name": "Boron, bromo-1,5-cyclooctanediyl[thiobis[methane]]-, (T-4)-",
+      "formula": "C10H20BBrS",
+      "cas_rn": "70160-59-7",
+      "yield": 91
+    }
+  },
+  "reaction99": {
+    "reaction_number": "31-562-CAS-12545590",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iridium(1+), aqua[(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl...",
+        "formula": "C16H26F7IrOP.BF4",
+        "cas_rn": "231945-54-3"
+      }
+    ],
+    "product": {
+      "name": "Iridium(1+), [(1,2,3,4,5-\u03b7)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl][1,...",
+      "formula": "C18H30F7IrPS.BF4",
+      "cas_rn": "432493-67-9",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction100": {
+    "reaction_number": "31-562-CAS-7298494",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iron(1+), (\u03b75-2,4-cyclopentadien-1-yl)[(1,2,3,4,5,6-\u03b7)-1,4-dimethylbenzene]-,...",
+        "formula": "C13H15Fe.F6P",
+        "cas_rn": "34978-37-5"
+      }
+    ],
+    "product": {
+      "name": "Iron(1+), (\u03b75-2,4-cyclopentadien-1-yl)tris[thiobis[methane]]-, hexafluorophos...",
+      "formula": "C11H23FeS3.F6P",
+      "cas_rn": "118229-13-3",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction101": {
+    "reaction_number": "31-614-CAS-30562910",
+    "steps": 1,
+    "stages": 4,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2-Acetyl-6-methoxynaphthalene",
+        "formula": "C13H12O2",
+        "cas_rn": "3900-45-6"
+      }
+    ],
+    "product": {
+      "name": "6-Methoxy-\u03b1-methyl-2-naphthaleneacetaldehyde",
+      "formula": "C14H14O2",
+      "cas_rn": "27602-75-1",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "7664-93-9"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "1310-73-2"
+      },
+      {
+        "cas_rn": "7705-08-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "141-78-6"
+      }
+    ]
+  },
+  "reaction102": {
+    "reaction_number": "31-129-CAS-1661517",
+    "steps": 1,
+    "stages": 3,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "3-Hydroxy-1,4-diphenyl-1-butanone",
+        "formula": "C16H16O2",
+        "cas_rn": "54322-84-8"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (1-benzoyl-2-oxo-3-phenylpropyl)dimethyl-, inner salt",
+      "formula": "C18H18O2S",
+      "cas_rn": "27735-65-5",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "128-09-6"
+      },
+      {
+        "cas_rn": "121-44-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction103": {
+    "reaction_number": "31-491-CAS-2116107",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "\u03b1-D-Galactopyranoside, phenylmethyl 2-(acetylamino)-2-deoxy-, 4,6-bis(2,2-dim...",
+        "formula": "C25H37NO8",
+        "cas_rn": "592533-32-9"
+      }
+    ],
+    "product": {
+      "name": "\u03b1-D-Galactopyranoside, phenylmethyl 2-(acetylamino)-2-deoxy-3-O-[(methylthio)...",
+      "formula": "C27H41NO8S",
+      "cas_rn": "592533-34-1",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "94-36-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction104": {
+    "reaction_number": "31-341-CAS-11698492",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Dimethyl sulfate",
+        "formula": "C2H6O4S",
+        "cas_rn": "77-78-1"
+      },
+      {
+        "name": "1-(2,4-Dichlorophenyl)-1-butanone",
+        "formula": "C10H10Cl2O",
+        "cas_rn": "66353-47-7"
+      }
+    ],
+    "product": {
+      "name": "2-(2,4-Dichlorophenyl)-2-propyloxirane",
+      "formula": "C11H12Cl2O",
+      "cas_rn": "94745-38-7",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "7719-09-7"
+      },
+      {
+        "cas_rn": "1310-58-3"
+      }
+    ]
+  },
+  "reaction105": {
+    "reaction_number": "31-614-CAS-38072215",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl 4-(hydroxymethyl)benzoate",
+        "formula": "C9H10O3",
+        "cas_rn": "6908-41-4"
+      }
+    ],
+    "product": {
+      "name": "C11H15O2S.BF4",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2990591-31-4",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "67969-82-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction106": {
+    "reaction_number": "31-491-CAS-8369395",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1,14-Dimethyl (3S,6S,7S,9S,12S)-3,12-bis(1,1-dimethylethyl)-7-hydroxy-4,11-di...",
+        "formula": "C39H53N5O7",
+        "cas_rn": "854754-05-5"
+      }
+    ],
+    "product": {
+      "name": "1,14-Dimethyl (3S,6S,7S,9S,12S)-3,12-bis(1,1-dimethylethyl)-7-[(methylthio)me...",
+      "formula": "C41H57N5O7S",
+      "cas_rn": "858034-86-3",
+      "yield": 91
+    },
+    "reagents": [
+      {
+        "cas_rn": "94-36-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction107": {
+    "reaction_number": "31-562-CAS-2028499",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Rhenium, (\u03b75-2,4-cyclopentadien-1-yl)nitrosyl(trifluoromethanesulfonato-\u03baO)(t...",
+        "formula": "C24H20F3NO4PReS",
+        "cas_rn": "92695-35-7"
+      }
+    ],
+    "product": {
+      "name": "Rhenium(1+), (\u03b75-2,4-cyclopentadien-1-yl)nitrosyl[thiobis[methane]](triphenyl...",
+      "formula": "C25H26NOPReS.CF3O3S",
+      "cas_rn": "134818-49-8",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction108": {
+    "reaction_number": "31-562-CAS-2055041",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Rhenium, (2,2\u2032-bipyridine-\u03baN1,\u03baN1\u2032)tricarbonyl(1,1,1-trifluoromethanesulfonat...",
+        "formula": "C14H8F3N2O6ReS",
+        "cas_rn": "97170-94-0"
+      }
+    ],
+    "product": {
+      "name": "Rhenium(1+), (2,2\u2032-bipyridine-\u03baN1,\u03baN1\u2032)tricarbonyl[1,1\u2032-thiobis[methane]]-, (...",
+      "formula": "C15H14N2O3ReS.CF3O3S",
+      "cas_rn": "1438417-05-0",
+      "yield": 91
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction109": {
+    "reaction_number": "31-026-CAS-13576789",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Propargyl bromide",
+        "formula": "C3H3Br",
+        "cas_rn": "106-96-7"
+      }
+    ],
+    "product": {
+      "name": "Dimethyl-2-propyn-1-ylsulfonium",
+      "formula": "C5H9S",
+      "cas_rn": "44398-04-1",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction110": {
+    "reaction_number": "31-614-CAS-26448695",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iodonium, [(4-methylbenzoyl)amino]phenyl-, 4-methylbenzenesulfonate (1:1)",
+        "formula": "C14H13INO.C7H7O3S",
+        "cas_rn": "120188-74-1"
+      }
+    ],
+    "product": {
+      "name": "Benzamide, N-(dimethyl-\u03bb4-sulfanylidene)-4-methyl-, 4-methylbenzenesulfonate ...",
+      "formula": "C10H13NOS.C7H8O3S",
+      "cas_rn": "120188-86-5",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction111": {
+    "reaction_number": "31-614-CAS-25481664",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Magnesium(2+), di-\u03bc3-bromotetra-\u03bc-chlorohexakis[1,1\u2032-oxybis[ethane]]tetra-, (...",
+        "formula": "C24H60Br2Cl4Mg4O6.2C12H2BF10",
+        "cas_rn": "1305318-52-8"
+      }
+    ],
+    "product": {
+      "name": "(T-4)-Hydrobis(2,3,4,5,6-pentafluorophenyl)[1,1\u2032-thiobis[methane]]boron",
+      "formula": "C14H7BF10S",
+      "cas_rn": "1000399-06-3",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "75-77-4"
+      }
+    ]
+  },
+  "reaction112": {
+    "reaction_number": "31-614-CAS-28077269",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-(1,2-Dimethyl-1-propen-1-yl)-4-methoxybenzene",
+        "formula": "C12H16O",
+        "cas_rn": "13399-33-2"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [2-(4-methoxyphenyl)-3-methyl-2-buten-1-yl]dimethyl-, perchlorate ...",
+      "formula": "C14H21OS.ClO4",
+      "cas_rn": "119561-06-7",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "931-59-9"
+      },
+      {
+        "cas_rn": "933-00-6"
+      },
+      {
+        "cas_rn": "933-01-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-52-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7791-03-9"
+      }
+    ]
+  },
+  "reaction113": {
+    "reaction_number": "31-562-CAS-10992901",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Iron pentacarbonyl",
+        "formula": "C5FeO5",
+        "cas_rn": "13463-40-6"
+      }
+    ],
+    "product": {
+      "name": "Iron, tetracarbonyl[thiobis[methane]]-, (TB-5-12)-",
+      "formula": "C6H6FeO4S",
+      "cas_rn": "131377-94-1",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "110-54-3"
+      }
+    ]
+  },
+  "reaction114": {
+    "reaction_number": "31-013-CAS-10741867",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2H-Isoindole-2-acetic acid, \u03b1-[[3-chloro-4-[3-[2-chloro-4-[2-[[(1,1-dimethyle...",
+        "formula": "C58H80Cl2N2O14Si3",
+        "cas_rn": "159379-75-6"
+      }
+    ],
+    "product": {
+      "name": "2H-Isoindole-2-acetic acid, \u03b1-[[3-chloro-4-[3-[2-chloro-4-[2-[[(1,1-dimethyle...",
+      "formula": "C59H82Cl2N2O14Si3",
+      "cas_rn": "159379-76-7",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-64-1"
+      }
+    ]
+  },
+  "reaction115": {
+    "reaction_number": "31-614-CAS-30112884",
+    "steps": 1,
+    "stages": 5,
+    "reactants": [
+      {
+        "name": "Ethyl (2R)-2-acetyl-2-ethyl-4-pentenoate",
+        "formula": "C11H18O3",
+        "cas_rn": "1686092-89-6"
+      },
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      }
+    ],
+    "product": {
+      "name": "Ethyl (2R)-2-ethyl-2-[2-(methylthio)acetyl]-4-pentenoate",
+      "formula": "C12H20O3S",
+      "cas_rn": "1686092-92-1",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "121-44-8"
+      },
+      {
+        "cas_rn": "27607-77-8"
+      },
+      {
+        "cas_rn": "144-55-8"
+      },
+      {
+        "cas_rn": "128-08-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      },
+      {
+        "cas_rn": "75-05-8"
+      },
+      {
+        "cas_rn": "109-99-9"
+      },
+      {
+        "cas_rn": "108-88-3"
+      }
+    ]
+  },
+  "reaction116": {
+    "reaction_number": "31-614-CAS-26643434",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Ethyl 2-Diazo-4,4,4-trifluoro-3-oxobutanoate",
+        "formula": "C6H5F3N2O3",
+        "cas_rn": "18955-75-4"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, [1-(ethoxycarbonyl)-3,3,3-trifluoro-2-oxopropyl]dimethyl-, inner salt",
+      "formula": "C8H11F3O3S",
+      "cas_rn": "821005-56-5",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "108-88-3"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "15956-28-2"
+      }
+    ]
+  },
+  "reaction117": {
+    "reaction_number": "31-614-CAS-28881788",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "1-(1,2-Dimethyl-1-propen-1-yl)-4-methylbenzene",
+        "formula": "C12H16",
+        "cas_rn": "25570-44-9"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethyl[3-methyl-2-(4-methylphenyl)-2-buten-1-yl]-, perchlorate (...",
+      "formula": "C14H21S.ClO4",
+      "cas_rn": "119561-08-9",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "931-59-9"
+      },
+      {
+        "cas_rn": "933-00-6"
+      },
+      {
+        "cas_rn": "933-01-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-52-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7791-03-9"
+      }
+    ]
+  },
+  "reaction118": {
+    "reaction_number": "31-614-CAS-31589088",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C15H12IN2O2.CF3O3S",
+        "formula": "",
+        "cas_rn": "2608988-41-4"
+      }
+    ],
+    "product": {
+      "name": "C11H13N2O2S.CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2764777-49-1",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction119": {
+    "reaction_number": "31-614-CAS-31589062",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C14H9BrIN2O.CF3O3S",
+        "formula": "",
+        "cas_rn": "2764777-38-8"
+      }
+    ],
+    "product": {
+      "name": "C10H10BrN2OS.CF3O3S",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2764777-40-2",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction120": {
+    "reaction_number": "31-026-CAS-20462737",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Benzeneacetic acid, \u03b1-bromo-, methyl ester",
+        "formula": "C9H9BrO2",
+        "cas_rn": "3042-81-7"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (2-methoxy-2-oxo-1-phenylethyl)dimethyl-, tetrafluoroborate(1-) (1:1)",
+      "formula": "C11H15O2S.BF4",
+      "cas_rn": "2364344-37-4",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "14104-20-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction121": {
+    "reaction_number": "31-026-CAS-9604611",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Propyl 2,2,2-trifluoroacetate",
+        "formula": "C5H7F3O2",
+        "cas_rn": "383-66-4"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, dimethylpropyl-, 2,2,2-trifluoroacetate (1:1)",
+      "formula": "C5H13S.C2F3O2",
+      "cas_rn": "1613165-71-1",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction122": {
+    "reaction_number": "31-614-CAS-30378542",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2,3-Dimethyl-2-butene",
+        "formula": "C6H12",
+        "cas_rn": "563-79-1"
+      }
+    ],
+    "product": {
+      "name": "Sulfonium, (2,3-dimethyl-2-buten-1-yl)dimethyl-, perchlorate (1:1)",
+      "formula": "C8H17S.ClO4",
+      "cas_rn": "119561-04-5",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "931-59-9"
+      },
+      {
+        "cas_rn": "933-00-6"
+      },
+      {
+        "cas_rn": "933-01-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-52-5"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "7791-03-9"
+      }
+    ]
+  },
+  "reaction123": {
+    "reaction_number": "31-614-CAS-26290257",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "6-Iodo-2-phenylimidazo[1,2-a]pyridine",
+        "formula": "C13H9IN2",
+        "cas_rn": "61982-63-6"
+      }
+    ],
+    "product": {
+      "name": "6-Iodo-3-(methylthio)-2-phenylimidazo[1,2-a]pyridine",
+      "formula": "C14H11IN2S",
+      "cas_rn": "1803404-84-3",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "420-04-2"
+      },
+      {
+        "cas_rn": "7553-56-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-68-5"
+      }
+    ]
+  },
+  "reaction124": {
+    "reaction_number": "31-097-CAS-6915959",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Aniline",
+        "formula": "C6H7N",
+        "cas_rn": "62-53-3"
+      },
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      }
+    ],
+    "product": {
+      "name": "2-[(Methylthio)methyl]benzenamine",
+      "formula": "C8H11NS",
+      "cas_rn": "34774-84-0",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "507-40-4"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction125": {
+    "reaction_number": "31-293-CAS-10831684",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "N-(2,2-Dimethyl-7-nitro-2H-1-benzopyran-6-yl)acetamide",
+        "formula": "C13H14N2O4",
+        "cas_rn": "64169-74-0"
+      }
+    ],
+    "product": {
+      "name": "N-[(1aR,7bS)-1,1a,2,7b-Tetrahydro-2,2-dimethyl-5-nitrobenzo[b]cyclopropa[d]py...",
+      "formula": "C14H16N2O4",
+      "cas_rn": "228269-56-5",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "536-80-1"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "107-06-2"
+      },
+      {
+        "cas_rn": "108-88-3"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "70951-75-6"
+      },
+      {
+        "cas_rn": "228269-63-4"
+      }
+    ]
+  },
+  "reaction126": {
+    "reaction_number": "31-026-CAS-23288409",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Benzene, 1-(difluoromethyl)-4-methyl-",
+        "formula": "C8H8F2",
+        "cas_rn": "66865-75-6"
+      },
+      {
+        "name": "1,1,1-Trifluoro-N-[(trifluoromethyl)sulfonyl]-N-(trimethylsilyl)methanesulfon...",
+        "formula": "C5H9F6NO4S2Si",
+        "cas_rn": "82113-66-4"
+      }
+    ],
+    "product": {
+      "name": "C10H14FS.C2F6NO4S2",
+      "formula": "$DTYPE RXN:RCT(1):CAS_RN",
+      "cas_rn": "2618309-72-9",
+      "yield": 90
+    },
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "121827-59-6"
+      }
+    ]
+  },
+  "reaction127": {
+    "reaction_number": "31-562-CAS-9848229",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Bis[(1,2,3,4,5-\u03b7)-1-(1,1-dimethylethyl)-2,4-cyclopentadien-1-yl]trihydrotantalum",
+        "formula": "C18H29Ta",
+        "cas_rn": "84749-48-4"
+      }
+    ],
+    "product": {
+      "name": "Tantalum(1+), bis[(1,2,3,4,5-\u03b7)-1-(1,1-dimethylethyl)-2,4-cyclopentadien-1-yl...",
+      "formula": "C20H34STa.BF4",
+      "cas_rn": "227201-40-3",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "67969-82-8"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "60-29-7"
+      }
+    ]
+  },
+  "reaction128": {
+    "reaction_number": "31-201-CAS-8310826",
+    "steps": 1,
+    "stages": 1,
+    "reactant": {
+      "name": "Dimethyl sulfide",
+      "formula": "C2H6S",
+      "cas_rn": "75-18-3"
+    },
+    "product": {
+      "name": "Chloromethyl methyl sulfide",
+      "formula": "C2H5ClS",
+      "cas_rn": "2373-51-5",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "7647-01-0"
+      },
+      {
+        "cas_rn": "7782-50-5"
+      }
+    ]
+  },
+  "reaction129": {
+    "reaction_number": "31-614-CAS-25778412",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Chlorosuccinimide",
+        "formula": "C4H4ClNO2",
+        "cas_rn": "128-09-6"
+      },
+      {
+        "name": "Indole",
+        "formula": "C8H7N",
+        "cas_rn": "120-72-9"
+      }
+    ],
+    "products": [
+      {
+        "name": "Succinimide",
+        "formula": "C4H5NO2",
+        "cas_rn": "123-56-8",
+        "yield": 100
+      },
+      {
+        "name": "1H-Indol-3-yldimethylsulfonium",
+        "formula": "C10H12NS",
+        "cas_rn": "107669-94-3",
+        "yield": 100
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction130": {
+    "reaction_number": "31-508-CAS-10596325",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "4,8b-Dihydro-3,3,8b-trimethyl-7-nitro-3H-oxazirino[3,2-a]isoquinoline",
+        "formula": "C12H14N2O3",
+        "cas_rn": "1373769-51-7"
+      }
+    ],
+    "products": [
+      {
+        "name": "Dimethyl sulfoxide",
+        "formula": "C2H6OS",
+        "cas_rn": "67-68-5",
+        "yield": 100
+      },
+      {
+        "name": "3,4-Dihydro-1,3,3-trimethyl-7-nitroisoquinoline",
+        "formula": "C12H14N2O2",
+        "cas_rn": "1373769-53-9"
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "75-75-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction131": {
+    "reaction_number": "31-508-CAS-20280634",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "C17H14ClN3O5",
+        "formula": "",
+        "cas_rn": "2330815-71-7"
+      }
+    ],
+    "products": [
+      {
+        "name": "Dimethyl sulfoxide",
+        "formula": "C2H6OS",
+        "cas_rn": "67-68-5",
+        "yield": 100
+      },
+      {
+        "name": "1-(4-Chloro-3-nitrophenyl)-3,4-dihydro-3,3-dimethyl-7-nitroisoquinoline",
+        "formula": "C17H14ClN3O4",
+        "cas_rn": "2330815-61-5"
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "75-75-2"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      }
+    ]
+  },
+  "reaction132": {
+    "reaction_number": "31-614-CAS-27463460",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "2,3-Dimethyl-2-butene",
+        "formula": "C6H12",
+        "cas_rn": "563-79-1"
+      },
+      {
+        "name": "Thiohypochlorous acid, anhydrosulfide with O,O-bis(1-methylethyl) hydrogen ph...",
+        "formula": "C6H14ClO3PS",
+        "cas_rn": "51756-01-5"
+      }
+    ],
+    "products": [
+      {
+        "name": "Thioperoxydiphosphoric acid ([(HO)2P(O)]2S2), tetrakis(1-methylethyl) ester",
+        "formula": "C12H28O6P2S2",
+        "cas_rn": "56341-78-7",
+        "yield": 20
+      },
+      {
+        "name": "Sulfonium, (2,3-dimethyl-2-buten-1-yl)dimethyl-, perchlorate (1:1)",
+        "formula": "C8H17S.ClO4",
+        "cas_rn": "119561-04-5",
+        "yield": 100
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "7791-03-9"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-52-5"
+      }
+    ]
+  },
+  "reaction133": {
+    "reaction_number": "31-614-CAS-31376498",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Ethyl (2R,4R)-3-(2-bromoacetyl)-2-methyl-4-phenyl-2-oxazolidineacetate",
+        "formula": "C16H20BrNO4",
+        "cas_rn": "2761597-01-5"
+      },
+      {
+        "name": "Ethyl (2S,4R)-3-(2-bromoacetyl)-2-methyl-4-phenyl-2-oxazolidineacetate",
+        "formula": "C16H20BrNO4",
+        "cas_rn": "2761597-31-1"
+      }
+    ],
+    "products": [
+      {
+        "name": "(3R,8aR)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-8a-methyl-3-phenyl-5H-oxazol...",
+        "formula": "C16H19NO3S",
+        "cas_rn": "2761597-08-2",
+        "yield": 96
+      },
+      {
+        "name": "(3R,8aS)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-8a-methyl-3-phenyl-5H-oxazol...",
+        "formula": "C16H19NO3S",
+        "cas_rn": "2761597-18-4",
+        "yield": 2
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction134": {
+    "reaction_number": "31-614-CAS-31376493",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl (2S,4R)-3-(2-bromoacetyl)-2-(2-naphthalenyl)-4-phenyl-2-oxazolidineace...",
+        "formula": "C24H22BrNO4",
+        "cas_rn": "2761597-04-8"
+      },
+      {
+        "name": "Methyl (2R,4R)-3-(2-bromoacetyl)-2-(2-naphthalenyl)-4-phenyl-2-oxazolidineace...",
+        "formula": "C24H22BrNO4",
+        "cas_rn": "2761597-34-4"
+      }
+    ],
+    "products": [
+      {
+        "name": "(3R,8aS)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-8a-(2-naphthalenyl)-3-phenyl...",
+        "formula": "C25H23NO3S",
+        "cas_rn": "2761597-12-8",
+        "yield": 96
+      },
+      {
+        "name": "(3R,8aR)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-8a-(2-naphthalenyl)-3-phenyl...",
+        "formula": "C25H23NO3S",
+        "cas_rn": "2761597-22-0",
+        "yield": 2
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction135": {
+    "reaction_number": "31-614-CAS-31376500",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl (2S,4R)-3-(2-bromoacetyl)-2-(4-nitrophenyl)-4-phenyl-2-oxazolidineacetate",
+        "formula": "C20H19BrN2O6",
+        "cas_rn": "2761597-05-9"
+      },
+      {
+        "name": "Methyl (2R,4R)-3-(2-bromoacetyl)-2-(4-nitrophenyl)-4-phenyl-2-oxazolidineacetate",
+        "formula": "C20H19BrN2O6",
+        "cas_rn": "2761597-35-5"
+      }
+    ],
+    "products": [
+      {
+        "name": "(3R,8aS)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-8a-(4-nitrophenyl)-3-phenyl-...",
+        "formula": "C21H20N2O5S",
+        "cas_rn": "2761597-13-9",
+        "yield": 96
+      },
+      {
+        "name": "(3R,8aR)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-8a-(4-nitrophenyl)-3-phenyl-...",
+        "formula": "C21H20N2O5S",
+        "cas_rn": "2761597-23-1",
+        "yield": 2
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction136": {
+    "reaction_number": "31-614-CAS-31376491",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl (2S,4R)-3-(2-bromoacetyl)-2,4-diphenyl-2-oxazolidineacetate",
+        "formula": "C20H20BrNO4",
+        "cas_rn": "2770028-35-6"
+      },
+      {
+        "name": "Methyl (2R,4R)-3-(2-bromoacetyl)-2,4-diphenyl-2-oxazolidineacetate",
+        "formula": "C20H20BrNO4",
+        "cas_rn": "2770028-52-7"
+      }
+    ],
+    "products": [
+      {
+        "name": "(3R,8aS)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-3,8a-diphenyl-5H-oxazolo[3,2...",
+        "formula": "C21H21NO3S",
+        "cas_rn": "2761597-11-7",
+        "yield": 96
+      },
+      {
+        "name": "(3R,8aR)-6-(Dimethyl-\u03bb4-sulfanylidene)tetrahydro-3,8a-diphenyl-5H-oxazolo[3,2...",
+        "formula": "C21H21NO3S",
+        "cas_rn": "2761597-21-9",
+        "yield": 2
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction137": {
+    "reaction_number": "31-614-CAS-31376492",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl (2R,4R)-3-(2-bromoacetyl)-2-ethyl-4-phenyl-2-oxazolidineacetate",
+        "formula": "C16H20BrNO4",
+        "cas_rn": "2761597-02-6"
+      },
+      {
+        "name": "Methyl (2S,4R)-3-(2-bromoacetyl)-2-ethyl-4-phenyl-2-oxazolidineacetate",
+        "formula": "C16H20BrNO4",
+        "cas_rn": "2761597-32-2"
+      }
+    ],
+    "products": [
+      {
+        "name": "(3R,8aR)-6-(Dimethyl-\u03bb4-sulfanylidene)-8a-ethyltetrahydro-3-phenyl-5H-oxazolo...",
+        "formula": "C17H21NO3S",
+        "cas_rn": "2761597-09-3",
+        "yield": 95
+      },
+      {
+        "name": "(3R,8aS)-6-(Dimethyl-\u03bb4-sulfanylidene)-8a-ethyltetrahydro-3-phenyl-5H-oxazolo...",
+        "formula": "C17H21NO3S",
+        "cas_rn": "2761597-19-5",
+        "yield": 3
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction138": {
+    "reaction_number": "31-614-CAS-31376501",
+    "steps": 1,
+    "stages": 2,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Methyl (2S,4R)-3-(2-bromoacetyl)-2-butyl-4-phenyl-2-oxazolidineacetate",
+        "formula": "C18H24BrNO4",
+        "cas_rn": "2761597-03-7"
+      },
+      {
+        "name": "Methyl (2R,4R)-3-(2-bromoacetyl)-2-butyl-4-phenyl-2-oxazolidineacetate",
+        "formula": "C18H24BrNO4",
+        "cas_rn": "2761597-33-3"
+      }
+    ],
+    "products": [
+      {
+        "name": "(3R,8aR)-8a-Butyl-6-(dimethyl-\u03bb4-sulfanylidene)tetrahydro-3-phenyl-5H-oxazolo...",
+        "formula": "C19H25NO3S",
+        "cas_rn": "2761597-10-6",
+        "yield": 95
+      },
+      {
+        "name": "(3R,8aS)-8a-Butyl-6-(dimethyl-\u03bb4-sulfanylidene)tetrahydro-3-phenyl-5H-oxazolo...",
+        "formula": "C19H25NO3S",
+        "cas_rn": "2761597-20-8",
+        "yield": 3
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-09-2"
+      },
+      {
+        "cas_rn": "67-56-1"
+      },
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction139": {
+    "reaction_number": "31-491-CAS-1370203",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Paclitaxel",
+        "formula": "C47H51NO14",
+        "cas_rn": "33069-62-4"
+      }
+    ],
+    "products": [
+      {
+        "name": "(2aR,4S,4aS,6R,9S,11S,12S,12aR,12bS)-6,12b-Bis(acetyloxy)-12-(benzoyloxy)-2a,...",
+        "formula": "C49H55NO14S",
+        "cas_rn": "160237-25-2",
+        "yield": 95
+      },
+      {
+        "name": "Benzenepropanoic acid, \u03b2-(benzoylamino)-\u03b1-[(methylthio)methoxy]-, 6,12b-bis(a...",
+        "formula": "C51H59NO14S2",
+        "cas_rn": "160237-34-3"
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "94-36-0"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction140": {
+    "reaction_number": "31-614-CAS-27518091",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Sulfonium, (iodomethyl)dimethyl-, tetrafluoroborate(1-) (1:1)",
+        "formula": "C3H8IS.BF4",
+        "cas_rn": "283601-15-0"
+      }
+    ],
+    "products": [
+      {
+        "name": "Sulfonium, trimethyl-, tetrafluoroborate(1-) (1:1)",
+        "formula": "C3H9S.BF4",
+        "cas_rn": "676-88-0"
+      },
+      {
+        "name": "Methane, iodo(methylthio)-",
+        "formula": "C2H5IS",
+        "cas_rn": "43034-68-0",
+        "yield": 94
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction141": {
+    "reaction_number": "31-367-CAS-6919775",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Dimethyl sulfide",
+        "formula": "C2H6S",
+        "cas_rn": "75-18-3"
+      },
+      {
+        "name": "Trifluoroacetic acid",
+        "formula": "C2HF3O2",
+        "cas_rn": "76-05-1"
+      },
+      {
+        "name": "Pyridinium, 2-methyl-4,6-diphenyl-1-(phenylamino)-, tetrafluoroborate(1-) (1:1)",
+        "formula": "C24H21N2.BF4",
+        "cas_rn": "116905-37-4"
+      }
+    ],
+    "products": [
+      {
+        "name": "2,2,2-Trifluoro-N-phenylacetamide",
+        "formula": "C8H6F3NO",
+        "cas_rn": "404-24-0",
+        "yield": 44
+      },
+      {
+        "name": "2-Methyl-4,6-diphenylpyridine",
+        "formula": "C18H15N",
+        "cas_rn": "1912-16-9",
+        "yield": 99
+      },
+      {
+        "name": "2,2,2-Trifluoro-N-[2-(methylthio)phenyl]acetamide",
+        "formula": "C9H8F3NOS",
+        "cas_rn": "52260-24-9",
+        "yield": 16
+      },
+      {
+        "name": "2,2,2-Trifluoro-N-[4-(methylthio)phenyl]acetamide",
+        "formula": "C9H8F3NOS",
+        "cas_rn": "117681-83-1",
+        "yield": 20
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "76-05-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+$RDFILE 1
+$DATM 01/03/2025 14:31:00
+$RFMT $RIREG SCHEME1 STEP1
+$RXN
+
+
+
+  1  1
+$MOL
+Ethane
+C2H6
+74-84-0 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$MOL
+Vinyl chloride
+C2H3Cl
+75-01-4 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  3 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.3337 0.0000 0.0 0
+M  V30 2 C 0.0000 0.7700 0.0 0
+M  V30 3 Cl 2.6673 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 1 3
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$DTYPE RXN:RCT(1):CAS_RN
+$DATUM 74-84-0
+$DTYPE RXN:PRO(1):CAS_RN
+$DATUM 75-01-4
+$DTYPE RXN:VAR(1):CAS_Reaction_Number
+$DATUM 31-614-CAS-29488924
+$DTYPE RXN:VAR(1):STEPS
+$DATUM 1
+$DTYPE RXN:VAR(1):STAGES
+$DATUM 1
+$DTYPE RXN:VAR(1):PRO(1):YIELD
+$DATUM 100
+$DTYPE RXN:VAR(1):RGT(1):CAS_RN
+$DATUM 7647-01-0
+$DTYPE RXN:VAR(1):RGT(2):CAS_RN
+$DATUM 7782-44-7
+$DTYPE RXN:VAR(1):CAT(1):CAS_RN
+$DATUM 7447-39-4
+$DTYPE RXN:VAR(1):CAT(2):CAS_RN
+$DATUM 221552-00-7
+$DTYPE RXN:VAR(1):NOTES
+$DATUM solid-supported catalyst, supported on alumina, catalyst prepared and
+used, fixed bed reactor, molecular seives used, optimization study,
+optimization on catalyst and stoichiometry of catalyst, selectivity 43.8%
+$DTYPE RXN:VAR(1):REFERENCE(1):TITLE
+$DATUM The effect of interaction between La2AlCoO6 and CuCl2 on ethane
+oxychlorination
+$DTYPE RXN:VAR(1):REFERENCE(1):AUTHOR
+$DATUM Yang, Lirong; Hu, Ruisheng; Li, Huan; Jia, Yun; Zhou, Qihua; Wang, Hongye
+$DTYPE RXN:VAR(1):REFERENCE(1):CITATION
+$DATUM Journal of Industrial and Engineering Chemistry (Amsterdam, Netherlands)
+(2017), 56120-128
+
+$RFMT $RIREG SCHEME1 STEP1
+$RXN
+
+
+
+  1  1
+$MOL
+Ethane
+C2H6
+74-84-0 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$MOL
+Vinyl chloride
+C2H3Cl
+75-01-4 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  3 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 1.3337 0.0000 0.0 0
+M  V30 2 C 0.0000 0.7700 0.0 0
+M  V30 3 Cl 2.6673 0.7700 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 1 3
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$DTYPE RXN:RCT(1):CAS_RN
+$DATUM 74-84-0
+$DTYPE RXN:PRO(1):CAS_RN
+$DATUM 75-01-4
+$DTYPE RXN:VAR(1):CAS_Reaction_Number
+$DATUM 31-614-CAS-29095560
+$DTYPE RXN:VAR(1):STEPS
+$DATUM 1
+$DTYPE RXN:VAR(1):STAGES
+$DATUM 1
+$DTYPE RXN:VAR(1):PRO(1):YIELD
+$DATUM 100
+$DTYPE RXN:VAR(1):RGT(1):CAS_RN
+$DATUM 7647-01-0
+$DTYPE RXN:VAR(1):RGT(2):CAS_RN
+$DATUM 7782-44-7
+$DTYPE RXN:VAR(1):CAT(1):CAS_RN
+$DATUM 7447-39-4
+$DTYPE RXN:VAR(1):CAT(2):CAS_RN
+$DATUM 7757-79-1
+$DTYPE RXN:VAR(1):CAT(3):CAS_RN
+$DATUM 10099-59-9
+$DTYPE RXN:VAR(1):CAT(4):CAS_RN
+$DATUM 10377-66-9
+$DTYPE RXN:VAR(1):CAT(5):CAS_RN
+$DATUM 13138-45-9
+$DTYPE RXN:VAR(1):CAT(6):CAS_RN
+$DATUM 63920-03-6
+$DTYPE RXN:VAR(1):CAT(7):CAS_RN
+$DATUM 1365536-69-1
+$DTYPE RXN:VAR(1):NOTES
+$DATUM solid-supported catalyst, fixed-bed reactor used, catalyst prepared and
+used, selectivity, 59.4%, alumina support used
+$DTYPE RXN:VAR(1):REFERENCE(1):TITLE
+$DATUM Catalytic activities of supported perovskite promoter catalysts
+La2NiMnO6-CuCl2/γ-Al2O3 and La1.7K0.3NiMnO6-CuCl2/γ-Al2O3 for ethane
+oxychlorination
+$DTYPE RXN:VAR(1):REFERENCE(1):AUTHOR
+$DATUM Shi, Dezhi; Hu, Ruisheng; Zhou, Qihua; Yang, Lirong
+$DTYPE RXN:VAR(1):REFERENCE(1):CITATION
+$DATUM Chemical Engineering Journal (Amsterdam, Netherlands) (2016), 288588-595
+
+$RFMT $RIREG SCHEME2 STEP1
+$RXN
+
+
+
+  1  1
+$MOL
+Ethane
+C2H6
+74-84-0 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$MOL
+Ethylene
+C2H4
+74-85-1 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$DTYPE RXN:RCT(1):CAS_RN
+$DATUM 74-84-0
+$DTYPE RXN:PRO(1):CAS_RN
+$DATUM 74-85-1
+$DTYPE RXN:VAR(1):CAS_Reaction_Number
+$DATUM 31-479-CAS-23206396
+$DTYPE RXN:VAR(1):STEPS
+$DATUM 1
+$DTYPE RXN:VAR(1):STAGES
+$DATUM 1
+$DTYPE RXN:VAR(1):PRO(1):YIELD
+$DATUM 96
+$DTYPE RXN:VAR(1):CAT(1):CAS_RN
+$DATUM 1344-28-1
+$DTYPE RXN:VAR(1):CAT(2):CAS_RN
+$DATUM 7440-05-3
+$DTYPE RXN:VAR(1):NOTES
+$DATUM kinetic study
+$DTYPE RXN:VAR(1):REFERENCE(1):TITLE
+$DATUM Intensification of the dehydrogenation process of different hydrocarbons
+in a catalytic membrane reactor
+$DTYPE RXN:VAR(1):REFERENCE(1):AUTHOR
+$DATUM Shelepova, Ekaterina V.; Vedyagin, Aleksey A.
+$DTYPE RXN:VAR(1):REFERENCE(1):CITATION
+$DATUM Chemical Engineering and Processing (2020), 155108072
+
+$RFMT $RIREG SCHEME2 STEP1
+$RXN
+
+
+
+  1  1
+$MOL
+Ethane
+C2H6
+74-84-0 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$MOL
+Ethylene
+C2H4
+74-85-1 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$DTYPE RXN:RCT(1):CAS_RN
+$DATUM 74-84-0
+$DTYPE RXN:PRO(1):CAS_RN
+$DATUM 74-85-1
+$DTYPE RXN:VAR(1):CAS_Reaction_Number
+$DATUM 31-479-CAS-18397865
+$DTYPE RXN:VAR(1):STEPS
+$DATUM 1
+$DTYPE RXN:VAR(1):STAGES
+$DATUM 1
+$DTYPE RXN:VAR(1):PRO(1):YIELD
+$DATUM 94
+$DTYPE RXN:VAR(1):RGT(1):CAS_RN
+$DATUM 7782-44-7
+$DTYPE RXN:VAR(1):CAT(1):CAS_RN
+$DATUM 3375-31-3
+$DTYPE RXN:VAR(1):CAT(2):CAS_RN
+$DATUM 7440-05-3
+$DTYPE RXN:VAR(1):CAT(2):AMD
+$DATUM salts
+$DTYPE RXN:VAR(1):CAT(3):CAS_RN
+$DATUM 13601-08-6
+$DTYPE RXN:VAR(1):CAT(4):CAS_RN
+$DATUM 91864-05-0
+$DTYPE RXN:VAR(1):NOTES
+$DATUM conversion, 49%, selectivity, 98%, Fed plug-flow reactor used, catalyst
+prepared and used, optimization study, optimized on reaction conditions
+$DTYPE RXN:VAR(1):REFERENCE(1):TITLE
+$DATUM Catalyst for oxidative dehydrogenation of ethane
+$DTYPE RXN:VAR(1):REFERENCE(1):AUTHOR
+$DATUM Simanzhenkov, Vasily; Gao, Xiaoliang; Sullivan, David Jeffrey; Kustov,
+Leonid Modestovich; Kucherov, Aleksey Victorovich; Finashina, Elena
+Dmitrievna
+$DTYPE RXN:VAR(1):REFERENCE(1):CITATION
+$DATUM United States, US20170361309 A1 2017-12-21
+
+$RFMT $RIREG SCHEME2 STEP1
+$RXN
+
+
+
+  1  1
+$MOL
+Ethane
+C2H6
+74-84-0 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$MOL
+Ethylene
+C2H4
+74-85-1 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$DTYPE RXN:RCT(1):CAS_RN
+$DATUM 74-84-0
+$DTYPE RXN:PRO(1):CAS_RN
+$DATUM 74-85-1
+$DTYPE RXN:VAR(1):CAS_Reaction_Number
+$DATUM 31-479-CAS-23775952
+$DTYPE RXN:VAR(1):STEPS
+$DATUM 1
+$DTYPE RXN:VAR(1):STAGES
+$DATUM 1
+$DTYPE RXN:VAR(1):PRO(1):YIELD
+$DATUM 93
+$DTYPE RXN:VAR(1):RGT(1):CAS_RN
+$DATUM 7782-44-7
+$DTYPE RXN:VAR(1):CAT(1):CAS_RN
+$DATUM 1313-99-1
+$DTYPE RXN:VAR(1):CAT(2):CAS_RN
+$DATUM 1344-28-1
+$DTYPE RXN:VAR(1):NOTES
+$DATUM solid-supported catalyst, catalyst prepared and used, fixed bed quartz
+reactor used, nickel-support and used, optimization study, optimized on
+reaction conditions, selectivity,95.0%, conversion,3.4%
+$DTYPE RXN:VAR(1):REFERENCE(1):TITLE
+$DATUM The nickel-support interaction as determining factor of the selectivity
+to ethylene in the oxidative dehydrogenation of ethane over nickel
+oxide/alumina catalysts
+$DTYPE RXN:VAR(1):REFERENCE(1):AUTHOR
+$DATUM Abdelbaki, Yousra; de Arriba, Agustin; Solsona, Benjamin; Delgado,
+Daniel; Garcia-Gonzalez, Ester; Issaadi, Rachid; Lopez Nieto, Jose M.
+$DTYPE RXN:VAR(1):REFERENCE(1):CITATION
+$DATUM Applied Catalysis, A: General (2021), 623118242
+
+$RFMT $RIREG SCHEME2 STEP1
+$RXN
+
+
+
+  1  1
+$MOL
+Ethane
+C2H6
+74-84-0 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$MOL
+Ethylene
+C2H4
+74-85-1 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$DTYPE RXN:RCT(1):CAS_RN
+$DATUM 74-84-0
+$DTYPE RXN:PRO(1):CAS_RN
+$DATUM 74-85-1
+$DTYPE RXN:VAR(1):CAS_Reaction_Number
+$DATUM 31-479-CAS-17584329
+$DTYPE RXN:VAR(1):STEPS
+$DATUM 1
+$DTYPE RXN:VAR(1):STAGES
+$DATUM 1
+$DTYPE RXN:VAR(1):PRO(1):YIELD
+$DATUM 92
+$DTYPE RXN:VAR(1):RGT(1):CAS_RN
+$DATUM 7782-44-7
+$DTYPE RXN:VAR(1):CAT(1):CAS_RN
+$DATUM 1313-27-5
+$DTYPE RXN:VAR(1):CAT(2):CAS_RN
+$DATUM 13463-67-7
+$DTYPE RXN:VAR(1):NOTES
+$DATUM solid-supported catalyst, optimized on catalyst, time and temperature,
+optimization study, helium gas used, scalable, MoO3 supported TiO2
+nanorods catalyst prepared and used, fixed-bed down flow quartz reactor
+used, other products also detected
+$DTYPE RXN:VAR(1):REFERENCE(1):TITLE
+$DATUM MoO3 Nanoclusters Decorated on TiO2 Nanorods for Oxidative
+dehydrogenation of ethane to ethylene
+$DTYPE RXN:VAR(1):REFERENCE(1):AUTHOR
+$DATUM Sarkar, Bipul; Goyal, Reena; Sivakumar Konathala, L. N.; Pendem,
+Chandrashekar; Sasaki, Takehiko; Bal, Rajaram
+$DTYPE RXN:VAR(1):REFERENCE(1):CITATION
+$DATUM Applied Catalysis, B: Environmental (2017), 217637-649
+
+$RFMT $RIREG SCHEME2 STEP1
+$RXN
+
+
+
+  1  1
+$MOL
+Ethane
+C2H6
+74-84-0 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$MOL
+Ethylene
+C2H4
+74-85-1 Copyright (C) 2024 ACS
+  0  0  0     0  0            999 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS  2 1 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.0000 0.0000 0.0 0
+M  V30 2 C 1.5400 0.0000 0.0 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 END BOND
+M  V30 END CTAB
+M  END
+$DTYPE RXN:RCT(1):CAS_RN
+$DATUM 74-84-0
+$DTYPE RXN:PRO(1):CAS_RN
+$DATUM 74-85-1
+$DTYPE RXN:VAR(1):CAS_Reaction_Number
+$DATUM 31-479-CAS-17815985
+$DTYPE RXN:VAR(1):STEPS
+$DATUM 1
+$DTYPE RXN:VAR(1):STAGES
+$DATUM 1
+$DTYPE RXN:VAR(1):PRO(1):YIELD
+$DATUM 90
+$DTYPE RXN:VAR(1):RGT(1):CAS_RN
+$DATUM 7647-01-0
+$DTYPE RXN:VAR(1):RGT(2):CAS_RN
+$DATUM 7782-44-7
+$DTYPE RXN:VAR(1):CAT(1):CAS_RN
+$DATUM 13759-95-0
+$DTYPE RXN:VAR(1):NOTES
+$DATUM gas phase, solid-supported catalyst, selective reaction, EuOCl/TiO2 used,
+catalyst prepared and used, scalable
+$DTYPE RXN:VAR(1):REFERENCE(1):TITLE
+$DATUM Olefins from Natural Gas by Oxychlorination
+$DTYPE RXN:VAR(1):REFERENCE(1):AUTHOR
+$DATUM Zichittella, Guido; Aellen, Nicolas; Paunovic, Vladimir; Amrute, Amol P.;
+Perez-Ramirez, Javier
+$DTYPE RXN:VAR(1):REFERENCE(1):CITATION
+$DATUM Angewandte Chemie, International Edition (2017), 56(44), 13670-13674
