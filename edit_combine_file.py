@@ -69,20 +69,23 @@ def edit_combine_file(input_file):
     print(f"Kept {len([line for line in cleaned_content if line.startswith('CAS Reaction Number:')])} reactions")
 
 def main():
-    input_file = ("Tyrosine/combine.txt")
-    
-    print("Editing the original file...")
-    print("This will remove all unwanted lines and keep only essential reaction information.")
-    print("Now includes support for lines starting with '|' that contain Solvents, Catalysts, or Reagents.")
-    
-    # Create a new output file instead of overwriting
-    output_file = input_file.replace('.txt', '_cleaned.txt')
-    
-    # Copy the original to the output file first
-    with open(input_file, 'r', encoding='utf-8') as src, open(output_file, 'w', encoding='utf-8') as dst:
-        dst.write(src.read())
-    
-    edit_combine_file(output_file)
+    directory = ["Aspartate", "Cysteine", "Glutamate", "Glutamine", "Glycine", "Histidine", "Lysine",
+                 "Phenylalanine", "Proline", "Serine"]
+    for name in directory:
+        input_file = (f"{name}/combine.txt")
+
+        print("Editing the original file...")
+        print("This will remove all unwanted lines and keep only essential reaction information.")
+        print("Now includes support for lines starting with '|' that contain Solvents, Catalysts, or Reagents.")
+
+        # Create a new output file instead of overwriting
+        output_file = input_file.replace('.txt', '_cleaned.txt')
+
+        # Copy the original to the output file first
+        with open(input_file, 'r', encoding='utf-8') as src, open(output_file, 'w', encoding='utf-8') as dst:
+            dst.write(src.read())
+
+        edit_combine_file(output_file)
 
 if __name__ == "__main__":
     main() 

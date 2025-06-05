@@ -1,0 +1,3892 @@
+CAS SciFinder                                                   Task History
+	
+January 3, 2025, 2:47 PM
+	
+Initiating Search
+	
+Reactions:|Structure Search
+	
+
+	
+|
+	
+Filtered By:
+Structure Match: As Drawn
+Substance Role: Reactant
+Yield: 90-100%
+Non-Participating Functional Groups: Ether, Alkene, Organometal, Cyclic alkene, Amine, Diene, Cyclopentadienyl metal, Tertiary amine, Carboxamidine, Amide, Imine, Alcohol, Ketone, Primary amine, Urea, Acetal, Acyclic alkene, Acyclic ketone, Carboxylic ester, Halide, Primary alcohol, Secondary amine, Nitrile, Carboxylic acid, Phenyl halide, Sulfide, Aldehyde, Alkyl halide, Alkyne, Cyclic alcohol, Cyclic ketone, Nitro, Secondary alcohol, Unsaturated ester, Phosphonate
+Reaction Type: Full
+Language: English
+Publication Year: 2000 to 2024
+	
+Excluded:
+Reaction Mapping: No Mapping Data Available
+Solvent: THF-d8, Acetonitrile-d3, Benzene-d6
+Reaction Notes: Thermal, Microwave Irradiation, Ultrasound
+CA Section: Electrochemical, Radiational, and Thermal Energy Technology, Magnetic Phenomena
+	
+Search Tasks
+	
+   1. Exported: Returned Reaction Results + Filters (152)   View Results
+	
+
+
+View in CAS SciFinder
+	
+Reactions (50)
+	
+1. Scheme 1 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Nucleophilic addition reactions to nitrilium derivatives [B12H11NCCH3]- and [B12H11NCCH2CH3]-. Synthesis and structures of closo-dodecaborate-based iminols, amides and amidines
+By: Laskova, Julia; et al
+Dalton Transactions (2022), 51(8), 3051-3059.
+Find It @ Emory
+10.1039/d1dt04174f
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-614-CAS-34355987
+1.1|Solvents: Acetonitrile; 12 h, rt|
+	
+	
+                                                                                                                              
+2. Scheme 2 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Selective cage boron/carbon extrusion reaction of 13-vertex carborane μ-1,2-(CH2)3-1,2-C2B11H11: Formation of nido-CB10, closo-CB10, and closo-C2B10 species
+By: Zhang, Jian; et al
+Chemical Communications (Cambridge, United Kingdom) (2011), 47(28), 8082-8084.
+Find It @ Emory
+10.1039/c1cc12023a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 99%
+CAS Reaction Number: 31-614-CAS-28437728
+1.1|Reagents: Triethylamine|
+|Solvents: Methanol; 24 h, rt|
+	
+	
+                                                                                                                              
+3. Scheme 3 (3 Reactions)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Exploring the versatility of a bis(phosphinimine) pincer ligand: effect of sterics on structure and lactide polymerization activity of cationic zinc complexes
+By: Wheaton, Craig A.; et al
+Catalysis Science & Technology (2012), 2(1), 125-138.
+Find It @ Emory
+10.1039/c1cy00306b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-562-CAS-4397521
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+	
+	
+Catalysts for the polymerization of cyclic lactones
+Assignee: University of Lethbridge
+United States, US20100130753 A1 2010-05-27
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-562-CAS-4400827
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+	
+	
+Catalysts for the polymerization of cyclic lactones
+Assignee: University of Lethbridge
+Canada, CA2686355 A1 2010-05-24
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-562-CAS-5219815
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+	
+	
+                                                                                                                              
+4. Scheme 4 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Nucleophilic addition reactions to nitrilium derivatives [B12H11NCCH3]- and [B12H11NCCH2CH3]-. Synthesis and structures of closo-dodecaborate-based iminols, amides and amidines
+By: Laskova, Julia; et al
+Dalton Transactions (2022), 51(8), 3051-3059.
+Find It @ Emory
+10.1039/d1dt04174f
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-614-CAS-34355992
+1.1|Solvents: Acetonitrile; 12 h, rt|
+	
+	
+                                                                                                                              
+5. Scheme 5 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+|
+|
+
+
+||
+	
+Synthesis, Structure, Thermal Stability, and Magnetic and Luminescence Properties of Dinuclear Lanthanide(III) Pivalates with Chelating N-Donor Ligands
+By: Fomina, Irina G.; et al
+European Journal of Inorganic Chemistry (2012), 2012(22), 3595-3610, S3595/1-S3595/6.
+Find It @ Emory
+10.1002/ejic.201200235
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-614-CAS-30792721
+1.1|Reagents: Oxygen; 80 °C; 20 °C|
+	
+	
+                                                                                                                              
+6. Scheme 6 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+
+||
+	
+Synthesis, Structure, Thermal Stability, and Magnetic and Luminescence Properties of Dinuclear Lanthanide(III) Pivalates with Chelating N-Donor Ligands
+By: Fomina, Irina G.; et al
+European Journal of Inorganic Chemistry (2012), 2012(22), 3595-3610, S3595/1-S3595/6.
+Find It @ Emory
+10.1002/ejic.201200235
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-614-CAS-29972262
+1.1|Reagents: Oxygen; 80 °C; 20 °C|
+	
+	
+                                                                                                                              
+7. Scheme 7 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+|
+|
+
+
+||
+	
+Cationic zinc complexes: a new class of catalyst for living lactide polymerization at ambient temperature
+By: Wheaton, Craig A.; et al
+Chemical Communications (Cambridge, United Kingdom) (2010), 46(44), 8404-8406.
+Find It @ Emory
+10.1039/c0cc03463k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-562-CAS-5520886
+1.1|Solvents: Toluene; 30 min, rt|
+	
+	
+                                                                                                                              
+8. Scheme 8 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+3031473-79-4
+Image Not Available
+
+||
+	
+Closed Synthetic Cycle for Nickel-Based Dihydrogen Formation
+By: Hosseinmardi, Soosan; et al
+Chemistry - A European Journal (2023), 29(64), e202302063.
+Find It @ Emory
+10.1002/chem.202302063
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-614-CAS-39889228
+1.1|Solvents: Tetrahydrofuran; 1 h, 0 °C|
+1.2|rt|
+	
+	
+                                                                                                                              
+9. Scheme 9 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+
+||
+	
+Influence of the nature of organic ligands on the character of thermal decomposition products of CoII and NiII pivalate complexes with amino derivatives of pyridine
+By: Fomina, I. G.; et al
+Russian Chemical Bulletin (2010), 59(6), 1175-1185.
+Find It @ Emory
+10.1007/s11172-010-0220-2
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-317-CAS-13832221
+1.1|Solvents: Acetonitrile; 70 °C|
+	
+	
+                                                                                                                              
+10. Scheme 10 (1 Reaction)
+	
+
+
+|
+|
+
+|
+|
+|
+|
+3031473-79-4
+Image Not Available
+
+
+||
+	
+Closed Synthetic Cycle for Nickel-Based Dihydrogen Formation
+By: Hosseinmardi, Soosan; et al
+Chemistry - A European Journal (2023), 29(64), e202302063.
+Find It @ Emory
+10.1002/chem.202302063
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-39889232
+1.1|Solvents: Acetonitrile; 1 h, 0 °C|
+	
+	
+                                                                                                                              
+11. Scheme 11 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+
+||
+	
+Redox Behavior of Cobalt-Phosphine Complexes vs Their Catalytic Activity in Organozinc Compound Formation: Background for Mechanistic Investigations
+By: Ivanytsya, Mykyta O.; et al
+Inorganic Chemistry (2023), 62(15), 5906-5919.
+Find It @ Emory
+10.1021/acs.inorgchem.2c03816
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-36112160
+1.1|Solvents: Acetonitrile, Dichloromethane; overnight, rt|
+	
+	
+                                                                                                                              
+12. Scheme 12 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Organometallic Complexes of Bulky, Optically Active, C3-Symmetric Tris(4S-isopropyl-5,5-dimethyl-2-oxazolinyl)phenylborate (ToP*)
+By: Xu, Songchen; et al
+Organometallics (2015), 34(14), 3508-3519.
+Find It @ Emory
+10.1021/acs.organomet.5b00225
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-562-CAS-4781114
+1.1|Solvents: Benzene; 1 h, rt|
+	
+	
+                                                                                                                              
+13. Scheme 13 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+	
+Double bond geometry shown
+
+||
+	
+Nucleophilic addition reactions to nitrilium derivatives [B12H11NCCH3]- and [B12H11NCCH2CH3]-. Synthesis and structures of closo-dodecaborate-based iminols, amides and amidines
+By: Laskova, Julia; et al
+Dalton Transactions (2022), 51(8), 3051-3059.
+Find It @ Emory
+10.1039/d1dt04174f
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-614-CAS-34355998
+1.1|Solvents: Acetonitrile; 12 h, rt|
+	
+	
+                                                                                                                              
+14. Scheme 14 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (+)
+
+|
+|
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+||
+	
+BOM-Phosphinite as an Electrophilic P-Stereogenic Transfer Reagent for the Synthesis of Bulky Phosphines: Synthesis of tert-Butyl(3,5-di-tert-butylphenyl)BisP*
+By: Rojo, Pep; et al
+Organic Letters (2021), 23(12), 4802-4806.
+Find It @ Emory
+10.1021/acs.orglett.1c01522
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-28970322
+1.1|Reagents: Triethylamine|
+|Solvents: Dichloromethane; 25 °C → 0 °C|
+1.2|0 °C; 0 °C → 25 °C; 2 h, 25 °C|
+	
+	
+                                                                                                                              
+15. Scheme 15 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Unusual condensation of propargylamine. Generation of the 1,3-di(propargylimino)propane anion coordinated to the cobalt(III) atom
+By: Sidorov, A. A.; et al
+Russian Chemical Bulletin (Translation of Izvestiya Akademii Nauk, Seriya Khimicheskaya) (2001), 50(11), 2206-2211.
+Find It @ Emory
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-1578777
+1.1|Solvents: Dichloromethane|
+	
+	
+                                                                                                                              
+16. Scheme 16 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (-)
+|
+|
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (-)
+||
+	
+Total synthesis of rapamycin
+By: Ley, Steven V.; et al
+Chemistry - A European Journal (2009), 15(12), 2874-2914.
+Find It @ Emory
+10.1002/chem.200801656
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-368-CAS-14123951
+1.1|Reagents: Bis(trifluoroacetoxy)iodobenzene, Lithium bis(trimethylsilyl)amide|
+|Solvents: Tetrahydrofuran; -20 °C; 20 min, -20 °C; 1 h, -10 °C|
+1.2|Reagents: Ammonium chloride|
+|Solvents: Diethyl ether, Water; -20 °C → rt|
+	
+	
+                                                                                                                              
+17. Scheme 17 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+The synthesis and reactivity of phosphinous acid-boranes
+By: Stankevic, Marek; et al
+Synthesis (2005), (8), 1279-1290.
+Find It @ Emory
+10.1055/s-2005-861878
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-28254306
+1.1|Reagents: Potassium carbonate|
+|Solvents: Acetone; 5 min, rt|
+1.2|3 h, reflux|
+	
+	
+                                                                                                                              
+18. Scheme 18 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (+)
+
+|
+|
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+||
+	
+BOM-Phosphinite as an Electrophilic P-Stereogenic Transfer Reagent for the Synthesis of Bulky Phosphines: Synthesis of tert-Butyl(3,5-di-tert-butylphenyl)BisP*
+By: Rojo, Pep; et al
+Organic Letters (2021), 23(12), 4802-4806.
+Find It @ Emory
+10.1021/acs.orglett.1c01522
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-614-CAS-28044381
+1.1|Reagents: Cesium carbonate|
+|Solvents: Acetone; 0 °C; 0 °C → 25 °C; 15 h, 25 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Ethyl acetate, Water; pH 1, 25 °C|
+	
+	
+                                                                                                                              
+19. Scheme 19 (3 Reactions)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Catalysts for the polymerization of cyclic lactones
+Assignee: University of Lethbridge
+United States, US20100130753 A1 2010-05-27
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-562-CAS-6259800
+1.1|Solvents: Benzene, Heptane; rt; 30 min, rt|
+	
+	
+Catalysts for the polymerization of cyclic lactones
+Assignee: University of Lethbridge
+Canada, CA2686355 A1 2010-05-24
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-562-CAS-14374336
+1.1|Solvents: Benzene, Heptane; rt; 30 min, rt|
+	
+	
+Cationic Organomagnesium Complexes as Highly Active Initiators for the Ring-Opening Polymerization of ε-Caprolactone
+By: Ireland, Benjamin J.; et al
+Organometallics (2010), 29(5), 1079-1084.
+Find It @ Emory
+10.1021/om900669y
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-562-CAS-9578733
+1.1|Solvents: Benzene, Heptane; rt; 30 min, rt|
+	
+	
+                                                                                                                              
+20. Scheme 20 (1 Reaction)
+	
+
+
+Absolute stereochemistry shown,
+	
+Rotation (-)
+
+
+|
+|
+
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (-)
+||
+	
+Bulky metallocavitands with a chiral cavity constructed by aluminum and magnesium atrane-likes: enantioselective recognition and separation of racemic alcohols
+By: Li, Yingguo; et al
+Dalton Transactions (2015), 44(12), 5692-5702.
+Find It @ Emory
+10.1039/c4dt03848g
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-27517557
+No Data Available|
+	
+	
+                                                                                                                              
+21. Scheme 21 (1 Reaction)
+	
+
+
+|
+|
+
+||
+	
+Structure Transformation of Methylammonium Polyoxomolybdates via In-Solution Acidification and Solid-State Heating from Methylammonium Monomolybdate and Application as Negative Staining Reagents for Coronavirus Observation
+By: Sukmana, Ndaru Candra; et al
+Inorganic Chemistry (2024), 63(22), 10207-10220.
+Find It @ Emory
+10.1021/acs.inorgchem.4c00543
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-614-CAS-41524000
+1.1|Reagents: Oxygen; 1 h, 120 °C|
+	
+	
+                                                                                                                              
+22. Scheme 22 (1 Reaction)
+	
+
+
+|
+|
+
+||
+	
+Structure Transformation of Methylammonium Polyoxomolybdates via In-Solution Acidification and Solid-State Heating from Methylammonium Monomolybdate and Application as Negative Staining Reagents for Coronavirus Observation
+By: Sukmana, Ndaru Candra; et al
+Inorganic Chemistry (2024), 63(22), 10207-10220.
+Find It @ Emory
+10.1021/acs.inorgchem.4c00543
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-614-CAS-41524001
+1.1|Reagents: Oxygen; 1 h, 200 °C|
+	
+	
+                                                                                                                              
+23. Scheme 23 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+|
+|
+
+
+||
+	
+Thorium-phosphorus triamidoamine complexes containing Th-P single- and multiple-bond interactions
+By: Wildman, Elizabeth P.; et al
+Nature Communications (2016), 7, 12884.
+Find It @ Emory
+10.1038/ncomms12884
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-562-CAS-19909206
+1.1|Solvents: 1,2-Dimethoxyethane; -78 °C → rt; 16 h, rt|
+1.2|-|
+	
+	
+                                                                                                                              
+24. Scheme 24 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Odorless regioselective ring opening of epoxides with S-alkylisothiouronium salts as masked thiols in water
+By: Panchadhayee, Rajib; et al
+ARKIVOC (Gainesville, FL, United States) (2008), (2), 298-307.
+Find It @ Emory
+10.3998/ark.5550190.0010.228
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-26354751
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 30 min, rt|
+	
+	
+                                                                                                                              
+25. Scheme 25 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+A 3D Analogue of Phenyllithium: Solution-Phase, Solid-State, and Computational Study of the Lithiacarborane [Li-CB11H11]-
+By: Dontha, Rakesh; et al
+Angewandte Chemie, International Edition (2019), 58(52), 19007-19013.
+Find It @ Emory
+10.1002/anie.201910568
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-614-CAS-27965613
+1.1|Reagents: Butyllithium|
+|Solvents: Diethyl ether, Hexane; -20 °C; 3 h, -20 °C → 20 °C; 20 °C → -20 °C|
+1.2|Reagents: Zinc chloride; -20 °C; 1 h, 20 °C|
+	
+	
+                                                                                                                              
+26. Scheme 26 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Cationic Allyl Complexes of the Rare-Earth Metals: Synthesis, Structural Characterization, and 1,3-Butadiene Polymerization Catalysis
+By: Robert, Dominique; et al
+Chemistry - A European Journal (2009), 15(44), 11937-11947.
+Find It @ Emory
+10.1002/chem.200901616
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-562-CAS-3064847
+1.1|30 min, rt|
+	
+	
+                                                                                                                              
+27. Scheme 27 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Synthesis of a Crystalline Molecular Complex of Y2+, [(18-crown-6)K][(C5H4SiMe3)3Y]
+By: MacDonald, Matthew R.; et al
+Journal of the American Chemical Society (2011), 133(40), 15914-15917.
+Find It @ Emory
+10.1021/ja207151y
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-562-CAS-3637401
+1.1|Solvents: Toluene; 3 h, rt|
+	
+	
+                                                                                                                              
+28. Scheme 28 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+|
+|
+
+
+||
+	
+Structure and Bonding of a Zwitterionic Iridium Complex Supported by a Phosphine with the Parent Carba-closo-dodecaborate CB11H11- Ligand Substituent
+By: El-Hellani, Ahmad; et al
+Organometallics (2013), 32(23), 6887-6890.
+Find It @ Emory
+10.1021/om401001p
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-25694777
+1.1|Reagents: Butyllithium|
+|Solvents: Tetrahydrofuran; overnight, rt|
+1.2|Solvents: Tetrahydrofuran; overnight, rt|
+	
+	
+                                                                                                                              
+29. Scheme 29 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Neutral and monocationic half-sandwich methyl rare-earth metal complexes: synthesis, structure, and 1,3-butadiene polymerization catalysis
+By: Robert, Dominique; et al
+European Journal of Inorganic Chemistry (2008), (18), 2801-2809.
+Find It @ Emory
+10.1002/ejic.200800040
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-13431583
+1.1|Solvents: Tetrahydrofuran; -35 °C; 30 min, -35 °C → rt|
+	
+	
+                                                                                                                              
+30. Scheme 30 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+A 3D Analogue of Phenyllithium: Solution-Phase, Solid-State, and Computational Study of the Lithiacarborane [Li-CB11H11]-
+By: Dontha, Rakesh; et al
+Angewandte Chemie, International Edition (2019), 58(52), 19007-19013.
+Find It @ Emory
+10.1002/anie.201910568
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-26400608
+1.1|Reagents: Butyllithium|
+|Solvents: Diethyl ether, Hexane; -20 °C; 3 h, -20 °C → 20 °C|
+1.2|30 min, 20 °C|
+	
+	
+                                                                                                                              
+31. Scheme 31 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Low-Valent Pentafulvene Titanium Dinitrogen Complex as a Precursor for Cationic Titanium Complexes
+By: Scherer, Axel; et al
+Organometallics (2009), 28(24), 6969-6974.
+Find It @ Emory
+10.1021/om900875e
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-371728
+1.1|Solvents: Tetrahydrofuran; rt|
+	
+	
+                                                                                                                              
+32. Scheme 32 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Formation and structure of a bis(cyclopentadienyl)(formamidinato)zirconium cation complex
+By: Cornelissen, Carsten; et al
+Zeitschrift fuer Naturforschung, B: Chemical Sciences (2004), 59(11/12), 1246-1252.
+Find It @ Emory
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-1317793
+1.1|Solvents: Tetrahydrofuran; overnight, rt|
+	
+	
+                                                                                                                              
+33. Scheme 33 (1 Reaction)
+	
+
+
+|
+|
+Relative stereochemistry shown
+|
+|
+|
+|
+
+Relative stereochemistry shown
+
+||
+	
+Calcium Hydride Cation [CaH]+ Stabilized by an NNNN-type Macrocyclic Ligand: A Selective Catalyst for Olefin Hydrogenation
+By: Schuhknecht, Danny; et al
+Angewandte Chemie, International Edition (2017), 56(40), 12367-12371.
+Find It @ Emory
+10.1002/anie.201706848
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-17799779
+1.1|Solvents: Tetrahydrofuran; rt; 30 min, rt|
+	
+	
+                                                                                                                              
+34. Scheme 34 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Neutral and monocationic half-sandwich methyl rare-earth metal complexes: synthesis, structure, and 1,3-butadiene polymerization catalysis
+By: Robert, Dominique; et al
+European Journal of Inorganic Chemistry (2008), (18), 2801-2809.
+Find It @ Emory
+10.1002/ejic.200800040
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-562-CAS-8570017
+1.1|Solvents: Tetrahydrofuran; -35 °C; 30 min, -35 °C → rt|
+	
+	
+                                                                                                                              
+35. Scheme 35 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Cationic Allyl Complexes of the Rare-Earth Metals: Synthesis, Structural Characterization, and 1,3-Butadiene Polymerization Catalysis
+By: Robert, Dominique; et al
+Chemistry - A European Journal (2009), 15(44), 11937-11947.
+Find It @ Emory
+10.1002/chem.200901616
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-562-CAS-9713760
+1.1|rt; 5 min, rt|
+	
+	
+                                                                                                                              
+36. Scheme 36 (1 Reaction)
+	
+
+
+|
+|
+Relative stereochemistry shown
+|
+|
+|
+|
+
+Relative stereochemistry shown
+
+||
+	
+Calcium Hydride Cation [CaH]+ Stabilized by an NNNN-type Macrocyclic Ligand: A Selective Catalyst for Olefin Hydrogenation
+By: Schuhknecht, Danny; et al
+Angewandte Chemie, International Edition (2017), 56(40), 12367-12371.
+Find It @ Emory
+10.1002/anie.201706848
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-562-CAS-17799777
+1.1|Solvents: Tetrahydrofuran; rt|
+	
+	
+                                                                                                                              
+37. Scheme 37 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Lanthanide(III) and Actinide(III) Complexes [M(BH4)2(THF)5][BPh4] and [M(BH4)2(18-crown-6)][BPh4] (M = Nd, Ce, U): Synthesis, Crystal Structure, and Density Functional Theory Investigation of the Covalent Contribution to Metal-Borohydride Bonding
+By: Arliguie, Therese; et al
+Inorganic Chemistry (2009), 48(1), 221-230.
+Find It @ Emory
+10.1021/ic801685v
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-562-CAS-2324233
+1.1|Solvents: Tetrahydrofuran; 2 h, 20 °C|
+	
+	
+                                                                                                                              
+38. Scheme 38 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Triamidoamine-Uranium(IV)-Stabilized Terminal Parent Phosphide and Phosphinidene Complexes
+By: Gardner, Benedict M.; et al
+Angewandte Chemie, International Edition (2014), 53(17), 4484-4488.
+Find It @ Emory
+10.1002/anie.201400798
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-562-CAS-7557950
+1.1|Reagents: (Phenylmethyl)potassium|
+|Solvents: Toluene; -78 °C; -78 °C → rt; 16 h, rt|
+1.2|Solvents: Tetrahydrofuran; rt → -78 °C; 1 h, -78 °C → rt; 16 h, rt|
+	
+	
+                                                                                                                              
+39. Scheme 39 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+C-H Bond Activation by an Isolated Dinuclear U(III)/U(IV) Nitride
+By: Palumbo, Chad T.; et al
+Journal of the American Chemical Society (2020), 142(6), 3149-3157.
+Find It @ Emory
+10.1021/jacs.9b12804
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-138-CAS-21446508
+1.1|Solvents: Toluene; 5 min, rt|
+1.2|overnight, -40 °C|
+	
+	
+                                                                                                                              
+40. Scheme 40 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Cationic strontium hydride complexes supported by an NNNN-type macrocycle
+By: Hoellerhage, Thomas; et al
+Chemical Communications (Cambridge, United Kingdom) (2021), 57(51), 6316-6319.
+Find It @ Emory
+10.1039/d1cc02040d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-562-CAS-23921676
+1.1|Solvents: Tetrahydrofuran; 5 min, 23 °C|
+1.2|Solvents: Pentane; 23 °C; 10 min, 23 °C|
+	
+	
+                                                                                                                              
+41. Scheme 41 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Cationic strontium hydride complexes supported by an NNNN-type macrocycle
+By: Hoellerhage, Thomas; et al
+Chemical Communications (Cambridge, United Kingdom) (2021), 57(51), 6316-6319.
+Find It @ Emory
+10.1039/d1cc02040d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-562-CAS-23921181
+1.1|Solvents: Tetrahydrofuran; 5 min, 23 °C|
+1.2|Solvents: Pentane; 23 °C; 5 min, 23 °C|
+	
+	
+                                                                                                                              
+42. Scheme 42 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+|
+|
+
+||
+	
+Catalytic C-H Bond Addition of Pyridines to Allenes by a Rare-Earth Catalyst
+By: Song, Guoyong; et al
+Chemistry - A European Journal (2015), 21(23), 8394-8398.
+Find It @ Emory
+10.1002/chem.201501121
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-562-CAS-11289728
+1.1|Solvents: Tetrahydrofuran; 1 h, rt|
+1.2|4 h, 70 °C|
+	
+	
+                                                                                                                              
+43. Scheme 43 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Monocyclopentadienyltitanium(III) Complexes with Hydridoborato Ligands
+By: Calvo-Molina, Adrian; et al
+Organometallics (2023), 42(12), 1360-1372.
+Find It @ Emory
+10.1021/acs.organomet.2c00580
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-36982089
+1.1|Solvents: Tetrahydrofuran; 20 h, 20 °C|
+	
+	
+                                                                                                                              
+44. Scheme 44 (1 Reaction)
+	
+
+
+|
+|
+Relative stereochemistry shown
+|
+|
+|
+|
+
+Relative stereochemistry shown
+
+||
+	
+Cationic strontium hydride complexes supported by an NNNN-type macrocycle
+By: Hoellerhage, Thomas; et al
+Chemical Communications (Cambridge, United Kingdom) (2021), 57(51), 6316-6319.
+Find It @ Emory
+10.1039/d1cc02040d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-23916457
+1.1|Solvents: Tetrahydrofuran; 16 h, rt|
+	
+	
+                                                                                                                              
+45. Scheme 45 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+
+||
+	
+Synthesis, structure and hydrosilylation activity of neutral and cationic rare-earth metal silanolate complexes
+By: Elvidge, Benjamin R.; et al
+Dalton Transactions (2006), (7), 890-901.
+Find It @ Emory
+10.1039/b512285f
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-562-CAS-8924467
+1.1|Solvents: Tetrahydrofuran; 1 h, 0 °C|
+	
+	
+                                                                                                                              
+46. Scheme 46 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Soluble, reactive and stable - unique aluminosilicate ligands and a heterobimetallic derivative [LAl(SLi)(μ-O)Si(OLi·THF)(OtBu)2]2
+By: Jancik, Vojtech; et al
+Chemical Communications (Cambridge, United Kingdom) (2007), (43), 4528-4530.
+Find It @ Emory
+10.1039/b707895a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-562-CAS-11791448
+1.1|Reagents: Bis[1,1′-oxybis[ethane]]bis[μ-[1,1,1-trimethyl-N-(trimethylsilyl)silanaminato]]dilithium|
+|Solvents: Tetrahydrofuran; -78 °C → rt; 2 h, rt|
+	
+	
+Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
+
+
+
+CAS SciFinder                                                   Task History
+	
+January 3, 2025, 2:48 PM
+	
+Initiating Search
+	
+Reactions:|Structure Search
+	
+
+	
+|
+	
+Filtered By:
+Structure Match: As Drawn
+Substance Role: Reactant
+Yield: 90-100%
+Non-Participating Functional Groups: Ether, Alkene, Organometal, Cyclic alkene, Amine, Diene, Cyclopentadienyl metal, Tertiary amine, Carboxamidine, Amide, Imine, Alcohol, Ketone, Primary amine, Urea, Acetal, Acyclic alkene, Acyclic ketone, Carboxylic ester, Halide, Primary alcohol, Secondary amine, Nitrile, Carboxylic acid, Phenyl halide, Sulfide, Aldehyde, Alkyl halide, Alkyne, Cyclic alcohol, Cyclic ketone, Nitro, Secondary alcohol, Unsaturated ester, Phosphonate
+Reaction Type: Full
+Language: English
+Publication Year: 2000 to 2024
+	
+Excluded:
+Reaction Mapping: No Mapping Data Available
+Solvent: THF-d8, Acetonitrile-d3, Benzene-d6
+Reaction Notes: Thermal, Microwave Irradiation, Ultrasound
+CA Section: Electrochemical, Radiational, and Thermal Energy Technology, Magnetic Phenomena
+	
+Search Tasks
+	
+   1. Exported: Returned Reaction Results + Filters (152)   View Results
+	
+
+
+View in CAS SciFinder
+	
+Reactions (50)
+	
+1. Scheme 1 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+|
+|
+
+|
+|
+
+
+|
+|
+
+||
+	
+Halide, Amide, Cationic, Manganese Carbonylate, and Oxide Derivatives of Triamidosilylamine Uranium Complexes
+By: Gardner, Benedict M.; et al
+Inorganic Chemistry (2011), 50(19), 9631-9641.
+Find It @ Emory
+10.1021/ic201372a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-9224253
+1.1|Solvents: Tetrahydrofuran|
+	
+	
+                                                                                                                              
+2. Scheme 2 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Synthesis of novel copper-rare earth BINOLate frameworks from a hydrogen bonding DBU-H rare earth BINOLate complex
+By: Panetti, Grace B.; et al
+Dalton Transactions (2018), 47(41), 14408-14410.
+Find It @ Emory
+10.1039/c8dt03335h
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-27704811
+1.1|Reagents: (2,4,6-Trimethylphenyl)copper|
+|Solvents: Toluene; 3 h, rt|
+	
+	
+                                                                                                                              
+3. Scheme 3 (3 Reactions)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Catalysts for the polymerization of cyclic lactones
+Assignee: University of Lethbridge
+United States, US20100130753 A1 2010-05-27
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 99%
+CAS Reaction Number: 31-562-CAS-2272833
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+	
+	
+Catalysts for the polymerization of cyclic lactones
+Assignee: University of Lethbridge
+Canada, CA2686355 A1 2010-05-24
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 99%
+CAS Reaction Number: 31-562-CAS-3096197
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+	
+	
+Cationic organozinc complexes of a bis(phosphinimine) pincer ligand: synthesis, structural and polymerization studies
+By: Wheaton, Craig A.; et al
+Dalton Transactions (2010), 39(16), 3861-3869.
+Find It @ Emory
+10.1039/b922543a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 99%
+CAS Reaction Number: 31-562-CAS-4181903
+1.1|Solvents: Bromobenzene; 15 min, rt|
+	
+	
+                                                                                                                              
+4. Scheme 4 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Reaction of Boranephosphonate Diesters with Pyridines or Tertiary Amines in the Presence of Iodine: Synthetic and Mechanistic Studies
+By: Golebiewska, Justyna; et al
+Journal of Organic Chemistry (2020), 85(6), 4312-4323.
+Find It @ Emory
+10.1021/acs.joc.9b03506
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-26135332
+1.1|Reagents: Iodine|
+|Solvents: Dichloromethane; 10 min, rt|
+	
+	
+                                                                                                                              
+5. Scheme 5 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (-)
+|
+|
+Absolute stereochemistry shown
+|
+|
+Absolute stereochemistry shown
+||
+	
+Highly Enantioselective Iridium-Catalyzed Hydrogenation of Cyclic Enamides
+By: Salomo, Ernest; et al
+Angewandte Chemie, International Edition (2016), 55(28), 7988-7992.
+Find It @ Emory
+10.1002/anie.201602219
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-614-CAS-26337504
+1.1|Reagents: Triethylamine, Methanesulfonic anhydride|
+|Solvents: Dichloromethane; 1 h, -20 °C|
+1.2|overnight, -20 °C|
+	
+	
+                                                                                                                              
+6. Scheme 6 (1 Reaction)
+	
+
+|
+|
+|
+|
+
+||
+	
+Synthesis and some transformations of di(o-carborano-1,2-dimethyl)borate
+By: Kazantsev, A. V.; et al
+Russian Journal of General Chemistry (2016), 86(1), 199-201.
+Find It @ Emory
+10.1134/s1070363216010333
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-27070139
+1.1|Solvents: Benzene|
+	
+	
+                                                                                                                              
+7. Scheme 7 (1 Reaction)
+	
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+||
+	
+Syntheses of novel substituted-boranophosphate nucleosides
+By: Vyakaranam, Kamesh; et al
+Nucleosides, Nucleotides & Nucleic Acids (2002), 21(8 & 9), 581-598.
+Find It @ Emory
+10.1081/ncn-120015070
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-614-CAS-27880547
+1.1|Reagents: Dicyclohexylcarbodiimide|
+|Solvents: Acetonitrile; 72 h, rt|
+1.2|Solvents: Dichloromethane|
+	
+	
+                                                                                                                              
+8. Scheme 8 (1 Reaction)
+	
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+||
+	
+Syntheses of novel substituted-boranophosphate nucleosides
+By: Vyakaranam, Kamesh; et al
+Nucleosides, Nucleotides & Nucleic Acids (2002), 21(8 & 9), 581-598.
+Find It @ Emory
+10.1081/ncn-120015070
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-25431619
+1.1|Reagents: Dicyclohexylcarbodiimide|
+|Solvents: Acetonitrile; 72 h, rt|
+1.2|Solvents: Dichloromethane|
+	
+	
+                                                                                                                              
+9. Scheme 9 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (-)
+||
+	
+Indole-olefin-oxazoline (IndOlefOx)-ligands: synthesis and utilization in asymmetric Rh-catalyzed conjugate addition
+By: Kuuloja, Noora; et al
+Tetrahedron: Asymmetry (2011), 22(4), 468-475.
+Find It @ Emory
+10.1016/j.tetasy.2011.02.020
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 98%
+CAS Reaction Number: 31-614-CAS-25624303
+1.1|Catalysts: Di-μ-chlorotetrakis(η2-ethene)dirhodium, 2-[(4S)-4,5-Dihydro-4-(phenylmethyl)-2-oxazolyl]-3-[(1E)-2-(3,4-dimethoxyphenyl)ethenyl]-1-methyl-1H-indole|
+|Solvents: 1,4-Dioxane; 10 min, rt|
+1.2|Reagents: Potassium hydroxide|
+|Solvents: Water; 22 h, 80 °C|
+	
+	
+                                                                                                                              
+10. Scheme 10 (2 Reactions)
+	
+
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+||
+	
+A Novel Method for the Synthesis of Dinucleoside Boranophosphates by a Borano-Phospho-Triester Method
+By: Shimizu, Mamoru; et al
+Journal of Organic Chemistry (2004), 69(16), 5261-5268.
+Find It @ Emory
+10.1021/jo0493875
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-26064507
+1.1|Reagents: Diisopropylethylamine, 3-Nitro-1,2,4-triazole, Bis(2-oxo-3-oxazolidinyl)phosphinic chloride|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+	
+	
+A new boranophosphorylation reaction for the synthesis of deoxyribonucleoside boranophosphates
+By: Wada, Takeshi; et al
+Tetrahedron Letters (2002), 43(23), 4137-4140.
+Find It @ Emory
+10.1016/s0040-4039(02)00780-3
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-25517955
+1.1|Reagents: Diisopropylethylamine, Bis(2-oxo-3-oxazolidinyl)phosphinic chloride, MSNT|
+|Solvents: Tetrahydrofuran|
+	
+	
+                                                                                                                              
+11. Scheme 11 (1 Reaction)
+	
+
+
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+|
+|
+||
+	
+A new boranophosphorylation reaction for the synthesis of deoxyribonucleoside boranophosphates
+By: Wada, Takeshi; et al
+Tetrahedron Letters (2002), 43(23), 4137-4140.
+Find It @ Emory
+10.1016/s0040-4039(02)00780-3
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-614-CAS-30576992
+1.1|Reagents: Diisopropylethylamine, Bis(2-oxo-3-oxazolidinyl)phosphinic chloride, MSNT|
+|Solvents: Tetrahydrofuran|
+	
+	
+                                                                                                                              
+12. Scheme 12 (1 Reaction)
+	
+
+Relative stereochemistry shown
+
+|
+|
+|
+|
+||
+	
+Engaging Alkenyl Halides with Alkylsilicates via Photoredox Dual Catalysis
+By: Patel, Niki R.; et al
+Organic Letters (2016), 18(4), 764-767.
+Find It @ Emory
+10.1021/acs.orglett.6b00024
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-30603112
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate), 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine; rt|
+1.2|Solvents: Dimethylformamide; 24 h, 27 °C|
+	
+	
+                                                                                                                              
+13. Scheme 13 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Copper(II) benzoates and acetates with 2-aminopyridine
+By: Kozlevcar, Bojan; et al
+Acta Chimica Slovenica (2001), 48(3), 363-374.
+Find It @ Emory
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-2982502
+1.1|Solvents: Acetonitrile|
+	
+	
+                                                                                                                              
+14. Scheme 14 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Copper(II) benzoates and acetates with 2-aminopyridine
+By: Kozlevcar, Bojan; et al
+Acta Chimica Slovenica (2001), 48(3), 363-374.
+Find It @ Emory
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-9390869
+1.1|Solvents: Acetonitrile|
+	
+	
+                                                                                                                              
+15. Scheme 15 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+
+||
+	
+Ruthenium Complexes Containing 2,2’-Bipyridine and 1,3,5-Triaza-7-phosphaadamantane
+By: Scalambra, Franco; et al
+European Journal of Inorganic Chemistry (2016), 2016(10), 1528-1540.
+Find It @ Emory
+10.1002/ejic.201501357
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 99%
+CAS Reaction Number: 31-562-CAS-15746954
+1.1|Solvents: Water; 15 min, rt|
+1.2|Solvents: Water; 15 min, rt; 30 min, rt|
+	
+	
+                                                                                                                              
+16. Scheme 16 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Reaction of Boranephosphonate Diesters with Pyridines or Tertiary Amines in the Presence of Iodine: Synthetic and Mechanistic Studies
+By: Golebiewska, Justyna; et al
+Journal of Organic Chemistry (2020), 85(6), 4312-4323.
+Find It @ Emory
+10.1021/acs.joc.9b03506
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-28673290
+1.1|Reagents: Iodine|
+|Solvents: Dichloromethane; 10 min, rt|
+	
+	
+                                                                                                                              
+17. Scheme 17 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (-)
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (-)
+||
+	
+Iridium complexes with P-stereogenic phosphino imidazole ligands: Synthesis, structure and catalysis
+By: Alvarez-Yebra, Ruben; et al
+Tetrahedron (2019), 75(32), 4358-4364.
+Find It @ Emory
+10.1016/j.tet.2019.04.032
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-24069217
+1.1|Reagents: Triethylamine, Methanesulfonic anhydride|
+|Solvents: Dichloromethane; rt → -20 °C; 1.5 h, -20 °C|
+1.2|Solvents: Dichloromethane; -20 °C|
+1.3|Reagents: Water; -20 °C → rt|
+	
+	
+                                                                                                                              
+18. Scheme 18 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (-)
+
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (-)
+|
+|
+Absolute stereochemistry shown
+||
+	
+Dialkylammonium tert-Butylmethylphosphinites: Stable Intermediates for the Synthesis of P-Stereogenic Ligands
+By: Salomo, Ernest; et al
+Journal of Organic Chemistry (2017), 82(13), 7065-7069.
+Find It @ Emory
+10.1021/acs.joc.7b01180
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-614-CAS-28293475
+1.1|Reagents: Triethylamine, Methanesulfonic anhydride|
+|Solvents: Dichloromethane; -20 °C; -20 °C; 1.5 h, -20 °C|
+1.2|overnight, -20 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water|
+	
+	
+                                                                                                                              
+19. Scheme 19 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (+)
+
+|
+|
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (-)
+||
+	
+BOM-Phosphinite as an Electrophilic P-Stereogenic Transfer Reagent for the Synthesis of Bulky Phosphines: Synthesis of tert-Butyl(3,5-di-tert-butylphenyl)BisP*
+By: Rojo, Pep; et al
+Organic Letters (2021), 23(12), 4802-4806.
+Find It @ Emory
+10.1021/acs.orglett.1c01522
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-30466996
+1.1|Reagents: Triethylamine|
+|Solvents: Dichloromethane; 25 °C → 0 °C|
+1.2|0 °C; 0 °C → 25 °C; 2 h, 25 °C|
+	
+	
+                                                                                                                              
+20. Scheme 20 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (+)
+
+|
+|
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+||
+	
+BOM-Phosphinite as an Electrophilic P-Stereogenic Transfer Reagent for the Synthesis of Bulky Phosphines: Synthesis of tert-Butyl(3,5-di-tert-butylphenyl)BisP*
+By: Rojo, Pep; et al
+Organic Letters (2021), 23(12), 4802-4806.
+Find It @ Emory
+10.1021/acs.orglett.1c01522
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-25350502
+1.1|Reagents: Triethylamine|
+|Solvents: Dichloromethane; 25 °C → 0 °C|
+1.2|0 °C; 0 °C → 25 °C; 2 h, 25 °C|
+	
+	
+                                                                                                                              
+21. Scheme 21 (1 Reaction)
+	
+
+Relative stereochemistry shown
+
+|
+|
+|
+|
+Relative stereochemistry shown
+||
+	
+Base-Free Photoredox/Nickel Dual-Catalytic Cross-Coupling of Ammonium Alkylsilicates
+By: Jouffroy, Matthieu; et al
+Journal of the American Chemical Society (2016), 138(2), 475-478.
+Find It @ Emory
+10.1021/jacs.5b10963
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 98%
+CAS Reaction Number: 31-614-CAS-28810867
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; heated; cooled|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 3 h, 30 °C|
+	
+	
+                                                                                                                              
+22. Scheme 22 (3 Reactions)
+	
+
+
+|
+|
+
+|
+|
+
+||
+	
+Preparation of rhenium and technetium carborane complexes as synthons for radiopharmaceuticals
+Assignee: McMaster University
+United States, US20030068271 A1 2003-04-10
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-614-CAS-25272010
+1.1|Reagents: Ethanol, thallium(1+) salt (1:1)|
+|Solvents: Tetrahydrofuran; 1 h, -20 °C → rt|
+1.2|Solvents: Tetrahydrofuran; overnight, rt → reflux|
+	
+	
+Method for preparing technetium- and rhenium-carborane complexes for radioimaging and radiotherapy
+Assignee: McMaster University
+Canada, CA2348831 A1 2002-11-25
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-614-CAS-27368230
+1.1|Reagents: Ethanol, thallium(1+) salt (1:1)|
+|Solvents: Tetrahydrofuran; 1 h, -20 °C → rt|
+1.2|Solvents: Tetrahydrofuran; overnight, reflux|
+	
+	
+Carboranes as Ligands for the Preparation of Organometallic Tc and Re Radiopharmaceuticals. Synthesis of [M(CO)3(η5-2,3-C2B9H11)]- and rac-[M(CO)3(η5-2-R-2,3-C2B9H10)]- (M = Re, 99Tc; R = CH2CH2CO2H) from [M(CO)3Br3]2-
+By: Valliant, John F.; et al
+Inorganic Chemistry (2002), 41(4), 628-630.
+Find It @ Emory
+10.1021/ic0156285
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-614-CAS-30246387
+1.1|Reagents: Ethanol, thallium(1+) salt (1:1)|
+|Solvents: Tetrahydrofuran|
+1.2|Solvents: Tetrahydrofuran|
+	
+	
+                                                                                                                              
+23. Scheme 23 (1 Reaction)
+	
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+Absolute stereochemistry shown
+||
+	
+Odorless regioselective ring opening of epoxides with S-alkylisothiouronium salts as masked thiols in water
+By: Panchadhayee, Rajib; et al
+ARKIVOC (Gainesville, FL, United States) (2008), (2), 298-307.
+Find It @ Emory
+10.3998/ark.5550190.0010.228
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-614-CAS-30583977
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 40 min, rt|
+	
+	
+                                                                                                                              
+24. Scheme 24 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Odorless regioselective ring opening of epoxides with S-alkylisothiouronium salts as masked thiols in water
+By: Panchadhayee, Rajib; et al
+ARKIVOC (Gainesville, FL, United States) (2008), (2), 298-307.
+Find It @ Emory
+10.3998/ark.5550190.0010.228
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-25636170
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 45 min, rt|
+	
+	
+                                                                                                                              
+25. Scheme 25 (1 Reaction)
+	
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+Absolute stereochemistry shown
+||
+	
+Odorless regioselective ring opening of epoxides with S-alkylisothiouronium salts as masked thiols in water
+By: Panchadhayee, Rajib; et al
+ARKIVOC (Gainesville, FL, United States) (2008), (2), 298-307.
+Find It @ Emory
+10.3998/ark.5550190.0010.228
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-25654851
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 45 min, rt|
+	
+	
+                                                                                                                              
+26. Scheme 26 (1 Reaction)
+	
+
+
+|
+|
+	
+Double bond geometry shown
+|
+|
+	
+Double bond geometry shown
+||
+	
+Engaging Alkenyl Halides with Alkylsilicates via Photoredox Dual Catalysis
+By: Patel, Niki R.; et al
+Organic Letters (2016), 18(4), 764-767.
+Find It @ Emory
+10.1021/acs.orglett.6b00024
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-29700679
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate), 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine; rt|
+1.2|Solvents: Dimethylformamide; 24 h, 27 °C|
+	
+	
+                                                                                                                              
+27. Scheme 27 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Manganese(II) carboxylates containing coordinated 3,5-dimethylpyrazole
+By: Uvarova, M. A.; et al
+Russian Journal of Inorganic Chemistry (2015), 60(8), 934-941.
+Find It @ Emory
+10.1134/s0036023615080215
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-562-CAS-16739735
+1.1|Solvents: Dichloromethane; 1 h, rt|
+	
+	
+                                                                                                                              
+28. Scheme 28 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+A tetranuclear calcium hydride cluster with a highly symmetric [Ca4H6]2+ core
+By: Schuhknecht, Danny; et al
+Chemical Communications (Cambridge, United Kingdom) (2019), 55(98), 14837-14839.
+Find It @ Emory
+10.1039/c9cc08540h
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-575-CAS-20993243
+1.1|Solvents: Diethyl ether; rt; 1 h, rt|
+	
+	
+                                                                                                                              
+29. Scheme 29 (1 Reaction)
+	
+
+Absolute stereochemistry shown
+|
+|
+|
+|
+Absolute stereochemistry shown
+||
+	
+Odorless regioselective ring opening of epoxides with S-alkylisothiouronium salts as masked thiols in water
+By: Panchadhayee, Rajib; et al
+ARKIVOC (Gainesville, FL, United States) (2008), (2), 298-307.
+Find It @ Emory
+10.3998/ark.5550190.0010.228
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-28881466
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 30 min, rt|
+	
+	
+                                                                                                                              
+30. Scheme 30 (1 Reaction)
+	
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+
+Absolute stereochemistry shown
+||
+	
+Synthesis and some transformations of di(o-carborano-1,2-dimethyl)borate
+By: Kazantsev, A. V.; et al
+Russian Journal of General Chemistry (2016), 86(1), 199-201.
+Find It @ Emory
+10.1134/s1070363216010333
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-614-CAS-29895087
+1.1|Solvents: Ethanol, Water; 20 °C; 4 h, 50 - 60 °C|
+	
+	
+                                                                                                                              
+31. Scheme 31 (1 Reaction)
+	
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+Absolute stereochemistry shown
+||
+	
+Odorless regioselective ring opening of epoxides with S-alkylisothiouronium salts as masked thiols in water
+By: Panchadhayee, Rajib; et al
+ARKIVOC (Gainesville, FL, United States) (2008), (2), 298-307.
+Find It @ Emory
+10.3998/ark.5550190.0010.228
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-614-CAS-30726178
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 30 min, rt|
+	
+	
+                                                                                                                              
+32. Scheme 32 (1 Reaction)
+	
+
+
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+|
+|
+||
+	
+A Novel Method for the Synthesis of Dinucleoside Boranophosphates by a Borano-Phospho-Triester Method
+By: Shimizu, Mamoru; et al
+Journal of Organic Chemistry (2004), 69(16), 5261-5268.
+Find It @ Emory
+10.1021/jo0493875
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-614-CAS-27672022
+1.1|Reagents: Diisopropylethylamine, 3-Nitro-1,2,4-triazole, Bis(2-oxo-3-oxazolidinyl)phosphinic chloride|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+	
+	
+                                                                                                                              
+33. Scheme 33 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Odorless regioselective ring opening of epoxides with S-alkylisothiouronium salts as masked thiols in water
+By: Panchadhayee, Rajib; et al
+ARKIVOC (Gainesville, FL, United States) (2008), (2), 298-307.
+Find It @ Emory
+10.3998/ark.5550190.0010.228
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-29662986
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 30 min, rt|
+	
+	
+                                                                                                                              
+34. Scheme 34 (1 Reaction)
+	
+
+|
+|
+Absolute stereochemistry shown
+|
+|
+
+Absolute stereochemistry shown
+||
+	
+Synthesis and some transformations of di(o-carborano-1,2-dimethyl)borate
+By: Kazantsev, A. V.; et al
+Russian Journal of General Chemistry (2016), 86(1), 199-201.
+Find It @ Emory
+10.1134/s1070363216010333
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-25069454
+1.1|Solvents: Ethanol, Water; 20 °C; 4 h, 50 - 60 °C|
+	
+	
+                                                                                                                              
+35. Scheme 35 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Concerted C-N and C-H Bond Formation in a Magnesium-Catalyzed Hydroamination
+By: Dunne, James F.; et al
+Journal of the American Chemical Society (2010), 132(50), 17680-17683.
+Find It @ Emory
+10.1021/ja108881s
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-9893089
+1.1|Solvents: Benzene; 30 min, rt|
+	
+	
+                                                                                                                              
+36. Scheme 36 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Regioselective Hydrosilylation of Olefins Catalyzed by a Molecular Calcium Hydride Cation
+By: Schuhknecht, Danny; et al
+Angewandte Chemie, International Edition (2020), 59(1), 310-314.
+Find It @ Emory
+10.1002/anie.201909585
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 98%
+CAS Reaction Number: 31-575-CAS-20888016
+1.1|Solvents: Diethyl ether; rt; 1 h, rt|
+	
+	
+                                                                                                                              
+37. Scheme 37 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Base-Free Photoredox/Nickel Dual-Catalytic Cross-Coupling of Ammonium Alkylsilicates
+By: Jouffroy, Matthieu; et al
+Journal of the American Chemical Society (2016), 138(2), 475-478.
+Find It @ Emory
+10.1021/jacs.5b10963
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-26444394
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; heated; cooled|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 16 h, 30 °C|
+	
+	
+                                                                                                                              
+38. Scheme 38 (1 Reaction)
+	
+
+Relative stereochemistry shown
+
+|
+|
+|
+|
+Relative stereochemistry shown
+||
+	
+Base-Free Photoredox/Nickel Dual-Catalytic Cross-Coupling of Ammonium Alkylsilicates
+By: Jouffroy, Matthieu; et al
+Journal of the American Chemical Society (2016), 138(2), 475-478.
+Find It @ Emory
+10.1021/jacs.5b10963
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-614-CAS-27233862
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; heated; cooled|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 16 h, 30 °C|
+	
+	
+                                                                                                                              
+39. Scheme 39 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Thioetherification via Photoredox/Nickel Dual Catalysis
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(4), 876-879.
+Find It @ Emory
+10.1021/acs.orglett.6b00208
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-614-CAS-27190422
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate), 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Dimethylformamide; 24 h, 27 °C|
+	
+	
+                                                                                                                              
+40. Scheme 40 (1 Reaction)
+	
+
+|
+|
+|
+|
+
+||
+	
+Structural, mesomorphic, photoluminescence and thermoelectric studies of mononuclear and polymeric complexes of copper(II) with 2-hexyldecanoato and 4,4’-bipyridine ligands
+By: Abdullah, Norbani; et al
+Journal of Materials Chemistry C: Materials for Optical and Electronic Devices (2015), 3(42), 11036-11045.
+Find It @ Emory
+10.1039/c5tc02273h
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-29276342
+1.1|Solvents: Ethanol; heated|
+	
+	
+                                                                                                                              
+41. Scheme 41 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Calcium Hydride Catalysts for Olefin Hydrofunctionalization: Ring-Size Effect of Macrocyclic Ligands on Activity
+By: Hoellerhage, Thomas; et al
+Chemistry - A European Journal (2021), 27(9), 3002-3007.
+Find It @ Emory
+10.1002/chem.202004931
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-31604808
+1.1|Solvents: Diethyl ether; rt; 1 h, rt|
+	
+	
+                                                                                                                              
+42. Scheme 42 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-177-CAS-11766675
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+43. Scheme 43 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Calcium Hydride Catalysts for Olefin Hydrofunctionalization: Ring-Size Effect of Macrocyclic Ligands on Activity
+By: Hoellerhage, Thomas; et al
+Chemistry - A European Journal (2021), 27(9), 3002-3007.
+Find It @ Emory
+10.1002/chem.202004931
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-31604815
+1.1|Solvents: Benzene; 5 min, rt|
+	
+	
+                                                                                                                              
+44. Scheme 44 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 98%
+CAS Reaction Number: 31-177-CAS-12378198
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+45. Scheme 45 (1 Reaction)
+	
+
+
+|
+|
+
+|
+|
+||
+	
+New transmetalation reagents for the gold-catalyzed visible light-enabled C(sp or sp2)-C(sp2) cross-coupling with aryldiazonium salts in the absence of a photosensitizer
+By: Witzel, Sina; et al
+Chemical Communications (Cambridge, United Kingdom) (2018), 54(98), 13802-13804.
+Find It @ Emory
+10.1039/c8cc08227h
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-614-CAS-29397439
+1.1|Catalysts: Chloro[tris[4-(trifluoromethyl)phenyl]phosphine-κP]gold|
+|Solvents: Methanol; 15 - 17 h, rt|
+	
+	
+Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
+
+
+
+CAS SciFinder                                                   Task History
+	
+January 3, 2025, 2:48 PM
+	
+Initiating Search
+	
+Reactions:|Structure Search
+	
+
+	
+|
+	
+Filtered By:
+Structure Match: As Drawn
+Substance Role: Reactant
+Yield: 90-100%
+Non-Participating Functional Groups: Ether, Alkene, Organometal, Cyclic alkene, Amine, Diene, Cyclopentadienyl metal, Tertiary amine, Carboxamidine, Amide, Imine, Alcohol, Ketone, Primary amine, Urea, Acetal, Acyclic alkene, Acyclic ketone, Carboxylic ester, Halide, Primary alcohol, Secondary amine, Nitrile, Carboxylic acid, Phenyl halide, Sulfide, Aldehyde, Alkyl halide, Alkyne, Cyclic alcohol, Cyclic ketone, Nitro, Secondary alcohol, Unsaturated ester, Phosphonate
+Reaction Type: Full
+Language: English
+Publication Year: 2000 to 2024
+	
+Excluded:
+Reaction Mapping: No Mapping Data Available
+Solvent: THF-d8, Acetonitrile-d3, Benzene-d6
+Reaction Notes: Thermal, Microwave Irradiation, Ultrasound
+CA Section: Electrochemical, Radiational, and Thermal Energy Technology, Magnetic Phenomena
+	
+Search Tasks
+	
+   1. Exported: Returned Reaction Results + Filters (152)   View Results
+	
+
+
+View in CAS SciFinder
+	
+Reactions (52)
+	
+1. Scheme 1 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+
+||
+	
+Cationic barium benzyl and hydride complexes that contain an eighteen-membered N,N,N,N,N,N-type macrocycle
+By: Hoellerhage, Thomas; et al
+Inorganica Chimica Acta (2022), 543, 121198.
+Find It @ Emory
+10.1016/j.ica.2022.121198
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-614-CAS-34849067
+1.1|Solvents: Tetrahydrofuran; rt; 2 min, rt|
+	
+	
+                                                                                                                              
+2. Scheme 2 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Preparation of Triethylammonium Tetra-Arylborates (TEATABs): Coupling Partners for the Suzuki Reaction
+By: Kuuloja, Noora M.; et al
+Synthetic Communications (2011), 41(7), 1052-1063.
+Find It @ Emory
+10.1080/00397911003718086
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 98%
+CAS Reaction Number: 31-177-CAS-12272858
+1.1|Reagents: Sodium carbonate|
+|Catalysts: Palladium diacetate|
+|Solvents: Acetone, Water; 10 h, 25 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+	
+	
+                                                                                                                              
+3. Scheme 3 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-177-CAS-14507255
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+4. Scheme 4 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Couple-close construction of non-classical boron cluster-phosphonium conjugates
+By: Sun, Zhaofeng; et al
+Nature Communications (2024), 15(1), 7934.
+Find It @ Emory
+10.1038/s41467-024-51506-3
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-41964304
+1.1|Catalysts: Palladium diacetate|
+|Solvents: 1,2-Dichloroethane; 6 h, 35 °C|
+	
+	
+                                                                                                                              
+5. Scheme 5 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-177-CAS-11056605
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: 1,4-Dioxane; reflux|
+	
+	
+                                                                                                                              
+6. Scheme 6 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Basicity Enhancement by Multiple Intramolecular Hydrogen Bonding in Organic Superbase N,N’,N’’,N’’’-Tetrakis(3-(dimethylamino)propyl)triaminophosphazene
+By: Ullrich, Sebastian; et al
+Organic Letters (2019), 21(22), 9142-9146.
+Find It @ Emory
+10.1021/acs.orglett.9b03521
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 98%
+CAS Reaction Number: 31-575-CAS-20714248
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+	
+	
+                                                                                                                              
+7. Scheme 7 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Synthesis, Structure, and Reactivity of the Sterically Crowded Th3+ Complex (C5Me5)3Th Including Formation of the Thorium Carbonyl, [(C5Me5)3Th(CO)][BPh4]
+By: Langeslay, Ryan R.; et al
+Journal of the American Chemical Society (2017), 139(9), 3387-3398.
+Find It @ Emory
+10.1021/jacs.6b10826
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-27797426
+1.1|Solvents: Benzene; 2.5 h, rt|
+	
+	
+                                                                                                                              
+8. Scheme 8 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Organouranium Complexes with Phosphinine-Based SPS Pincer Ligands. Variations with the Substituent at the Phosphorus Atom
+By: Arliguie, Therese; et al
+Organometallics (2008), 27(16), 4158-4165.
+Find It @ Emory
+10.1021/om8003493
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-562-CAS-5732312
+1.1|Solvents: Tetrahydrofuran; 90 min, 80 °C|
+	
+	
+                                                                                                                              
+9. Scheme 9 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Synthesis and Comparative η1-Alkyl and Sterically Induced Reduction Reactivity of (C5Me5)3Ln Complexes of La, Ce, Pr, Nd, and Sm
+By: Evans, William J.; et al
+Organometallics (2005), 24(16), 3916-3931.
+Find It @ Emory
+10.1021/om050402l
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-28703812
+1.1|Solvents: Benzene; 12 h, rt|
+	
+	
+                                                                                                                              
+10. Scheme 10 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+The Elusive (C5Me4H)3Lu: Its Synthesis and LnZ3/K/N2 Reactivity
+By: Evans, William J.; et al
+Organometallics (2005), 24(26), 6393-6397.
+Find It @ Emory
+10.1021/om050709k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-25954448
+1.1|Solvents: Benzene; 24 h, rt|
+	
+	
+                                                                                                                              
+11. Scheme 11 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Synthesis and Comparative η1-Alkyl and Sterically Induced Reduction Reactivity of (C5Me5)3Ln Complexes of La, Ce, Pr, Nd, and Sm
+By: Evans, William J.; et al
+Organometallics (2005), 24(16), 3916-3931.
+Find It @ Emory
+10.1021/om050402l
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-614-CAS-25258236
+1.1|Solvents: Benzene; rt|
+	
+	
+                                                                                                                              
+12. Scheme 12 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+NH3 and (NH2)1- as ligands in yttrium metallocene chemistry
+By: Boshart, Monica D.; et al
+Dalton Transactions (2018), 47(14), 5098-5101.
+Find It @ Emory
+10.1039/c8dt00543e
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-614-CAS-26978087
+1.1|Solvents: Tetrahydrofuran; 20 min, rt|
+	
+	
+                                                                                                                              
+13. Scheme 13 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-177-CAS-615217
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+14. Scheme 14 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Exchange coupling and magnetic blocking in bipyrimidyl radical-bridged dilanthanide complexes
+By: Demir, Selvan; et al
+Journal of the American Chemical Society (2012), 134(45), 18546-18549.
+Find It @ Emory
+10.1021/ja308945d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-614-CAS-28717047
+1.1|Solvents: Toluene; overnight, rt|
+	
+	
+                                                                                                                              
+15. Scheme 15 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Exchange coupling and magnetic blocking in bipyrimidyl radical-bridged dilanthanide complexes
+By: Demir, Selvan; et al
+Journal of the American Chemical Society (2012), 134(45), 18546-18549.
+Find It @ Emory
+10.1021/ja308945d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-614-CAS-29838910
+1.1|Solvents: Toluene; overnight, rt|
+	
+	
+                                                                                                                              
+16. Scheme 16 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Synthesis, Structure, and Reactivity of the Sterically Crowded Th3+ Complex (C5Me5)3Th Including Formation of the Thorium Carbonyl, [(C5Me5)3Th(CO)][BPh4]
+By: Langeslay, Ryan R.; et al
+Journal of the American Chemical Society (2017), 139(9), 3387-3398.
+Find It @ Emory
+10.1021/jacs.6b10826
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-31011773
+1.1|Solvents: Toluene; 15 h, rt|
+	
+	
+                                                                                                                              
+17. Scheme 17 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Understanding the mechanisms of cobalt-catalyzed hydrogenation and dehydrogenation reactions
+By: Zhang, Guoqi; et al
+Journal of the American Chemical Society (2013), 135(23), 8668-8681.
+Find It @ Emory
+10.1021/ja402679a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-27433373
+1.1|Solvents: Pentane, Tetrahydrofuran; 2 d, rt → -25 °C|
+	
+	
+                                                                                                                              
+18. Scheme 18 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Tris(pentamethylcyclopentadienyl) Complexes of Late Lanthanides Tb, Dy, Ho, and Er: Solution and Mechanochemical Syntheses and Structural Comparisons
+By: Woen, David H.; et al
+Organometallics (2017), 36(23), 4558-4563.
+Find It @ Emory
+10.1021/acs.organomet.7b00385
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-26723059
+1.1|Solvents: Toluene; 48 h, rt|
+	
+	
+                                                                                                                              
+19. Scheme 19 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-177-CAS-6518278
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+20. Scheme 20 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-177-CAS-1119579
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+21. Scheme 21 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+The Effects of Activators on Zirconium Phosphinimide Ethylene Polymerization Catalysts
+By: Hollink, Emily; et al
+Organometallics (2004), 23(7), 1562-1569.
+Find It @ Emory
+10.1021/om030631c
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-203-CAS-11690525
+1.1|Solvents: Dichloromethane; 30 min, 25 °C|
+	
+	
+                                                                                                                              
+22. Scheme 22 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Couple-close construction of non-classical boron cluster-phosphonium conjugates
+By: Sun, Zhaofeng; et al
+Nature Communications (2024), 15(1), 7934.
+Find It @ Emory
+10.1038/s41467-024-51506-3
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-41964299
+1.1|Catalysts: Palladium diacetate|
+|Solvents: 1,2-Dichloroethane; 6 h, 35 °C|
+	
+	
+                                                                                                                              
+23. Scheme 23 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-177-CAS-15310201
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+24. Scheme 24 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-177-CAS-3223415
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+25. Scheme 25 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Closed Synthetic Cycle for Nickel-Based Dihydrogen Formation
+By: Hosseinmardi, Soosan; et al
+Chemistry - A European Journal (2023), 29(64), e202302063.
+Find It @ Emory
+10.1002/chem.202302063
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-39889227
+1.1|Solvents: Tetrahydrofuran; 1 h, 0 °C|
+	
+	
+                                                                                                                              
+26. Scheme 26 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+
+||
+	
+Unusual Hydrogenation Reactivities of a Thiolate-Bridged Dicobalt μ-Nitride Featuring a Bent { CoIII-N-CoIII}  Core
+By: Mei, Tao; et al
+Journal of the American Chemical Society (2023), 145(37), 20578-20587.
+Find It @ Emory
+10.1021/jacs.3c07254
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-38007513
+1.1|Solvents: Tetrahydrofuran; rt; 2 h, rt|
+	
+	
+                                                                                                                              
+27. Scheme 27 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Accessing elaborated 2,1-borazaronaphthalene cores using photoredox/nickel dual-catalytic functionalization
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(7), 1606-1609.
+Find It @ Emory
+10.1021/acs.orglett.6b00466
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-27337043
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 12 h, 30 °C|
+	
+	
+                                                                                                                              
+28. Scheme 28 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Accessing elaborated 2,1-borazaronaphthalene cores using photoredox/nickel dual-catalytic functionalization
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(7), 1606-1609.
+Find It @ Emory
+10.1021/acs.orglett.6b00466
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 94%
+CAS Reaction Number: 31-614-CAS-29242377
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 12 h, 30 °C|
+	
+	
+                                                                                                                              
+29. Scheme 29 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Mild, Redox-Neutral Alkylation of Imines Enabled by an Organic Photocatalyst
+By: Patel, Niki R.; et al
+ACS Catalysis (2017), 7(3), 1766-1770.
+Find It @ Emory
+10.1021/acscatal.6b03665
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-24979911
+1.1|Catalysts: 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethyl sulfoxide; 24 h, 27 °C|
+	
+	
+                                                                                                                              
+30. Scheme 30 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Electrochemical and Electrocatalytic Characteristics of Coordination Polymers Based on Trinuclear Pivalates and Heterocyclic Bridging Ligands
+By: Lytvynenko, A. S.; et al
+Theoretical and Experimental Chemistry (2015), 51(1), 54-61.
+Find It @ Emory
+10.1007/s11237-015-9397-7
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-562-CAS-16202308
+1.1|Reagents: Pivalic acid|
+|Solvents: Dimethylformamide, Acetonitrile; 24 h, 60 °C|
+	
+	
+                                                                                                                              
+31. Scheme 31 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Accessing elaborated 2,1-borazaronaphthalene cores using photoredox/nickel dual-catalytic functionalization
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(7), 1606-1609.
+Find It @ Emory
+10.1021/acs.orglett.6b00466
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-614-CAS-25707154
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 12 h, 30 °C|
+	
+	
+                                                                                                                              
+32. Scheme 32 (1 Reaction)
+	
+
+Relative stereochemistry shown
+
+|
+|
+|
+|
+||
+	
+Phenol Derivatives as Coupling Partners with Alkylsilicates in Photoredox/Nickel Dual Catalysis
+By: Patel, Niki R.; et al
+Journal of Organic Chemistry (2016), 81(16), 7271-7275.
+Find It @ Emory
+10.1021/acs.joc.6b00800
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-614-CAS-29588915
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; heated|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 24 h, 27 °C|
+	
+	
+                                                                                                                              
+33. Scheme 33 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Accessing elaborated 2,1-borazaronaphthalene cores using photoredox/nickel dual-catalytic functionalization
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(7), 1606-1609.
+Find It @ Emory
+10.1021/acs.orglett.6b00466
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 97%
+CAS Reaction Number: 31-614-CAS-29874509
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 12 h, 30 °C|
+	
+	
+                                                                                                                              
+34. Scheme 34 (1 Reaction)
+	
+
+|
+|
+Relative stereochemistry shown
+|
+|
+Relative stereochemistry shown
+||
+	
+Accessing elaborated 2,1-borazaronaphthalene cores using photoredox/nickel dual-catalytic functionalization
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(7), 1606-1609.
+Find It @ Emory
+10.1021/acs.orglett.6b00466
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-26425944
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 12 h, 30 °C|
+	
+	
+                                                                                                                              
+35. Scheme 35 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-177-CAS-5367798
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+36. Scheme 36 (1 Reaction)
+	
+
+Relative stereochemistry shown
+|
+|
+|
+|
+Relative stereochemistry shown
+||
+	
+Accessing elaborated 2,1-borazaronaphthalene cores using photoredox/nickel dual-catalytic functionalization
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(7), 1606-1609.
+Find It @ Emory
+10.1021/acs.orglett.6b00466
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-25474120
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 12 h, 30 °C|
+	
+	
+                                                                                                                              
+37. Scheme 37 (2 Reactions)
+	
+
+|
+|
+Relative stereochemistry shown
+|
+|
+Relative stereochemistry shown
+||
+	
+Accessing elaborated 2,1-borazaronaphthalene cores using photoredox/nickel dual-catalytic functionalization
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(7), 1606-1609.
+Find It @ Emory
+10.1021/acs.orglett.6b00466
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-29976760
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 12 h, 30 °C|
+	
+	
+Accessing elaborated 2,1-borazaronaphthalene cores using photoredox/nickel dual-catalytic functionalization
+By: Jouffroy, Matthieu; et al
+Organic Letters (2016), 18(7), 1606-1609.
+Find It @ Emory
+10.1021/acs.orglett.6b00466
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 96%
+CAS Reaction Number: 31-614-CAS-30797211
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran|
+1.2|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethylformamide; 12 h, 30 °C|
+	
+	
+                                                                                                                              
+38. Scheme 38 (1 Reaction)
+	
+
+Relative stereochemistry shown
+|
+|
+
+|
+|
+
+||
+	
+Strontium Hydride Cations Supported by a Large NNNNN Type Macrocycle: Synthesis, Structure, and Hydrofunctionalization Catalysis
+By: Hoellerhage, Thomas; et al
+Inorganic Chemistry (2022), 61(7), 3309-3316.
+Find It @ Emory
+10.1021/acs.inorgchem.1c03894
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-31823864
+1.1|Solvents: Tetrahydrofuran; 5 min, rt|
+	
+	
+                                                                                                                              
+39. Scheme 39 (1 Reaction)
+	
+
+|
+|
+
+|
+|
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 91%
+CAS Reaction Number: 31-177-CAS-4696597
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: Tetrahydrofuran; 6 h, reflux|
+	
+	
+                                                                                                                              
+40. Scheme 40 (1 Reaction)
+	
+
+Relative stereochemistry shown
+
+|
+|
+|
+|
+||
+	
+C(sp3)-C(sp2) cross-coupling of alkylsilicates with borylated aryl bromides - an iterative platform to alkylated aryl- and heteroaryl boronates
+By: Vara, Brandon A.; et al
+Chemical Science (2017), 8(1), 530-535.
+Find It @ Emory
+10.1039/c6sc03236b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 98%
+CAS Reaction Number: 31-614-CAS-30944221
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; heated; cooled|
+1.2|Catalysts: 4,5,6-Tri-9H-carbazol-9-yl-2-(9H-fluoren-9-yl)-1,3-benzenedicarbonitrile|
+|Solvents: Dimethylformamide; 14 h, 30 °C|
+	
+	
+                                                                                                                              
+41. Scheme 41 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Synthesis and characterization of { Mo(η-L)(CO)3} + (η-L = C5H5 or C5Me5) fragments ligated with [CB11H12]- and derivatives. Isolation and structural characterization of an intermediate in a silver salt metathesis reaction
+By: Patmore, Nathan J.; et al
+Journal of the Chemical Society, Dalton Transactions (2001), (3), 277-283.
+Find It @ Emory
+10.1039/b008222h
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 100%
+CAS Reaction Number: 31-614-CAS-29014649
+1.1|Solvents: Dichloromethane|
+	
+	
+                                                                                                                              
+42. Scheme 42 (1 Reaction)
+	
+
+Absolute stereochemistry shown
+|
+|
+
+|
+|
+Absolute stereochemistry shown
+||
+	
+Preparation and Palladium-Catalyzed Cross-Coupling of Aryl Triethylammonium Bis(catechol) Silicates with Aryl Triflates
+By: Seganish, W. Michael; et al
+Journal of Organic Chemistry (2004), 69(4), 1137-1143.
+Find It @ Emory
+10.1021/jo035309q
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-177-CAS-228954
+1.1|Reagents: Tetrabutylammonium fluoride|
+|Catalysts: Bis(dibenzylideneacetone)palladium, 2-(Dicyclohexylphosphino)biphenyl|
+|Solvents: 1,4-Dioxane; 6 h, reflux|
+	
+	
+                                                                                                                              
+43. Scheme 43 (1 Reaction)
+	
+
+Relative stereochemistry shown
+
+|
+|
+|
+|
+||
+	
+C(sp3)-C(sp2) cross-coupling of alkylsilicates with borylated aryl bromides - an iterative platform to alkylated aryl- and heteroaryl boronates
+By: Vara, Brandon A.; et al
+Chemical Science (2017), 8(1), 530-535.
+Find It @ Emory
+10.1039/c6sc03236b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-30841011
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; heated; cooled|
+1.2|Catalysts: 4,5,6-Tri-9H-carbazol-9-yl-2-(9H-fluoren-9-yl)-1,3-benzenedicarbonitrile|
+|Solvents: Dimethylformamide; 16 h, 30 °C|
+	
+	
+                                                                                                                              
+44. Scheme 44 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Heterometallic Coordination Polymers Assembled from Trigonal Trinuclear Fe2Ni-Pivalate Blocks and Polypyridine Spacers: Topological Diversity, Sorption, and Catalytic Properties
+By: Sotnik, Svetlana A.; et al
+Inorganic Chemistry (2015), 54(11), 5169-5181.
+Find It @ Emory
+10.1021/ic503061z
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-13209836
+1.1|Reagents: Pivalic acid|
+|Solvents: Dimethylformamide; rt; 1 h, 120 °C|
+	
+	
+                                                                                                                              
+45. Scheme 45 (1 Reaction)
+	
+
+Relative stereochemistry shown
+
+|
+|
+|
+|
+||
+	
+C(sp3)-C(sp2) cross-coupling of alkylsilicates with borylated aryl bromides - an iterative platform to alkylated aryl- and heteroaryl boronates
+By: Vara, Brandon A.; et al
+Chemical Science (2017), 8(1), 530-535.
+Find It @ Emory
+10.1039/c6sc03236b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-26695618
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; heated; cooled|
+1.2|Catalysts: 4,5,6-Tri-9H-carbazol-9-yl-2-(9H-fluoren-9-yl)-1,3-benzenedicarbonitrile|
+|Solvents: Dimethylformamide; 7 h, 30 °C|
+	
+	
+                                                                                                                              
+46. Scheme 46 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Heterometallic Coordination Polymers Assembled from Trigonal Trinuclear Fe2Ni-Pivalate Blocks and Polypyridine Spacers: Topological Diversity, Sorption, and Catalytic Properties
+By: Sotnik, Svetlana A.; et al
+Inorganic Chemistry (2015), 54(11), 5169-5181.
+Find It @ Emory
+10.1021/ic503061z
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-562-CAS-1960506
+1.1|Reagents: Pivalic acid|
+|Solvents: Dimethyl sulfoxide; rt; 1 h, 120 °C|
+	
+	
+                                                                                                                              
+47. Scheme 47 (1 Reaction)
+	
+
+
+|
+|
+|
+|
+||
+	
+Couple-close construction of non-classical boron cluster-phosphonium conjugates
+By: Sun, Zhaofeng; et al
+Nature Communications (2024), 15(1), 7934.
+Find It @ Emory
+10.1038/s41467-024-51506-3
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 92%
+CAS Reaction Number: 31-614-CAS-41964305
+1.1|Catalysts: Palladium diacetate|
+|Solvents: 1,2-Dichloroethane; 6 h, 35 °C|
+	
+	
+                                                                                                                              
+48. Scheme 48 (1 Reaction)
+	
+
+
+Absolute stereochemistry shown,
+	
+Rotation (+)
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+||
+	
+Bis(mandelato)borate: an effective, inexpensive spiroborate anion for chiral resolution
+By: Wong, Lawrence W-Y.; et al
+Chemical Communications (Cambridge, United Kingdom) (2015), 51(87), 15760-15763.
+Find It @ Emory
+10.1039/c5cc04977f
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-575-CAS-2577471
+1.1|Reagents: Ammonium hydroxide|
+|Solvents: Water; 1 h, rt|
+	
+	
+                                                                                                                              
+49. Scheme 49 (1 Reaction)
+	
+
+
+|
+|
+
+||
+	
+A Magnetic Switch for Spin-Catalyzed Interconversion of Nuclear Spin Isomers
+By: Li, Yongjun; et al
+Journal of the American Chemical Society (2010), 132(12), 4042-4043.
+Find It @ Emory
+10.1021/ja910282p
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-491-CAS-18140416
+1.1|Reagents: Hydrazine, phenyl-|
+|Solvents: Chloroform-d; 5 min, rt|
+	
+	
+                                                                                                                              
+50. Scheme 50 (1 Reaction)
+	
+
+
+|
+|
+
+||
+	
+A Magnetic Switch for Spin-Catalyzed Interconversion of Nuclear Spin Isomers
+By: Li, Yongjun; et al
+Journal of the American Chemical Society (2010), 132(12), 4042-4043.
+Find It @ Emory
+10.1021/ja910282p
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 90%
+CAS Reaction Number: 31-614-CAS-29126813
+1.1|Reagents: Cupric acetate|
+|Solvents: Methanol, Chloroform-d; 10 min, rt|
+	
+	
+                                                                                                                              
+51. Scheme 51 (1 Reaction)
+	
+
+Absolute stereochemistry shown
+
+|
+|
+Absolute stereochemistry shown
+||
+	
+Use of a TPB (tetraphenylborate) salt for the separation of biomolecules
+Assignee: Solvay et Cie.
+World Intellectual Property Organization, WO2009153294 A1 2009-12-23
+Espacenet
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 93%
+CAS Reaction Number: 31-353-CAS-3821386
+1.1|Reagents: Hydrogen, Amberlite IRA 958|
+|Catalysts: Palladium|
+|Solvents: Methanol; 6 h, 35 ± 5 °C|
+	
+	
+Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
+ 

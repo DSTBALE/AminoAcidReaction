@@ -60,7 +60,7 @@ def combinertf(filedir, filename, pagedelimit = True):
     out_file.close()
 
 def main():
-    combinertf('Arginine','combine.rtf',True)
+    combinertf('Cysteine','combine.rtf',True)
 
 if __name__ == '__main__':
     main()

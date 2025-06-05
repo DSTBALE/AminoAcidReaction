@@ -1,0 +1,4415 @@
+CAS Reaction Number: 31-177-CAS-5477467
+1.1|Reagents: Oxygen|
+|Catalysts: Tricyclohexylphosphine, Palladium nitrate|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-177-CAS-11884744
+1.1|Reagents: Oxygen|
+|Catalysts: Triphenylphosphine, Palladium nitrate|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-085-CAS-1168078
+1.1|Catalysts: Magnesium oxide, Lithium tetrakis(pentafluorophenyl)borate|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-575-CAS-11659688
+1.1|Reagents: Sodium tetrafluoroborate|
+|Solvents: Benzene, 1,2-Dichloroethane|
+
+CAS Reaction Number: 31-116-CAS-323282
+1.1|Solvents: Benzene-d6; 4 d, 60 °C|
+
+CAS Reaction Number: 31-137-CAS-14986489
+1.1|11 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-29121236
+1.1|Solvents: Benzene-d6|
+
+CAS Reaction Number: 31-116-CAS-12803693
+1.1|Catalysts: Trimethyl[(1,2,3,4,5-η)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]titanium, Triphenylcarbenium tetrakis(pentafluorophenyl)borate|
+|Solvents: Benzene-d6; 2 min, rt|
+1.2|5 min, rt|
+
+CAS Reaction Number: 31-137-CAS-1107522
+1.1|Solvents: Benzene-d6; 7 d, 65 °C|
+
+CAS Reaction Number: 31-137-CAS-1379280
+1.1|Solvents: Benzene-d6; 12 h, 65 °C|
+
+CAS Reaction Number: 31-085-CAS-973972
+1.1|Catalysts: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O)|
+|Solvents: Benzene; 30 min, reflux|
+
+CAS Reaction Number: 31-614-CAS-41083640
+1.1|Solvents: Benzene|
+
+CAS Reaction Number: 31-562-CAS-16786735
+1.1|Solvents: Hexane; 12 h, rt|
+
+CAS Reaction Number: 31-254-CAS-18210625
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-27731867
+1.1|Solvents: Methanol, Ethyl acetate; 7 - 10 d, rt|
+
+CAS Reaction Number: 31-614-CAS-26124203
+1.1|Solvents: Methanol, Ethyl acetate; 7 - 10 d, rt|
+
+CAS Reaction Number: 31-614-CAS-30180619
+1.1|5 min, rt|
+
+CAS Reaction Number: 31-562-CAS-11958226
+1.1|5 h, rt|
+
+CAS Reaction Number: 31-085-CAS-2292370
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 1 h, 80 °C; 80 °C → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-084-CAS-22860248
+1.1|Solvents: Dichloromethane; 24 h, rt|
+
+CAS Reaction Number: 31-562-CAS-15131587
+1.1|Reagents: Graphite, compd. with potassium (8:1); 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30135788
+1.1|Solvents: Methanol, Ethyl acetate; 7 - 10 d, rt|
+
+CAS Reaction Number: 31-049-CAS-7880891
+1.1|Reagents: Oxalyl chloride|
+|Catalysts: Dimethylformamide|
+|Solvents: Dichloromethane; 2 h, rt|
+1.2|Catalysts: Aluminum chloride; 0 °C; 15 h, 90 °C; 90 °C → rt; rt → 0 °C|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-085-CAS-12487990
+1.1|Reagents: Trifluoroacetic anhydride|
+|Solvents: Chloroform; 0 °C; 2 h, rt|
+1.2|Reagents: Tin tetrachloride; 0 °C; 60 min, rt|
+
+CAS Reaction Number: 31-086-CAS-10809263
+1.1|Reagents: Trifluoroacetic acid|
+|Solvents: Benzene; 3 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-478-CAS-5208621
+1.1|20 h, 110 °C|
+
+CAS Reaction Number: 31-562-CAS-7587414
+1.1|5 min, rt|
+
+CAS Reaction Number: 31-085-CAS-3886902
+1.1|Reagents: Aluminum chloride; 0.5 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-3179032
+1.1|Reagents: Aluminum chloride; 1 h, 0 °C → rt|
+
+CAS Reaction Number: 31-085-CAS-22824783
+1.1|Reagents: Potassium formate|
+|Catalysts: Tetrakis(triphenylphosphine)palladium; 18 h, rt|
+
+CAS Reaction Number: 31-614-CAS-31437517
+1.1|Reagents: Antimony trichloride|
+|Solvents: Acetonitrile; 1 h, 23 °C|
+
+CAS Reaction Number: 31-614-CAS-27781284
+1.1|Reagents: Trifluoromethanesulfonic acid; 5 min, rt|
+1.2|rt; 5 min, rt|
+
+CAS Reaction Number: 31-562-CAS-18920851
+1.1|Solvents: Tetrahydrofuran; 1 h, rt|
+1.2|overnight, 25 °C|
+
+CAS Reaction Number: 31-562-CAS-19448569
+1.1|Reagents: Hydrogen|
+|Solvents: Benzene-d6; 6 h, pH 7, rt|
+
+CAS Reaction Number: 31-614-CAS-27703780
+1.1|Reagents: Hydrogen|
+|Solvents: Benzene-d6; 12 h, rt → 50 °C|
+
+CAS Reaction Number: 31-562-CAS-11967613
+1.1|Solvents: Benzene; 3 h, rt|
+
+CAS Reaction Number: 31-089-CAS-11896352
+1.1|Reagents: Acetic acid, Silver carbonate, Diisopropyl sulfide|
+|Catalysts: Palladium diacetate; 20 h, 120 °C|
+
+CAS Reaction Number: 31-562-CAS-22373331
+1.1|Solvents: Benzene, Tetrahydrofuran; rt|
+
+CAS Reaction Number: 31-614-CAS-26475206
+1.1|Reagents: Boron triiodide|
+|Solvents: Benzene, Hexane; rt|
+
+CAS Reaction Number: 31-614-CAS-27947152
+1.1|Catalysts: Rhodium, tetrakis[μ-(2,2,2-trifluoroacetato-κO:κO′)]di-, (Rh-Rh)|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-614-CAS-40918236
+1.1|Solvents: Dichloromethane-d2; 2 d, 110 °C|
+
+CAS Reaction Number: 31-614-CAS-40918230
+1.1|Solvents: Dichloromethane-d2; 1 d, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-24072478
+1.1|Solvents: Dichloromethane; 0 °C; 12 h, rt|
+
+CAS Reaction Number: 31-089-CAS-6710268
+1.1|Reagents: Acetic acid, Silver carbonate, Diisopropyl sulfide|
+|Catalysts: Palladium diacetate; 20 h, 120 °C|
+
+CAS Reaction Number: 31-085-CAS-11360115
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 1 h, 80 °C; 80 °C → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-085-CAS-13272753
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 0.5 h, 60 °C; 60 °C → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-085-CAS-1779239
+1.1|Reagents: Aluminum chloride; 0.5 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-7251705
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 0.5 h, 25 °C|
+1.2|Reagents: Trifluoroacetic acid; 15 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-8718710
+1.1|Solvents: Benzene; 5 min, 25 °C; 70 h, 130 °C; cooled|
+1.2|Solvents: Diethyl ether, Water; 1 - 3 h, rt|
+
+CAS Reaction Number: 31-086-CAS-9547570
+1.1|Reagents: Trifluoromethanesulfonic acid; 24 h, 25 °C|
+
+CAS Reaction Number: 31-091-CAS-17742692
+1.1|Reagents: Thionyl chloride|
+|Solvents: Dichloromethane; overnight, reflux|
+1.2|Catalysts: Aluminum chloride; 0 °C; 5 h, rt|
+1.3|Solvents: Water; rt|
+
+CAS Reaction Number: 31-085-CAS-3418109
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; 30 min, 70 °C; 70 °C → 0 °C|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-138-CAS-5338144
+1.1|Solvents: Benzene; overnight, 140 °C|
+
+CAS Reaction Number: 31-562-CAS-8292619
+1.1|Solvents: Benzene; 1 h, 60 °C|
+
+CAS Reaction Number: 31-562-CAS-15095540
+1.1|Solvents: Benzene; 1 h, 60 °C|
+
+CAS Reaction Number: 31-091-CAS-16986840
+1.1|Reagents: Oxalyl chloride|
+|Catalysts: Dimethylformamide|
+|Solvents: Tetrahydrofuran; 25 °C|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Benzene; 1.5 h, reflux|
+
+CAS Reaction Number: 31-091-CAS-4690971
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; rt; 19.5 h, reflux|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-11415586
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 1 h, 20 °C|
+
+CAS Reaction Number: 31-085-CAS-4754130
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-085-CAS-15174792
+1.1|Reagents: Aluminum chloride; 4 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-5123427
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 4 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-13919025
+1.1|Reagents: Sulfuric acid|
+|Catalysts: 1,1,1-Trifluoro-N-[oxido(trifluoromethyl)[[(trifluoromethyl)sulfonyl]amino]-λ4-sulfanylidene]methanesulfonamide|
+|Solvents: Dichloromethane, Water; rt; rt → 80 °C; 21 h, 80 °C|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-26715925
+1.1|Catalysts: Rhodium, tetrakis[μ-(2,2,2-trifluoroacetato-κO:κO′)]di-, (Rh-Rh)|
+
+CAS Reaction Number: 31-614-CAS-28473649
+1.1|Catalysts: Acetic acid, 2,2,2-trifluoro-, rhodium(2+) salt (2:1)|
+
+CAS Reaction Number: 31-614-CAS-29915012
+1.1|Solvents: Propionitrile, Acetonitrile-d3; -40 °C → 20 °C|
+
+CAS Reaction Number: 31-614-CAS-29115521
+1.1|Solvents: Propionitrile; -50 °C → 20 °C|
+
+CAS Reaction Number: 31-562-CAS-3561844
+1.1|Solvents: Dichloromethane-d2; 24 h, rt|
+
+CAS Reaction Number: 31-086-CAS-13165003
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 18 h, 0 °C|
+
+CAS Reaction Number: 31-176-CAS-18113286
+1.1|Reagents: Triethylamine|
+|Solvents: 2,2,2-Trifluoroethanol; 4 h, rt|
+
+CAS Reaction Number: 31-562-CAS-15082068
+1.1|1 h, 120 °C|
+
+CAS Reaction Number: 31-562-CAS-12828317
+1.1|Solvents: Benzene; rt → 120 °C; 30 min, 120 °C|
+
+CAS Reaction Number: 31-085-CAS-7926766
+1.1|Reagents: Trifluoromethanesulfonic acid; 5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33567086
+1.1|Catalysts: Trifluoromethanesulfonic acid; 24 h, 160 °C|
+
+CAS Reaction Number: 31-081-CAS-14861330
+1.1|Catalysts: Aluminum chloride; rt → -40 °C; -40 °C; 4 h, rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-28626563
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 6 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-25065012
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Pivalic acid, (SP-4-2)-Dichloro[N,N′-1,2-ethanediylidenebis[2,6-bis(1-ethylpropyl)benzenamine-κN]]palladium|
+|Solvents: Dimethylacetamide; 16 h, rt → 120 °C|
+
+CAS Reaction Number: 31-176-CAS-13436639
+1.1|Reagents: Lithium bis(trimethylsilyl)amide|
+|Catalysts: tris(Acetylacetonato)cobalt|
+|Solvents: Benzene; 48 h, 80 °C; 80 °C → rt|
+
+CAS Reaction Number: 31-026-CAS-20460791
+1.1|Solvents: Benzene-d6; 3 d, rt|
+
+CAS Reaction Number: 31-085-CAS-20306554
+1.1|Reagents: 9-BBN dimer|
+|Solvents: Dichloromethane; 5 min, rt|
+
+CAS Reaction Number: 31-089-CAS-6072855
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene-d6; 70 °C|
+
+CAS Reaction Number: 31-085-CAS-11071874
+1.1|Catalysts: Trifluoromethanesulfonic acid; > 3 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-24380075
+1.1|Solvents: Benzene; 9.5 h, 80 °C|
+
+CAS Reaction Number: 31-086-CAS-7386426
+1.1|Reagents: Trifluoromethanesulfonic acid|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-34483971
+1.1|Solvents: 2,2,2-Trifluoroethanol; 10 min, rt|
+
+CAS Reaction Number: 31-562-CAS-11134642
+1.1|Reagents: Bis(1,5-cyclooctadiene)nickel, Hydrogen; 3 h, 5 atm, rt|
+
+CAS Reaction Number: 31-562-CAS-16546019
+1.1|rt|
+
+CAS Reaction Number: 31-251-CAS-7795880
+1.1|Catalysts: Palladium chloride, Silver hexafluoroantimonate, 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine]|
+|Solvents: Dichloromethane; 30 min, rt|
+1.2|24 h, -40 °C|
+
+CAS Reaction Number: 31-089-CAS-6787900
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 31 h, 70 °C|
+
+CAS Reaction Number: 31-085-CAS-7285323
+1.1|Reagents: Boron trifluoride etherate; 24 h, 25 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; 5 min|
+
+CAS Reaction Number: 31-085-CAS-12084438
+1.1|Reagents: Boron trifluoride etherate; 24 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; 5 min|
+
+CAS Reaction Number: 31-614-CAS-38059610
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-37064231
+1.1|Reagents: 2940916-51-6|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-091-CAS-4166132
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 3 h, 50 °C|
+
+CAS Reaction Number: 31-562-CAS-7592839
+1.1|rt → 60 °C; 12 h, 60 °C|
+
+CAS Reaction Number: 31-086-CAS-109588
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; rt; 3 h, rt|
+
+CAS Reaction Number: 31-562-CAS-14359214
+1.1|overnight, rt|
+
+CAS Reaction Number: 31-562-CAS-16656864
+1.1|Reagents: Bis(η5-cyclopentadienyl)dihydrozirconium|
+|Solvents: Tetrahydrofuran; 1 h, rt|
+1.2|Solvents: Benzene; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-38059617
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38059612
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-37064223
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-37167150
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-614-CAS-28474869
+1.1|Reagents: Oxygen|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-080-CAS-21172936
+1.1|Reagents: Trifluoroacetic acid, 1,3-Bis(acetyloxy)-1,3-dihydro-1,3,2-benzodiiodoxole|
+|Solvents: 1,2-Dichloroethane, 1,1,1,3,3,3-Hexafluoro-2-propanol; 2 h, 25 °C|
+
+CAS Reaction Number: 31-084-CAS-22861644
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24962241
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Pivalic acid, (SP-4-2)-Dichloro[N,N′-1,2-ethanediylidenebis[2,6-bis(1-ethylpropyl)benzenamine-κN]]palladium|
+|Solvents: Dimethylacetamide; 16 h, rt → 120 °C|
+
+CAS Reaction Number: 31-086-CAS-9945875
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 25 °C|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-086-CAS-8089905
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 25 °C|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-562-CAS-15151074
+1.1|4 h, 105 °C|
+
+CAS Reaction Number: 31-091-CAS-12769254
+1.1|Reagents: Oxalyl chloride, Aluminum chloride|
+|Solvents: Dichloromethane; -5 °C → rt|
+
+CAS Reaction Number: 31-562-CAS-22275504
+1.1|Catalysts: Zinc|
+|Solvents: Acetonitrile, Fluorobenzene; overnight, reflux|
+
+CAS Reaction Number: 31-091-CAS-14510849
+1.1|Reagents: Thionyl chloride|
+|Catalysts: Dimethylformamide; 2 h, reflux|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Benzene; 10 min, reflux; 1 h, reflux|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-25837797
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Pivalic acid, (SP-4-2)-Dichloro[N,N′-1,2-ethanediylidenebis[2,6-bis(1-ethylpropyl)benzenamine-κN]]palladium|
+|Solvents: Dimethylacetamide; 16 h, rt → 120 °C|
+
+CAS Reaction Number: 31-089-CAS-14600131
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 31 h, 70 °C|
+
+CAS Reaction Number: 31-562-CAS-22356629
+1.1|Solvents: Benzene|
+
+CAS Reaction Number: 31-085-CAS-15269024
+1.1|Reagents: Trifluoromethanesulfonic acid|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-086-CAS-4207621
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-086-CAS-4139243
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; rt; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-31923134
+1.1|Reagents: [Bis(trimethylsilyl)methyl]lithium|
+|Solvents: Benzene; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-36452366
+1.1|Solvents: Benzene-d6; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-37487734
+1.1|Solvents: Dichloromethane; 1 h|
+
+CAS Reaction Number: 31-614-CAS-29228154
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 1 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-30596176
+1.1|Reagents: Boron trichloride|
+|Solvents: Dichloromethane; 23 °C; 24 h, 23 °C|
+
+CAS Reaction Number: 31-087-CAS-8998443
+1.1|Reagents: Trifluoromethanesulfonic acid; 4 h, 25 °C|
+
+CAS Reaction Number: 31-086-CAS-1939941
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; > 2 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; > pH 7, 0 °C|
+
+CAS Reaction Number: 31-089-CAS-5401544
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 47 h, 70 °C|
+
+CAS Reaction Number: 31-089-CAS-2343769
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 30 h, 70 °C|
+
+CAS Reaction Number: 31-085-CAS-21671796
+1.1|Reagents: Cesium carbonate|
+|Catalysts: Carbon, Cobalt; 24 h, 130 °C|
+
+CAS Reaction Number: 31-218-CAS-18520683
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 9,9′-(1,2-Ethanediyldiimino)bis[1H-phenalen-1-one]; 12 h, 130 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-20324555
+1.1|Reagents: Phosphonic acid; 24 h, 130 °C|
+
+CAS Reaction Number: 31-085-CAS-3076966
+1.1|Solvents: Benzene|
+1.2|Reagents: Trifluoromethanesulfonic acid|
+1.3|Reagents: Sodium hydroxide|
+
+CAS Reaction Number: 31-614-CAS-26435444
+1.1|Reagents: Iodobenzene diacetate|
+|Solvents: Benzene; 4 h, 140 °C|
+
+CAS Reaction Number: 31-562-CAS-3271362
+1.1|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-614-CAS-39363315
+1.1|Solvents: Dichloromethane; rt → 0 °C; 10 min, 0 °C|
+1.2|Reagents: Aluminum chloride; 0 °C; 13 h, 0 °C|
+
+CAS Reaction Number: 31-086-CAS-14750751
+1.1|Catalysts: Trifluoromethanesulfonic acid; 6 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-614-CAS-34306191
+1.1|Catalysts: Trifluoromethanesulfonic acid; rt; 8 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 9, cooled|
+
+CAS Reaction Number: 31-614-CAS-28260001
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Pivalic acid, (SP-4-2)-Dichloro[N,N′-1,2-ethanediylidenebis[2,6-bis(1-ethylpropyl)benzenamine-κN]]palladium|
+|Solvents: Dimethylacetamide; 16 h, rt → 120 °C|
+
+CAS Reaction Number: 31-085-CAS-13278640
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-086-CAS-9416008
+1.1|Reagents: Trifluoromethanesulfonic acid|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-15443287
+1.1|Catalysts: Trifluoromethanesulfonic acid; > 3 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-10408767
+1.1|Reagents: Trifluoromethanesulfonic acid|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-086-CAS-10931296
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-37826744
+1.1|Reagents: Thionyl chloride; 1.5 h, 80 °C|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Benzene; 3 h, 80 °C|
+
+CAS Reaction Number: 31-080-CAS-21098968
+1.1|Reagents: Chlorosuccinimide|
+|Catalysts: Tris(2,2′-bipyridyl)ruthenium(II) chloride|
+|Solvents: 1,1,1,3,3,3-Hexafluoro-2-propanol; 30 min, rt|
+1.2|Reagents: Perchloric acid; 2 h, rt|
+
+CAS Reaction Number: 31-091-CAS-13963965
+1.1|Reagents: Aluminum chloride|
+
+CAS Reaction Number: 31-085-CAS-2959835
+1.1|Reagents: Trifluoromethanesulfonic acid|
+
+CAS Reaction Number: 31-086-CAS-4063867
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; > 2 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; > pH 7, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-39349792
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,2-Bis[(2,6-dimethylphenyl)imino]acenaphthene; 15 h, 75 °C|
+
+CAS Reaction Number: 31-218-CAS-8969127
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Dimethyl sulfoxide; 1.5 h, rt|
+1.2|Reagents: Ammonium nitrate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-218-CAS-11779038
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: N,N′-Dimethylethylenediamine, Iron-nickel alloy|
+|Solvents: Benzene; 48 h, 80 °C|
+
+CAS Reaction Number: 31-218-CAS-16973512
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: Ethyl 5-[[[5-[[(1,1-dimethylethoxy)carbonyl]amino]-1,4-dihydro-1-octyl-4-oxo-3-pyridinyl]carbonyl]amino]-1,4-dihydro-1-octyl-4-oxo-3-pyridinecarboxylate; 24 h, 120 °C; 120 °C → rt|
+
+CAS Reaction Number: 31-218-CAS-4853960
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 6,13,20,27,34-Pentaoctyl-2,6,9,13,16,20,23,27,30,34-decaazahexacyclo[30.3.1.14,8.111,15.118,22.125,29]tetraconta-4,7,11,14,18,21,25,28,32,35-decaene-3,10,17,24,31,36,37,38,39,40-decone; 24 h, 120 °C|
+
+CAS Reaction Number: 31-218-CAS-8339682
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: [[2,2′-Bipyridine]-5,5′-dicarboxylato(2-)-κO5]hydroxyaluminum|
+|Solvents: Benzene; 36 h, 100 °C|
+
+CAS Reaction Number: 31-218-CAS-19587205
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: Graphene; 12 h, 130 °C|
+
+CAS Reaction Number: 31-218-CAS-2333270
+1.1|Reagents: Oxygen|
+|Catalysts: N,N,N′,N′-Tetramethylethylenediamine; 7 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34483975
+1.1|Solvents: 2,2,2-Trifluoroethanol; 10 min, rt|
+
+CAS Reaction Number: 31-086-CAS-12012964
+1.1|Catalysts: Trifluoromethanesulfonic acid; 6 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-614-CAS-37167218
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 0 °C; 1 h, 0 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-289-CAS-23620630
+1.1|Catalysts: Bis[μ-[1,3,5-benzenetricarboxylato(3-)-κO1:κO′1]]tetra-μ3-hydroxytetra-μ3-oxohexakis[μ-(1,1,1-trifluoromethanesulfonato-κO:κO′)]hexazirconium|
+|Solvents: Dichloromethane; 16 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-8778595
+1.1|Reagents: Aluminum chloride; 2 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-869932
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 2 h, 25 °C|
+
+CAS Reaction Number: 31-081-CAS-15048778
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Nitromethane; 8 h, rt → 100 °C; 100 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-085-CAS-8606822
+1.1|Reagents: Trifluoromethanesulfonic acid|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-24292772
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-307-CAS-12837169
+1.1|1.5 h, 100 °C|
+
+CAS Reaction Number: 31-307-CAS-5530635
+1.1|Solvents: Benzene, Octane; 9 h, 100 °C|
+
+CAS Reaction Number: 31-086-CAS-8326704
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; > 2 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; > pH 7, 0 °C|
+
+CAS Reaction Number: 31-562-CAS-11687132
+1.1|Reagents: Di-μ-chlorotetrakis[(1,2-η)-cyclooctene]dirhodium|
+|Solvents: Tetrahydrofuran; 5 min, rt|
+1.2|Solvents: Tetrahydrofuran; 12 h, rt|
+1.3|Solvents: Benzene-d6; 293 K|
+
+CAS Reaction Number: 31-085-CAS-17248476
+1.1|Catalysts: Aluminum chloride; rt → 65 °C; 6 h, 65 °C; 65 °C → 0 °C|
+1.2|Reagents: Hydrochloric acid; 0 °C|
+
+CAS Reaction Number: 31-085-CAS-16032222
+1.1|Catalysts: Aluminum chloride; 6 h, 65 °C|
+
+CAS Reaction Number: 31-255-CAS-22092756
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, rt|
+
+CAS Reaction Number: 31-255-CAS-21095970
+1.1|2 h, 85 °C|
+
+CAS Reaction Number: 31-255-CAS-21134287
+1.1|2 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-37167183
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-085-CAS-3695920
+1.1|Reagents: Aluminum bromide; 2 h, 20 °C|
+
+CAS Reaction Number: 31-085-CAS-6985436
+1.1|Reagents: Aluminum chloride; 23 h, rt|
+1.2|Solvents: Water; pH 5.5, rt|
+
+CAS Reaction Number: 31-089-CAS-9765369
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; rt → 60 °C; overnight, 60 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Chloroform, Water; basified, cooled|
+
+CAS Reaction Number: 31-614-CAS-31577103
+1.1|Reagents: Nickel dichloride|
+|Solvents: Methanol, Benzene; > 1 d, rt|
+
+CAS Reaction Number: 31-614-CAS-33214674
+1.1|Solvents: Dichloromethane; 15 min, 0 °C|
+1.2|Reagents: m-Chloroperbenzoic acid; 1 h, reflux|
+1.3|Reagents: Diethyl ether; 1 h, 0 °C|
+
+CAS Reaction Number: 31-117-CAS-9135480
+1.1|Reagents: Pivalic acid, Silver acetate|
+|Catalysts: Palladium trifluoroacetate; 12 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-30811147
+1.1|Solvents: Benzene, 1,2-Dichloroethane; 0 °C; 15 - 30 min, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-091-CAS-16785354
+1.1|Reagents: Trifluoroacetic acid|
+|Catalysts: Benzoic acid, 2,2′,2′′-[phosphinylidynetris(oxy)]tris-, trimethyl ester; 20 min, 20 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-37167138
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-091-CAS-4652770
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+
+CAS Reaction Number: 31-084-CAS-13515406
+1.1|Solvents: Dichloromethane, 2,2,2-Trifluoroethanol; 20 h, rt|
+
+CAS Reaction Number: 31-085-CAS-6872831
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-30157552
+1.1|Reagents: Trifluoroacetic acid; 0.5 h, rt|
+
+CAS Reaction Number: 31-562-CAS-5628822
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-562-CAS-3478512
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-085-CAS-1444749
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 0 °C; 0 °C → rt; 8 h, rt|
+1.2|Reagents: Ammonium chloride|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-085-CAS-6048234
+1.1|Reagents: Aluminum chloride; 5 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-11506277
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 5 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-35550303
+1.1|Reagents: Cyclohexane|
+|Catalysts: Aluminum chloride; 15 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33853403
+1.1|Solvents: Benzene, Trifluoromethanesulfonic acid; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 10, rt|
+
+CAS Reaction Number: 31-614-CAS-33853386
+1.1|Solvents: Benzene, Trifluoromethanesulfonic acid; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 10, rt|
+
+CAS Reaction Number: 31-614-CAS-33853387
+1.1|Solvents: Benzene, Trifluoromethanesulfonic acid; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 10, rt|
+
+CAS Reaction Number: 31-562-CAS-21868612
+1.1|Reagents: Triethylamine, Indium trichloride|
+|Solvents: Methanol; 0 °C|
+1.2|6 °C|
+
+CAS Reaction Number: 31-081-CAS-19920657
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 5 h, 60 °C|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-37826754
+1.1|Reagents: Thionyl chloride; 1.5 h, 80 °C|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Benzene; 3 h, 80 °C|
+
+CAS Reaction Number: 31-091-CAS-4716196
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; rt; 2 h, 50 °C|
+
+CAS Reaction Number: 31-091-CAS-4968898
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; rt; 2 h, 50 °C|
+
+CAS Reaction Number: 31-091-CAS-2863036
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 20 - 25 °C; 2 h, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-28817981
+1.1|2 h, 100 °C|
+
+CAS Reaction Number: 31-085-CAS-5472497
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Dichloromethane; overnight, -20 °C → 0 °C|
+
+CAS Reaction Number: 31-614-CAS-26996487
+1.1|Reagents: Hydrogen|
+|Solvents: Benzene-d6; 12 h, rt → 50 °C|
+
+CAS Reaction Number: 31-085-CAS-2937364
+1.1|Reagents: Trifluoromethanesulfonic acid; 2 h, 20 °C|
+
+CAS Reaction Number: 31-085-CAS-23742052
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 1 - 3 h, rt|
+
+CAS Reaction Number: 31-090-CAS-2098242
+1.1|Reagents: Oxygen, Molybdovanadophosphoric acid (H4PMo11VO40)|
+|Catalysts: Palladium diacetate|
+|Solvents: Acetic acid, Water; 1.5 h, 120 °C|
+
+CAS Reaction Number: 31-085-CAS-15112018
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 4 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; basified, cooled|
+
+CAS Reaction Number: 31-614-CAS-40408981
+1.1|Reagents: Titanium tetrachloride; 0 °C; 1 min, 0 °C; 0 °C → 25 °C; 1 h, 25 °C|
+1.2|Reagents: Water; 1 min, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-41435023
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 0 °C; 0 °C → rt; 4 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11|
+
+CAS Reaction Number: 31-614-CAS-41435031
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 0 °C; 0 °C → rt; 4 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11|
+
+CAS Reaction Number: 31-086-CAS-14021586
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 8 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-40408979
+1.1|Reagents: Titanium tetrachloride; 0 °C; 1 min, 0 °C; 0 °C → 25 °C; 24 h, 25 °C|
+1.2|Reagents: Water; 1 min, 25 °C|
+
+CAS Reaction Number: 31-086-CAS-9822276
+1.1|Reagents: Aluminum chloride|
+
+CAS Reaction Number: 31-089-CAS-5125153
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 39 h, 70 °C|
+
+CAS Reaction Number: 31-218-CAS-22806810
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 2,3-Di-2-pyridinylpyrazine|
+|Solvents: Benzene; 24 h, 100 °C; 100 °C → rt|
+1.2|Reagents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-085-CAS-19588919
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24608219
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, 20 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 10, 20 °C|
+
+CAS Reaction Number: 31-086-CAS-22641042
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, 20 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 10|
+
+CAS Reaction Number: 31-614-CAS-24608213
+1.1|Reagents: Aluminum chloride; 120 h, 20 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 10, 20 °C|
+
+CAS Reaction Number: 31-255-CAS-21220383
+1.1|1 h, 130 °C|
+
+CAS Reaction Number: 31-251-CAS-16529180
+1.1|3 h, 130 °C|
+
+CAS Reaction Number: 31-085-CAS-23688432
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; < 5 °C; 20 min, < 5 °C; 5 °C → rt|
+1.2|Solvents: Diethyl ether; rt → 0 °C|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water; < pH 2|
+
+CAS Reaction Number: 31-562-CAS-24132203
+1.1|Reagents: Methanamine, N-methyl-, bismuth(3+) salt (3:1)|
+|Solvents: Benzene; rt|
+
+CAS Reaction Number: 31-086-CAS-2929327
+1.1|Catalysts: Boron, aquatrifluoro-, (T-4)-; 2 h, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-33607257
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 2 h, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-26488977
+1.1|Reagents: Silver triflate|
+|Catalysts: Di-μ-chlorobis(η3-2-propenyl)dipalladium|
+|Solvents: 1,2-Dichloroethane; 24 h, 4 atm, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-37990095
+1.1|Reagents: Aluminum chloride; 15 min, 70 °C|
+1.2|70 °C; 1 h, 70 °C|
+
+CAS Reaction Number: 31-091-CAS-8741805
+1.1|Catalysts: Trifluoromethanesulfonic acid; 0 °C; 0 °C → rt; 1 h, rt|
+1.2|Solvents: Ethyl acetate, Water; cooled|
+
+CAS Reaction Number: 31-091-CAS-20817709
+1.1|< 1 min, 0 °C|
+1.2|Catalysts: Aluminum chloride; 24 h, rt|
+1.3|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-091-CAS-19944879
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 0 °C; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-24791140
+1.1|Reagents: Acetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+
+CAS Reaction Number: 31-089-CAS-6395631
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 47 h, 70 °C|
+
+CAS Reaction Number: 31-251-CAS-15449730
+1.1|Solvents: Trifluoromethanesulfonic acid; 0.5 h, rt|
+1.2|Solvents: Acetonitrile; rt|
+
+CAS Reaction Number: 31-614-CAS-28401912
+1.1|Reagents: Thallium(III) trifluoroacetate|
+1.3|Catalysts: Palladate(2-), tetrachloro-, dilithium, (SP-4-1)-|
+|Solvents: Tetrahydrofuran; rt|
+
+CAS Reaction Number: 31-086-CAS-17525962
+1.1|Reagents: Aluminum bromide; 1 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-218-CAS-12143572
+1.1|Solvents: Benzene|
+
+CAS Reaction Number: 31-614-CAS-33853384
+1.1|Solvents: Benzene, Trifluoromethanesulfonic acid; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 10, rt|
+
+CAS Reaction Number: 31-614-CAS-37167161
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-085-CAS-21433855
+1.1|Catalysts: Tungstophosphoric acid (H6P2W18O62); 1 h, 80 °C|
+
+CAS Reaction Number: 31-531-CAS-9625586
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 2 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-614-CAS-28298321
+1.1|Reagents: Trifluoroacetic acid; 0.5 h, rt|
+
+CAS Reaction Number: 31-086-CAS-20515046
+1.1|Reagents: Trifluoroacetic acid|
+|Solvents: Benzene; 5 min, rt; 18 h, rt|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-37990087
+1.1|Reagents: Aluminum chloride; 15 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-37167179
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-614-CAS-37167174
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-562-CAS-10959545
+1.1|Reagents: Sodium; rt|
+1.2|1 h, rt|
+
+CAS Reaction Number: 31-277-CAS-21484353
+1.1|Reagents: Osmium tetroxide|
+|Solvents: Dichloromethane; rt → -78 °C; < 15 min, -78 °C|
+1.2|Reagents: Diethyl ether|
+|Solvents: Benzene, Dichloromethane|
+
+CAS Reaction Number: 31-081-CAS-19920654
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 24 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-562-CAS-1010421
+1.1|Solvents: Diethyl ether, Benzene, Tetrahydrofuran; 1 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-16555671
+1.1|Reagents: Trifluoromethanesulfonic acid; rt; 12 h, rt|
+1.2|Reagents: Water|
+|Solvents: Chloroform; 0 °C|
+
+CAS Reaction Number: 31-177-CAS-3775950
+1.1|Reagents: Cupric acetate|
+|Catalysts: Palladium diacetate, 1,10-Phenanthrolin-2(1H)-one; rt → 120 °C; 15 h, 120 °C|
+
+CAS Reaction Number: 31-084-CAS-18375864
+1.1|Reagents: Potassium peroxymonosulfate sulfate (2KHSO5.KHSO4.K2SO4); 5 min, rt; rt → 5 °C|
+1.2|Reagents: Sulfuric acid; 5 °C; 30 min, rt; rt → 5 °C|
+1.3|Solvents: Dichloromethane; 1 h, 5 °C; 2 h, rt; rt → 5 °C|
+1.4|Reagents: Sodium bicarbonate|
+|Solvents: Dichloromethane, Water; pH 8, 5 °C|
+
+CAS Reaction Number: 31-084-CAS-23546729
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 22 h, rt|
+
+CAS Reaction Number: 31-084-CAS-11121121
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 30 min, rt|
+
+CAS Reaction Number: 31-084-CAS-69305
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 0.5 h, rt|
+
+CAS Reaction Number: 31-084-CAS-23546683
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 30 min, rt|
+
+CAS Reaction Number: 31-084-CAS-18665765
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; rt; rt → 0 °C|
+1.2|0 °C; 10 min, rt|
+
+CAS Reaction Number: 31-084-CAS-19209736
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 0 °C; 1.5 h, rt|
+
+CAS Reaction Number: 31-084-CAS-10815378
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 30 min, rt|
+
+CAS Reaction Number: 31-084-CAS-6514685
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 30 min, rt|
+
+CAS Reaction Number: 31-084-CAS-4410644
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 30 min, rt|
+
+CAS Reaction Number: 31-091-CAS-11304053
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-25657060
+1.1|Catalysts: Bis[(1,2,5,6-η)-1,5-cyclooctadiene]di-μ-methoxydiiridium, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine; 16 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-38059613
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Reagents: 2766566-94-1|
+|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-091-CAS-15280558
+1.1|Catalysts: Trifluoromethanesulfonic acid; 0 °C; 0 °C → rt; 1 h, rt|
+1.2|Solvents: Ethyl acetate, Water; cooled|
+
+CAS Reaction Number: 31-085-CAS-13249038
+1.1|Reagents: Sulfuric acid|
+|Solvents: Chloroform|
+1.2|Reagents: Sodium carbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-091-CAS-16785394
+1.1|Reagents: Trifluoroacetic acid|
+|Catalysts: Benzoic acid, 2,2′,2′′-[phosphinylidynetris(oxy)]tris-, trimethyl ester; 20 min, 20 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-091-CAS-3953236
+1.1|Reagents: Aluminum chloride; 10 min, rt; 36 h, reflux|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-562-CAS-10081650
+1.1|Solvents: Methanol, Acetone, Benzene|
+
+CAS Reaction Number: 31-614-CAS-25218833
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 15 h, 23 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-531-CAS-11395798
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 2 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-085-CAS-20751274
+1.1|Reagents: Trifluoromethanesulfonic acid; 24 h, rt|
+
+CAS Reaction Number: 31-562-CAS-19974567
+1.1|Reagents: Lithium iodide|
+|Solvents: (Trifluoromethyl)benzene; rt → reflux; reflux → rt; overnight, rt|
+1.2|rt|
+
+CAS Reaction Number: 31-614-CAS-24535253
+1.1|Solvents: Benzene, THF-d8; 10 min, rt|
+
+CAS Reaction Number: 31-562-CAS-23277154
+1.1|Solvents: Benzene; rt|
+
+CAS Reaction Number: 31-614-CAS-34297747
+1.1|Catalysts: Scandium triflate|
+|Solvents: 1,2-Dichloroethane; rt; 2.5 h, 80 °C|
+
+CAS Reaction Number: 31-136-CAS-23532463
+1.1|Catalysts: Scandium triflate|
+|Solvents: 1,2-Dichloroethane; rt; 4 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-36703126
+1.1|Solvents: Trifluoroacetic acid; 16 h, rt|
+
+CAS Reaction Number: 31-085-CAS-7981843
+1.1|Reagents: Trifluoromethanesulfonic acid; 2 h, 20 °C|
+
+CAS Reaction Number: 31-086-CAS-2407977
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-38561327
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 24 h, rt|
+
+CAS Reaction Number: 31-085-CAS-3570553
+1.1|Catalysts: Lithium tetrakis(pentafluorophenyl)borate|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-614-CAS-41435036
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 0 °C; 0 °C → rt; 4 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11|
+
+CAS Reaction Number: 31-614-CAS-24072476
+1.1|Solvents: Dichloromethane; 0 °C; 12 h, rt|
+
+CAS Reaction Number: 31-085-CAS-12401359
+1.1|Solvents: Benzene|
+1.2|Reagents: Trifluoromethanesulfonic acid|
+1.3|Reagents: Sodium hydroxide|
+
+CAS Reaction Number: 31-614-CAS-28770077
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 1 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-255-CAS-21136010
+1.1|2 h, 85 °C|
+
+CAS Reaction Number: 31-614-CAS-37167152
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-085-CAS-15260385
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 30 min, rt; 8 h, rt → reflux; cooled|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-37167158
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-091-CAS-19882317
+1.1|Reagents: Carbon monoxide, Silver triflate, Iodine|
+|Solvents: 1,2-Dichloroethane; 24 h, 4 atm, 40 °C|
+1.2|16 h, 90 °C|
+
+CAS Reaction Number: 31-091-CAS-4314366
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 0 °C; 0.5 h, < 5 °C; 5 °C → 25 °C; 25 °C → 50 °C; 8 h, 50 °C|
+
+CAS Reaction Number: 31-091-CAS-2830062
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 0.5 h, 0 °C; 0 °C → 25 °C; 8 h, 25 °C → 50 °C; 50 °C → 25 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-218-CAS-9410483
+1.1|Reagents: Potassium tert-butoxide; 16 h, 100 °C|
+
+CAS Reaction Number: 31-218-CAS-5118483
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 6,13,20,27,34-Pentaoctyl-2,6,9,13,16,20,23,27,30,34-decaazahexacyclo[30.3.1.14,8.111,15.118,22.125,29]tetraconta-4,7,11,14,18,21,25,28,32,35-decaene-3,10,17,24,31,36,37,38,39,40-decone; 24 h, 120 °C|
+
+CAS Reaction Number: 31-218-CAS-8724467
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: [[2,2′-Bipyridine]-5,5′-dicarboxylato(2-)-κO5]hydroxyaluminum|
+|Solvents: Benzene; 36 h, 100 °C|
+
+CAS Reaction Number: 31-081-CAS-10553665
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Nitromethane; rt; rt → 100 °C; 8 h, 100 °C; 100 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-084-CAS-15249101
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 30 min, rt|
+
+CAS Reaction Number: 31-089-CAS-23477974
+1.1|Reagents: Aluminum chloride; 1 h, reflux|
+
+CAS Reaction Number: 31-176-CAS-18185732
+1.1|Reagents: Triethylamine|
+|Solvents: 2,2,2-Trifluoroethanol; 28 h, rt|
+
+CAS Reaction Number: 31-085-CAS-9895768
+1.1|Reagents: Trifluoromethanesulfonic acid; 4 h, rt|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-614-CAS-27893685
+1.1|Reagents: Aluminum bromide; 4 h, 25 °C|
+
+CAS Reaction Number: 31-218-CAS-9034699
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: N,N′-Dimethylethylenediamine, Iron-nickel alloy|
+|Solvents: Benzene; 48 h, 80 °C|
+
+CAS Reaction Number: 31-091-CAS-3532804
+1.1|Reagents: Aluminum chloride; 30 min, 20 °C; 3 h, 80 °C|
+1.2|Reagents: Water|
+|Solvents: Chloroform; pH 3 - 4|
+
+CAS Reaction Number: 31-086-CAS-14369824
+1.1|Catalysts: Borane, trifluoro-, monohydrate; rt → 0 °C; 0 °C; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-614-CAS-29343214
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; 2 h, 25 °C|
+
+CAS Reaction Number: 31-089-CAS-5402932
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 47.5 h, 70 °C|
+
+CAS Reaction Number: 31-562-CAS-9154243
+1.1|Solvents: Benzene; 6.5 h, 170 °C|
+
+CAS Reaction Number: 31-562-CAS-11445350
+1.1|Solvents: Benzene; 6.5 h, 170 °C|
+
+CAS Reaction Number: 31-531-CAS-12034103
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 2 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-086-CAS-7810302
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 25 °C|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-27899318
+1.1|Catalysts: Trifluoromethanesulfonic acid; 0 °C; 10 min, 0 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-177-CAS-18270599
+1.1|Reagents: Tricarbonyl[(1,2,3,4,5-η)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]rhenium|
+|Solvents: Benzene; 2.5 h|
+
+CAS Reaction Number: 31-085-CAS-20306553
+1.1|Reagents: 9-BBN dimer|
+|Solvents: Dichloromethane; 5 min, rt|
+
+CAS Reaction Number: 31-137-CAS-15359149
+1.1|Solvents: Benzene-d6; 13 h, rt|
+
+CAS Reaction Number: 31-137-CAS-10985513
+1.1|Solvents: 1,4-Dioxane; 2 h, 100 °C|
+
+CAS Reaction Number: 31-085-CAS-13540017
+1.1|Catalysts: Iron chloride (FeCl3)|
+|Solvents: Benzene; rt; 5 h, 80 °C|
+
+CAS Reaction Number: 31-091-CAS-8383361
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; rt; 30 min, 80 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-086-CAS-5683390
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 25 °C|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-218-CAS-8913486
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Dimethyl sulfoxide; 1 h, rt|
+1.2|Reagents: Ammonium nitrate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-39349793
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,2-Bis[(2,6-dimethylphenyl)imino]acenaphthene; 15 h, 75 °C|
+
+CAS Reaction Number: 31-086-CAS-13882866
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-575-CAS-8054204
+1.1|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-085-CAS-7098290
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 0 °C; 30 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11, 0 °C|
+
+CAS Reaction Number: 31-089-CAS-11965034
+1.1|Reagents: Trifluoromethanesulfonic acid; rt; overnight, 60 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; basified, cooled|
+
+CAS Reaction Number: 31-563-CAS-2190138
+1.1|Reagents: Chlorotrimethylsilane|
+|Solvents: Toluene; rt; overnight, rt|
+1.2|Solvents: Benzene; rt|
+
+CAS Reaction Number: 31-614-CAS-37064234
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38059606
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-085-CAS-16555673
+1.1|Reagents: Trifluoromethanesulfonic acid; rt; 12 h, rt|
+1.2|Reagents: Water|
+|Solvents: Chloroform; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-35048066
+1.1|Reagents: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O), Iron chloride (FeCl3); 30 min, 90 - 120 °C|
+
+CAS Reaction Number: 31-085-CAS-16409473
+1.1|Reagents: Trifluoromethanesulfonic acid; cooled; 30 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11, cooled|
+
+CAS Reaction Number: 31-614-CAS-34325764
+1.1|Solvents: Benzene; rt|
+
+CAS Reaction Number: 31-081-CAS-1339699
+1.1|Reagents: Nitromethane, Aluminum chloride; overnight, rt → 100 °C; 100 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-081-CAS-3494249
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Nitromethane; overnight, rt → 100 °C; 100 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-562-CAS-5399179
+1.1|Reagents: Bis(1,5-cyclooctadiene)nickel, Hydrogen; 16 h, 5 - 8 atm, rt|
+
+CAS Reaction Number: 31-091-CAS-22815227
+1.1|Catalysts: Aluminum chloride; 2 h, 70 °C|
+1.2|Reagents: Ethyl acetate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-091-CAS-22815066
+1.1|Catalysts: Aluminum chloride; 2 h, 70 °C|
+1.2|Reagents: Ethyl acetate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-562-CAS-22898007
+1.1|Reagents: Dichloro[1,1′-(sulfinyl-κO)bis[methane]]tris[1,1′-(sulfinyl-κS)bis[methane]]ruthenium|
+|Solvents: Tetrahydrofuran; 8 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-28108258
+1.1|Reagents: Ammonia|
+|Solvents: Toluene; -78 °C; 2 h, -78 °C → rt|
+
+CAS Reaction Number: 31-085-CAS-23744011
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 1 - 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35850176
+1.1|Catalysts: Oxonium, ethyl(9-methoxy-1H-phenalen-1-ylidene)-, tetrafluoroborate(1-) (1:1)|
+|Solvents: 1,1,1,3,3,3-Hexafluoro-2-propanol; 10 min, rt; 12 - 24 h, rt|
+
+CAS Reaction Number: 31-086-CAS-8169896
+1.1|Reagents: Trifluoromethanesulfonic acid; 4 h, 25 °C|
+
+CAS Reaction Number: 31-091-CAS-8324163
+1.1|Reagents: Aluminum chloride|
+|Solvents: 1,2-Dichloroethane; cooled; 5 min, 0 °C; 0 °C → rt; 1 - 2 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-37167159
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-549-CAS-2878319
+1.1|Solvents: Dichloromethane; < rt; 30 min, < rt|
+
+CAS Reaction Number: 31-085-CAS-9718142
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; rt; rt → 80 °C; 4 h, 80 °C; 80 °C → rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-085-CAS-7262027
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; 0 °C; 0 °C → rt; 45 min, reflux; cooled|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; pH 2|
+
+CAS Reaction Number: 31-085-CAS-16828932
+1.1|Catalysts: Sulfuric acid|
+
+CAS Reaction Number: 31-614-CAS-25225438
+1.1|Reagents: Triethylamine|
+|Solvents: 2,2,2-Trifluoroethanol; 24 h, rt|
+
+CAS Reaction Number: 31-080-CAS-21107651
+1.1|Reagents: Chlorosuccinimide|
+|Catalysts: Tris(2,2′-bipyridyl)ruthenium(II) chloride|
+|Solvents: 1,1,1,3,3,3-Hexafluoro-2-propanol; 30 min, rt|
+1.2|Reagents: Perchloric acid; 2 h, rt|
+
+CAS Reaction Number: 31-086-CAS-2754994
+1.1|Reagents: Trifluoromethanesulfonic acid|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-177-CAS-4726311
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: Dichloro[(1,2,5,6-η)-1,5-cyclooctadiene]rhodium, P,P-Diphenyl-N,N-di-2-pyridinylphosphinous amide|
+|Solvents: Tetrahydrofuran; 24 h, 343 K|
+
+CAS Reaction Number: 31-086-CAS-15386485
+1.1|Reagents: Trifluoromethanesulfonic acid; 4 h, 25 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-562-CAS-13990742
+1.1|Reagents: (2,4,6-Trimethylphenyl)copper|
+|Solvents: Benzene; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-37167151
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-614-CAS-31102229
+1.1|Reagents: Aluminum chloride; 24 h, rt|
+1.2|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-287-CAS-20215475
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; -40 °C; 1.5 h, -40 °C|
+1.2|-30 °C; -30 °C → -20 °C; 10 min, -20 °C|
+1.3|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-41437313
+1.1|Reagents: Silver triflate|
+|Catalysts: Iridium(1+), (2,2′-bipyridine-κN1,κN1′)bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethyl carbonate; rt; 12 h, rt|
+
+CAS Reaction Number: 31-085-CAS-9225843
+1.1|Reagents: Sulfuric acid|
+|Solvents: Benzene, Water; 85 - 95 °C; 95 °C → rt|
+1.2|Reagents: Water; 30 min, cooled|
+
+CAS Reaction Number: 31-177-CAS-21054392
+1.1|Reagents: Cupric acetate|
+|Catalysts: (η2-Ethene)[N,N′-(1,2-dimethyl-1,2-ethanediylidene)bis[2,3,4,5,6-pentafluorobenzenamine-κN]](2,2,2-trifluoroacetato-κO)rhodium; 12 h, 150 °C|
+
+CAS Reaction Number: 31-177-CAS-18267785
+1.1|Reagents: Cupric acetate|
+|Catalysts: (η2-Ethene)[N,N′-(1,2-dimethyl-1,2-ethanediylidene)bis[2,3,4,5,6-pentafluorobenzenamine-κN]](2,2,2-trifluoroacetato-κO)rhodium; < 200 °C|
+
+CAS Reaction Number: 31-614-CAS-27564840
+1.1|Reagents: Iodobenzene diacetate, Iodine, Oxygen|
+|Solvents: Dichloromethane; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-27932490
+1.1|Reagents: Iodobenzene diacetate|
+|Solvents: Benzene; 4 h, 140 °C|
+
+CAS Reaction Number: 31-614-CAS-37167193
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-084-CAS-13034115
+1.1|Reagents: Sulfuric acid, Potassium persulfate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-091-CAS-7805322
+1.1|Reagents: Aluminum chloride; 30 min, 20 °C; 3 h, 80 °C|
+1.2|Reagents: Water|
+|Solvents: Chloroform; pH 3 - 4|
+
+CAS Reaction Number: 31-081-CAS-9742568
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 16 h, rt; 2 h, reflux; reflux → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-137-CAS-7823056
+1.1|Catalysts: (T-4)-Tetrakis(triethylphosphine)platinum; 4 d, rt → 85 °C|
+
+CAS Reaction Number: 31-614-CAS-30185159
+1.1|Reagents: Sodium acetate, Cupric chloride|
+|Solvents: Dichloromethane; 5 h, rt|
+1.2|rt|
+
+CAS Reaction Number: 31-614-CAS-29373177
+1.1|Reagents: Sodium acetate, Cupric chloride|
+|Solvents: Dichloromethane; 5 h, rt|
+1.2|rt|
+
+CAS Reaction Number: 31-086-CAS-10436372
+1.1|Catalysts: Borane, trifluoro-, monohydrate; rt → 0 °C; 0 °C; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-614-CAS-34813266
+1.1|Solvents: Tetrahydrofuran; 1 h, rt|
+1.2|rt|
+
+CAS Reaction Number: 31-086-CAS-14216933
+1.1|Catalysts: Boron, aquatrifluoro-, (T-4)-; 2 h, 75 °C|
+
+CAS Reaction Number: 31-614-CAS-34650711
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; basified, 0 °C|
+
+CAS Reaction Number: 31-562-CAS-7702619
+1.1|Reagents: Triphenylbismuth, Oxygen|
+|Solvents: Benzene; 16 h, 20 °C|
+
+CAS Reaction Number: 31-085-CAS-113527
+1.1|Reagents: Tin tetrachloride; 15 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-614-CAS-29101128
+1.1|Reagents: Pivalic acid, Silver acetate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 24 h, reflux; reflux → rt|
+
+CAS Reaction Number: 31-091-CAS-8349903
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; rt; 20 h, rt|
+
+CAS Reaction Number: 31-550-CAS-9862939
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 0.5 h, reflux; reflux → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-089-CAS-9835870
+1.1|Reagents: Trifluoromethanesulfonic acid; rt; overnight, 60 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; basified, cooled|
+
+CAS Reaction Number: 31-085-CAS-20169564
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: 1,2-Dichloroethane; 1 - 2 h, 130 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-563-CAS-344281
+1.1|Reagents: Chlorotrimethylsilane|
+|Solvents: Toluene; rt; overnight, rt|
+1.2|Solvents: Benzene; rt|
+
+CAS Reaction Number: 31-086-CAS-14293159
+1.1|Reagents: Trifluoromethanesulfonic acid|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-113-CAS-455100
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; reflux; reflux → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-179-CAS-11180876
+1.1|Reagents: Permanganic acid (HMnO4), potassium salt (1:1)|
+|Solvents: Acetic acid; 15 - 30 min, reflux|
+1.2|reflux|
+1.3|Reagents: Sodium bicarbonate|
+|Solvents: Diethyl ether, Water|
+
+CAS Reaction Number: 31-562-CAS-23422019
+1.1|Solvents: Toluene; 15 min, rt|
+
+CAS Reaction Number: 31-084-CAS-1787762
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 2 h, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-26726797
+1.1|Reagents: Triethylsilane|
+|Solvents: Toluene; 2 d, rt|
+1.2|Reagents: Trifluoromethanesulfonic acid; 5 min, rt|
+
+CAS Reaction Number: 31-085-CAS-9829399
+1.1|Catalysts: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O)|
+|Solvents: Benzene; 30 min, reflux|
+
+CAS Reaction Number: 31-614-CAS-40744892
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, 70 °C|
+1.2|Reagents: Sodium bicarbonate|
+
+CAS Reaction Number: 31-562-CAS-7368002
+1.1|Reagents: Acetonitrile|
+|Solvents: Acetonitrile; 10 min, 85 °C|
+1.2|Reagents: Water|
+|Solvents: Dimethylformamide, Water; overnight, 85 °C|
+1.3|Reagents: Ammonium hexafluorophosphate|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-30619696
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; rt; 1 h, rt|
+
+CAS Reaction Number: 31-098-CAS-8901790
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; rt; overnight, 60 - 80 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-562-CAS-1363629
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-177-CAS-5816023
+1.1|Reagents: tert-Butyl peroxybenzoate|
+|Catalysts: 3,5-Dichloropyridine, Palladium diacetate|
+|Solvents: Acetic acid; 6 h, 100 °C|
+1.2|Reagents: Sodium sulfite|
+|Solvents: Ethyl acetate, Water|
+
+CAS Reaction Number: 31-614-CAS-35423771
+1.1|Reagents: (Trimethylsilyl)benzene|
+|Catalysts: 7,8,9,10,11,12-Hexabromo-2,3,4,5,6-pentahydro-1-(trimethylsilyl)-1-carbadodecaborate(1-); 24 h, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-25930603
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 15 h, 23 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-35423772
+1.1|Catalysts: 7,8,9,10,11,12-Hexabromo-2,3,4,5,6-pentahydro-1-(trimethylsilyl)-1-carbadodecaborate(1-); 24 h, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-28269097
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 15 h, 23 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-562-CAS-15945505
+1.1|Reagents: Sodium carbonate; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-29479698
+1.1|Reagents: Iodine|
+|Solvents: Benzene; 10 h, 20 °C|
+
+CAS Reaction Number: 31-049-CAS-20751276
+1.1|Reagents: Trifluoromethanesulfonic acid; 12 h, rt|
+
+CAS Reaction Number: 31-085-CAS-1140794
+1.1|Solvents: Benzene|
+1.2|Reagents: Trifluoromethanesulfonic acid|
+1.3|Reagents: Sodium hydroxide|
+
+CAS Reaction Number: 31-022-CAS-22687938
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; 5 min, rt|
+1.2|rt|
+
+CAS Reaction Number: 31-614-CAS-29815649
+1.1|Reagents: Trityl bromide|
+|Solvents: Toluene; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24599095
+1.1|1 h, rt → 150 °C; 150 °C → rt|
+1.2|Solvents: Benzene; reflux; overnight, reflux → rt|
+
+CAS Reaction Number: 31-177-CAS-21137896
+1.1|Reagents: tert-Butyl peroxybenzoate|
+|Catalysts: 3,5-Dichloropyridine, Palladium diacetate|
+|Solvents: Acetic acid; 16 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-32518774
+1.1|Reagents: Ferrocenium hexafluorophosphate|
+|Solvents: Acetonitrile; 0.5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-32258087
+1.1|Solvents: Trifluoroacetic acid; 1 - 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-41866266
+1.1|Solvents: Trifluoroacetic acid; rt|
+
+CAS Reaction Number: 31-614-CAS-37167197
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-614-CAS-37804836
+1.1|30 min|
+
+CAS Reaction Number: 31-091-CAS-7694101
+1.1|Reagents: Phosphorus pentachloride|
+|Solvents: Carbon tetrachloride|
+1.2|Reagents: Aluminum chloride|
+
+CAS Reaction Number: 31-614-CAS-35423781
+1.1|Reagents: (Trimethylsilyl)benzene|
+|Catalysts: 7,8,9,10,11,12-Hexabromo-2,3,4,5,6-pentahydro-1-(trimethylsilyl)-1-carbadodecaborate(1-); 24 h, 70 °C|
+
+CAS Reaction Number: 31-218-CAS-22806808
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 2,3-Di-2-pyridinylpyrazine|
+|Solvents: Benzene; 24 h, 100 °C; 100 °C → rt|
+1.2|Reagents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-085-CAS-8960087
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 5 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-37826767
+1.1|Reagents: Thionyl chloride; 1.5 h, 80 °C|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Benzene; 3 h, 80 °C|
+
+CAS Reaction Number: 31-177-CAS-18272766
+1.1|Reagents: Tricarbonyl[(1,2,3,4,5-η)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]rhenium|
+|Solvents: Benzene; 2.5 h|
+
+CAS Reaction Number: 31-550-CAS-6213663
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 1 h, reflux; reflux → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-614-CAS-35423777
+1.1|Catalysts: 7,8,9,10,11,12-Hexabromo-2,3,4,5,6-pentahydro-1-(trimethylsilyl)-1-carbadodecaborate(1-); 24 h, 70 °C|
+
+CAS Reaction Number: 31-574-CAS-14326418
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; rt; rt → 0 °C|
+1.2|10 min, 0 °C; 1 h, 0 °C → rt; 4 h, rt|
+
+CAS Reaction Number: 31-085-CAS-2570492
+1.1|Reagents: Trifluoromethanesulfonic acid; cooled; rt; 3 h, rt|
+1.2|Solvents: Water|
+
+CAS Reaction Number: 31-080-CAS-21088506
+1.1|Reagents: Chlorosuccinimide|
+|Catalysts: Tris(2,2′-bipyridyl)ruthenium(II) chloride|
+|Solvents: 1,1,1,3,3,3-Hexafluoro-2-propanol; 30 min, rt|
+1.2|Reagents: Perchloric acid; 2 h, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-39349795
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,2-Bis[(2,6-dimethylphenyl)imino]acenaphthene; 15 h, 75 °C|
+
+CAS Reaction Number: 31-218-CAS-2121882
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: (±)-Vasicine; rt; 48 h, 110 °C; 110 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-26295652
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+
+CAS Reaction Number: 31-085-CAS-1260110
+1.1|Reagents: Aluminum bromide; 4 h, 20 °C|
+
+CAS Reaction Number: 31-085-CAS-1722224
+1.1|Solvents: Benzene; 5 min, 25 °C; 24 h, 130 °C; cooled|
+1.2|Solvents: Diethyl ether, Water; 1 - 3 h, rt|
+
+CAS Reaction Number: 31-091-CAS-11013626
+1.1|Catalysts: Aluminum chloride; 25 min, rt → 0 °C; 1 h, 0 °C; 1 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-30155125
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; 250 min, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-34650727
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-085-CAS-2219775
+1.1|Reagents: Tin tetrachloride; 15 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-136-CAS-20531902
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; rt; 40 min, rt|
+
+CAS Reaction Number: 31-614-CAS-34650725
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-177-CAS-18159202
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,10-Phenanthroline; 6 h, rt|
+
+CAS Reaction Number: 31-090-CAS-21350090
+1.1|Reagents: Butyllithium|
+|Solvents: Tetrahydrofuran; 15 min, rt|
+1.2|18 h, rt|
+1.3|Reagents: Sodium bicarbonate|
+|Solvents: Ethyl acetate, Water; rt|
+
+CAS Reaction Number: 31-531-CAS-458988
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 2 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-614-CAS-34483969
+1.1|Solvents: 2,2,2-Trifluoroethanol; 10 min, rt|
+
+CAS Reaction Number: 31-574-CAS-230394
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; 0 °C; 1 h, 0 °C → rt; 8 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35423773
+1.1|Reagents: (Trimethylsilyl)benzene|
+|Catalysts: 7,8,9,10,11,12-Hexabromo-2,3,4,5,6-pentahydro-1-(trimethylsilyl)-1-carbadodecaborate(1-); 24 h, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-35423767
+1.1|Catalysts: 7,8,9,10,11,12-Hexabromo-2,3,4,5,6-pentahydro-1-(trimethylsilyl)-1-carbadodecaborate(1-); 24 h, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-35423764
+1.1|Catalysts: 7,8,9,10,11,12-Hexabromo-2,3,4,5,6-pentahydro-1-(trimethylsilyl)-1-carbadodecaborate(1-); 24 h, 70 °C|
+
+CAS Reaction Number: 31-086-CAS-20515047
+1.1|Reagents: Trifluoroacetic acid|
+|Solvents: Benzene; rt; 18 h, rt|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-562-CAS-10725397
+1.1|Reagents: Borate(1-), tetrafluoro-, hydrogen, compd. with 1,1′-oxybis[ethane] (1:1:1)|
+|Solvents: Benzene; 1 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-29223526
+1.1|Reagents: Trifluoroacetic acid; 0.5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26717509
+1.1|Reagents: Trifluoroacetic acid, Antimony pentafluoride; 0.5 h, rt|
+
+CAS Reaction Number: 31-136-CAS-14681676
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Rhodium, tetrakis[μ-(2,2,2-trifluoroacetato-κO:κO′)]di-, (Rh-Rh)|
+|Solvents: Benzene; 5 min, rt|
+1.2|Solvents: Benzene; 30 min, rt; 2 h, rt|
+
+CAS Reaction Number: 31-086-CAS-3640937
+1.1|Reagents: Tin tetrachloride|
+
+CAS Reaction Number: 31-614-CAS-37826759
+1.1|Reagents: Thionyl chloride; 1.5 h, 80 °C|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Benzene; 3 h, 80 °C|
+
+CAS Reaction Number: 31-087-CAS-9832532
+1.1|Reagents: Sulfuric acid|
+|Solvents: Benzene, Water; rt; 9 h, rt → reflux|
+
+CAS Reaction Number: 31-614-CAS-41946375
+1.1|Reagents: Tetrabutylammonium chloride|
+|Catalysts: Guanidine hydrochloride, Aluminum, Graphene|
+|Solvents: 1,4-Dioxane; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38720027
+1.1|Reagents: Trifluoroacetic acid; overnight, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 7|
+
+CAS Reaction Number: 31-614-CAS-34850057
+1.1|72 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-41435007
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 0 °C; 0 °C → rt; 4 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11|
+
+CAS Reaction Number: 31-085-CAS-5491616
+1.1|Catalysts: Cellulose, tris(hydrogen sulfate); 5 min, reflux|
+
+CAS Reaction Number: 31-091-CAS-4752227
+1.1|Catalysts: Trifluoromethanesulfonic acid; 1 h, 0 °C|
+
+CAS Reaction Number: 31-085-CAS-17416927
+1.1|Catalysts: Aluminum chloride; 0 - 5 °C|
+
+CAS Reaction Number: 31-614-CAS-34483976
+1.1|Solvents: 2,2,2-Trifluoroethanol; 20 min, rt|
+
+CAS Reaction Number: 31-562-CAS-1945323
+1.1|Reagents: Isopropanol|
+|Solvents: Isopropanol; 75 °C|
+
+CAS Reaction Number: 31-614-CAS-28730931
+1.1|Solvents: Benzene; 1 h, rt|
+
+CAS Reaction Number: 31-085-CAS-11068719
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 0 °C; 30 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11, 0 °C|
+
+CAS Reaction Number: 31-086-CAS-10111537
+1.1|Reagents: Sulfuric acid|
+|Solvents: Benzene, Water; rt; 2 h, rt → reflux|
+
+CAS Reaction Number: 31-181-CAS-18080834
+1.1|Reagents: Ammonium persulfate, Oxygen|
+|Catalysts: Trifluoroacetic acid, Palladium diacetate; 24 h, rt|
+
+CAS Reaction Number: 31-177-CAS-13816404
+1.1|Reagents: Silver carbonate|
+|Catalysts: Palladium diacetate|
+
+CAS Reaction Number: 31-176-CAS-6045347
+1.1|Reagents: Silver carbonate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 16 h, 125 °C|
+
+CAS Reaction Number: 31-091-CAS-15144731
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; rt; 20 h, rt|
+
+CAS Reaction Number: 31-078-CAS-7286962
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; 1 h, rt|
+1.2|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-085-CAS-5442257
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 30 min, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-13881142
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 1 h, reflux; reflux → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-177-CAS-949604
+1.1|Reagents: tert-Butyl peroxybenzoate|
+|Catalysts: 3,5-Dichloropyridine, Palladium diacetate|
+|Solvents: Acetic acid; 6 h, 100 °C|
+1.2|Reagents: Sodium sulfite|
+|Solvents: Ethyl acetate, Water|
+
+CAS Reaction Number: 31-086-CAS-4877659
+1.1|Reagents: Trifluoromethanesulfonic acid|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-091-CAS-12939099
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; 0 °C; 3 h, rt|
+1.2|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-562-CAS-16766561
+1.1|Reagents: Graphite, compd. with potassium (8:1); 3 h, rt|
+
+CAS Reaction Number: 31-091-CAS-10661323
+1.1|Reagents: Aluminum chloride; 10 min, rt; 36 h, reflux|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-086-CAS-5026910
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-567-CAS-5106196
+1.1|Solvents: Benzene; 2 h, rt|
+
+CAS Reaction Number: 31-562-CAS-9977069
+1.1|24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-32628683
+1.1|Reagents: Trifluoroacetic anhydride|
+|Solvents: Dichloromethane, Trifluoroacetic acid; 4 - 15 h, 100 °C|
+
+CAS Reaction Number: 31-085-CAS-20751273
+1.1|Reagents: Trifluoromethanesulfonic acid; 20 h, rt|
+
+CAS Reaction Number: 31-091-CAS-2204572
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene|
+1.2|Reagents: Hydrochloric acid|
+
+CAS Reaction Number: 31-091-CAS-22815656
+1.1|Catalysts: Aluminum chloride; 2 h, 70 °C|
+1.2|Reagents: Ethyl acetate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-27704715
+1.1|Reagents: Sulfuric acid; 30 min, 65 °C|
+
+CAS Reaction Number: 31-614-CAS-30465522
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 6 h, 80 °C|
+
+CAS Reaction Number: 31-562-CAS-13980135
+1.1|15 min, rt|
+1.2|Solvents: Ethanol; rt|
+
+CAS Reaction Number: 31-562-CAS-1258406
+1.1|Reagents: 2-Propanol, 2-methyl-, copper(1+) salt|
+|Solvents: Benzene; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24380079
+1.1|Solvents: Benzene; 36.5 h, rt → 60 °C|
+
+CAS Reaction Number: 31-091-CAS-19794158
+1.1|Catalysts: Aluminum chloride; 4 h, 70 °C|
+1.2|Solvents: Ethyl acetate, Water|
+
+CAS Reaction Number: 31-218-CAS-11622180
+1.1|Reagents: Oxygen|
+|Catalysts: N,N,N′,N′-Tetramethylethylenediamine; 4 h, rt|
+
+CAS Reaction Number: 31-089-CAS-10007444
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 31 h, 70 °C|
+
+CAS Reaction Number: 31-091-CAS-15228718
+1.1|Reagents: Aluminum chloride|
+|Solvents: 1,2-Dichloroethane; cooled; 5 min, 0 °C; 0 °C → rt; 1 - 2 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-497-CAS-9712620
+1.1|Reagents: Aluminum chloride; 0 °C; 0 °C → rt; 45 min, reflux; reflux → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, cooled|
+
+CAS Reaction Number: 31-562-CAS-757274
+1.1|Solvents: Benzene; 3 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-38562256
+1.1|Catalysts: Aluminum chloride; 4 h, rt|
+
+CAS Reaction Number: 31-086-CAS-2510358
+1.1|Catalysts: Trifluoromethanesulfonic acid; 5 °C|
+
+CAS Reaction Number: 31-085-CAS-567655
+1.1|Catalysts: Trifluoromethanesulfonic acid; 0 °C; 2 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-081-CAS-19920656
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 24 h, 60 °C|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-091-CAS-2024283
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 3 h, 50 °C|
+
+CAS Reaction Number: 31-080-CAS-2236915
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 18 h, acidified, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-34650749
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-218-CAS-22351891
+1.1|Catalysts: Potassium tert-butoxide, 2-(Methylamino)benzenemethanol|
+|Solvents: Benzene; rt → 100 °C; 24 h, 100 °C; 100 °C → rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-218-CAS-17625762
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Zinc oxide (ZnO), Palladium; 6 h, rt|
+
+CAS Reaction Number: 31-218-CAS-4588011
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: (±)-Vasicine; rt; 28 h, 110 °C; 110 °C → rt|
+
+CAS Reaction Number: 31-218-CAS-12643485
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 4,7-Diphenyl-1,10-phenanthroline; 36 h, rt|
+
+CAS Reaction Number: 31-218-CAS-16642393
+1.1|Catalysts: Potassium tert-butoxide, N,N′-(2,6-Pyridinediyldiethylidyne)bis[benzenamine]; rt → 160 °C; 12 h, 160 °C|
+
+CAS Reaction Number: 31-218-CAS-1802683
+1.1|Reagents: Potassium tert-butoxide, 4,7-Diphenyl-1,10-phenanthroline, Ferrous acetate|
+
+CAS Reaction Number: 31-218-CAS-10355129
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 4,7-Diphenyl-1,10-phenanthroline, Ferrous acetate; rt|
+1.2|Solvents: Dichloromethane, Hexane; rt|
+1.3|20 min, rt; 20 h, 80 °C; cooled|
+
+CAS Reaction Number: 31-218-CAS-20495315
+1.1|Catalysts: Silver fluoride|
+|Solvents: Benzene; 12 h, rt|
+
+CAS Reaction Number: 31-218-CAS-9963022
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,10-Phenanthroline; 2.5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-32395022
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: N-[(1S)-2-(Dodecylamino)-2-oxo-1-(phenylmethyl)ethyl]-2,3,5,6,8,9,11,12-octahydro-1,4,7,10,13-benzopentaoxacyclopentadecin-15-carboxamide; 24 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-32395025
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 2,3,5,6,8,9,11,12,14,15-Decahydro-N-[(1S)-2-oxo-1-(phenylmethyl)-2-(tetradecylamino)ethyl]-1,4,7,10,13,16-benzohexaoxacyclooctadecin-18-carboxamide; 24 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-32395027
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 2,3,5,6,8,9,11,12-Octahydro-N-[(1S)-2-oxo-1-(phenylmethyl)-2-(tetradecylamino)ethyl]-1,4,7,10,13-benzopentaoxacyclopentadecin-15-carboxamide; 24 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-32394997
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: N-[(1S)-2-(Dodecylamino)-2-oxo-1-(phenylmethyl)ethyl]-2,3,5,6,8,9,11,12,14,15-decahydro-1,4,7,10,13,16-benzohexaoxacyclooctadecin-18-carboxamide; 24 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-32395023
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: N-[(1S)-2-(Hexadecylamino)-2-oxo-1-(phenylmethyl)ethyl]-2,3,5,6,8,9,11,12-octahydro-1,4,7,10,13-benzopentaoxacyclopentadecin-15-carboxamide; 24 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-32395024
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: N-[(1S)-2-(Hexadecylamino)-2-oxo-1-(phenylmethyl)ethyl]-2,3,5,6,8,9,11,12,14,15-decahydro-1,4,7,10,13,16-benzohexaoxacyclooctadecin-18-carboxamide; 24 h, 120 °C|
+
+CAS Reaction Number: 31-218-CAS-14071997
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: Tosylhydrazine|
+|Solvents: Benzene; 24 h, 110 °C; 110 °C → rt|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-34357157
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 4-(2-Pyridinyl)benzaldehyde, Di-μ-chlorotetrakis[5-formyl-2-(2-pyridinyl-κN)phenyl-κC]diiridium|
+|Solvents: Dimethyl sulfoxide; 18 h, 25 °C|
+
+CAS Reaction Number: 31-218-CAS-20069903
+1.1|Reagents: Potassium tert-butoxide; 40 h, 150 °C|
+
+CAS Reaction Number: 31-218-CAS-457670
+1.1|Reagents: Potassium tert-amylate|
+|Catalysts: N,N′-Dimethylethylenediamine|
+|Solvents: Toluene; 24 h, 80 °C; 80 °C → rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-218-CAS-6746334
+1.1|Reagents: Pyridine, Tris(trimethylsilyl)silane|
+
+CAS Reaction Number: 31-218-CAS-1514114
+1.1|Reagents: Pyridine, Tris(trimethylsilyl)silane|
+|Solvents: Benzene; 0.5 - 3 h, rt|
+
+CAS Reaction Number: 31-085-CAS-4685469
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; rt; rt → 65 °C|
+1.2|Reagents: Diethyl ether; 65 °C → 0 °C|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water; < pH 2|
+
+CAS Reaction Number: 31-614-CAS-40408975
+1.1|Reagents: Titanium tetrachloride; 0 °C; 1 min, 0 °C; 0 °C → 25 °C; 1 h, 25 °C|
+1.2|Reagents: Water; 1 min, 25 °C|
+
+CAS Reaction Number: 31-086-CAS-639105
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform, Benzene; 2 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; basified, cooled|
+
+CAS Reaction Number: 31-091-CAS-16785380
+1.1|Reagents: Trifluoroacetic acid|
+|Catalysts: Benzoic acid, 2,2′,2′′-[phosphinylidynetris(oxy)]tris-, trimethyl ester; 20 min, 20 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-086-CAS-16295851
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+
+CAS Reaction Number: 31-086-CAS-3895334
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 4 h, 25 °C|
+
+CAS Reaction Number: 31-218-CAS-5417111
+1.1|Reagents: Lithium bis(trimethylsilyl)amide|
+|Catalysts: tris(Acetylacetonato)cobalt|
+|Solvents: Benzene; 48 h, 80 °C; 80 °C → rt|
+
+CAS Reaction Number: 31-177-CAS-2181206
+1.1|Reagents: Silver carbonate|
+|Catalysts: Palladium diacetate|
+
+CAS Reaction Number: 31-176-CAS-14841998
+1.1|Reagents: Silver carbonate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 16 - 20 h, 125 °C|
+
+CAS Reaction Number: 31-089-CAS-11704994
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 62 h, 70 °C|
+
+CAS Reaction Number: 31-085-CAS-10491961
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; cooled; 2 h, 5 - 8 °C; 1 h, 5 - 8 °C|
+
+CAS Reaction Number: 31-614-CAS-26763698
+1.1|Reagents: Cyclohexane, Aluminum chloride; 15 h, rt|
+
+CAS Reaction Number: 31-091-CAS-22816344
+1.1|Reagents: (Chloromethylene)dimethylammonium chloride|
+|Solvents: Dichloromethane; 3 h, -15 °C|
+1.2|Catalysts: Aluminum chloride; 6 h, rt|
+
+CAS Reaction Number: 31-085-CAS-10148994
+1.1|Reagents: Aluminum chloride; 0 °C; 0 °C → rt; 45 min, reflux; reflux → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, cooled|
+
+CAS Reaction Number: 31-086-CAS-17587853
+1.1|Catalysts: Aluminum chloride; 120 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-30939428
+1.1|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Acetonitrile; 90 min|
+
+CAS Reaction Number: 31-136-CAS-16815331
+1.1|Catalysts: Dirhodium tetraacetate|
+|Solvents: Benzene; rt; 15 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-37788906
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: Diphenylthiourea|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-177-CAS-10090748
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 3,8-Diphenyl-1,10-phenanthroline; 24 h, 100 °C|
+
+CAS Reaction Number: 31-177-CAS-3495458
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 4,7-Diphenyl-1,10-phenanthroline|
+|Solvents: Benzene; 24 h, 100 °C; 100 °C → rt; rt|
+
+CAS Reaction Number: 31-177-CAS-18136418
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,10-Phenanthroline; 6 h, rt|
+
+CAS Reaction Number: 31-084-CAS-22322964
+1.1|Solvents: Dichloromethane; 5 min, 0 °C|
+1.2|Reagents: Sulfuric acid, Potassium peroxymonosulfate sulfate (2KHSO5.KHSO4.K2SO4)|
+|Solvents: Acetonitrile; 2 h, 0 °C|
+
+CAS Reaction Number: 31-084-CAS-22286301
+1.1|Solvents: Dichloromethane; 1 min, 0 °C; 5 min, 0 °C|
+1.2|Reagents: Sulfuric acid, Potassium peroxymonosulfate sulfate (2KHSO5.KHSO4.K2SO4)|
+|Solvents: Acetonitrile; 2 h, rt|
+
+CAS Reaction Number: 31-084-CAS-19097995
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 1 h, rt|
+
+CAS Reaction Number: 31-084-CAS-16053181
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; rt; 10 min, rt; rt → 40 °C; 1 h, 40 °C|
+
+CAS Reaction Number: 31-614-CAS-34651710
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; rt → 0 °C; 0 °C → rt; 10 min, rt|
+1.2|Solvents: Diethyl ether; 10 min, rt|
+
+CAS Reaction Number: 31-084-CAS-5315981
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 30 min, rt|
+
+CAS Reaction Number: 31-084-CAS-944089
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane, Water; 10 min, rt|
+
+CAS Reaction Number: 31-084-CAS-313067
+1.1|Reagents: 3-Chlorobenzoic acid|
+|Solvents: Dichloromethane; rt; rt → 0 °C|
+1.2|0 °C; 10 min, rt|
+
+CAS Reaction Number: 31-089-CAS-11170740
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 1.5 h, reflux; 1 h, reflux; reflux → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-218-CAS-20495325
+1.1|Catalysts: Silver fluoride|
+|Solvents: Benzene; 12 h, rt|
+
+CAS Reaction Number: 31-218-CAS-22351890
+1.1|Catalysts: Potassium tert-butoxide, 2-(Methylamino)benzenemethanol|
+|Solvents: Benzene; rt → 100 °C; 24 h, 100 °C; 100 °C → rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-086-CAS-1356812
+1.1|Catalysts: Trifluoromethanesulfonic acid; 6 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-085-CAS-11961948
+1.1|Catalysts: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O)|
+|Solvents: Benzene; 30 min, reflux|
+
+CAS Reaction Number: 31-218-CAS-6900969
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 4,7-Diphenyl-1,10-phenanthroline; 36 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33984825
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,10-Phenanthroline, 4,7-diphenyl-, polymer with 1,2-dichloroethane; rt; 24 h, 120 °C|
+
+CAS Reaction Number: 31-218-CAS-15014468
+1.1|Reagents: Potassium bis(trimethylsilyl)amide|
+|Catalysts: Silanamine, 1,1,1-trimethyl-N-(trimethylsilyl)-, cerium(3+) salt (3:1); 6 d, rt|
+1.2|Reagents: Water; 10 min, rt|
+
+CAS Reaction Number: 31-218-CAS-6305660
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: N,N′-Dimethylethylenediamine, Iron-nickel alloy|
+|Solvents: Benzene; 48 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-40408969
+1.1|Reagents: Titanium tetrachloride; 0 °C; 1 min, 0 °C; 0 °C → 25 °C; 1 h, 25 °C|
+1.2|Reagents: Water; 1 min, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-29982876
+1.1|Reagents: Hydrochloric acid|
+|Solvents: Acetone, Water; rt → 0 °C|
+1.2|Reagents: Sodium nitrite; 0 - 5 °C; 7.0 min, 0 - 5 °C|
+1.3|Catalysts: Ferrocene|
+|Solvents: Acetone; 5 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-29402627
+1.1|Reagents: Dibromoisocyanuric acid|
+|Solvents: Dichloromethane; 2 h, rt|
+1.2|Catalysts: Iron oxide (Fe2O3); 15 min, rt|
+1.3|Reagents: Water|
+
+CAS Reaction Number: 31-562-CAS-2107748
+1.1|1 h, rt|
+
+CAS Reaction Number: 31-086-CAS-9630784
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-28440028
+1.1|Reagents: Trifluoroacetic acid; 0.5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34650726
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-177-CAS-4269092
+1.1|Reagents: Oxygen|
+|Catalysts: Acetylacetone, Sodium acetate, Palladium diacetate, Molybdovanadophosphoric acid (H5PMo10V2O40)|
+|Solvents: Propionic acid; 2.5 h, 1 atm, 90 °C|
+
+CAS Reaction Number: 31-085-CAS-12447878
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 80 °C; 80 °C → 0 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-085-CAS-12878163
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 16 h, reflux|
+
+CAS Reaction Number: 31-086-CAS-15317201
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; > 2 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; > pH 7, 0 °C|
+
+CAS Reaction Number: 31-085-CAS-14396169
+1.1|Reagents: Aluminum chloride; 30 h, rt → reflux; 1 h|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-26907940
+1.1|Reagents: Pivalic acid, Silver acetate|
+|Catalysts: Palladium trifluoroacetate; 24 h, reflux|
+
+CAS Reaction Number: 31-084-CAS-12321094
+1.1|-30 °C; 5 h, -30 °C → 20 °C|
+
+CAS Reaction Number: 31-084-CAS-991897
+1.1|Reagents: m-Chloroperbenzoic acid, Iodine|
+|Solvents: Dichloromethane; 10 min, 80 °C|
+
+CAS Reaction Number: 31-084-CAS-5414649
+1.1|Reagents: m-Chloroperbenzoic acid, Iodine|
+|Solvents: Dichloromethane, Water; 10 min, 80 °C|
+
+CAS Reaction Number: 31-084-CAS-10140452
+1.1|Reagents: 3-Chlorobenzoic acid, Iodine|
+|Solvents: Dichloromethane; rt; rt → 0 °C|
+1.2|0 °C; 10 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-31003221
+1.1|Solvents: 1,2-Dichlorobenzene; 1 d, 9 bar, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-39349794
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,2-Bis[(2,6-dimethylphenyl)imino]acenaphthene; 15 h, 75 °C|
+
+CAS Reaction Number: 31-085-CAS-15586617
+1.1|Catalysts: Boron trifluoride etherate; 2 h, 80 °C|
+
+CAS Reaction Number: 31-091-CAS-22815929
+1.1|Reagents: (Chloromethylene)dimethylammonium chloride|
+|Solvents: Dichloromethane; 3 h, -15 °C|
+1.2|Catalysts: Aluminum chloride; 6 h, rt|
+
+CAS Reaction Number: 31-085-CAS-20751269
+1.1|Reagents: Trifluoromethanesulfonic acid; 3 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-25179078
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 5 min, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-26153069
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30275631
+1.1|Solvents: Toluene; 5 min, rt|
+
+CAS Reaction Number: 31-562-CAS-22462757
+1.1|Solvents: Benzene; 1 h, rt|
+
+CAS Reaction Number: 31-085-CAS-13046178
+1.1|Reagents: Aluminum chloride; 3 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-3128804
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 3 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-26647280
+1.1|Reagents: Oxygen|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-136-CAS-20858249
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 20 min, 35 °C; 10 min, 35 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-614-CAS-27057114
+1.1|Solvents: Benzene; rt → reflux|
+1.2|Reagents: Nitroso 4-chlorobenzoate|
+|Solvents: Benzene; 0.5 h, reflux; overnight, reflux|
+
+CAS Reaction Number: 31-085-CAS-2564866
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene|
+1.2|Solvents: Water|
+1.3|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-614-CAS-34852878
+1.1|Solvents: Trifluoromethanesulfonic acid; 2 h, 0 °C → 5 °C; 5 °C → rt; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38060559
+1.1|Solvents: Benzene; 30 min, 23 °C|
+
+CAS Reaction Number: 31-614-CAS-38562254
+1.1|Catalysts: Aluminum chloride; 4 h, rt|
+
+CAS Reaction Number: 31-287-CAS-20215478
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; -40 °C; 1.5 h, -40 °C|
+1.2|-30 °C; -30 °C → -20 °C; 10 min, -20 °C|
+1.3|Reagents: Water|
+
+CAS Reaction Number: 31-086-CAS-17339785
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 4 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 7|
+
+CAS Reaction Number: 31-091-CAS-17637341
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 4 h, reflux|
+
+CAS Reaction Number: 31-080-CAS-22093651
+1.1|Reagents: Chlorosuccinimide|
+|Catalysts: Tris(2,2′-bipyridyl)ruthenium(II) chloride|
+|Solvents: 1,1,1,3,3,3-Hexafluoro-2-propanol; 30 min, rt|
+1.2|Reagents: Perchloric acid; 2 h, rt|
+
+CAS Reaction Number: 31-085-CAS-20004510
+1.1|Reagents: Aluminum chloride; 1 h, 80 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-38468799
+1.1|Reagents: Oxalyl chloride|
+|Catalysts: Dimethylformamide|
+|Solvents: Dichloromethane; 0.5 h, rt|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Benzene; 8 h, rt|
+1.3|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-574-CAS-6842767
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; rt; rt → 0 °C|
+1.2|10 min, 0 °C; 1 h, 0 °C → rt; 4 h, rt|
+
+CAS Reaction Number: 31-032-CAS-5205471
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; 24 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-091-CAS-6401425
+1.1|Reagents: Thionyl chloride|
+|Catalysts: Dimethylformamide; 2 h, reflux|
+1.2|Reagents: Aluminum chloride; 19 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-37167208
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-574-CAS-13632339
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; 0 °C; 1 h, 0 °C → rt; 8 h, rt|
+
+CAS Reaction Number: 31-614-CAS-29571353
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 48 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-34483966
+1.1|Solvents: 2,2,2-Trifluoroethanol; 10 min, rt|
+
+CAS Reaction Number: 31-177-CAS-18110504
+1.1|Reagents: Silver acetate|
+|Catalysts: Palladium diacetate|
+|Solvents: Dimethyl sulfoxide; 4 h, 130 °C|
+
+CAS Reaction Number: 31-562-CAS-1297067
+1.1|24 h, 75 °C|
+
+CAS Reaction Number: 31-614-CAS-27836204
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 6 h, 25 °C|
+
+CAS Reaction Number: 31-562-CAS-21354165
+1.1|Reagents: 2-Propanol, 2-methyl-, copper(1+) salt|
+|Solvents: Benzene; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30603229
+1.1|Solvents: 1,2-Dichloroethane; 24 h, 90 °C|
+
+CAS Reaction Number: 31-091-CAS-16785353
+1.1|Reagents: Trifluoroacetic acid|
+|Catalysts: Benzoic acid, 2,2′,2′′-[phosphinylidynetris(oxy)]tris-, trimethyl ester; 20 min, 20 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-085-CAS-20324557
+1.1|Reagents: Phosphonic acid; 36 h, 150 °C|
+
+CAS Reaction Number: 31-085-CAS-1152302
+1.1|Catalysts: Indium|
+|Solvents: Toluene|
+
+CAS Reaction Number: 31-177-CAS-18265168
+1.1|Reagents: Tricarbonyl[(1,2,3,4,5-η)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]rhenium|
+|Solvents: Benzene; 2.5 h|
+
+CAS Reaction Number: 31-086-CAS-1586480
+1.1|Catalysts: Borane, trifluoro-, monohydrate; rt → 0 °C; 0 °C; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-614-CAS-34650722
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-091-CAS-10315902
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Dichloromethane; cooled; 30 min, cooled; cooled; 4 - 6 h, cooled|
+
+CAS Reaction Number: 31-091-CAS-407716
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Dichloromethane; 0 °C; 0 °C → rt; overnight, rt|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-091-CAS-81173
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Dichloromethane; rt → 0 °C; 35 min, 0 °C|
+1.2|Solvents: Dichloromethane; 1 h, 0 °C; 1 h, 0 - 5 °C; 0 °C → rt|
+
+CAS Reaction Number: 31-091-CAS-12839539
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Dichloromethane; 0 °C|
+1.2|overnight, 0 °C → rt|
+1.3|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-177-CAS-22076323
+1.1|Catalysts: Palladium diacetate, Bis(2,3,4,5,6-pentafluorobenzenamine-κN)[1,1′-(2,6-pyridinediyl-κN)bis[ethanone]](2,2,2-trifluoroacetato-κO)rhodium; rt → 150 °C; 48 h, 40 psi, 150 °C|
+
+CAS Reaction Number: 31-181-CAS-13194677
+1.1|Reagents: Dimethyl sulfoxide, Pivalic acid, Oxygen|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 24 h, 140 °C|
+
+CAS Reaction Number: 31-614-CAS-37661438
+1.1|Reagents: Trifluoroacetic acid, Ammonium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-218-CAS-15175300
+1.1|Reagents: Oxygen|
+|Catalysts: N,N,N′,N′-Tetramethylethylenediamine; 7 h, rt|
+
+CAS Reaction Number: 31-091-CAS-17901185
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; 0 °C; 4 h, rt|
+
+CAS Reaction Number: 31-091-CAS-10269285
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Dichloromethane; 4 - 6 h, rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+1.3|Reagents: Sodium carbonate; pH 8.5|
+1.4|Reagents: Hydrochloric acid|
+|Solvents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-091-CAS-16863414
+1.1|Reagents: Aluminum chloride; rt → 45 °C; 40 - 45 °C; 2 - 3 h, reflux; cooled|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-176-CAS-7291574
+1.1|Reagents: Lithium bis(trimethylsilyl)amide|
+|Catalysts: tris(Acetylacetonato)cobalt|
+|Solvents: Benzene; 48 h, 80 °C; 80 °C → rt|
+
+CAS Reaction Number: 31-562-CAS-15509914
+1.1|2 h, 160 °C|
+
+CAS Reaction Number: 31-562-CAS-8797105
+1.1|2 h, 160 °C|
+
+CAS Reaction Number: 31-086-CAS-7757729
+1.1|Catalysts: Trifluoromethanesulfonic acid; 6 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-084-CAS-22863745
+1.1|Solvents: Dichloromethane; 24 h, rt|
+
+CAS Reaction Number: 31-091-CAS-14516263
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Benzene; rt → 81 °C; 81 °C|
+
+CAS Reaction Number: 31-091-CAS-12225113
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Benzene; 5 - 8 h, reflux|
+1.2|Solvents: Dichloromethane; rt|
+
+CAS Reaction Number: 31-562-CAS-20253495
+1.1|Solvents: Benzene; 16 h, rt; 2 h, 4 °C|
+1.2|Reagents: Isopropyl iodide; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-41946361
+1.1|Reagents: Tetrabutylammonium chloride|
+|Catalysts: Guanidine hydrochloride, Aluminum, Graphene|
+|Solvents: 1,4-Dioxane; 3 h, rt|
+
+CAS Reaction Number: 31-085-CAS-1940634
+1.1|Reagents: Tin tetrachloride; 15 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-085-CAS-11822138
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, 60 °C|
+1.2|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-10572130
+1.1|Reagents: Trifluoromethanesulfonic acid; 25 °C|
+
+CAS Reaction Number: 31-177-CAS-2796878
+1.1|Reagents: Pivalic acid, Silver acetate|
+|Catalysts: Palladium trifluoroacetate; rt; rt → reflux; 20 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-26135405
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; rt; rt → 0 °C|
+1.2|10 min, 0 °C; 1 h, 0 °C → rt; 3 h, rt|
+
+CAS Reaction Number: 31-085-CAS-14381679
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 4 - 6 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Chloroform, Water; basified, 0 °C|
+
+CAS Reaction Number: 31-084-CAS-19619654
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 0 °C; 2 h, rt; rt → 0 °C|
+1.2|0 °C; 0 °C → rt; 18 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38059622
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-37064226
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-37064222
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38059621
+1.1|Reagents: (T-4)-Bis(pyridine)bis[(trimethylsilyl)methyl]cobalt|
+|Solvents: Diethyl ether; rt; 30 s, rt|
+1.2|Solvents: Diethyl ether, Benzene; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-24003394
+1.1|Reagents: Aluminum chloride|
+|Solvents: Chloroform; 1.5 h, rt|
+
+CAS Reaction Number: 31-091-CAS-8370326
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; 10 °C; 5 h, reflux|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-12830455
+1.1|Catalysts: Trifluoromethanesulfonic acid; > 3 h, 80 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-9245121
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; 0 °C; 1 h, rt|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-085-CAS-23526341
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 18 h, rt → 80 °C|
+
+CAS Reaction Number: 31-562-CAS-3568874
+1.1|Solvents: Diethyl ether, Benzene|
+
+CAS Reaction Number: 31-085-CAS-16409476
+1.1|Reagents: Trifluoromethanesulfonic acid; cooled; 30 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11, cooled|
+
+CAS Reaction Number: 31-085-CAS-20751278
+1.1|Reagents: Trifluoromethanesulfonic acid; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-31010782
+1.1|Reagents: Cyclohexane, Aluminum chloride; 15 h, rt|
+
+CAS Reaction Number: 31-091-CAS-19794159
+1.1|Catalysts: Aluminum chloride; 4 h, 70 °C|
+1.2|Solvents: Ethyl acetate, Water|
+
+CAS Reaction Number: 31-614-CAS-39088411
+1.1|15 min, rt; rt → -10 °C|
+1.2|Reagents: Trifluoromethanesulfonic acid; 16 h, -10 °C|
+1.3|Reagents: Water|
+
+CAS Reaction Number: 31-091-CAS-14162410
+1.1|Catalysts: Envirocat EPZ 10|
+
+CAS Reaction Number: 31-614-CAS-28435709
+1.1|Reagents: Oxygen|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-085-CAS-23702678
+1.1|Catalysts: Aluminum chloride|
+|Solvents: 1,2-Dichloroethane; 3 h, 25 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-25747770
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Zinc oxide (ZnO), Palladium; 9 h, rt|
+
+CAS Reaction Number: 31-562-CAS-11327286
+1.1|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-614-CAS-33984835
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,10-Phenanthroline, 4,7-diphenyl-, polymer with 1,2-dichloroethane; rt; 24 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-24072480
+1.1|Solvents: Dichloromethane; 0 °C; 12 h, rt|
+
+CAS Reaction Number: 31-085-CAS-262082
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; rt; rt → 80 °C; 4 h, 80 °C; 80 °C → rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-177-CAS-10776502
+1.1|Reagents: tert-Butyl peroxybenzoate|
+|Catalysts: 3,5-Dichloropyridine, Palladium diacetate|
+|Solvents: Acetic acid; 6 h, 100 °C|
+1.2|Reagents: Sodium sulfite|
+|Solvents: Ethyl acetate, Water|
+
+CAS Reaction Number: 31-085-CAS-3463817
+1.1|Reagents: Cesium carbonate|
+|Catalysts: Platinum, Water; 36 h, 80 °C|
+
+CAS Reaction Number: 31-086-CAS-7647411
+1.1|Catalysts: Borane, trifluoro-, monohydrate; rt → 0 °C; 0 °C; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-085-CAS-19998831
+1.1|Catalysts: Rhenium oxide (Re2O7)|
+|Solvents: 1,1,1,3,3,3-Hexafluoro-2-propanol; 3 d, 100 °C|
+
+CAS Reaction Number: 31-179-CAS-21062190
+1.1|Reagents: Silver triflate|
+|Catalysts: Di-μ-chlorobis(η3-2-propenyl)dipalladium|
+|Solvents: 1,2-Dichloroethane; 48 h, 4 atm, 100 °C|
+
+CAS Reaction Number: 31-194-CAS-19393230
+1.1|Reagents: Potassium|
+|Catalysts: (OC-6-11)-Tris(1H-phenalene-1,9(9aH)-dionato-κO1,κO9)iron|
+|Solvents: Dimethyl sulfoxide; 36 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28402685
+1.1|Reagents: Aluminum chloride, Hydrochloric acid|
+|Solvents: Carbon disulfide; 10 min, rt|
+1.2|Reagents: Cyclohexane; 5 min, rt|
+1.3|3 h, rt|
+
+CAS Reaction Number: 31-177-CAS-18228263
+1.1|Reagents: Silver acetate|
+|Catalysts: Palladium diacetate|
+|Solvents: Dimethyl sulfoxide, Benzene; 4 h, 130 °C|
+
+CAS Reaction Number: 31-091-CAS-16785401
+1.1|Reagents: Trifluoroacetic acid|
+|Catalysts: Benzoic acid, 2,2′,2′′-[phosphinylidynetris(oxy)]tris-, trimethyl ester; 20 min, 20 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-30732434
+1.1|Reagents: Aluminum bromide|
+|Solvents: Benzene; 48 h, 25 °C|
+1.2|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-30786760
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Pivalic acid, (SP-4-2)-Dichloro[N,N′-1,2-ethanediylidenebis[2,6-bis(1-ethylpropyl)benzenamine-κN]]palladium|
+|Solvents: Dimethylacetamide; 16 h, rt → 120 °C|
+
+CAS Reaction Number: 31-574-CAS-2584748
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; rt; rt → 0 °C|
+1.2|10 min, 0 °C; 1 h, 0 °C → rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-39148766
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 1 h, rt|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-089-CAS-12918453
+1.1|Reagents: Trifluoroacetic acid, Oxygen|
+|Catalysts: Dimethyl sulfoxide, Palladium diacetate|
+|Solvents: Benzene; 18 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-40736566
+1.1|Reagents: tert-Butyl peroxybenzoate|
+|Catalysts: Quinoline, Palladium diacetate|
+|Solvents: Acetic acid; 6 h, 100 °C|
+
+CAS Reaction Number: 31-091-CAS-13455860
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+
+CAS Reaction Number: 31-049-CAS-14628191
+1.1|Reagents: Aluminum chloride; 0 °C; 0 °C → rt; 45 min, reflux; reflux → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, cooled|
+
+CAS Reaction Number: 31-614-CAS-25417087
+1.1|Reagents: Iron chloride (FeCl3); 3 h, 70 °C|
+1.2|Reagents: Ammonium chloride|
+|Solvents: Water|
+
+CAS Reaction Number: 31-084-CAS-21635498
+1.1|Reagents: Potassium ferricyanide|
+|Solvents: 2-Chloroethanol; rt → 80 °C; 80 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-32628692
+1.1|Reagents: Trifluoroacetic anhydride|
+|Solvents: Dichloromethane, Trifluoroacetic acid; 4 - 15 h, 135 °C|
+
+CAS Reaction Number: 31-614-CAS-28310372
+1.1|Reagents: Aluminum bromide|
+|Solvents: Benzene; 24 h, 25 °C|
+1.2|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-085-CAS-23527858
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 18 h, rt → 80 °C|
+
+CAS Reaction Number: 31-562-CAS-5950666
+1.1|Solvents: Benzene; 30 min, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-40736571
+1.1|Reagents: tert-Butyl peroxybenzoate|
+|Catalysts: Quinoline, Palladium diacetate|
+|Solvents: Acetic acid; 6 h, 100 °C|
+
+CAS Reaction Number: 31-084-CAS-15108866
+1.1|Reagents: Potassium peroxymonosulfate sulfate (2KHSO5.KHSO4.K2SO4); 5 min, rt; rt → 5 °C|
+1.2|Reagents: Sulfuric acid|
+|Solvents: Water; 5 °C; 30 min, rt; rt → 5 °C|
+1.3|Solvents: Dichloromethane; 1 h, 5 °C; 2 h, rt; rt → 5 °C|
+1.4|Reagents: Sodium bicarbonate|
+|Solvents: Dichloromethane, Water; pH 8|
+
+CAS Reaction Number: 31-562-CAS-4325836
+1.1|Solvents: Benzene; 12 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-25923318
+1.1|Solvents: Benzene; 20 h, 60 °C|
+
+CAS Reaction Number: 31-085-CAS-13551051
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 1 h, reflux; reflux → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-614-CAS-28815794
+1.1|Reagents: 1,1-Dimethylhydrazine|
+|Solvents: Tetrahydrofuran; 1.5 h, rt|
+1.2|Solvents: Benzene, Hexane; rt|
+
+CAS Reaction Number: 31-085-CAS-20053513
+1.1|1 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-34650720
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-091-CAS-3379743
+1.1|Catalysts: Iron chloride (FeCl3)|
+
+CAS Reaction Number: 31-089-CAS-97825
+1.1|Reagents: Trifluoroacetic acid, Oxygen|
+|Catalysts: Dimethyl sulfoxide, Palladium diacetate|
+|Solvents: Benzene; 18 h, 90 °C|
+
+CAS Reaction Number: 31-086-CAS-5796408
+1.1|Catalysts: Borane, trifluoro-, monohydrate; rt → 0 °C; 0 °C; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-218-CAS-669576
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,10-Phenanthroline; 1 h, 18 °C|
+1.2|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-28862072
+1.1|Reagents: Pivalic acid, Trifluoroacetic acid, Ammonium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Diglyme; 30 min, 25 °C|
+1.2|28 h, 110 °C; 110 °C → rt|
+1.3|Reagents: Water; 30 min, rt|
+1.4|Reagents: Sodium bicarbonate|
+|Solvents: Ethyl acetate, Water; 30 min, rt|
+
+CAS Reaction Number: 31-086-CAS-17339768
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 4 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 7|
+
+CAS Reaction Number: 31-086-CAS-23426670
+1.1|Reagents: Aluminum chloride; > 1 min, 0 °C; 0 °C → 25 °C; 8 h, 25 °C|
+1.2|Reagents: Sodium chloride|
+|Solvents: Water|
+1.3|Solvents: Diethyl ether; 0 °C; 0 °C → 25 °C; 6 h, 25 °C|
+1.4|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-091-CAS-17094361
+1.1|Reagents: Sodium hydroxide, Thionyl chloride|
+|Solvents: Chloroform; reflux; reflux → rt|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Carbon disulfide; 0 °C; 0 °C → rt; 14 h, rt; rt → 0 °C|
+1.3|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-40408992
+1.1|Reagents: Titanium tetrachloride; 0 °C|
+1.2|Reagents: Ammonia borane; 1 min, 0 °C; 0 °C → 25 °C; 1 h, 25 °C|
+1.3|Reagents: Water; 1 min, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-442955
+1.1|Reagents: Hydrazine hydrate (1:1)|
+|Solvents: Ethanol; 8 h, 25 °C|
+1.2|Catalysts: 1H-Imidazolium, 3,3′-sulfinylbis[1-methyl-, (T-4)-tetrachlorozincate(2-) (1:1); 6 h, 100 - 120 °C|
+
+CAS Reaction Number: 31-177-CAS-5245124
+1.1|Reagents: Silver acetate, Propanoic acid, 2,2-dimethyl-, cesium salt (1:1)|
+|Catalysts: Palladium trifluoroacetate|
+|Solvents: Pivalic acid; 12 h, 100 °C; 100 °C → rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Dichloromethane, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30552284
+1.1|Solvents: Benzene; 2 h, rt|
+
+CAS Reaction Number: 31-562-CAS-2519935
+1.1|Reagents: Diiodomethane, Magnesium|
+|Solvents: Tetrahydrofuran; 1 min, 0.1 torr, rt; 2 h, rt|
+1.2|Solvents: Tetrahydrofuran; 10 min, reflux; reflux → rt|
+
+CAS Reaction Number: 31-562-CAS-19909206
+1.1|Solvents: 1,2-Dimethoxyethane; -78 °C → rt; 16 h, rt|
+
+CAS Reaction Number: 31-177-CAS-18225970
+1.1|Reagents: Silver acetate|
+|Catalysts: Palladium diacetate|
+|Solvents: Dimethyl sulfoxide, Benzene; 4 h, 130 °C|
+
+CAS Reaction Number: 31-614-CAS-26575057
+1.1|Reagents: Aluminum bromide, Hydrogen bromide; 1 h, 25 °C|
+
+CAS Reaction Number: 31-251-CAS-19476097
+1.1|Reagents: Silver carbonate|
+|Catalysts: Palladium diacetate, 1,10-Phenanthrolin-2(1H)-one; 20 min, rt; 15 h, 120 °C|
+
+CAS Reaction Number: 31-085-CAS-14130453
+1.1|Reagents: Hydrazine|
+|Solvents: Ethanol; 8 h, 25 °C|
+1.2|Catalysts: 1H-Imidazolium, 3,3′-sulfinylbis[1-methyl-, (T-4)-tetrachlorozincate(2-) (1:1); 6 h, 100 - 120 °C|
+
+CAS Reaction Number: 31-085-CAS-14092937
+1.1|Catalysts: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O)|
+|Solvents: Benzene; 30 min, reflux|
+
+CAS Reaction Number: 31-089-CAS-7698859
+1.1|Reagents: Trifluoromethanesulfonic acid; rt; overnight, 60 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; basified, cooled|
+
+CAS Reaction Number: 31-562-CAS-4890194
+1.1|Solvents: Dichloromethane; 3 h, rt|
+
+CAS Reaction Number: 31-177-CAS-1200063
+1.1|Reagents: Sodium acetate, Palladium diacetate|
+|Solvents: Benzene; 26 h, 80 °C|
+
+CAS Reaction Number: 31-562-CAS-297843
+1.1|Reagents: Acetonitrile|
+|Solvents: Acetonitrile; 10 min, 85 °C|
+1.2|Reagents: Potassium tert-butoxide|
+|Solvents: Acetonitrile; rt; 10 min, 85 °C|
+1.3|Solvents: Benzene, Water; 3 h, 85 °C|
+1.4|Reagents: Ammonium hexafluorophosphate|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-24304244
+1.1|Reagents: Aluminum chloride; 6 h, rt → reflux|
+
+CAS Reaction Number: 31-085-CAS-22632363
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; 6 h, rt → reflux|
+
+CAS Reaction Number: 31-085-CAS-18548342
+1.1|Catalysts: Aluminum chloride; 6 h, rt → reflux|
+
+CAS Reaction Number: 31-614-CAS-35423728
+1.1|Reagents: Trifluoroacetic anhydride|
+|Solvents: Acetonitrile; 24 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-35850170
+1.1|Catalysts: Oxonium, ethyl(9-methoxy-1H-phenalen-1-ylidene)-, tetrafluoroborate(1-) (1:1)|
+|Solvents: 1,1,1,3,3,3-Hexafluoro-2-propanol; 10 min, rt; 12 - 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25747014
+1.1|Solvents: Benzene, Hexane|
+
+CAS Reaction Number: 31-562-CAS-10627624
+1.1|Reagents: Bromine|
+|Solvents: Dichloromethane; rt; 1 h, rt|
+1.2|Reagents: Aluminum chloride; 16 h, rt; 5 h, reflux|
+1.3|Reagents: Water; reflux → 0 °C|
+1.4|Reagents: Ammonium hexafluorophosphate|
+
+CAS Reaction Number: 31-614-CAS-27904615
+1.1|Reagents: Iodine|
+|Solvents: Benzene; 10 h, 20 °C|
+
+CAS Reaction Number: 31-086-CAS-17339775
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 4 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 7|
+
+CAS Reaction Number: 31-085-CAS-4341793
+1.1|Catalysts: Trifluoromethanesulfonic acid; > 3 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-255-CAS-22100089
+1.1|2 h, 85 °C|
+
+CAS Reaction Number: 31-614-CAS-33853385
+1.1|Solvents: Benzene, Trifluoromethanesulfonic acid; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 10, rt|
+
+CAS Reaction Number: 31-136-CAS-16350135
+1.1|Catalysts: Dirhodium tetraacetate|
+|Solvents: Benzene; 24 h, reflux|
+
+CAS Reaction Number: 31-086-CAS-17339780
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 4 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 7|
+
+CAS Reaction Number: 31-085-CAS-11140495
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 0.5 h, reflux; reflux → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-090-CAS-7919820
+1.1|Reagents: Pivalic acid, Tripotassium phosphate, Oxygen, Copper bromide (CuBr2)|
+|Catalysts: Palladium diacetate|
+|Solvents: Dimethylacetamide; 24 h, 120 °C; cooled|
+
+CAS Reaction Number: 31-255-CAS-22103519
+1.1|2 h, 85 °C|
+
+CAS Reaction Number: 31-091-CAS-22816813
+1.1|Catalysts: Aluminum chloride; 6 h, rt|
+1.2|Reagents: Ethyl acetate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-31156001
+1.1|Reagents: Calcium carbonate|
+|Catalysts: 6,6′-Dimethyl-2,2′-bipyridine, Tetrakis(acetonitrile)copper(1+) tetrafluoroborate|
+|Solvents: Dichloromethane; 12 h, 30 - 40 °C|
+
+CAS Reaction Number: 31-614-CAS-37167214
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-614-CAS-41437713
+1.1|Catalysts: (OC-6-21)-Tris[2-[4-(1,1-dimethylethyl)-2-pyridinyl-κN]-3,5-difluorophenyl-κC]iridium|
+|Solvents: Dichloromethane, Methyl acetate; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-40796222
+1.1|Catalysts: (OC-6-21)-Tris[2-[4-(1,1-dimethylethyl)-2-pyridinyl-κN]-3,5-difluorophenyl-κC]iridium|
+|Solvents: Dichloromethane, Methyl acetate; 12 h, rt|
+
+CAS Reaction Number: 31-091-CAS-4671514
+1.1|Reagents: Aluminum chloride|
+|Solvents: 1,2-Dichloroethane; cooled; 5 min, 0 °C; 0 °C → rt; 1 - 2 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-41946359
+1.1|Reagents: Tetrabutylammonium chloride|
+|Catalysts: Guanidine hydrochloride, Aluminum, Graphene|
+|Solvents: 1,4-Dioxane; 3 h, rt|
+
+CAS Reaction Number: 31-085-CAS-4759728
+1.1|Reagents: Trifluoroacetic acid|
+|Solvents: Benzene; 52 - 55 °C; 2 - 8 h, 52 - 55 °C|
+
+CAS Reaction Number: 31-562-CAS-21464079
+1.1|Reagents: tert-Butyl hydroperoxide|
+|Solvents: Diethyl ether, Water; 24 h, 20 °C|
+1.2|Solvents: Benzene, Heptane|
+
+CAS Reaction Number: 31-085-CAS-23529754
+1.1|Catalysts: Trifluoromethanesulfonic acid; 18 h, rt → 80 °C|
+
+CAS Reaction Number: 31-194-CAS-10248201
+1.1|Catalysts: Ruthenium(2+), tris(2,2′-bipyridine-κN1,κN1′)-, (OC-6-11)-, (OC-6-11)-hexafluoroantimonate(1-) (1:2)|
+|Solvents: Acetonitrile; 24 h, rt|
+
+CAS Reaction Number: 31-177-CAS-18119634
+1.1|Reagents: Triethylamine|
+|Catalysts: Eosin|
+|Solvents: Acetonitrile; 72 h, 40 °C|
+
+CAS Reaction Number: 31-098-CAS-996410
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; rt; overnight, rt|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-086-CAS-4774608
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-30009425
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene, 1,2-Dichloroethane; 0 °C; 15 - 30 min, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-29045999
+1.1|Reagents: Trifluoroacetic acid, Hantzsch ester|
+|Catalysts: Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: 2,2,2-Trifluoroethanol; 12 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-34650746
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-614-CAS-31050684
+1.1|Reagents: (Triethylsilyl)benzene|
+|Catalysts: Silylium, triethyl-, 7,8,9,10,11,12-hexabromo-1,2,3,4,5,6-hexahydro-1-carbadodecaborate(1-) (1:1)|
+|Solvents: Benzene; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34306186
+1.1|Catalysts: Trifluoromethanesulfonic acid; rt; 8 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; pH 8 - 9, cooled|
+
+CAS Reaction Number: 31-614-CAS-33764272
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 13 h, rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-26789432
+1.1|Reagents: tert-Butyl peroxide, Copper bromide (CuBr2); 24 h, 110 °C|
+
+CAS Reaction Number: 31-614-CAS-34875739
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-34650723
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-218-CAS-642373
+1.1|Reagents: Oxygen|
+|Catalysts: N,N,N′,N′-Tetramethylethylenediamine; 31 h, rt|
+
+CAS Reaction Number: 31-089-CAS-397816
+1.1|Reagents: Acetic acid, Silver carbonate, Diisopropyl sulfide|
+|Catalysts: Palladium diacetate; 20 h, 120 °C|
+
+CAS Reaction Number: 31-086-CAS-824189
+1.1|Catalysts: Boron, aquatrifluoro-, (T-4)-; 2 h, 75 °C|
+
+CAS Reaction Number: 31-085-CAS-17525952
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-35355457
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Acetonitrile; 0 °C; 2 h, 0 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-16954750
+1.1|Solvents: Benzene|
+
+CAS Reaction Number: 31-080-CAS-8561656
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Benzene; 1 h, 80 °C|
+
+CAS Reaction Number: 31-080-CAS-17746202
+1.1|Reagents: Trifluoroacetic acid; 0.5 h, rt|
+
+CAS Reaction Number: 31-086-CAS-783322
+1.1|Catalysts: Trifluoromethanesulfonic acid; 6 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-085-CAS-13492796
+1.1|Catalysts: Aluminum chloride|
+1.2|Reagents: Phosphorus oxychloride|
+
+CAS Reaction Number: 31-085-CAS-13691492
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; rt; rt → 80 °C; 4 h, 80 °C; 80 °C → rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-614-CAS-34650750
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-085-CAS-9272889
+1.1|Catalysts: Trifluoromethanesulfonic acid; > 3 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-25257930
+1.1|Reagents: Dibromoisocyanuric acid|
+|Solvents: Dichloromethane; 2 h, rt|
+1.2|Catalysts: Iron oxide (Fe2O3); 15 min, rt|
+1.3|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-28167843
+1.1|Reagents: Carbon dioxide|
+|Solvents: Benzene; 1 h, 1 atm, rt|
+1.2|Solvents: Benzene; rt → 80 °C; 1 h, 80 °C|
+
+CAS Reaction Number: 31-192-CAS-21318531
+1.1|Reagents: Hydrochloric acid|
+|Solvents: Acetone, Water; rt → 0 °C|
+1.2|Reagents: Sodium nitrite; 0 - 5 °C; 7.0 min, 0 - 5 °C|
+1.3|Catalysts: Ferrocene|
+|Solvents: Acetone; 5 h, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-5121382
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 20 min, 0 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-085-CAS-14991222
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; > 2 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; > pH 7, 0 °C|
+
+CAS Reaction Number: 31-086-CAS-7334421
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform, Benzene; 2 h, 25 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; basified, cooled|
+
+CAS Reaction Number: 31-614-CAS-31640059
+1.1|Reagents: Trifluoromethanesulfonic acid; rt; rt → 50 °C; 35 min, 50 °C; 50 °C → rt|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-086-CAS-10048309
+1.1|Catalysts: Borane, trifluoro-, monohydrate; rt → 0 °C; 0 °C; 1 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-614-CAS-39079994
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Dichloromethane; 0 °C; 3 h, rt|
+1.2|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-085-CAS-13369450
+1.1|Catalysts: Boron, aquatrifluoro-, (T-4)-; 0 °C; 24 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-614-CAS-24486330
+1.1|Reagents: Silver triflate, Iodine|
+|Catalysts: Di-μ-chlorobis(η3-2-propenyl)dipalladium|
+|Solvents: 1,2-Dichloroethane; 4.5 h, rt|
+1.2|22 h, 4 atm, 60 °C|
+
+CAS Reaction Number: 31-251-CAS-19117274
+1.1|Reagents: Boron trifluoride etherate; 0 °C; 1 h, 25 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-4528523
+1.1|Reagents: Trifluoromethanesulfonic acid; 3 h, reflux; reflux → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-137-CAS-7543237
+1.1|Reagents: Acetonitrile; 60 °C|
+
+CAS Reaction Number: 31-085-CAS-20306548
+1.1|Reagents: 9-BBN dimer|
+|Solvents: Dichloromethane; 12 h, rt|
+
+CAS Reaction Number: 31-137-CAS-23594591
+1.1|1.5 h, 100 °C|
+
+CAS Reaction Number: 31-137-CAS-23600158
+1.1|1.5 h, 100 °C|
+
+CAS Reaction Number: 31-085-CAS-10714466
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene-d6; 21 h, rt|
+
+CAS Reaction Number: 31-085-CAS-15600466
+1.1|Reagents: Iron chloride (FeCl3); 5 h, rt|
+1.2|Solvents: Water; rt|
+
+CAS Reaction Number: 31-085-CAS-9501086
+1.1|Catalysts: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O)|
+|Solvents: Benzene; 30 min, reflux|
+
+CAS Reaction Number: 31-177-CAS-12083741
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 6,13,20,27,34-Pentaoctyl-2,6,9,13,16,20,23,27,30,34-decaazahexacyclo[30.3.1.14,8.111,15.118,22.125,29]tetraconta-4,7,11,14,18,21,25,28,32,35-decaene-3,10,17,24,31,36,37,38,39,40-decone; 24 h, 120 °C|
+
+CAS Reaction Number: 31-049-CAS-11683590
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene|
+1.2|Solvents: Water|
+1.3|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-614-CAS-24935477
+1.1|Reagents: Hydrogen|
+|Solvents: Hexane; 4 h, 25 °C|
+1.2|25 °C|
+
+CAS Reaction Number: 31-614-CAS-28429365
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; rt; rt → 0 °C|
+1.2|10 min, 0 °C; 1 h, 0 °C → rt; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-31185646
+1.1|Solvents: Toluene; 2 h, rt|
+1.2|rt|
+
+CAS Reaction Number: 31-086-CAS-9886629
+1.1|Catalysts: Trifluoromethanesulfonic acid; 6 h, rt|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; neutralized, cooled|
+
+CAS Reaction Number: 31-086-CAS-464711
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-696846
+1.1|Catalysts: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O)|
+|Solvents: Benzene; 30 min, reflux|
+
+CAS Reaction Number: 31-091-CAS-10102080
+1.1|Catalysts: Trifluoromethanesulfonic acid; 1 h, 0 °C|
+
+CAS Reaction Number: 31-218-CAS-11549423
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; rt|
+1.2|Reagents: Potassium acetate|
+|Catalysts: Triphenylphosphine, Palladium diacetate|
+|Solvents: Dimethylformamide; 30 min, 140 °C|
+
+CAS Reaction Number: 31-251-CAS-16555699
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Pyridine; 0 °C; 0.25 h, 0 °C|
+1.2|Reagents: Water|
+|Solvents: Chloroform; 0 °C|
+
+CAS Reaction Number: 31-085-CAS-14287869
+1.1|Reagents: Aluminum chloride; rt → 6 °C|
+1.2|Solvents: (±)-Propylene glycol, Methyl acetate; 6 °C → 2 °C|
+1.3|2 h, 0 - 5 °C|
+1.4|Reagents: Water; cooled; 30 min, 0 °C → rt|
+
+CAS Reaction Number: 31-526-CAS-12773508
+1.1|Catalysts: Trifluoroacetic acid, Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 0 °C; 20 min, 0 °C|
+1.2|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-562-CAS-20941431
+1.1|Solvents: Dichloromethane; 6 h, rt|
+
+CAS Reaction Number: 31-085-CAS-23296819
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: 1,1,1,3,3,3-Hexafluoro-2-propanol; 16 h, 60 °C|
+
+CAS Reaction Number: 31-562-CAS-3288190
+1.1|Reagents: Tetrakis(acetonitrile)copper(1+) tetrafluoroborate|
+|Solvents: Dichloromethane; rt|
+1.2|rt|
+1.3|Solvents: Benzene|
+
+CAS Reaction Number: 31-085-CAS-22687921
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; 5 min, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-562-CAS-3972842
+1.1|Solvents: Dichloromethane-d2; 24 h, rt|
+
+CAS Reaction Number: 31-177-CAS-3318009
+1.1|Reagents: Sodium acetate, Palladium diacetate|
+|Solvents: Benzene; 26 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-30003907
+1.1|Reagents: Trifluoroacetic acid; 0.5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-36834267
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 5 min, rt → 0 °C|
+1.2|0 °C; 10 min, rt|
+1.3|10 min, rt|
+
+CAS Reaction Number: 31-084-CAS-23546288
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 1 h, rt|
+
+CAS Reaction Number: 31-084-CAS-1405569
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 25 min, 0 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-27744102
+1.1|Solvents: Benzene; 6 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-27690841
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide; 6 h, 0 °C → rt|
+
+CAS Reaction Number: 31-574-CAS-8966456
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; rt; rt → 0 °C|
+1.2|10 min, 0 °C; 1 h, 0 °C → rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25902357
+1.1|Reagents: Trifluoromethanesulfonic acid; 0 °C; 0 °C → 21 °C; 3 h, 21 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-37167160
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 25 °C; 15 h, 25 °C|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide, Water; pH 10 - 11|
+
+CAS Reaction Number: 31-085-CAS-10879556
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 1 h, 0 °C|
+
+CAS Reaction Number: 31-177-CAS-18237323
+1.1|Reagents: Silver acetate|
+|Catalysts: Palladium diacetate|
+|Solvents: Dimethyl sulfoxide; 12 h, 130 °C|
+
+CAS Reaction Number: 31-217-CAS-17515633
+1.1|12 h, 100 °C|
+
+CAS Reaction Number: 31-081-CAS-17623189
+1.1|Reagents: Silver acetate|
+|Catalysts: Palladium diacetate, Propanoic acid, 2,2-dimethyl-, cesium salt (1:1)|
+|Solvents: Pivalic acid; 16 h, 130 °C; 130 °C → rt|
+1.2|Reagents: Sodium carbonate|
+|Solvents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-614-CAS-30774265
+1.1|Reagents: Oxygen|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-41630896
+1.1|Reagents: Thionyl chloride|
+|Catalysts: Dimethylformamide|
+|Solvents: Dichloromethane; 0 °C; 2 h, reflux; reflux → rt|
+1.2|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; < 10 °C; 2 h, rt|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-091-CAS-16044159
+1.1|Reagents: Thionyl chloride|
+|Catalysts: Dimethylformamide|
+|Solvents: Dichloromethane; 5 h, 20 - 25 °C|
+1.2|Reagents: Aluminum chloride; 0 °C; 4 h, rt|
+1.3|Reagents: Water; 0 °C|
+
+CAS Reaction Number: 31-562-CAS-5356712
+1.1|Reagents: Graphite, compd. with potassium (8:1)|
+|Solvents: Benzene; rt; 3 h, rt|
+
+CAS Reaction Number: 31-085-CAS-20890460
+1.1|Catalysts: Trifluoromethanesulfonic acid; 2.5 h, 140 °C|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-091-CAS-6793280
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 5 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-32628688
+1.1|Reagents: Trifluoroacetic anhydride|
+|Solvents: Dichloromethane, Trifluoroacetic acid; 4 - 15 h, 150 °C|
+
+CAS Reaction Number: 31-085-CAS-20751268
+1.1|Reagents: Trifluoromethanesulfonic acid; 1 h, rt|
+
+CAS Reaction Number: 31-085-CAS-20751270
+1.1|Reagents: Trifluoromethanesulfonic acid; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30274947
+1.1|Reagents: Oxygen|
+|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-179-CAS-504288
+1.1|Reagents: Permanganic acid (HMnO4), potassium salt (1:1)|
+|Solvents: Acetic acid; 15 - 30 min, reflux|
+1.2|reflux|
+1.3|Reagents: Sodium bicarbonate|
+|Solvents: Diethyl ether, Water|
+
+CAS Reaction Number: 31-085-CAS-7552191
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: 1,2-Dichloroethane; 24 h, 80 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-085-CAS-1568954
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: 1,2-Dichloroethane; 12 - 24 h, 80 °C|
+
+CAS Reaction Number: 31-179-CAS-4787823
+1.1|Reagents: Permanganic acid (HMnO4), potassium salt (1:1)|
+|Solvents: Acetic acid; 15 - 30 min, reflux|
+1.2|reflux|
+1.3|Reagents: Sodium bicarbonate|
+|Solvents: Diethyl ether, Water|
+
+CAS Reaction Number: 31-179-CAS-3623796
+1.1|Reagents: Manganese triacetate|
+|Solvents: Benzene; 30 min, reflux|
+
+CAS Reaction Number: 31-089-CAS-343586
+1.1|Reagents: Trifluoroacetic acid, Potassium persulfate|
+|Catalysts: Palladium diacetate; 16 h, 25 °C|
+
+CAS Reaction Number: 31-562-CAS-22625122
+1.1|Solvents: Benzene|
+
+CAS Reaction Number: 31-614-CAS-27174747
+1.1|Catalysts: Trifluoromethanesulfonic acid|
+|Solvents: 1,2-Dichlorobenzene; 3 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-049-CAS-3159051
+1.1|Reagents: Thionyl chloride|
+|Catalysts: Dimethylformamide|
+|Solvents: Toluene; 1.5 h, 70 °C|
+1.2|Catalysts: Aluminum chloride; 10 °C; 5 h, reflux|
+1.3|Reagents: Water|
+
+CAS Reaction Number: 31-084-CAS-3562561
+1.1|Reagents: Dichloromethane|
+1.3|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-24288221
+1.1|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Acetonitrile; 30 min, rt|
+
+CAS Reaction Number: 31-085-CAS-8690258
+1.1|Reagents: Trifluoromethanesulfonic acid; 2 h, 20 °C|
+
+CAS Reaction Number: 31-091-CAS-22872302
+1.1|Reagents: Aluminum chloride; 0 °C; 0 °C → 60 °C; 5 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-41435035
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 0 °C; 0 °C → rt; 4 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 10 - 11|
+
+CAS Reaction Number: 31-574-CAS-2638367
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; 0 °C; 1 h, 0 °C → rt; 6.5 h, rt|
+
+CAS Reaction Number: 31-085-CAS-10743748
+1.1|Catalysts: Trifluoromethanesulfonic acid; > 3 h, 50 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-086-CAS-11590737
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-28675746
+1.1|Catalysts: Aluminum chloride|
+|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-085-CAS-4848636
+1.1|Reagents: Aluminum chloride|
+|Solvents: Nitrobenzene; 5 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-37008563
+1.1|Solvents: Benzene; 0 °C; 1 h, rt|
+
+CAS Reaction Number: 31-549-CAS-18006199
+1.1|Solvents: Dichloromethane; rt → -35 °C; > 1 min, -35 °C|
+1.2|1 h, 0 °C; 12 h, rt|
+
+CAS Reaction Number: 31-089-CAS-5564557
+1.1|Reagents: Trifluoromethanesulfonic acid; rt; overnight, 60 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; basified, cooled|
+
+CAS Reaction Number: 31-091-CAS-22814938
+1.1|Reagents: (Chloromethylene)dimethylammonium chloride|
+|Solvents: Dichloromethane; 3 h, -15 °C|
+1.2|Catalysts: Aluminum chloride; 6 h, rt|
+
+CAS Reaction Number: 31-085-CAS-18692497
+1.1|Reagents: Aluminum chloride; 5 h, rt|
+
+CAS Reaction Number: 31-086-CAS-12421225
+1.1|Reagents: Trifluoromethanesulfonic acid; 4 h, -10 °C|
+
+CAS Reaction Number: 31-614-CAS-25360383
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Pivalic acid, (SP-4-2)-Dichloro[N,N′-1,2-ethanediylidenebis[2,6-bis(1-ethylpropyl)benzenamine-κN]]palladium|
+|Solvents: Dimethylacetamide; 16 h, rt → 120 °C|
+
+CAS Reaction Number: 31-080-CAS-23222718
+1.1|Catalysts: 2,3-Dichloro-5,6-dicyano-1,4-benzoquinone, Tetraethylammonium tetrafluoroborate|
+|Solvents: Acetonitrile; 16 h, rt|
+
+CAS Reaction Number: 31-081-CAS-19920653
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Dichloromethane; 3 h, rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-194-CAS-19393231
+1.1|Reagents: Potassium|
+|Catalysts: (OC-6-11)-Tris(1H-phenalene-1,9(9aH)-dionato-κO1,κO9)iron|
+|Solvents: Dimethyl sulfoxide; 36 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33984831
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,10-Phenanthroline, 4,7-diphenyl-, polymer with 1,2-dichloroethane; rt; 24 h, 120 °C|
+
+CAS Reaction Number: 31-085-CAS-964379
+1.1|Reagents: Iron chloride (FeCl3); 6 h, rt|
+1.2|Reagents: Ammonium chloride|
+|Solvents: Water|
+
+CAS Reaction Number: 31-218-CAS-691187
+1.1|Reagents: Oxygen|
+|Catalysts: N,N,N′,N′-Tetramethylethylenediamine; 6 h, rt|
+
+CAS Reaction Number: 31-218-CAS-17625764
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Zinc oxide (ZnO), Palladium; 10 h, rt|
+
+CAS Reaction Number: 31-574-CAS-10065169
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; rt; rt → 0 °C|
+1.2|10 min, 0 °C; 1 h, 0 °C → rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34578571
+1.1|Reagents: Boron, tetrabromobis[1,1′-thiobis[methane]]di-, (B-B)|
+|Solvents: Benzene; 10 min, rt|
+1.2|Solvents: Benzene; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-33984828
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 1,10-Phenanthroline, 4,7-diphenyl-, polymer with 1,2-dichloroethane; rt; 24 h, 120 °C|
+
+CAS Reaction Number: 31-179-CAS-2669954
+1.1|Reagents: Permanganic acid (HMnO4), potassium salt (1:1)|
+|Solvents: Acetic acid; 15 - 30 min, reflux|
+1.2|reflux|
+1.3|Reagents: Sodium bicarbonate|
+|Solvents: Diethyl ether, Water|
+
+CAS Reaction Number: 31-091-CAS-14556007
+1.1|Reagents: Thionyl chloride|
+1.2|Reagents: Aluminum chloride|
+
+CAS Reaction Number: 31-614-CAS-25815996
+1.1|Reagents: Aluminum chloride|
+|Solvents: Dichloromethane; rt|
+
+CAS Reaction Number: 31-091-CAS-10493934
+1.1|Reagents: Thionyl chloride|
+1.2|Reagents: Aluminum chloride; reflux|
+
+CAS Reaction Number: 31-091-CAS-13008587
+1.1|Reagents: Thionyl chloride; rt|
+1.2|Reagents: Aluminum chloride; reflux|
+
+CAS Reaction Number: 31-091-CAS-16785398
+1.1|Reagents: Trifluoroacetic acid|
+|Catalysts: Benzoic acid, 2,2′,2′′-[phosphinylidynetris(oxy)]tris-, trimethyl ester; 20 min, 20 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-085-CAS-15857832
+1.1|Reagents: Triethylsilane|
+|Catalysts: Phosphorus(1+), fluorotris(2,3,4,5,6-pentafluorophenyl)-, (T-4)-, tetrakis(2,3,4,5,6-pentafluorophenyl)borate(1-) (1:1)|
+|Solvents: Benzene; 12 h, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-34650729
+1.1|Reagents: Phosphorus pentoxide|
+|Solvents: Trifluoromethanesulfonic acid; 20 min, 23 °C|
+1.2|Reagents: Water; cooled|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 12|
+
+CAS Reaction Number: 31-086-CAS-13885117
+1.1|Catalysts: Boron, aquatrifluoro-, (T-4)-; 8 h, 75 °C|
+
+CAS Reaction Number: 31-614-CAS-29769838
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Benzene; rt; rt → 0 °C|
+1.2|10 min, 0 °C; 1 h, 0 °C → rt; 4 h, rt|
+
+CAS Reaction Number: 31-085-CAS-5011724
+1.1|Catalysts: Cellulose, tris(hydrogen sulfate); 30 min, reflux|
+
+CAS Reaction Number: 31-087-CAS-20454940
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Chloroform; 18 h, 50 °C|
+
+CAS Reaction Number: 31-085-CAS-436750
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 12 h, 50 °C|
+
+CAS Reaction Number: 31-085-CAS-6526815
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 12 h, 50 °C|
+
+CAS Reaction Number: 31-089-CAS-13453226
+1.1|Reagents: Trifluoroacetic acid, Sodium persulfate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 24 h, 70 °C; 12 h, 70 °C|
+
+CAS Reaction Number: 31-085-CAS-9839673
+1.1|Reagents: Sulfuric acid|
+|Solvents: Benzene; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30279985
+1.1|Reagents: Iodine|
+|Solvents: Benzene; 10 h, 20 °C|
+
+CAS Reaction Number: 31-086-CAS-13673105
+1.1|Reagents: Trifluoromethanesulfonic acid; 60 °C|
+1.2|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-26472599
+1.1|Reagents: Iron chloride (FeCl3); 6 h, rt|
+1.2|Reagents: Ammonium chloride|
+|Solvents: Water|
+
+CAS Reaction Number: 31-562-CAS-862877
+1.1|Solvents: Benzene; 10 min, rt|
+1.2|Reagents: Water|
+|Solvents: Benzene; 7 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28825614
+1.1|Reagents: Iodobenzene diacetate|
+|Solvents: Benzene; 4 h, 140 °C|
+
+CAS Reaction Number: 31-113-CAS-6501026
+1.1|Solvents: Benzene; 16 h|
+1.2|Reagents: Sodium thiosulfate|
+|Solvents: Water|
+
+CAS Reaction Number: 31-177-CAS-18075898
+1.1|Reagents: Silver acetate|
+|Catalysts: Palladium diacetate|
+|Solvents: Dimethyl sulfoxide; 4 h, 130 °C|
+
+CAS Reaction Number: 31-531-CAS-13876048
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 2 h, rt|
+1.2|Reagents: Water; 0 °C|
+1.3|Reagents: Sodium hydroxide|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-179-CAS-6920437
+1.1|Reagents: Permanganic acid (HMnO4), potassium salt (1:1)|
+|Solvents: Acetic acid; 15 - 30 min, reflux|
+1.2|reflux|
+1.3|Reagents: Sodium bicarbonate|
+|Solvents: Diethyl ether, Water|
+
+CAS Reaction Number: 31-085-CAS-13208885
+1.1|Catalysts: Boron trifluoride etherate; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26191445
+1.1|Catalysts: Aluminum, trichloro(tributylamine)-|
+|Solvents: Benzene; 30 min, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-25319776
+1.1|Reagents: tert-Butyl hypochlorite, Potassium carbonate, Oxygen; 20 h, 60 °C|
+
+CAS Reaction Number: 31-177-CAS-14354654
+1.1|Reagents: Oxygen|
+|Catalysts: Palladium nitrate|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-137-CAS-17458423
+1.1|Solvents: Benzene-d6; 15 min, 25 °C|
+
+CAS Reaction Number: 31-085-CAS-16409249
+1.1|Reagents: Sodium hydride|
+
+CAS Reaction Number: 31-242-CAS-12152951
+1.1|Reagents: Hydrogen; 2 h, rt|
+
+CAS Reaction Number: 31-100-CAS-6975492
+1.1|Reagents: Water; 5 h, 298 K|
+
+CAS Reaction Number: 31-084-CAS-14632146
+1.1|Reagents: Oxygen|
+|Catalysts: Palladium nitrate, Tris(4-fluorophenyl)phosphine|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-138-CAS-18562997
+1.1|Solvents: Benzene; 1 h, 0 °C|
+
+CAS Reaction Number: 31-085-CAS-17222756
+1.1|Solvents: Benzene; 20 h, 70 °C|
+
+CAS Reaction Number: 31-085-CAS-17222757
+1.1|Solvents: Benzene; 25 min, 90 °C|
+1.2|Catalysts: Bis[2-(diphenylphosphino)phenyl] ether, (SP-4-2)-Dibromo[1,1′-(oxydi-2,1-phenylene)bis[1,1-diphenylphosphine-κP]]palladium|
+|Solvents: Benzene; 20 min, 90 °C|
+
+CAS Reaction Number: 31-136-CAS-4896487
+1.1|Catalysts: Copper(1+), (acetonitrile)-, bis(2,3,4,5,6-pentafluorophenyl)aurate(1-) (1:1); 12 h, rt|
+
+CAS Reaction Number: 31-136-CAS-7112256
+1.1|Catalysts: Gold, bis[(acetonitrile)silver]tetrakis(2,3,4,5,6-pentafluorophenyl)di-, (4Ag-Au); 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33936734
+1.1|Solvents: Benzene; rt|
+
+CAS Reaction Number: 31-614-CAS-29071755
+1.1|Reagents: Triethylamine|
+|Solvents: 2,2,2-Trifluoroethanol; 5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25738686
+1.1|Reagents: Propanoic acid, 2,2-dimethyl-, copper(2+) salt (2:1)|
+|Catalysts: Rhodium, (η2-ethene)[1,1′-(1,2-phenylene)bis[1H-pyrrolo[2,3-b]pyridine-κN7]](2,2,2-trifluoroacetato-κO)-; 1 h, 64.7 psi, 150 °C|
+
+CAS Reaction Number: 31-085-CAS-22688896
+1.1|Catalysts: Aluminum chloride; 1 h, rt|
+1.2|Solvents: Dichloromethane; 0 °C; 2 h, 45 - 50 °C|
+
+CAS Reaction Number: 31-085-CAS-17222761
+1.1|Solvents: Benzene; 20 h, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-30884361
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-352-CAS-18260845
+1.1|Catalysts: Trifluoromethanesulfonic acid; 20 °C; 1 h, 20 °C|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-106-CAS-5401479
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 0 °C; 15 min, rt|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-28475217
+1.1|30 min, rt → 120 °C|
+
+CAS Reaction Number: 31-562-CAS-4351469
+1.1|Solvents: Benzene|
+
+CAS Reaction Number: 31-142-CAS-638691
+1.1|Catalysts: Di-μ-chlorotetrakis[(1,2-η)-cyclooctene]diiridium, Bis[N,N′-bis(1,1-dimethylethyl)benzenecarboximidamidato-κN,κN′][μ-[4,6-bis(1,1-dimethylethyl)-1,3-benzenediolato(2-)-κO1:κO3]]disilicon|
+|Solvents: Benzene; 15 min, rt|
+1.2|Solvents: Benzene; 24 h, 100 °C|
+
+CAS Reaction Number: 31-091-CAS-18770003
+1.1|Reagents: Trifluoromethanesulfonic acid; 20 min, 20 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-614-CAS-29811556
+1.1|Reagents: Trifluoromethanesulfonic acid; 45 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26862475
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-614-CAS-28463149
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-080-CAS-11121510
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene; 1 h, 80 °C|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-177-CAS-10699309
+1.1|Reagents: Pivalic acid, Silver acetate|
+|Catalysts: Palladium diacetate|
+|Solvents: Benzene; 24 h, reflux; reflux → rt|
+1.2|Reagents: 1,8-Diazabicyclo[5.4.0]undec-7-ene|
+|Solvents: Toluene; 2 h, reflux|
+
+CAS Reaction Number: 31-113-CAS-131287
+1.1|Reagents: Trifluoromethanesulfonic acid|
+|Solvents: Benzene; 0.5 h, reflux; reflux → rt|
+1.2|Reagents: Potassium carbonate|
+|Solvents: Water; basified, rt|
+
+CAS Reaction Number: 31-614-CAS-30077248
+1.1|Reagents: Aluminum chloride|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-085-CAS-538727
+1.1|Reagents: Trifluoromethanesulfonic acid; 6 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-35310087
+1.1|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Acetonitrile, Water; 60 min, 14 °C|
+
+CAS Reaction Number: 31-614-CAS-35310082
+1.1|Catalysts: Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Acetonitrile, Water; 60 min, 14 °C|
+
+CAS Reaction Number: 31-563-CAS-5055967
+1.1|Solvents: Benzene; 2 h|
+
+CAS Reaction Number: 31-085-CAS-16555719
+1.1|Solvents: Pyridine; 0.25 h, 0 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-142-CAS-3124557
+1.1|Catalysts: Di-μ-chlorotetrakis[(1,2-η)-cyclooctene]diiridium, Bis[N,N′-bis(1,1-dimethylethyl)benzenecarboximidamidato-κN,κN′][μ-[4,6-bis(1,1-dimethylethyl)-1,3-benzenediolato(2-)-κO1:κO3]]disilicon|
+|Solvents: Benzene; 15 min, rt|
+1.2|Solvents: Benzene; 24 h, 100 °C|
+
+CAS Reaction Number: 31-085-CAS-3624839
+1.1|Catalysts: Hexamethylbenzene, (SP-4-2)-Phenyl[2-(1H-pyrrol-2-yl-κN)pyridinato-κN][1,1′-thiobis[methane]]platinum|
+|Solvents: Benzene; 120 min, 100 °C|
+
+CAS Reaction Number: 31-085-CAS-1660828
+1.1|Catalysts: Nitromethane, Aluminum chloride|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-563-CAS-7354389
+1.1|Solvents: Benzene; 2 h|
+
+CAS Reaction Number: 31-562-CAS-2505284
+1.1|Solvents: Dichloromethane-d2; 18 h, 1 atm|
+
+CAS Reaction Number: 31-022-CAS-6795030
+1.1|Reagents: Pyridine|
+|Solvents: Dichloromethane; 0 °C; 10 min, 0 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-29688152
+1.1|Reagents: Triethylamine|
+|Solvents: THF-d8; 5 min, rt|
+1.2|Reagents: Triphenylphosphine|
+|Solvents: THF-d8; rt|
+
+CAS Reaction Number: 31-614-CAS-28083630
+1.1|Reagents: Triethylamine|
+|Solvents: THF-d8; 5 min, rt|
+1.2|Reagents: Triphenylphosphine|
+|Solvents: THF-d8; rt|
+
+CAS Reaction Number: 31-562-CAS-2388338
+1.1|Reagents: Antimony trichloride|
+|Solvents: Pyridine; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-28853215
+1.1|Solvents: Benzene; 10 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-26333779
+1.1|Solvents: Tetrahydrofuran; 1.5 h, rt|
+1.2|Solvents: Tetrahydrofuran; 24 h, rt|
+1.3|Solvents: Dichloromethane, Hexane|
+
+CAS Reaction Number: 31-562-CAS-1599169
+1.1|Reagents: Hydrogen peroxide|
+|Solvents: Diethyl ether, Water; 18 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-24997946
+1.1|Solvents: Benzene; 10 min, 80 °C|
+
+CAS Reaction Number: 31-562-CAS-5870084
+1.1|Reagents: Hydrogen peroxide|
+|Solvents: Diethyl ether, Water; 18 h, 20 °C|
+
+CAS Reaction Number: 31-365-CAS-2897379
+1.1|Solvents: Tetrahydrofuran; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28735902
+1.1|Solvents: Benzene; 10 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-25290273
+1.1|Solvents: Benzene; 10 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-26223686
+1.1|Solvents: Benzene; 10 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-25037437
+1.1|Solvents: Benzene; 10 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-30453128
+1.1|Solvents: Benzene; 10 min, 80 °C|
+
+CAS Reaction Number: 31-562-CAS-22373329
+1.1|Solvents: Benzene, Tetrahydrofuran; rt|
+
+CAS Reaction Number: 31-562-CAS-8002355
+1.1|Reagents: Hydrogen peroxide|
+|Solvents: Diethyl ether, Water; 18 h, 20 °C|
+
+CAS Reaction Number: 31-562-CAS-3448898
+1.1|Solvents: Benzene; 3 h, 40 °C|
+
+CAS Reaction Number: 31-614-CAS-31825272
+1.1|Reagents: Iodine|
+|Solvents: Benzene; 1 h, 80 °C|
+
+CAS Reaction Number: 31-562-CAS-14717912
+1.1|Reagents: Hydrogen peroxide|
+|Solvents: Diethyl ether, Water; 18 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-27749711
+1.1|Solvents: Benzene; 5 min, rt|
+1.2|Solvents: Benzene; 1 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-34106293
+1.1|Reagents: Azidotrimethylsilane|
+|Solvents: Tetrahydrofuran; 2 d, 50 °C|
+
+CAS Reaction Number: 31-117-CAS-3853304
+1.1|Solvents: Benzene, Tetrahydrofuran; rt|
+
+CAS Reaction Number: 31-614-CAS-36683182
+1.1|Reagents: Potassium bromide|
+|Solvents: Tetrahydrofuran; 18 h, 23 °C|
+
+CAS Reaction Number: 31-562-CAS-3258359
+1.1|Reagents: Ferrocenium hexafluorophosphate|
+|Solvents: Acetonitrile; 12 h, rt|
+1.2|Solvents: Tetrahydrofuran|
+
+CAS Reaction Number: 31-562-CAS-11305247
+1.1|Solvents: Chloroform; rt → reflux; 1 d, rt|
+
+CAS Reaction Number: 31-562-CAS-6858459
+1.1|Reagents: Bromine|
+|Solvents: Chloroform; rt|
+
+CAS Reaction Number: 31-614-CAS-26990848
+1.1|Reagents: Tetrafluoroboric acid|
+|Solvents: Diethyl ether, Benzene; 70 min, rt|
+
+CAS Reaction Number: 31-614-CAS-27416503
+1.1|Solvents: Toluene; 6 h, rt|
+
+CAS Reaction Number: 31-562-CAS-21754998
+1.1|Solvents: Benzene; 24 h, 60 °C|
+
+CAS Reaction Number: 31-562-CAS-18398360
+1.1|Solvents: Dichloromethane; 1 min, rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-42203073
+1.1|Reagents: Potassium carbonate|
+|Solvents: Methanol, Tetrahydrofuran; 60 min, 23 °C|
+1.2|Reagents: Ammonium chloride|
+|Solvents: Water; 23 °C|
+
+CAS Reaction Number: 31-614-CAS-42894264
+1.1|Solvents: Benzene; 2 h, rt|
+
+CAS Reaction Number: 31-149-CAS-23093039
+1.1|Reagents: Hydrogen|
+|Solvents: Dichloromethane; 1 atm, rt → 0 °C; 10 min, 0 °C|
+
+CAS Reaction Number: 31-562-CAS-20241833
+1.1|Solvents: Toluene; 12 h, rt|
+
+CAS Reaction Number: 31-562-CAS-16411526
+1.1|Solvents: Benzene; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-23510928
+1.1|Reagents: Silver hexafluoroantimonate|
+|Solvents: Toluene; 1 h, rt|
+
+CAS Reaction Number: 31-562-CAS-2310735
+1.1|Solvents: Ethanol; overnight, rt|
+
+CAS Reaction Number: 31-562-CAS-16411531
+1.1|Reagents: Bromotrimethylsilane|
+|Solvents: Benzene|
+
+CAS Reaction Number: 31-562-CAS-16411529
+1.1|Reagents: Chlorotrimethylsilane|
+|Solvents: Benzene; 3 min, rt|
+
+CAS Reaction Number: 31-562-CAS-20241834
+1.1|Solvents: Toluene; overnight, 1 bar, rt|
+
+CAS Reaction Number: 31-614-CAS-27048753
+1.1|Reagents: Triethylamine|
+|Solvents: THF-d8; 5 min, rt|
+1.2|Reagents: Triphenylphosphine|
+|Solvents: THF-d8; rt|
+
+CAS Reaction Number: 31-562-CAS-14150971
+1.1|Reagents: Oxygen|
+|Solvents: Tetrahydrofuran; 60 s, rt|
+
+CAS Reaction Number: 31-614-CAS-28204891
+1.1|Reagents: Triethylamine|
+|Solvents: THF-d8; 5 min, rt|
+1.2|Reagents: Triphenylphosphine|
+|Solvents: THF-d8; rt|
+
+CAS Reaction Number: 31-563-CAS-11382488
+1.1|24 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-26887687
+1.1|Solvents: Toluene; 12 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-42203081
+1.1|Reagents: Pyridinium tribromide|
+|Solvents: Methanol, Dichloromethane; 23 °C; 60 min, 23 °C|
+1.2|Reagents: Sodium bisulfite|
+|Solvents: Water; 23 °C|
+
+CAS Reaction Number: 31-614-CAS-25202663
+1.1|Reagents: Carbon disulfide|
+|Solvents: Benzene; rt|
+
+CAS Reaction Number: 31-614-CAS-26048298
+1.1|Reagents: Phenylsilane|
+|Solvents: Benzene; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-42203080
+1.1|Reagents: Dess-Martin periodinane|
+|Solvents: Dichloromethane; 30 min, rt|
+1.2|Reagents: Sodium bisulfite|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-38562423
+1.1|Reagents: Silver tetrafluoroborate|
+|Solvents: Toluene; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38562403
+1.1|Reagents: Silver tetrafluoroborate|
+|Solvents: Toluene; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34291423
+1.1|Reagents: 4,4,5,5-Tetramethyl-1,3,2-dioxaborolane-2-d|
+|Solvents: Tetrahydrofuran; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30494008
+1.1|Reagents: Carbon dioxide|
+|Solvents: Benzene; 5 h, 35 °C|
+
+CAS Reaction Number: 31-563-CAS-741814
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Dichloromethane, Water; overnight, rt|
