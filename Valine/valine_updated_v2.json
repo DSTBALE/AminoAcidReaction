@@ -1,0 +1,227 @@
+{
+  "reaction1": {
+    "reaction_number": "31-614-CAS-25765174",
+    "steps": 1,
+    "stages": 5,
+    "reactants": [
+      {
+        "name": "Propane",
+        "formula": "C3H8",
+        "cas_rn": "74-98-6"
+      },
+      {
+        "name": "Carbon monoxide",
+        "formula": "CO",
+        "cas_rn": "630-08-0"
+      },
+      {
+        "name": "1-Chloro-4-(trimethylsilyl)benzene",
+        "formula": "C9H13ClSi",
+        "cas_rn": "10557-71-8"
+      }
+    ],
+    "product": {
+      "name": "4′-Chloroisobutyrophenone",
+      "formula": "C10H11ClO",
+      "cas_rn": "18713-58-1",
+      "yield": 97
+    },
+    "reagents": [
+      {
+        "cas_rn": "183478-78-6"
+      },
+      {
+        "cas_rn": "64-17-5"
+      },
+      {
+        "cas_rn": "7732-18-5"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "74-95-3"
+      }
+    ]
+  },
+  "reaction2": {
+    "reaction_number": "31-209-CAS-7835636",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Propane",
+        "formula": "C3H8",
+        "cas_rn": "74-98-6"
+      },
+      {
+        "name": "Trifluoroacetic acid",
+        "formula": "C2HF3O2",
+        "cas_rn": "76-05-1"
+      }
+    ],
+    "product": {
+      "name": "Isopropyl trifluoroacetate",
+      "formula": "C5H7F3O2",
+      "cas_rn": "400-38-4",
+      "yield": 90
+    },
+    "reagents": [
+      {
+        "cas_rn": "7727-21-1"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "1435767-22-8"
+      }
+    ]
+  },
+  "reaction3": {
+    "reaction_number": "31-085-CAS-11558349",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Propane",
+        "formula": "C3H8",
+        "cas_rn": "74-98-6"
+      },
+      {
+        "name": "1,2,4-Trichlorobenzene",
+        "formula": "C6H3Cl3",
+        "cas_rn": "120-82-1"
+      }
+    ],
+    "product": {
+      "name": "1,2,4-Trichloro-5-(1-methylethyl)benzene",
+      "formula": "C9H9Cl3",
+      "cas_rn": "190716-73-5",
+      "yield": 86
+    },
+    "catalysts": [
+      {
+        "cas_rn": "183478-75-3"
+      }
+    ]
+  },
+  "reaction4": {
+    "reaction_number": "31-491-CAS-18129133",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Propane",
+        "formula": "C3H8",
+        "cas_rn": "74-98-6"
+      },
+      {
+        "name": "2-(3-Hydroxyphenyl)-1-[1,2,3,5-tetrahydro-8-(trifluoromethyl)-4H-pyrido[2,3-e...",
+        "formula": "C17H16F3N3O2",
+        "cas_rn": "1552297-25-2"
+      }
+    ],
+    "product": {
+      "name": "2-[3-(1-Methylethoxy)phenyl]-1-[1,2,3,5-tetrahydro-8-(trifluoromethyl)-4H-pyr...",
+      "formula": "C20H22F3N3O2",
+      "cas_rn": "1552296-70-4",
+      "yield": 83
+    },
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "68-12-2"
+      }
+    ]
+  },
+  "reaction5": {
+    "reaction_number": "31-214-CAS-2060288",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Propane",
+        "formula": "C3H8",
+        "cas_rn": "74-98-6"
+      },
+      {
+        "name": "5-Chloro-2-nitrobenzeneacetonitrile",
+        "formula": "C8H5ClN2O2",
+        "cas_rn": "72301-65-6"
+      }
+    ],
+    "product": {
+      "name": "5-Chloro-2-nitro-α-propylbenzeneacetonitrile",
+      "formula": "C11H11ClN2O2",
+      "cas_rn": "189697-02-7",
+      "yield": 81
+    },
+    "reagents": [
+      {
+        "cas_rn": "584-08-7"
+      }
+    ],
+    "solvents": [
+      {
+        "cas_rn": "75-05-8"
+      }
+    ]
+  },
+  "reaction6": {
+    "reaction_number": "31-614-CAS-35440343",
+    "steps": 1,
+    "stages": 1,
+    "reactants": [
+      {
+        "name": "Propane",
+        "formula": "C3H8",
+        "cas_rn": "74-98-6"
+      },
+      {
+        "name": "Trifluoroacetic acid",
+        "formula": "C2HF3O2",
+        "cas_rn": "76-05-1"
+      }
+    ],
+    "products": [
+      {
+        "name": "Propyl 2,2,2-trifluoroacetate",
+        "formula": "C5H7F3O2",
+        "cas_rn": "383-66-4",
+        "yield": 64
+      },
+      {
+        "name": "Isopropyl trifluoroacetate",
+        "formula": "C5H7F3O2",
+        "cas_rn": "400-38-4",
+        "yield": 100
+      }
+    ],
+    "reagents": [
+      {
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen"
+      }
+    ],
+    "catalysts": [
+      {
+        "cas_rn": "21907-43-7",
+        "name": "Acetic acid, 2,2,2-trifluoro-, iron(3+) salt (3:1)"
+      }
+    ],
+    "conditions": {
+      "temperature": [
+        "room temperature"
+      ],
+      "time": [
+        "24 hours"
+      ],
+      "pressure": [
+        "100 psi"
+      ]
+    }
+  }
+}

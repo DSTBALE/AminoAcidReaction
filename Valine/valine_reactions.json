@@ -21,25 +21,44 @@
       }
     ],
     "product": {
-      "name": "4\u2032-Chloroisobutyrophenone",
+      "name": "4′-Chloroisobutyrophenone",
       "formula": "C10H11ClO",
       "cas_rn": "18713-58-1",
       "yield": 97
     },
     "reagents": [
       {
-        "cas_rn": "183478-78-6"
+        "cas_rn": "183478-78-6",
+        "name": "Methane",
+        "conditions": {}
       },
       {
-        "cas_rn": "64-17-5"
+        "cas_rn": "64-17-5",
+        "name": "tetrachloro-",
+        "conditions": {}
       },
       {
-        "cas_rn": "7732-18-5"
+        "cas_rn": "7732-18-5",
+        "name": "compd. with aluminum bromide (AlBr3) (1:2)",
+        "conditions": {}
       }
     ],
     "solvents": [
       {
-        "cas_rn": "74-95-3"
+        "cas_rn": "74-95-3",
+        "name": "Dibromomethane",
+        "conditions": {}
+      }
+    ],
+    "reaction_conditions": [
+      {
+        "time": "635 days"
+      },
+      {
+        "time": "3 days"
+      },
+      {
+        "time": "3 days"
       }
     ]
   },
@@ -67,12 +86,62 @@
     },
     "reagents": [
       {
-        "cas_rn": "7727-21-1"
+        "cas_rn": "7727-21-1",
+        "name": "Potassium persulfate",
+        "conditions": {}
       }
     ],
     "catalysts": [
       {
         "cas_rn": "1435767-22-8"
+      },
+      {
+        "name": "(SP-4-2)-Dibromo[1",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "1 hours"
+        }
+      },
+      {
+        "name": "2-phenylenebis[3-(phenylmethyl)-1H-imidazol-1-yl-2(3H)-ylidene]]palladium",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "1 hours"
+        }
+      },
+      {
+        "name": "(SP-4-2)-Dibromo[1",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "1 hours"
+        }
+      },
+      {
+        "name": "2-phenylenebis[3-(phenylmethyl)-1H-imidazol-1-yl-2(3H)-ylidene]]palladium",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "1 hours"
+        }
+      },
+      {
+        "name": "(SP-4-2)-Dibromo[1",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "1 hours"
+        }
+      },
+      {
+        "name": "2-phenylenebis[3-(phenylmethyl)-1H-imidazol-1-yl-2(3H)-ylidene]]palladium",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "1 hours"
+        }
+      }
+    ],
+    "reaction_conditions": [
+      {
+        "temperature": "room temperature",
+        "time": "1 hours"
       }
     ]
   },
@@ -101,6 +170,53 @@
     "catalysts": [
       {
         "cas_rn": "183478-75-3"
+      },
+      {
+        "name": "Methane",
+        "conditions": {}
+      },
+      {
+        "name": "tetrabromo-",
+        "conditions": {}
+      },
+      {
+        "name": "compd. with aluminum bromide (AlBr3) (1:2)",
+        "conditions": {}
+      },
+      {
+        "name": "Methane",
+        "conditions": {}
+      },
+      {
+        "name": "tetrabromo-",
+        "conditions": {}
+      },
+      {
+        "name": "compd. with aluminum bromide (AlBr3) (1:2)",
+        "conditions": {}
+      },
+      {
+        "name": "Methane",
+        "conditions": {}
+      },
+      {
+        "name": "tetrabromo-",
+        "conditions": {}
+      },
+      {
+        "name": "compd. with aluminum bromide (AlBr3) (1:2)",
+        "conditions": {}
+      }
+    ],
+    "reaction_conditions": [
+      {
+        "time": "3 days"
+      },
+      {
+        "time": "3 days"
+      },
+      {
+        "time": "5 days"
       }
     ]
   },
@@ -128,12 +244,27 @@
     },
     "reagents": [
       {
-        "cas_rn": "584-08-7"
+        "cas_rn": "584-08-7",
+        "name": "Potassium carbonate",
+        "conditions": {}
       }
     ],
     "solvents": [
       {
-        "cas_rn": "68-12-2"
+        "cas_rn": "68-12-2",
+        "name": "Dimethylformamide",
+        "conditions": {}
+      }
+    ],
+    "reaction_conditions": [
+      {
+        "time": "3 days"
+      },
+      {
+        "time": "3 days"
+      },
+      {
+        "time": "3 days"
       }
     ]
   },
@@ -154,19 +285,34 @@
       }
     ],
     "product": {
-      "name": "5-Chloro-2-nitro-\u03b1-propylbenzeneacetonitrile",
+      "name": "5-Chloro-2-nitro-α-propylbenzeneacetonitrile",
       "formula": "C11H11ClN2O2",
       "cas_rn": "189697-02-7",
       "yield": 81
     },
     "reagents": [
       {
-        "cas_rn": "584-08-7"
+        "cas_rn": "584-08-7",
+        "name": "Potassium carbonate",
+        "conditions": {}
       }
     ],
     "solvents": [
       {
-        "cas_rn": "75-05-8"
+        "cas_rn": "75-05-8",
+        "name": "Acetonitrile",
+        "conditions": {}
+      }
+    ],
+    "reaction_conditions": [
+      {
+        "time": "8 days"
+      },
+      {
+        "time": "737 days"
+      },
+      {
+        "time": "3 days"
       }
     ]
   },
@@ -202,12 +348,141 @@
     ],
     "reagents": [
       {
-        "cas_rn": "7782-44-7"
+        "cas_rn": "7782-44-7",
+        "name": "Oxygen",
+        "conditions": {}
       }
     ],
     "catalysts": [
       {
         "cas_rn": "21907-43-7"
+      },
+      {
+        "name": "Acetic acid",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2-trifluoro-",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "iron(3+) salt (3:1)",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "Acetic acid",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2-trifluoro-",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "iron(3+) salt (3:1)",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "Acetic acid",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "2-trifluoro-",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      },
+      {
+        "name": "iron(3+) salt (3:1)",
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "24 hours",
+          "pressure": "100 psi"
+        }
+      }
+    ],
+    "reaction_conditions": [
+      {
+        "temperature": "room temperature",
+        "time": "24 hours",
+        "pressure": "100 psi"
       }
     ]
   }
