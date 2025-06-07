@@ -1,0 +1,2705 @@
+CAS Reaction Number: 31-309-CAS-20216229
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-6406955
+1.1|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide|
+1.2|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide, Dichloromethane, Water|
+1.3|Reagents: Potassium hydroxide|
+|Solvents: Methanol|
+1.4|Reagents: Sodium ethoxide|
+|Solvents: Dimethylformamide|
+1.5|Reagents: Trifluoroacetic acid|
+|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-309-CAS-15528085
+1.1|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide|
+1.2|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide, Dichloromethane, Water|
+1.3|Reagents: Potassium hydroxide|
+|Solvents: Methanol|
+1.4|Reagents: Sodium ethoxide|
+|Solvents: Dimethylformamide|
+1.5|Reagents: Trifluoroacetic acid|
+|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-309-CAS-20216224
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-6922349
+1.1|3 h, 105 °C; cooled|
+1.2|Reagents: Sodium methoxide|
+|Solvents: Methanol, 1-Propanol; 3 h, 95 °C; cooled|
+
+CAS Reaction Number: 31-309-CAS-20216227
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-368-CAS-2684039
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: tert-Butanol; 2 - 24 h, rt|
+1.2|2 - 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30357299
+1.1|Reagents: Triethylamine|
+|Solvents: Ethanol; 1 d, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-20216228
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-20216225
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-30176943
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-20216221
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-20216223
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-18513422
+1.1|Reagents: Sodium ethoxide|
+|Solvents: Ethanol; 10 min, rt|
+1.2|Solvents: Ethanol; overnight, 80 °C|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water; pH 4|
+
+CAS Reaction Number: 31-309-CAS-28581557
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-20216226
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 2 - 6 h, 75 - 80 °C|
+
+CAS Reaction Number: 31-614-CAS-27925671
+1.1|Reagents: Sodium ethoxide|
+|Solvents: Ethanol; 18 h, 20 °C|
+
+CAS Reaction Number: 31-309-CAS-13588829
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; 6 h, 110 °C|
+1.2|Solvents: Water; rt|
+1.3|Reagents: Acetic acid; pH 6, rt|
+
+CAS Reaction Number: 31-575-CAS-10485592
+1.1|5 min, rt|
+
+CAS Reaction Number: 31-309-CAS-1556088
+1.1|Reagents: Pyrrolidine|
+|Solvents: Chloroform; rt|
+1.2|Solvents: 1,4-Dioxane; 16 h, 100 °C|
+
+CAS Reaction Number: 31-309-CAS-7769440
+1.1|Reagents: 2-Methoxyethanol; 2 d, 140 °C|
+
+CAS Reaction Number: 31-614-CAS-34699522
+1.1|Solvents: Ethanol; 12 h, 85 °C|
+
+CAS Reaction Number: 31-309-CAS-7263914
+1.1|Solvents: Diglyme; 2 d, 140 °C; cooled|
+
+CAS Reaction Number: 31-367-CAS-4888879
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+1.2|Solvents: Methanol; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-27380380
+1.1|Solvents: Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-309-CAS-19524654
+1.1|Reagents: Sodium methoxide|
+|Solvents: Ethanol, Methanol; 16 h, rt → 100 °C|
+
+CAS Reaction Number: 31-309-CAS-19524655
+1.1|Reagents: Sodium methoxide|
+|Solvents: Ethanol, Methanol; 16 h, rt → 100 °C|
+
+CAS Reaction Number: 31-309-CAS-21767590
+1.1|Reagents: Sodium methoxide|
+|Solvents: Ethanol; rt; 12 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-24734427
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Methanol; 0 °C → rt; overnight, 70 °C; 70 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, rt|
+
+CAS Reaction Number: 31-358-CAS-21148285
+1.1|Solvents: Tetrahydrofuran; 12 h, rt|
+1.2|Reagents: Sodium methoxide|
+|Solvents: Dimethylformamide; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-32737708
+1.1|Reagents: Sodium hydroxide|
+|Solvents: 2-Methyl-2-butanol; 20 h, 110 °C; 110 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Ethyl acetate, Water; pH 1, rt|
+
+CAS Reaction Number: 31-614-CAS-38596370
+1.1|Reagents: Triethylamine|
+|Solvents: Dimethylacetamide; 3 h, 140 °C|
+
+CAS Reaction Number: 31-575-CAS-5011632
+1.1|Solvents: Water; rt → 40 °C; 20 min, 40 °C; 40 °C → rt; rt|
+
+CAS Reaction Number: 31-614-CAS-37217161
+1.1|Solvents: Ethanol, Water; 60 °C|
+
+CAS Reaction Number: 31-614-CAS-37217155
+1.1|Solvents: Ethanol, Water; 60 °C|
+
+CAS Reaction Number: 31-575-CAS-756738
+1.1|Solvents: Water; rt; rt → 40 °C; 20 min, 40 °C; 40 °C → rt; rt|
+
+CAS Reaction Number: 31-575-CAS-9138385
+1.1|Solvents: Water; 5 min, rt; rt|
+
+CAS Reaction Number: 31-614-CAS-37217153
+1.1|Solvents: Ethanol, Water; 60 °C|
+
+CAS Reaction Number: 31-614-CAS-37217156
+1.1|Solvents: Ethanol, Water; 60 °C|
+
+CAS Reaction Number: 31-254-CAS-5163725
+1.1|4 min, heated|
+
+CAS Reaction Number: 31-614-CAS-30176977
+1.1|Catalysts: Copper oxide (CuO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-24765487
+1.1|Catalysts: Acetic acid|
+|Solvents: Ethanol; 15 min, 75 - 80 °C|
+
+CAS Reaction Number: 31-614-CAS-38650887
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-309-CAS-2643134
+1.1|Reagents: Sodium ethoxide|
+
+CAS Reaction Number: 31-614-CAS-29327059
+1.1|Solvents: Methanol, Water; 1 h, rt|
+
+CAS Reaction Number: 31-287-CAS-10759905
+1.1|Catalysts: Palladium diacetate|
+|Solvents: Diethyl ether, Tetrahydrofuran|
+1.2|Reagents: Acetic acid|
+1.3|Solvents: Dimethylformamide|
+1.4|Reagents: Trifluoroacetic acid|
+
+CAS Reaction Number: 31-287-CAS-6780895
+1.1|Catalysts: Palladium diacetate|
+|Solvents: Diethyl ether, Tetrahydrofuran|
+1.2|Reagents: Acetic acid|
+1.3|Solvents: Dimethylformamide|
+1.4|Reagents: Trifluoroacetic acid|
+
+CAS Reaction Number: 31-614-CAS-38554743
+1.1|Catalysts: L-Arginine, propanedioate (1:1); 1.5 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-38554789
+1.1|Catalysts: 3020706-62-8; 1 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-25769096
+1.1|Solvents: Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-368-CAS-13171661
+1.1|Solvents: Methanol, Dimethylformamide; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-26202712
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29792019
+1.1|Catalysts: Cobalt iron oxide (CoFe2O4)|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-28438997
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-25816703
+1.1|Catalysts: Cobalt nickel oxide (Co2NiO4)|
+|Solvents: Ethanol; 120 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-26305669
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30714924
+1.1|Catalysts: Cobalt iron oxide (CoFe2O4)|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-27826419
+1.1|Solvents: 1-Butyl-3-methylimidazolium hydroxide; 3 min, 60 °C|
+
+CAS Reaction Number: 31-309-CAS-1861370
+1.1|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide|
+1.2|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide, Dichloromethane, Water|
+1.3|Reagents: Potassium hydroxide|
+|Solvents: Methanol|
+1.4|Reagents: Sodium ethoxide|
+|Solvents: Dimethylformamide|
+1.5|Reagents: Trifluoroacetic acid|
+|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-309-CAS-11073261
+1.1|Catalysts: Sodium hydroxide; 7 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-1782036
+1.1|Catalysts: Sodium hydroxide; 10 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-15109976
+1.1|Catalysts: Sodium hydroxide; 8 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-6491939
+1.1|Catalysts: Sodium hydroxide; 8 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-12704565
+1.1|Catalysts: Sodium hydroxide; 8 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-13202207
+1.1|Catalysts: Sodium hydroxide; 8 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-17903320
+1.1|Reagents: Potassium carbonate|
+|Solvents: Ethanol; 16 h, 80 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Dichloromethane, Water|
+
+CAS Reaction Number: 31-309-CAS-4639571
+1.1|Reagents: Sodium|
+|Solvents: Methanol; rt; 18 h, 80 °C|
+
+CAS Reaction Number: 31-575-CAS-15433568
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Methanol; 10 min, rt|
+1.2|Solvents: Acetonitrile; 1 h, rt|
+
+CAS Reaction Number: 31-309-CAS-4076931
+1.1|Catalysts: Sodium hydroxide; 9 min, 120 °C|
+
+CAS Reaction Number: 31-367-CAS-3166656
+1.1|Reagents: Sodium|
+|Solvents: Methanol|
+1.2|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Dimethylformamide; 1 h, rt; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26152424
+1.1|Catalysts: Chromium nickel oxide (Cr2NiO4)|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-16726595
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol; 20 min, rt|
+1.2|Reagents: Diethyl malonate; 30 min, rt|
+
+CAS Reaction Number: 31-368-CAS-17235599
+1.1|Catalysts: Titania; 3 h, 80 °C|
+
+CAS Reaction Number: 31-574-CAS-9649537
+1.1|Catalysts: (3-Aminopropyl)triethoxysilane; 30 min, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-26445755
+1.1|Catalysts: Zinc oxide (ZnO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-574-CAS-4777782
+1.1|Catalysts: (3-Aminopropyl)triethoxysilane; 30 min, 120 °C|
+
+CAS Reaction Number: 31-574-CAS-13919202
+1.1|Catalysts: (3-Aminopropyl)triethoxysilane; 30 min, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-28750814
+1.1|Catalysts: Copper oxide (CuO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-3427767
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-38650884
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24291241
+1.1|Reagents: Triethylamine|
+|Catalysts: Zinc oxide (ZnO), Copper oxide (CuO), Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34651292
+1.1|Reagents: Triethylamine|
+|Catalysts: Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33458181
+1.1|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33458192
+1.1|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-035-CAS-2193512
+1.1|Solvents: Ethanol|
+1.2|Solvents: Dichloromethane, Water|
+
+CAS Reaction Number: 31-035-CAS-99883
+1.1|Solvents: Ethanol|
+1.2|Solvents: Dichloromethane, Water|
+
+CAS Reaction Number: 31-614-CAS-33784596
+1.1|Catalysts: 2638568-78-0; 25 min, rt|
+
+CAS Reaction Number: 31-309-CAS-15440434
+1.1|1.5 h, 105 °C; cooled|
+1.2|Reagents: Sodium methoxide|
+|Solvents: Methanol, 1-Propanol; 24 h, 95 °C; cooled|
+
+CAS Reaction Number: 31-367-CAS-23548347
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Dimethylformamide; 24 h|
+1.2|Reagents: Phosphorus pentoxide, Sodium hydride|
+|Solvents: Dimethylformamide; 1 h; 2 d|
+
+CAS Reaction Number: 31-309-CAS-24757392
+1.1|Reagents: Potassium carbonate|
+|Solvents: N-Methyl-2-pyrrolidone; 16 - 18 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-1120123
+1.1|Reagents: Potassium carbonate|
+|Solvents: N-Methyl-2-pyrrolidone; 16 - 18 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-29670782
+1.1|Catalysts: Nickel, tetraaqua[μ-(4,4′-bipyridine-κN1:κN1′)]bis[2,6-pyridinedicarboxylato(2-)-κO2,κO6,κN1]di-, tetrahydrate, stereoisomer|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-358-CAS-21153974
+1.1|Solvents: Tetrahydrofuran; 12 h, rt|
+1.2|Reagents: Sodium methoxide|
+|Solvents: Dimethylformamide; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26233838
+1.1|Reagents: Cesium carbonate|
+|Solvents: Dimethyl sulfoxide; 12 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-30370383
+1.1|Catalysts: Chromium nickel oxide (Cr2NiO4)|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29892920
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-368-CAS-17235579
+1.1|Catalysts: Titania; 2.5 h, 80 °C|
+
+CAS Reaction Number: 31-013-CAS-16707580
+1.1|Reagents: Sodium hydride|
+|Solvents: Tetrahydrofuran; 0 °C; 5 min, rt|
+1.2|10 h, rt → 70 °C|
+
+CAS Reaction Number: 31-309-CAS-4296335
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 87 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-260-CAS-22096077
+1.1|Catalysts: 1-Butyl-3-methylimidazolium hexafluorophosphate; 15 min, rt|
+
+CAS Reaction Number: 31-554-CAS-12286421
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-5569160
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-5274573
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-307-CAS-2439764
+1.1|Reagents: Sodium bicarbonate|
+|Solvents: Water; 12 min, 120 °C|
+
+CAS Reaction Number: 31-254-CAS-11893871
+1.1|4 min, heated|
+
+CAS Reaction Number: 31-614-CAS-28562825
+1.1|Catalysts: Copper oxide (CuO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38650896
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38650889
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-254-CAS-12174734
+1.1|4 min, heated|
+
+CAS Reaction Number: 31-614-CAS-38650895
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-287-CAS-6501177
+1.1|Catalysts: Palladium diacetate|
+|Solvents: Diethyl ether, Tetrahydrofuran|
+1.2|Reagents: Acetic acid|
+1.3|Solvents: Dimethylformamide|
+1.4|Reagents: Trifluoroacetic acid|
+
+CAS Reaction Number: 31-309-CAS-2816295
+1.1|Solvents: Ethanol; 3 min|
+
+CAS Reaction Number: 31-368-CAS-20222387
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-309-CAS-22633260
+1.1|Solvents: Water; rt|
+1.2|4 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-25167375
+1.1|Catalysts: Nickel, tetraaqua[μ-(4,4′-bipyridine-κN1:κN1′)]bis[2,6-pyridinedicarboxylato(2-)-κO2,κO6,κN1]di-, tetrahydrate, stereoisomer|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-27016554
+1.1|Solvents: 1-Butyl-3-methylimidazolium hydroxide; 2 min, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-29533794
+1.1|Solvents: 1-Butyl-3-methylimidazolium hydroxide; 2 min, 60 °C|
+
+CAS Reaction Number: 31-309-CAS-14926743
+1.1|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide|
+1.2|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide, Dichloromethane, Water|
+1.3|Reagents: Potassium hydroxide|
+|Solvents: Methanol|
+1.4|Reagents: Sodium ethoxide|
+|Solvents: Dimethylformamide|
+1.5|Reagents: Trifluoroacetic acid|
+|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-614-CAS-24126745
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-24126746
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-172-CAS-13109587
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: 1,2-Dimethoxyethane|
+1.2|Solvents: N-Methyl-2-pyrrolidone|
+
+CAS Reaction Number: 31-368-CAS-10237088
+1.1|Reagents: Sodium acetate|
+|Solvents: Ethanol|
+
+CAS Reaction Number: 31-614-CAS-24003027
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; 12 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-25990112
+1.1|Catalysts: Nickel, tetraaqua[μ-(4,4′-bipyridine-κN1:κN1′)]bis[2,6-pyridinedicarboxylato(2-)-κO2,κO6,κN1]di-, tetrahydrate, stereoisomer|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-12977394
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; rt → 80 °C; 6 h, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-14690068
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; rt → 80 °C; 6 h, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-15355594
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; rt → 80 °C; 6 h, 80 °C|
+
+CAS Reaction Number: 31-574-CAS-1675215
+1.1|Reagents: Potassium carbonate|
+|Solvents: Ethanol; overnight, 80 °C; cooled|
+
+CAS Reaction Number: 31-368-CAS-17235586
+1.1|Catalysts: Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-30267097
+1.1|Catalysts: Chromium nickel oxide (Cr2NiO4)|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30835282
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-30492036
+1.1|Catalysts: Chromium nickel oxide (Cr2NiO4)|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-28587259
+1.1|Catalysts: Magnetite (Fe3O4)|
+|Solvents: Water; 5 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-26215372
+1.1|Catalysts: Magnetite (Fe3O4)|
+|Solvents: Water; 5 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-32170100
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Ethanol; 3 h, 20 - 25 °C|
+
+CAS Reaction Number: 31-368-CAS-17235595
+1.1|Catalysts: Titania; 2.5 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-24930749
+1.1|Catalysts: Magnetite (Fe3O4)|
+|Solvents: Water; 5 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-25307326
+1.1|Catalysts: Zinc oxide (ZnO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-5445942
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-1452540
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-2869984
+1.1|Reagents: Ethylene glycol diethyl ether; 2 d, 137 °C|
+
+CAS Reaction Number: 31-614-CAS-27150458
+1.1|Catalysts: Copper oxide (CuO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-7404205
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-2404001
+1.1|Solvents: Glycol monoethyl ether; 2 d, 137 °C|
+
+CAS Reaction Number: 31-309-CAS-12202018
+1.1|1 - 2 min, rt; 20 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-1474072
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-33784395
+1.1|Catalysts: Copper, Potassium fluoride|
+|Solvents: Water; 30 min, rt; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24291228
+1.1|Reagents: Triethylamine|
+|Catalysts: Zinc oxide (ZnO), Copper oxide (CuO), Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34651279
+1.1|Reagents: Triethylamine|
+|Catalysts: Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34651282
+1.1|Reagents: Triethylamine|
+|Catalysts: Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34651284
+1.1|Reagents: Triethylamine|
+|Catalysts: Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24291215
+1.1|Reagents: Triethylamine|
+|Catalysts: Zinc oxide (ZnO), Copper oxide (CuO), Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24291214
+1.1|Reagents: Triethylamine|
+|Catalysts: Zinc oxide (ZnO), Copper oxide (CuO), Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-172-CAS-21050547
+1.1|Solvents: Dimethylformamide; 0.5 - 8 h, 80 °C|
+1.2|Solvents: Water; 0 °C|
+
+CAS Reaction Number: 31-309-CAS-9919876
+1.1|Reagents: Sodium hydride|
+|Solvents: Ethanol; 15 min, rt|
+1.2|Solvents: Ethanol; 45 min, rt|
+
+CAS Reaction Number: 31-614-CAS-34382047
+1.1|Reagents: Ammonium formate|
+|Catalysts: Silver, Silver chloride|
+|Solvents: Isopropanol; 6 h, rt|
+1.2|2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33458184
+1.1|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33458182
+1.1|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759486
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759571
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33784391
+1.1|Catalysts: Copper, Potassium fluoride|
+|Solvents: Water; 30 min, rt; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38554741
+1.1|Catalysts: L-Arginine, propanedioate (1:1); 10.75 h, 80 °C|
+
+CAS Reaction Number: 31-368-CAS-5442934
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-254-CAS-9768619
+1.1|4 min, heated|
+
+CAS Reaction Number: 31-614-CAS-33784598
+1.1|Catalysts: 2638568-78-0; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-24126747
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29311647
+1.1|Catalysts: Nickel, tetraaqua[μ-(4,4′-bipyridine-κN1:κN1′)]bis[2,6-pyridinedicarboxylato(2-)-κO2,κO6,κN1]di-, tetrahydrate, stereoisomer|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-358-CAS-21152088
+1.1|Solvents: Tetrahydrofuran; 12 h, rt|
+1.2|Reagents: Sodium methoxide|
+|Solvents: Dimethylformamide; 20 min, rt|
+
+CAS Reaction Number: 31-309-CAS-2284362
+1.1|Catalysts: Sodium bisulfate; 300 - 480 s|
+
+CAS Reaction Number: 31-614-CAS-33784591
+1.1|Catalysts: 2638568-78-0; 20 min, rt|
+
+CAS Reaction Number: 31-368-CAS-20222383
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-368-CAS-20222384
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-367-CAS-10629933
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Dimethylformamide; 1 h, rt|
+1.2|Reagents: Triethylamine|
+|Solvents: Dimethylformamide; 6 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28986068
+1.1|60 s; rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-27370926
+1.1|60 s; rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-26581978
+1.1|120 s; rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-309-CAS-128777
+1.1|Catalysts: Sodium bisulfate; 180 - 300 s|
+
+CAS Reaction Number: 31-309-CAS-8681474
+1.1|Catalysts: Sodium bisulfate; 180 - 300 s|
+
+CAS Reaction Number: 31-614-CAS-27784223
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30572915
+1.1|Catalysts: Cobalt iron oxide (CoFe2O4)|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-29918435
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-309-CAS-1811719
+1.1|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide|
+1.2|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide, Dichloromethane, Water|
+1.3|Reagents: Potassium hydroxide|
+|Solvents: Methanol|
+1.4|Reagents: Sodium ethoxide|
+|Solvents: Dimethylformamide|
+1.5|Reagents: Trifluoroacetic acid|
+|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-309-CAS-30700165
+1.1|rt|
+1.2|1.5 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-24126752
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-309-CAS-10803440
+1.1|Catalysts: Sodium bisulfate; 300 - 480 s|
+
+CAS Reaction Number: 31-309-CAS-17047062
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Acetonitrile; 30 min, rt|
+1.2|Solvents: Acetonitrile; rt; rt → 82 °C; 24 h, 82 °C|
+
+CAS Reaction Number: 31-172-CAS-22148895
+1.1|Solvents: Dimethylformamide; 0.5 - 8 h, 80 °C|
+
+CAS Reaction Number: 31-172-CAS-22144431
+1.1|Solvents: Dimethylformamide; 0.5 - 8 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-30668885
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol|
+1.2|Solvents: Pyridine; 8 h, 65 °C|
+
+CAS Reaction Number: 31-032-CAS-11113859
+1.1|Reagents: Dess-Martin periodinane|
+|Solvents: Dichloromethane; 0 °C; 0 °C → rt; 1.5 h, rt|
+1.2|Reagents: Sodium bicarbonate, Sodium thiosulfate|
+|Solvents: Water; cooled|
+1.3|Reagents: Triethylamine|
+|Solvents: Ethanol; 30 min, 130 °C|
+
+CAS Reaction Number: 31-614-CAS-38343752
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide, Acetonitrile; overnight, rt|
+1.2|Reagents: Dabco; 6 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34608811
+1.1|Reagents: Sodium hydroxide; 10 min, rt → 40 °C|
+1.2|Solvents: Acetone; 40 °C → 0 °C; 0 °C; 0.5 h, 0 °C; 1 h, rt|
+1.3|Reagents: Acetic acid; pH 4 - 5, rt|
+
+CAS Reaction Number: 31-614-CAS-34608810
+1.1|Reagents: Sodium hydroxide; 10 min, rt → 40 °C|
+1.2|Solvents: Acetone; 40 °C → 0 °C; 0 °C; 0.5 h, 0 °C; 1 h, rt|
+1.3|Reagents: Acetic acid; pH 4 - 5, rt|
+
+CAS Reaction Number: 31-309-CAS-634588
+1.1|2 h, 100 °C|
+1.2|Reagents: Sodium methoxide|
+|Solvents: Methanol, 1-Propanol; 15 h, 85 °C; 85 °C → rt|
+
+CAS Reaction Number: 31-309-CAS-18890125
+1.1|Solvents: Ethanol; 2 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-28937991
+1.1|Reagents: Sodium hydride|
+|Solvents: Water; 30 min, 0 °C; 0 °C → rt; 1 h, rt; rt → 0 °C|
+1.2|Reagents: Dimethyl sulfate|
+|Solvents: Tetrahydrofuran; 0 °C; 5 h, rt|
+1.3|Reagents: Sodium ethoxide|
+|Solvents: Ethanol; rt|
+1.4|Solvents: Ethanol; rt; 10 h, 80 °C|
+1.5|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-30173745
+1.1|Solvents: Ethanol; 78 °C|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Ethanol; pH 8 - 9, 78 °C|
+1.3|Solvents: Dichloromethane, Water; neutralized|
+
+CAS Reaction Number: 31-614-CAS-34608821
+1.1|Reagents: Sodium hydroxide; 10 min, rt → 40 °C|
+1.2|Solvents: Acetone; 40 °C → 0 °C; 0 °C; 0.5 h, 0 °C; 1 h, rt|
+1.3|Reagents: Acetic acid; pH 4 - 5, rt|
+
+CAS Reaction Number: 31-614-CAS-34608829
+1.1|Reagents: Sodium hydroxide; 10 min, rt → 40 °C|
+1.2|Solvents: Acetone; 40 °C → 0 °C; 0 °C; 0.5 h, 0 °C; 1 h, rt|
+1.3|Reagents: Acetic acid; pH 4 - 5, rt|
+
+CAS Reaction Number: 31-614-CAS-34608805
+1.1|Reagents: Sodium hydroxide; 10 min, rt → 40 °C|
+1.2|Solvents: Acetone; 40 °C → 0 °C; 0 °C; 0.5 h, 0 °C; 1 h, rt|
+1.3|Reagents: Acetic acid; pH 4 - 5, rt|
+
+CAS Reaction Number: 31-614-CAS-34608817
+1.1|Reagents: Sodium hydroxide; 10 min, rt → 40 °C|
+1.2|Solvents: Acetone; 40 °C → 0 °C; 0 °C; 0.5 h, 0 °C; 1 h, rt|
+1.3|Reagents: Acetic acid; pH 4 - 5, rt|
+
+CAS Reaction Number: 31-315-CAS-4818857
+1.1|Catalysts: Piperidine|
+|Solvents: Water; 3 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-28653057
+1.1|Catalysts: Chromium nickel oxide (Cr2NiO4)|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-013-CAS-16707581
+1.1|Reagents: Sodium hydride|
+|Solvents: Tetrahydrofuran; 0 °C; 5 min, rt|
+1.2|10 h, rt → 70 °C|
+
+CAS Reaction Number: 31-309-CAS-13728034
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 90 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-368-CAS-17235597
+1.1|Catalysts: Titania; 3 h, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-594378
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-12742102
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-2378752
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-358-CAS-21237655
+1.1|Solvents: Dimethylformamide; 3 h, 20 °C|
+1.2|1 h, 20 °C|
+
+CAS Reaction Number: 31-260-CAS-22096163
+1.1|Catalysts: 1-Butyl-3-methylimidazolium hexafluorophosphate; 15 min, rt|
+
+CAS Reaction Number: 31-574-CAS-2663246
+1.1|Catalysts: (3-Aminopropyl)triethoxysilane; 30 min, 120 °C|
+
+CAS Reaction Number: 31-574-CAS-14201076
+1.1|Catalysts: (3-Aminopropyl)triethoxysilane; 30 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-11574387
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-550-CAS-12294942
+1.1|Reagents: Dibutyltin, Oxygen|
+|Solvents: Dimethylformamide; 1 h, rt|
+1.2|rt; 1 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-23059582
+1.1|Solvents: Water; rt|
+
+CAS Reaction Number: 31-309-CAS-15592849
+1.1|Catalysts: Piperazine; 1 h, 120 °C|
+
+CAS Reaction Number: 31-554-CAS-3759534
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-554-CAS-1036878
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-172-CAS-12528856
+1.1|Reagents: Diisopropylethylamine|
+|Solvents: N-Methyl-2-pyrrolidone; 2 h, 140 °C|
+
+CAS Reaction Number: 31-614-CAS-30586517
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-179-CAS-9494992
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Dichlorobis(triphenylphosphine)palladium|
+|Solvents: Ethanol, 1,4-Dioxane; 110 °C|
+1.2|Reagents: Potassium carbonate|
+|Solvents: 2-Methoxyethanol; 150 °C|
+
+CAS Reaction Number: 31-309-CAS-23093943
+1.1|Reagents: Sodium carbonate|
+|Solvents: Acetonitrile|
+
+CAS Reaction Number: 31-309-CAS-19862088
+1.1|Reagents: Sodium carbonate|
+|Solvents: Acetonitrile; 8 h, 80 °C|
+
+CAS Reaction Number: 31-368-CAS-19900537
+1.1|Reagents: Potassium hydroxide|
+|Catalysts: Iron oxide (Fe3O4), Silica|
+|Solvents: Water; 3 h, 20 °C|
+
+CAS Reaction Number: 31-172-CAS-9427333
+1.1|5 min, rt; 10 min, 110 °C|
+
+CAS Reaction Number: 31-309-CAS-13764293
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-29088610
+1.1|Reagents: Sodium ethoxide|
+|Solvents: Ethanol; rt|
+
+CAS Reaction Number: 31-614-CAS-40246907
+1.1|Reagents: Potassium carbonate|
+|Solvents: Acetonitrile; rt; 12 h, 60 °C|
+
+CAS Reaction Number: 31-254-CAS-7244485
+1.1|4 min, heated|
+
+CAS Reaction Number: 31-315-CAS-7509731
+1.1|Reagents: Potassium hydroxide|
+|Catalysts: Tetrabutylammonium bromide|
+|Solvents: Water; 120 min, 100 °C|
+1.2|Solvents: Water; 0 °C|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-614-CAS-25203872
+1.1|Solvents: Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-614-CAS-30073863
+1.1|Catalysts: Copper oxide (CuO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38650888
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-27739889
+1.1|Solvents: Methanol, Acetonitrile; rt; 15 min, rt|
+
+CAS Reaction Number: 31-367-CAS-14062429
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+1.2|Solvents: Methanol; 12 h, rt|
+1.3|Solvents: Acetone; 0 °C|
+
+CAS Reaction Number: 31-368-CAS-10386364
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-368-CAS-10336935
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-367-CAS-9813148
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+1.2|Solvents: Methanol; 12 h, rt|
+1.3|Solvents: Acetone; 0 °C|
+
+CAS Reaction Number: 31-367-CAS-1242147
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+1.2|Solvents: Methanol; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-29898128
+1.1|Solvents: Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-368-CAS-11794329
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-368-CAS-20222386
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-29105313
+1.1|Solvents: 1-Butyl-3-methylimidazolium hydroxide; 2 min, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-26427590
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-368-CAS-20222380
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-33784599
+1.1|Catalysts: 2638568-78-0; 25 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30188767
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25069781
+1.1|Catalysts: Cobalt iron oxide (CoFe2O4)|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-26489673
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-309-CAS-12766010
+1.1|Reagents: Potassium carbonate|
+|Solvents: 2-Methoxyethanol; 12 - 24 h, 120 °C; 120 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-30394718
+1.1|Reagents: Sodium tert-butoxide|
+|Solvents: Ethanol; 30 min, rt|
+1.2|Solvents: Ethanol; overnight, 85 °C; 85 °C → rt|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water; pH 8, rt|
+
+CAS Reaction Number: 31-313-CAS-5231688
+1.1|Catalysts: p-Toluenesulfonic acid|
+|Solvents: Ethanol; rt|
+
+CAS Reaction Number: 31-614-CAS-24126751
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-367-CAS-10152090
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: 1,4-Dioxane; 20 min, 50 °C; 50 °C → rt|
+1.2|Solvents: Chloroform; 4 h, rt|
+
+CAS Reaction Number: 31-309-CAS-28400254
+1.1|Solvents: Water; rt|
+1.2|4 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-24126748
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26240920
+1.1|Catalysts: Nickel, tetraaqua[μ-(4,4′-bipyridine-κN1:κN1′)]bis[2,6-pyridinedicarboxylato(2-)-κO2,κO6,κN1]di-, tetrahydrate, stereoisomer|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-24126750
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-309-CAS-274608
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide; 10 h, rt → 110 °C|
+
+CAS Reaction Number: 31-367-CAS-15163763
+1.1|Reagents: Sodium|
+|Solvents: Methanol|
+1.2|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Dimethylformamide; 1 h, rt; rt; 1 h, rt|
+1.3|Solvents: Ethyl acetate|
+
+CAS Reaction Number: 31-614-CAS-30628930
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: 1,4-Dioxane; 20 min, 50 °C; 50 °C → rt|
+1.2|Solvents: Chloroform; rt; 4 h, rt|
+
+CAS Reaction Number: 31-172-CAS-18112623
+1.1|Reagents: Sodium hydride|
+|Solvents: N-Methyl-2-pyrrolidone; overnight, rt|
+1.2|Reagents: Dabco; rt → 120 °C; 2 h, 120 °C; 120 °C → rt|
+1.3|Reagents: Dowex 50W; neutralized, rt|
+
+CAS Reaction Number: 31-614-CAS-29588851
+1.1|Catalysts: Chromium nickel oxide (Cr2NiO4)|
+|Solvents: Ethanol; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26030276
+1.1|Catalysts: Chromium nickel oxide (Cr2NiO4)|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29234382
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-315-CAS-8055504
+1.1|Catalysts: Piperidine|
+|Solvents: Water; 3 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-27052674
+1.1|Catalysts: Chromium nickel oxide (Cr2NiO4)|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-368-CAS-17235588
+1.1|Catalysts: Titania; 3 h, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-14517449
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethylformamide, Water; rt → 120 °C; 6 min, 120 °C; 120 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, rt|
+
+CAS Reaction Number: 31-309-CAS-5369970
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethylformamide, Water; rt → 120 °C; 6 min, 120 °C; 120 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, rt|
+
+CAS Reaction Number: 31-614-CAS-28966584
+1.1|Catalysts: Magnetite (Fe3O4)|
+|Solvents: Water; 7 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-32170106
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Ethanol; 3 h, 20 - 25 °C|
+
+CAS Reaction Number: 31-309-CAS-7619125
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-2090888
+1.1|Solvents: 1,4-Dioxane; 16 h, 100 °C|
+
+CAS Reaction Number: 31-309-CAS-4371273
+1.1|Solvents: 1,4-Dioxane; 16 h, 100 °C|
+
+CAS Reaction Number: 31-309-CAS-1799977
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-10599760
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-6960034
+1.1|Solvents: 1,4-Dioxane; 16 h, 100 °C|
+
+CAS Reaction Number: 31-260-CAS-22096364
+1.1|Catalysts: 1-Butyl-3-methylimidazolium hexafluorophosphate; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-11290374
+1.1|Solvents: 1,4-Dioxane; 16 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-26228102
+1.1|Solvents: Dimethylformamide, Ethyl acetate, Water; 18 h, rt → 120 °C; 120 °C → 60 °C; 50 °C|
+
+CAS Reaction Number: 31-554-CAS-8029479
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-575-CAS-14715933
+1.1|Solvents: Water; rt; 15 min, 45 °C|
+
+CAS Reaction Number: 31-309-CAS-5234467
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide; rt; 1 h, 40 °C|
+1.2|Solvents: Dimethylformamide; 1 h, 100 °C|
+
+CAS Reaction Number: 31-309-CAS-944409
+1.1|1 - 2 min, rt; 20 min, 120 °C|
+
+CAS Reaction Number: 31-575-CAS-4705309
+1.1|Reagents: Barium hydroxide|
+|Solvents: Water; 25 °C|
+1.2|1 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-24291216
+1.1|Reagents: Triethylamine|
+|Catalysts: Zinc oxide (ZnO), Copper oxide (CuO), Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34651280
+1.1|Reagents: Triethylamine|
+|Catalysts: Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-172-CAS-23174634
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylacetamide; 1 h, 160 °C|
+
+CAS Reaction Number: 31-172-CAS-23538087
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylacetamide; 1 h, 160 °C|
+
+CAS Reaction Number: 31-614-CAS-33458183
+1.1|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759372
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759398
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759480
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38650893
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-032-CAS-19659320
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: Platinum|
+|Solvents: Toluene; 24 h, 110 °C|
+
+CAS Reaction Number: 31-315-CAS-15995147
+1.1|Catalysts: Glucosamine hydrochloride; 10 - 16 min|
+
+CAS Reaction Number: 31-614-CAS-37451247
+1.1|2 min, rt|
+1.2|Catalysts: Iodine|
+|Solvents: Water; rt; 5 min, rt|
+
+CAS Reaction Number: 31-357-CAS-24246947
+1.1|10 h, 65 °C|
+
+CAS Reaction Number: 31-614-CAS-36272476
+1.1|Reagents: Potassium iodide|
+|Catalysts: Iodine|
+|Solvents: Water; 5 min, heated|
+
+CAS Reaction Number: 31-315-CAS-7984670
+1.1|Catalysts: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O); 7 min, 80 °C|
+1.2|Reagents: Hydrogen ion|
+|Solvents: Water|
+
+CAS Reaction Number: 31-368-CAS-9998804
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-368-CAS-6279584
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26132376
+1.1|Solvents: Acetonitrile; rt; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30143893
+1.1|Solvents: Acetonitrile; rt; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-27994408
+1.1|rt; 2 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-25442902
+1.1|Catalysts: Cobalt nickel oxide (Co2NiO4)|
+|Solvents: Ethanol; 150 min, 80 °C|
+
+CAS Reaction Number: 31-574-CAS-3716921
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Polyethylene glycol; 98 min, 40 °C|
+
+CAS Reaction Number: 31-614-CAS-24126749
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-309-CAS-5444696
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol, 1-Propanol; 12 h, 105 °C|
+
+CAS Reaction Number: 31-614-CAS-24401734
+1.1|Reagents: Potassium carbonate|
+|Solvents: Acetonitrile; 10 h, 78 °C|
+
+CAS Reaction Number: 31-614-CAS-25803903
+1.1|Reagents: Oxygen|
+|Catalysts: N,N,N′,N′-Tetramethylethylenediamine, Cuprous chloride|
+|Solvents: 1,2-Dichlorobenzene; 15 min, 50 °C|
+1.2|Solvents: 1,2-Dichlorobenzene; 4 h, rt|
+1.3|Reagents: Cesium carbonate, Oxygen|
+|Solvents: Dimethyl sulfoxide; rt; 12 h, 120 °C|
+
+CAS Reaction Number: 31-172-CAS-18105051
+1.1|Reagents: Sodium hydride|
+|Solvents: N-Methyl-2-pyrrolidone; overnight, rt|
+1.2|Reagents: Dabco; rt → 120 °C; 24 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-16968982
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Acetonitrile; 12 h, rt|
+1.2|rt|
+
+CAS Reaction Number: 31-614-CAS-39128886
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol; 4 h, rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; pH 7, rt|
+
+CAS Reaction Number: 31-614-CAS-38201107
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol; 4 h, rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; pH 7, rt|
+
+CAS Reaction Number: 31-309-CAS-15405177
+1.1|Reagents: Potassium carbonate|
+|Solvents: 2-Methoxyethanol|
+
+CAS Reaction Number: 31-309-CAS-13424308
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide; 10 h, rt → 110 °C|
+
+CAS Reaction Number: 31-614-CAS-28631253
+1.1|Catalysts: Nickel, tetraaqua[μ-(4,4′-bipyridine-κN1:κN1′)]bis[2,6-pyridinedicarboxylato(2-)-κO2,κO6,κN1]di-, tetrahydrate, stereoisomer|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-730973
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; 6 h, 110 °C; cooled|
+
+CAS Reaction Number: 31-315-CAS-8179072
+1.1|Catalysts: Piperidine; 5 min, 90 - 100 °C; cooled|
+1.2|Solvents: Water|
+
+CAS Reaction Number: 31-315-CAS-12928363
+1.1|Catalysts: Piperidine|
+|Solvents: Water; 3 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-29975971
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-27694176
+1.1|Catalysts: Magnetite (Fe3O4)|
+|Solvents: Water; 6 h, 60 °C|
+
+CAS Reaction Number: 31-368-CAS-17235582
+1.1|Catalysts: Titania; 2.5 h, 80 °C|
+
+CAS Reaction Number: 31-368-CAS-17235592
+1.1|Catalysts: Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-16722526
+1.1|Reagents: Potassium carbonate|
+|Solvents: Acetonitrile; 10 h, 100 °C|
+
+CAS Reaction Number: 31-309-CAS-4599749
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 88 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-614-CAS-26581207
+1.1|Catalysts: Magnetite (Fe3O4)|
+|Solvents: Water; 6 h, 60 °C|
+
+CAS Reaction Number: 31-309-CAS-278570
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 88 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-309-CAS-8857892
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 89 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-309-CAS-13690142
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 88 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-614-CAS-26259423
+1.1|Catalysts: Zinc oxide (ZnO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-309-CAS-8468879
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-25530482
+1.1|Catalysts: Copper oxide (CuO)|
+|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26254318
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-9497633
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-5224036
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-172-CAS-23319920
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylacetamide; 1 h, 160 °C|
+
+CAS Reaction Number: 31-172-CAS-21485222
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylacetamide; 1 h, 160 °C|
+
+CAS Reaction Number: 31-575-CAS-4164084
+1.1|Solvents: Water; rt|
+
+CAS Reaction Number: 31-309-CAS-7702311
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-315-CAS-14524187
+1.1|Reagents: Potassium hydroxide|
+|Catalysts: Tetrabutylammonium bromide|
+|Solvents: Water; 45 min, 100 °C|
+1.2|Solvents: Water; 0 °C|
+1.3|Reagents: Hydrochloric acid|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-315-CAS-15995146
+1.1|Catalysts: Glucosamine hydrochloride; 10 - 16 min|
+
+CAS Reaction Number: 31-614-CAS-38650892
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-315-CAS-6319931
+1.1|Reagents: Sodium bicarbonate|
+|Solvents: Water; 13 min, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-24291217
+1.1|Reagents: Triethylamine|
+|Catalysts: Zinc oxide (ZnO), Copper oxide (CuO), Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28115887
+1.1|Catalysts: Glucose|
+|Solvents: Water; 1.5 h, 50 °C|
+
+CAS Reaction Number: 31-171-CAS-9197730
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; 8 h, rt|
+1.2|2 - 8 h, heated|
+
+CAS Reaction Number: 31-614-CAS-34651294
+1.1|Reagents: Triethylamine|
+|Catalysts: Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33784389
+1.1|Catalysts: Copper, Potassium fluoride|
+|Solvents: Water; 30 min, rt; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33458178
+1.1|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30321161
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol; 24 - 48 h, 18 - 20 °C|
+
+CAS Reaction Number: 31-614-CAS-34651281
+1.1|Reagents: Triethylamine|
+|Catalysts: Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-27087460
+1.1|Solvents: Methanol, Dimethylformamide; 18 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30589149
+1.1|Solvents: Ethanol; 4 - 7 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-35759552
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-333-CAS-13451216
+1.1|Reagents: Sodium methoxide|
+|Solvents: Dimethyl sulfoxide|
+1.2|Reagents: Diazomethane|
+|Solvents: 1,4-Dioxane|
+1.3|Solvents: Ethanol, Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-309-CAS-8024415
+1.1|Reagents: Boron trifluoride etherate|
+|Solvents: Isopropanol|
+
+CAS Reaction Number: 31-309-CAS-20935948
+1.1|Solvents: Ethanol; 75 min, rt|
+
+CAS Reaction Number: 31-368-CAS-9672454
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-368-CAS-3251775
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30860507
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-25339500
+1.1|Catalysts: Cobalt nickel oxide (Co2NiO4)|
+|Solvents: Ethanol; 120 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-26953788
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-29771526
+1.1|Catalysts: Sodium hydroxide; 70 °C|
+
+CAS Reaction Number: 31-554-CAS-18915195
+1.1|Catalysts: Pyridinium, 1-(4-sulfobutyl)-, sulfate, potassium salt (1:1:1); rt → 120 °C; 5 min, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-24126744
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29599453
+1.1|Catalysts: Cobalt nickel oxide (Co2NiO4)|
+|Solvents: Ethanol; 120 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-25197731
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-38554792
+1.1|Catalysts: 3020706-62-8; 6 h, 80 °C|
+
+CAS Reaction Number: 31-315-CAS-6709255
+1.1|Catalysts: Piperidine; 5 min, 90 - 100 °C; cooled|
+1.2|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-30731887
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-27376735
+1.1|Catalysts: Cobalt iron oxide (CoFe2O4)|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-27995213
+1.1|Catalysts: Cobalt nickel oxide (Co2NiO4)|
+|Solvents: Ethanol; 150 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-28335859
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-26709649
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-29790476
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-30290166
+1.1|Catalysts: Silica, Titania; 2 h, 80 °C|
+
+CAS Reaction Number: 31-315-CAS-14417022
+1.1|Catalysts: Piperidine; 5 min, 90 - 100 °C; cooled|
+1.2|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-38554775
+1.1|Catalysts: 3020706-62-8; 1.25 h, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-22633258
+1.1|rt; 4 h, 90 °C|
+1.2|4 h, 90 °C|
+
+CAS Reaction Number: 31-368-CAS-13923912
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-315-CAS-5112310
+1.1|Catalysts: Zinc oxide (ZnO); 14 h, 60 °C|
+
+CAS Reaction Number: 31-260-CAS-23301984
+1.1|Solvents: Acetone; 8 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-31180170
+1.1|Solvents: Dimethyl sulfoxide, Acetonitrile; rt; 4 h, rt|
+
+CAS Reaction Number: 31-309-CAS-2434804
+1.1|Reagents: Potassium carbonate|
+|Solvents: 2-Methoxyethanol; 36 h, 100 - 110 °C|
+
+CAS Reaction Number: 31-368-CAS-20222381
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-309-CAS-10998240
+1.1|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide|
+1.2|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide, Dichloromethane, Water|
+1.3|Reagents: Potassium hydroxide|
+|Solvents: Methanol|
+1.4|Reagents: Sodium ethoxide|
+|Solvents: Dimethylformamide|
+1.5|Reagents: Trifluoroacetic acid|
+|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-368-CAS-6603898
+1.1|Reagents: Polyethylene glycol; 2 h, 75 °C; cooled|
+
+CAS Reaction Number: 31-368-CAS-12415004
+1.1|Reagents: Sodium hydroxide; 5 min|
+1.2|14 min|
+
+CAS Reaction Number: 31-368-CAS-9947016
+1.1|Reagents: Sodium hydroxide; 5 min|
+1.2|20 min|
+
+CAS Reaction Number: 31-368-CAS-7543562
+1.1|Reagents: Sodium hydroxide; 5 min|
+1.2|17 min|
+
+CAS Reaction Number: 31-614-CAS-41335468
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: 3053751-46-2|
+|Solvents: Toluene; 24 h, 110 °C|
+1.2|Reagents: Water|
+
+CAS Reaction Number: 31-614-CAS-26055276
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-28616857
+1.1|Solvents: 1-Butyl-3-methylimidazolium hydroxide; 2 min, 60 °C|
+
+CAS Reaction Number: 31-309-CAS-17033596
+1.1|Reagents: Sodium hydroxide|
+|Solvents: 1-Butanol; 24 h, rt → 100 °C|
+
+CAS Reaction Number: 31-309-CAS-10633451
+1.1|Reagents: Potassium carbonate|
+|Solvents: 2-Methoxyethanol; 12 - 24 h, 120 °C; 120 °C → rt|
+
+CAS Reaction Number: 31-309-CAS-7278127
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol, 1-Propanol; 12 h, 105 °C|
+
+CAS Reaction Number: 31-368-CAS-1493289
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Methanol; 24 h, 100 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-7043819
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide; 10 h, rt → 110 °C|
+
+CAS Reaction Number: 31-614-CAS-26977408
+1.1|Reagents: Sodium tert-butoxide|
+|Solvents: Ethanol; 8 h, 85 °C|
+
+CAS Reaction Number: 31-614-CAS-25660479
+1.1|Reagents: Sodium|
+|Solvents: Isopropanol; 30 min, 70 °C|
+1.2|1 - 3 h, 70 °C|
+
+CAS Reaction Number: 31-172-CAS-16385918
+1.1|Reagents: Potassium carbonate, Oxygen|
+|Catalysts: Cupric chloride|
+|Solvents: Acetonitrile; 1.5 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-24003014
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; 12 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-24700981
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Tetrahydrofuran; 12 h, rt|
+1.2|Reagents: Sodium|
+|Solvents: Dimethylformamide; 2 h, rt; 2 h, rt|
+
+CAS Reaction Number: 31-313-CAS-11640730
+1.1|Catalysts: p-Toluenesulfonic acid|
+|Solvents: Ethanol; rt|
+
+CAS Reaction Number: 31-309-CAS-25628846
+1.1|Solvents: Water; rt|
+1.2|4 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-24126743
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-24698845
+1.1|Reagents: N-Iodosuccinimide, 1,8-Diazabicyclo[5.4.0]undec-7-ene|
+|Solvents: Methanol; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25131037
+1.1|Solvents: Water; 25 °C; 4 h, rt|
+
+CAS Reaction Number: 31-309-CAS-16969001
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Acetonitrile; 12 h, rt|
+1.2|rt|
+
+CAS Reaction Number: 31-614-CAS-28612825
+1.1|Catalysts: Nickel, tetraaqua[μ-(4,4′-bipyridine-κN1:κN1′)]bis[2,6-pyridinedicarboxylato(2-)-κO2,κO6,κN1]di-, tetrahydrate, stereoisomer|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-24126753
+1.1|Catalysts: Zirconium dioxide, Silver oxide (Ag2O)|
+|Solvents: Ethanol; 30 min, rt|
+
+CAS Reaction Number: 31-309-CAS-11828656
+1.1|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole, Divinylbenzene-styrene copolymer, 2-[4-[(2,4-Dimethoxyphenyl)[[(9H-fluoren-9-ylmethoxy)carbonyl]amino]methyl]phenoxy]acetic acid|
+|Solvents: Dimethylformamide; 15 h, 23 °C; 15 h, 23 °C; 16 h, rt|
+1.2|Reagents: Diethylamine|
+|Solvents: Dimethylformamide; 30 min, rt|
+1.3|Reagents: Diisopropylcarbodiimide, 1-Hydroxybenzotriazole|
+|Solvents: Dimethylformamide; 16 h, rt|
+1.4|Reagents: Lithium hydroxide|
+|Solvents: Methanol, Tetrahydrofuran; 1.5 h, 23 °C|
+1.5|Reagents: Trifluoroacetic acid|
+|Solvents: Dichloromethane|
+1.6|Reagents: Sodium ethoxide, Oxygen|
+|Solvents: Dimethylacetamide; 16 h, 100 °C|
+1.7|Solvents: Dichloromethane; rt|
+
+CAS Reaction Number: 31-614-CAS-26166398
+1.1|Reagents: Sodium methoxide|
+|Solvents: Isopropanol|
+1.2|Reagents: Potassium hydroxide|
+
+CAS Reaction Number: 31-367-CAS-1777890
+1.1|Reagents: Sodium|
+|Solvents: Methanol|
+1.2|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Dimethylformamide; 1 h, rt; rt; 1 h, rt|
+1.3|Solvents: Ethyl acetate|
+
+CAS Reaction Number: 31-309-CAS-14129162
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide; 6 h, 110 °C; cooled|
+
+CAS Reaction Number: 31-368-CAS-13104728
+1.1|Reagents: Sodium ethoxide|
+|Solvents: Ethanol; 5 min, rt|
+1.2|16 h, rt|
+
+CAS Reaction Number: 31-315-CAS-5913849
+1.1|Catalysts: Piperidine|
+|Solvents: Water; 3 h, 100 °C|
+
+CAS Reaction Number: 31-315-CAS-14735028
+1.1|Catalysts: Piperidine; 5 min, 90 - 100 °C; cooled|
+1.2|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-12983122
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Ethanol, Water; 10 min, 75 - 80 °C|
+
+CAS Reaction Number: 31-309-CAS-9787508
+1.1|Solvents: Dimethylformamide; 25 °C|
+1.2|Reagents: Sodium bicarbonate|
+|Solvents: Dimethylformamide|
+
+CAS Reaction Number: 31-614-CAS-30323333
+1.1|Catalysts: Magnetite (Fe3O4)|
+|Solvents: Water; 5 h, 60 °C|
+
+CAS Reaction Number: 31-309-CAS-4370255
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethylformamide, Water; rt → 120 °C; 6 min, 120 °C; 120 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, rt|
+
+CAS Reaction Number: 31-309-CAS-3249271
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethylformamide, Water; rt → 120 °C; 6 min, 120 °C; 120 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, rt|
+
+CAS Reaction Number: 31-309-CAS-2184510
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 88 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-172-CAS-7864077
+1.1|Reagents: Tripotassium phosphate|
+|Catalysts: Sarcosine, Cuprous iodide|
+|Solvents: Acetonitrile; 8 h, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-13503128
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Ethanol; 3 - 18 min; 2 - 3 h|
+
+CAS Reaction Number: 31-309-CAS-4836319
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-25511936
+1.1|Catalysts: Sodium hydroxide; 70 °C|
+
+CAS Reaction Number: 31-309-CAS-4173741
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-6053247
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-9736032
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-170-CAS-6783917
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide; 0 °C; 0 °C → rt; 1 h, rt|
+1.2|Solvents: Dimethylformamide; 0 °C; 3 - 5 h, rt|
+1.3|Solvents: Dimethylacetamide; 10 h, 140 °C; overnight, 140 °C → rt|
+
+CAS Reaction Number: 31-309-CAS-15673681
+1.1|Catalysts: Piperazine; 1 h, 80 °C|
+
+CAS Reaction Number: 31-554-CAS-10152205
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-30483931
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-3084043
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-172-CAS-7295542
+1.1|5 min, rt; 10 min, 110 °C|
+
+CAS Reaction Number: 31-309-CAS-7944718
+1.1|1 - 2 min, rt; 20 min, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-37451255
+1.1|2 min, rt|
+1.2|Catalysts: Iodine|
+|Solvents: Water; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-36272479
+1.1|Reagents: Potassium iodide|
+|Catalysts: Iodine|
+|Solvents: Water; 5 min, heated|
+
+CAS Reaction Number: 31-315-CAS-15995148
+1.1|Catalysts: Glucosamine hydrochloride; 10 - 16 min|
+
+CAS Reaction Number: 31-315-CAS-2061878
+1.1|Reagents: Sodium bicarbonate|
+|Solvents: Water; 13 min, 120 °C|
+
+CAS Reaction Number: 31-574-CAS-10942363
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 6 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-357-CAS-24247119
+1.1|5 h, 65 °C|
+
+CAS Reaction Number: 31-614-CAS-25749321
+1.1|Solvents: Methanol, Dimethylformamide; 18 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28185105
+1.1|Solvents: Ethanol; 4 - 7 h, 20 °C|
+
+CAS Reaction Number: 31-333-CAS-2172258
+1.1|Reagents: Sodium methoxide|
+|Solvents: Dimethyl sulfoxide|
+1.2|Reagents: Diazomethane|
+|Solvents: 1,4-Dioxane|
+1.3|Solvents: Ethanol, Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-614-CAS-33659214
+1.1|Catalysts: Hydrochloric acid|
+|Solvents: Ethanol; 25 min, 90 °C|
+
+CAS Reaction Number: 31-333-CAS-11428360
+1.1|Reagents: Sodium methoxide|
+|Solvents: Dimethyl sulfoxide|
+1.2|Reagents: Diazomethane|
+|Solvents: 1,4-Dioxane|
+1.3|Solvents: Ethanol, Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-368-CAS-869537
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-368-CAS-2922703
+1.1|Solvents: Methanol, Dimethylformamide; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33784593
+1.1|Catalysts: 2638568-78-0; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25994158
+1.1|Solvents: 1-Butyl-3-methylimidazolium hydroxide; 3 min, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-30413602
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26819148
+1.1|Catalysts: Cobalt nickel oxide (Co2NiO4)|
+|Solvents: Ethanol; 150 min, 80 °C|
+
+CAS Reaction Number: 31-368-CAS-15123188
+1.1|Reagents: Polyethylene glycol; 1.5 h, 75 °C; cooled|
+
+CAS Reaction Number: 31-368-CAS-10849515
+1.1|Reagents: Polyethylene glycol; 2.5 h, 75 °C; cooled|
+
+CAS Reaction Number: 31-368-CAS-5729914
+1.1|Reagents: Sodium hydroxide; 5 min|
+1.2|15 min|
+
+CAS Reaction Number: 31-614-CAS-29702673
+1.1|Catalysts: Cobalt nickel oxide (Co2NiO4)|
+|Solvents: Ethanol; 150 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-29491368
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30841907
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-25288566
+1.1|Catalysts: Cobalt iron oxide (CoFe2O4)|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-614-CAS-30323428
+1.1|Reagents: 1-Hydroxybenzotriazole, Diisopropylethylamine|
+|Solvents: Dimethylformamide; 24 h, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-27705614
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol|
+1.2|Solvents: Pyridine; 8 h, 65 °C|
+
+CAS Reaction Number: 31-309-CAS-16167251
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 18 min|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-24401735
+1.1|Reagents: Potassium carbonate|
+|Solvents: Acetonitrile; 10 h, 78 °C|
+
+CAS Reaction Number: 31-614-CAS-26104772
+1.1|Reagents: Cesium carbonate|
+|Solvents: Dimethyl sulfoxide; 12 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-31013458
+1.1|Reagents: Sodium|
+|Solvents: Isopropanol; 30 min, 70 °C|
+1.2|1 - 3 h, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-19133711
+1.1|Reagents: Potassium carbonate; 6 min, heated|
+
+CAS Reaction Number: 31-614-CAS-24734414
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Methanol; 0 °C; 16 h, 70 °C; 70 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, rt|
+
+CAS Reaction Number: 31-614-CAS-24448617
+1.1|Reagents: Sodium methoxide|
+|Solvents: Dimethylformamide; 15 min, rt; 3 h, rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-614-CAS-24448615
+1.1|Reagents: Sodium methoxide|
+|Solvents: Dimethylformamide; 15 min, rt; 3 h, rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-614-CAS-26111873
+1.1|Catalysts: Nickel, tetraaqua[μ-(4,4′-bipyridine-κN1:κN1′)]bis[2,6-pyridinedicarboxylato(2-)-κO2,κO6,κN1]di-, tetrahydrate, stereoisomer|
+|Solvents: Ethanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-32461042
+1.1|Reagents: Sodium ethoxide|
+|Solvents: Ethanol; rt; 17 h, 80 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; pH 1 - 2, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-32260005
+1.1|Reagents: Sodium|
+|Solvents: Ethanol; 17 h, 80 °C; 80 °C → rt|
+1.2|Reagents: Hydrochloric acid; pH 1 - 2, rt → 0 °C|
+
+CAS Reaction Number: 31-309-CAS-1569815
+1.1|14 min|
+
+CAS Reaction Number: 31-614-CAS-29663641
+1.1|Reagents: Cesium carbonate|
+|Solvents: Dimethyl sulfoxide; 12 h, 120 °C|
+
+CAS Reaction Number: 31-315-CAS-1646162
+1.1|Catalysts: Piperidine|
+|Solvents: Water; 3 h, 100 °C|
+
+CAS Reaction Number: 31-309-CAS-23714545
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethyl sulfoxide; 30 min, 110 - 115 °C|
+1.2|4 h, 110 - 115 °C|
+
+CAS Reaction Number: 31-309-CAS-23710237
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethyl sulfoxide; 30 min, 110 - 115 °C|
+1.2|4 h, 110 - 115 °C|
+
+CAS Reaction Number: 31-309-CAS-12975754
+1.1|Reagents: Alumina; 4 min|
+
+CAS Reaction Number: 31-614-CAS-28863635
+1.1|Catalysts: Magnetite (Fe3O4)|
+|Solvents: Water; 5 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-40819891
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethyl sulfoxide; 30 min, 110 - 115 °C|
+1.2|4 h, 110 - 115 °C|
+
+CAS Reaction Number: 31-309-CAS-6720489
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 87 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-614-CAS-30570948
+1.1|Catalysts: Sodium hydroxide; 70 °C|
+
+CAS Reaction Number: 31-309-CAS-14861032
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-15188253
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-15460095
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-8600721
+1.1|Solvents: Dimethylformamide; overnight, 110 °C|
+
+CAS Reaction Number: 31-309-CAS-15007119
+1.1|Solvents: Dimethylformamide; overnight, 110 °C; cooled|
+
+CAS Reaction Number: 31-614-CAS-28500490
+1.1|Catalysts: Sodium hydroxide; 40 min, 70 °C|
+
+CAS Reaction Number: 31-575-CAS-6821648
+1.1|Solvents: Methanol; 2 h|
+
+CAS Reaction Number: 31-614-CAS-34891098
+1.1|Catalysts: Copper oxide (Cu2O), Ethanaminium, N,N-bis(2-hydroxyethyl)-N-[2-[[3-oxo-3-[[3-(trihydroxysilyl)propyl]amino]propyl]amino]ethyl]-2-sulfo-, bromide (1:1)|
+|Solvents: Water; 60 min, 60 °C|
+
+CAS Reaction Number: 31-315-CAS-16610931
+1.1|Catalysts: Triphenylphosphine; 8 h, 100 °C|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-34651283
+1.1|Reagents: Triethylamine|
+|Catalysts: Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24291218
+1.1|Reagents: Triethylamine|
+|Catalysts: Zinc oxide (ZnO), Copper oxide (CuO), Iron oxide (Fe3O4)|
+|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-33784392
+1.1|Catalysts: Copper, Potassium fluoride|
+|Solvents: Water; 30 min, rt; 3 h, rt|
+
+CAS Reaction Number: 31-368-CAS-4330963
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-309-CAS-11138528
+1.1|Reagents: Sodium|
+|Solvents: Ethanol; 24 h, 80 °C|
+
+CAS Reaction Number: 31-368-CAS-2482910
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-13749082
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-6751358
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-614-CAS-28886674
+1.1|Solvents: Ethanol; 4 - 7 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-30698852
+1.1|Solvents: Methanol, Dimethylformamide; 18 h, rt|
+
+CAS Reaction Number: 31-309-CAS-21919711
+1.1|Solvents: Methanol; 6 h, rt|
+
+CAS Reaction Number: 31-309-CAS-13078173
+1.1|Reagents: Hydrochloric acid|
+|Solvents: Isopropanol, Water; 3 h, 70 °C|
+1.2|Reagents: Sodium carbonate|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-614-CAS-33458185
+1.1|Solvents: Water; 45 min, rt|
+1.2|15 min, rt|
+1.3|Solvents: Water; 35 min, rt|
+1.4|3 h, rt; 4 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759478
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759402
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759430
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-35759539
+1.1|Reagents: Diisopropylethylamine, Oxygen|
+|Solvents: 2,2,2-Trifluoroethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-367-CAS-13077955
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+1.2|Solvents: Methanol; 12 h, rt|
+1.3|Solvents: Acetone; 0 °C|
+
+CAS Reaction Number: 31-367-CAS-5399757
+1.1|Reagents: 1,1′-Carbonyldiimidazole|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+1.2|Solvents: Methanol; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28344460
+1.1|Reagents: Sodium|
+|Solvents: Ethanol|
+1.2|Reagents: Hydrochloric acid|
+1.3|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-36767521
+1.1|Catalysts: Zinc chloride|
+|Solvents: Ethanol; 3 h, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-38650891
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38650890
+1.1|Catalysts: Triethylamine|
+|Solvents: Water; 30 min, rt|
+1.2|5 h, rt|
+
+CAS Reaction Number: 31-333-CAS-1538332
+1.1|Reagents: Sodium methoxide|
+|Solvents: Dimethyl sulfoxide|
+1.2|Solvents: Ethanol, Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-614-CAS-37451250
+1.1|2 min, rt|
+1.2|Catalysts: Iodine|
+|Solvents: Water; rt; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25812076
+1.1|Solvents: Methanol; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-36272478
+1.1|Reagents: Potassium iodide|
+|Catalysts: Iodine|
+|Solvents: Water; 5 min, heated|
+
+CAS Reaction Number: 31-309-CAS-6896148
+1.1|Reagents: Sodium ethoxide|
+|Solvents: Ethanol|
+1.2|Solvents: Ethanol|
+1.3|Solvents: Water|
+
+CAS Reaction Number: 31-368-CAS-8879259
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-11011441
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-13144120
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-15273128
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-1873078
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-11277980
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-13421469
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-2787
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-2143373
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-4300710
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-6423462
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-8548851
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-10680162
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-12811642
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-14940810
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-8829286
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-324789
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-368-CAS-4621308
+1.1|Solvents: Dimethylformamide; rt|
+1.2|Solvents: Acetone|
+
+CAS Reaction Number: 31-614-CAS-26347237
+1.1|Solvents: Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-333-CAS-4308123
+1.1|Reagents: Sodium methoxide|
+|Solvents: Dimethyl sulfoxide|
+1.2|Reagents: Diazomethane|
+|Solvents: 1,4-Dioxane|
+1.3|Solvents: Ethanol, Dimethyl sulfoxide|
+
+CAS Reaction Number: 31-614-CAS-29331928
+1.1|Solvents: Acetonitrile; rt; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-33784605
+1.1|Catalysts: 2638568-78-0; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-31038498
+1.1|Solvents: 1-Butyl-3-methylimidazolium hydroxide; 2 min, 60 °C|
+
+CAS Reaction Number: 31-309-CAS-1750798
+1.1|Catalysts: Sodium bisulfate; 180 - 300 s|
+
+CAS Reaction Number: 31-614-CAS-24083693
+1.1|Reagents: Potassium hydroxide|
+|Catalysts: 2700030-19-7, 2700030-22-2|
+|Solvents: 1,4-Dioxane; 24 h, 120 °C; 120 °C → rt|
+1.2|Catalysts: 2700030-19-7, 2700030-22-2; 18 h, heated|
+
+CAS Reaction Number: 31-309-CAS-6272148
+1.1|Catalysts: Sodium bisulfate; 300 - 480 s|
+
+CAS Reaction Number: 31-309-CAS-22633259
+1.1|Solvents: Water; rt|
+1.2|6 h, 90 °C|
+
+CAS Reaction Number: 31-309-CAS-6543357
+1.1|Catalysts: Sodium bisulfate; 300 - 480 s|
+
+CAS Reaction Number: 31-309-CAS-4416102
+1.1|Catalysts: Sodium bisulfate; 180 - 300 s|
+
+CAS Reaction Number: 31-368-CAS-20222389
+1.1|Catalysts: Copper|
+|Solvents: Ethanol, Water; 10 min|
+
+CAS Reaction Number: 31-368-CAS-11793966
+1.1|Reagents: Sodium hydroxide; 5 min|
+1.2|16 min|
+
+CAS Reaction Number: 31-368-CAS-5402162
+1.1|Reagents: Sodium hydroxide; 5 min|
+1.2|16 min|
+
+CAS Reaction Number: 31-309-CAS-16167255
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Ethanol; 20 min|
+1.2|Reagents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-29107935
+1.1|120 s; rt|
+1.2|Reagents: Water; rt|
+
+CAS Reaction Number: 31-309-CAS-4129864
+1.1|Catalysts: Sodium bisulfate; 180 - 300 s|
+
+CAS Reaction Number: 31-309-CAS-12943577
+1.1|Catalysts: Sodium bisulfate; 180 - 300 s|
+
+CAS Reaction Number: 31-614-CAS-29418957
+1.1|Solvents: 1-Butyl-3-methylimidazolium hydroxide; 3 min, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-28452532
+1.1|Catalysts: Cupric chloride, 1-Methyl-3-[3-(trimethoxysilyl)propyl]imidazolium chloride|
+|Solvents: Ethanol, Water; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-27911597
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Toluene, N-Methyl-2-pyrrolidone; -10 °C; 3 h, -12 - -8 °C|
+1.2|6 h, -8 °C → 115 °C|
+
+CAS Reaction Number: 31-309-CAS-3799455
+1.1|Catalysts: Sodium bisulfate; 300 - 480 s|
+
+CAS Reaction Number: 31-574-CAS-10142222
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Polyethylene glycol; 89 min, 40 °C|
+
+CAS Reaction Number: 31-614-CAS-28579264
+1.1|Reagents: Cesium carbonate, 2-Propenoic acid, 2-methyl-, 1,1′-(1,4-butanediyl) ester, polymer with ethenylbenzene|
+|Solvents: N-Methyl-2-pyrrolidone; 10 min, 85 °C|
+1.2|Reagents: Triethylamine|
+|Solvents: Ethanol; 20 min, 60 °C|
+1.3|Reagents: Trifluoroacetic acid|
+|Solvents: Dichloromethane; 10 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-18748474
+1.1|Reagents: Sodium hydride|
+|Solvents: Choline chloride; 10 min, 0 °C|
+1.2|Solvents: Choline chloride; 5 h, 140 °C|
+
+CAS Reaction Number: 31-172-CAS-4227905
+1.1|Catalysts: Potassium tert-butoxide|
+|Solvents: Ethanol; 5 min, 90 °C|
+1.2|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-309-CAS-19524653
+1.1|Reagents: Sodium methoxide|
+|Solvents: Ethanol, Methanol; 16 h, rt → 100 °C|
+
+CAS Reaction Number: 31-309-CAS-803059
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol, Isopropanol; 85 °C|
+
+CAS Reaction Number: 31-309-CAS-3006827
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol, Isopropanol; 85 °C|
+
+CAS Reaction Number: 31-309-CAS-13366833
+1.1|Reagents: Sodium hydroxide; 70 s|
+
+CAS Reaction Number: 31-614-CAS-28022591
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: tert-Butanol; 15 h, 60 °C|
+
+CAS Reaction Number: 31-172-CAS-10668479
+1.1|Catalysts: Potassium tert-butoxide|
+|Solvents: Ethanol; 10 min, 90 °C|
+1.2|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-309-CAS-17047061
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Acetonitrile; 30 min, rt|
+1.2|Solvents: Acetonitrile; rt; rt → 82 °C; 24 h, 82 °C|
+
+CAS Reaction Number: 31-309-CAS-15885535
+1.1|Reagents: Sodium methoxide|
+|Solvents: 1-Butanol; 0 °C; 30 min, 0 °C|
+1.2|18 h, 100 °C|
+
+CAS Reaction Number: 31-309-CAS-8027700
+1.1|Reagents: Sodium methoxide|
+|Solvents: 1-Butanol; 0 °C; 30 min, 0 °C|
+1.2|18 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-27316289
+1.1|Solvents: Ethanol|
+1.2|Reagents: Sodium hydroxide|
+|Solvents: Water; basified|
+
+CAS Reaction Number: 31-309-CAS-18748475
+1.1|Reagents: Sodium hydride|
+|Solvents: Choline chloride; 10 min, 0 °C|
+1.2|Solvents: Choline chloride; 5 h, 140 °C|
+
+CAS Reaction Number: 31-614-CAS-30084369
+1.1|Reagents: Sodium|
+|Solvents: Isopropanol; 30 min, 70 °C|
+1.2|1 - 3 h, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-29682052
+1.1|Reagents: Cesium carbonate|
+|Solvents: Dimethyl sulfoxide; 12 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-28759122
+1.1|Solvents: Methanol, Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-13516413
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; pH 13, rt; rt → 70 °C|
+1.2|70 °C → 97 °C|
+
+CAS Reaction Number: 31-309-CAS-4868580
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide; 10 h, rt → 110 °C|
+
+CAS Reaction Number: 31-614-CAS-26963370
+1.1|Reagents: Sodium methoxide|
+|Solvents: Isopropanol|
+1.2|Reagents: Potassium hydroxide|
+
+CAS Reaction Number: 31-309-CAS-5190469
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol, Isopropanol; 85 °C|
+
+CAS Reaction Number: 31-309-CAS-15496194
+1.1|Reagents: Sodium hydroxide; 65 s|
+
+CAS Reaction Number: 31-309-CAS-15073132
+1.1|Catalysts: Sodium bisulfate; 300 - 480 s|
+
+CAS Reaction Number: 31-309-CAS-14194440
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol, Isopropanol; 85 °C|
+
+CAS Reaction Number: 31-309-CAS-12064597
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol, Isopropanol; 85 °C|
+
+CAS Reaction Number: 31-614-CAS-25525592
+1.1|Reagents: Cesium carbonate|
+|Solvents: Dimethyl sulfoxide; 12 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-33784602
+1.1|Catalysts: 2638568-78-0; 35 min, rt|
+
+CAS Reaction Number: 31-309-CAS-22633255
+1.1|rt|
+1.2|5 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-26828572
+1.1|Reagents: Triethylamine|
+|Catalysts: Cuprous iodide, Dichlorobis(triphenylphosphine)palladium|
+|Solvents: Tetrahydrofuran; rt|
+1.2|Reagents: Sodium carbonate|
+|Solvents: Water; 5 h, 65 °C|
+
+CAS Reaction Number: 31-614-CAS-24698860
+1.1|Reagents: N-Iodosuccinimide, 1,8-Diazabicyclo[5.4.0]undec-7-ene|
+|Solvents: Methanol; rt; 1 h, rt|
+
+CAS Reaction Number: 31-368-CAS-9548640
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol; 48 h, rt|
+
+CAS Reaction Number: 31-309-CAS-11004667
+1.1|Reagents: Sodium ethoxide|
+|Solvents: Ethanol; 3 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-24448618
+1.1|Reagents: Sodium methoxide|
+|Solvents: Dimethylformamide; 15 min, rt; 3 h, rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; neutralized|
+
+CAS Reaction Number: 31-309-CAS-3372843
+1.1|Reagents: Sodium carbonate|
+|Solvents: Acetonitrile; 40 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-6124648
+1.1|Reagents: Potassium carbonate|
+|Solvents: Ethanol; overnight, 75 °C|
+
+CAS Reaction Number: 31-309-CAS-9937159
+1.1|Reagents: Sodium methoxide|
+|Solvents: Methanol, Isopropanol; 85 °C|
+
+CAS Reaction Number: 31-315-CAS-15058446
+1.1|Catalysts: Piperidine|
+|Solvents: Water; 3 h, 100 °C|
+
+CAS Reaction Number: 31-309-CAS-1363297
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Dimethylformamide; heated; rt; 4 - 5 min|
+
+CAS Reaction Number: 31-309-CAS-12303059
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Dimethylformamide; heated; rt; 4 - 5 min|
+
+CAS Reaction Number: 31-013-CAS-16707599
+1.1|Reagents: Sodium hydride|
+|Solvents: Tetrahydrofuran; 0 °C; 5 min, rt|
+1.2|10 h, rt → 70 °C|
+
+CAS Reaction Number: 31-309-CAS-2459582
+1.1|Catalysts: Barium hydroxide|
+|Solvents: Ethanol; 87 min, 30 - 35 °C|
+
+CAS Reaction Number: 31-309-CAS-5051418
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethylformamide, Water; rt → 120 °C; 7 min, 120 °C; 120 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, rt|
+
+CAS Reaction Number: 31-368-CAS-17235584
+1.1|Catalysts: Titania; 3 h, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-7536362
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Dimethylformamide, Water; rt → 120 °C; 6 min, 120 °C; 120 °C → rt|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water; acidified, rt|
+
+CAS Reaction Number: 31-172-CAS-1609429
+1.1|Reagents: Tripotassium phosphate|
+|Catalysts: Sarcosine, Cuprous iodide|
+|Solvents: Acetonitrile; 8 h, 70 °C|
+
+CAS Reaction Number: 31-368-CAS-7230465
+1.1|Reagents: Sodium hydride|
+|Solvents: Dimethylformamide; 1 min, heated|
+1.2|35 min, heated|
+
+CAS Reaction Number: 31-309-CAS-9750875
+1.1|Reagents: Sodium methoxide|
+|Solvents: Ethanol; 10 min, rt|
+1.2|Solvents: Tetrahydrofuran; 10 min, 130 °C|
+
+CAS Reaction Number: 31-309-CAS-13686039
+1.1|Reagents: Sodium methoxide|
+|Solvents: Ethanol; 10 min, rt|
+1.2|Solvents: Tetrahydrofuran; 10 min, 130 °C|
+
+CAS Reaction Number: 31-309-CAS-9121776
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-6083314
+1.1|Reagents: Sodium hydroxide; 30 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-6335139
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-2740490
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-3925408
+1.1|Catalysts: Sodium hydroxide; 45 min, 70 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Water|
+
+CAS Reaction Number: 31-309-CAS-6986588
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-260-CAS-22096246
+1.1|Catalysts: 1-Butyl-3-methylimidazolium hexafluorophosphate; 15 min, rt|
+
+CAS Reaction Number: 31-574-CAS-808169
+1.1|Catalysts: (3-Aminopropyl)triethoxysilane; 30 min, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-13985119
+1.1|Reagents: Sodium hydroxide; 25 min, 70 °C|
+
+CAS Reaction Number: 31-172-CAS-11142386
+1.1|Solvents: Dimethylacetamide; 140 °C|
+
+CAS Reaction Number: 31-260-CAS-8847774
+1.1|Solvents: 2-Methoxyethanol; 135 °C|
+
+CAS Reaction Number: 31-554-CAS-14413552
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-11624297
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-25424115
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-614-CAS-27044621
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-6688258
+1.1|Reagents: Sodium hydroxide; 30 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-8087792
+1.1|Reagents: Bromine|
+|Catalysts: 1-Butyl-3-methylimidazolium tetrafluoroborate|
+|Solvents: Acetonitrile, 1-Butyl-3-methylimidazolium tetrafluoroborate; 40 °C; 2 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-29538927
+1.1|Catalysts: Sodium hydroxide; 40 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-7332479
+1.1|Catalysts: Sodium hydroxide; 15 min, 70 °C|
+
+CAS Reaction Number: 31-309-CAS-15613214
+1.1|Catalysts: Piperazine; 1 h, 80 °C|
+
+CAS Reaction Number: 31-309-CAS-18915199
+1.1|Catalysts: Pyridinium, 1-(4-sulfobutyl)-, sulfate, potassium salt (1:1:1); rt → 120 °C; 10 min, 120 °C|

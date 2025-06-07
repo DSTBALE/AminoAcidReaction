@@ -1,0 +1,18 @@
+CAS Reaction Number: 31-209-CAS-7835636
+1.1|Reagents: Potassium persulfate|
+|Catalysts: (SP-4-2)-Dibromo[1,2-phenylenebis[3-(phenylmethyl)-1H-imidazol-1-yl-2(3H)-ylidene]]palladium; 60 s, rt; 12 h, 60 °C|
+
+CAS Reaction Number: 31-085-CAS-11558349
+1.1|Catalysts: Methane, tetrabromo-, compd. with aluminum bromide (AlBr3) (1:2)|
+
+CAS Reaction Number: 31-491-CAS-18129133
+1.1|Reagents: Potassium carbonate|
+|Solvents: Dimethylformamide|
+
+CAS Reaction Number: 31-214-CAS-2060288
+1.1|Reagents: Potassium carbonate|
+|Solvents: Acetonitrile|
+
+CAS Reaction Number: 31-614-CAS-35440343
+1.1|Reagents: Oxygen|
+|Catalysts: Acetic acid, 2,2,2-trifluoro-, iron(3+) salt (3:1); 24 h, 100 psi, rt|

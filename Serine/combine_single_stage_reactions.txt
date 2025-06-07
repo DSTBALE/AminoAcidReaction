@@ -1,0 +1,1653 @@
+CAS Reaction Number: 31-575-CAS-21251248
+1.1|Solvents: Water; cooled|
+
+CAS Reaction Number: 31-614-CAS-26133536
+1.1|Solvents: Methanol; rt; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28375107
+1.1|Solvents: Acetic acid, Water; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38854686
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-575-CAS-13541671
+1.1|Solvents: Methanol; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-29997498
+1.1|Solvents: Chloroform, Water; 30 min, rt|
+
+CAS Reaction Number: 31-575-CAS-21160435
+1.1|Solvents: Ethanol; 0 °C; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-315792
+1.1|Solvents: Water; pH 9.58, rt|
+
+CAS Reaction Number: 31-614-CAS-24472658
+1.1|Solvents: Methanol, Water; 0 °C|
+
+CAS Reaction Number: 31-575-CAS-21159395
+1.1|0 °C; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21160820
+1.1|0 °C; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-18240462
+1.1|Solvents: Methanol; 16 h, 40 °C|
+
+CAS Reaction Number: 31-575-CAS-13569715
+1.1|Solvents: Methanol, Isopropanol; rt|
+
+CAS Reaction Number: 31-562-CAS-1249550
+1.1|Reagents: Tetrakis(acetonitrile)copper(1+) hexafluorophosphate|
+|Solvents: Methanol, Acetonitrile; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-2823935
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-575-CAS-9983926
+1.1|Solvents: Methanol, Water; 0 °C → rt; 15 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21263875
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-614-CAS-24763857
+1.1|Solvents: Acetone|
+
+CAS Reaction Number: 31-575-CAS-21281835
+1.1|Solvents: Ethanol, Water; 6 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-1569698
+1.1|Solvents: Acetone, Water; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-40920518
+1.1|Solvents: Water; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25757563
+1.1|Solvents: Ethanol, Water; 6 h, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-28592152
+1.1|Solvents: Methanol; rt; 2 h, 30 °C|
+
+CAS Reaction Number: 31-614-CAS-25706380
+1.1|Solvents: Methanol; rt; 2 h, 30 °C|
+
+CAS Reaction Number: 31-614-CAS-30073753
+1.1|Solvents: Methanol; rt; 2 h, 30 °C|
+
+CAS Reaction Number: 31-614-CAS-30880827
+1.1|Solvents: Methanol; rt; 2 h, 30 °C|
+
+CAS Reaction Number: 31-352-CAS-7175391
+1.1|Solvents: Water; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-21283959
+1.1|Solvents: Ethanol, Water; 6 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-13129711
+1.1|Solvents: Acetone, Water; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-13377115
+1.1|Solvents: Acetone; rt; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-4428998
+1.1|Solvents: Acetone, Water; rt; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-21282203
+1.1|Solvents: Ethanol, Water; 6 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-10426885
+1.1|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38411555
+1.1|Solvents: Methanol; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24995681
+1.1|Solvents: Methanol, Acetonitrile; rt; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30665766
+1.1|Solvents: Methanol, Dimethylformamide; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-27418028
+1.1|Solvents: Methanol, Acetonitrile; rt; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29031100
+1.1|Solvents: Methanol, Acetonitrile; rt; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38277682
+1.1|Solvents: Methanol; 1 h, rt|
+
+CAS Reaction Number: 31-562-CAS-7745519
+1.1|Reagents: Copper(1+), tetrakis(acetonitrile)-, (T-4)-, hexafluorophosphate(1-), compd. with acetonitrile (1:1:1)|
+|Solvents: Methanol, Acetonitrile; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-3233586
+1.1|Solvents: Methanol; neutralized, rt|
+
+CAS Reaction Number: 31-562-CAS-10357271
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-575-CAS-13348965
+1.1|Reagents: Bromothymol blue|
+|Solvents: Methanol, Water; 50 °C|
+
+CAS Reaction Number: 31-575-CAS-21028986
+1.1|Solvents: Methanol, Water; 1 h, rt|
+
+CAS Reaction Number: 31-562-CAS-14642008
+1.1|Reagents: Tetrakis(acetonitrile)copper(1+) hexafluorophosphate|
+|Solvents: Methanol, Acetonitrile; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30410403
+1.1|Solvents: Dichloromethane; rt|
+
+CAS Reaction Number: 31-511-CAS-16219155
+1.1|Reagents: Oxygen|
+|Solvents: Chloroform; 22 h, rt|
+
+CAS Reaction Number: 31-575-CAS-911497
+1.1|Solvents: Toluene, Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-6405758
+1.1|Solvents: Toluene, Water; 55 °C|
+
+CAS Reaction Number: 31-575-CAS-5773518
+1.1|Solvents: Water; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-141572
+1.1|Solvents: Methanol; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-31010437
+1.1|Solvents: Acetonitrile, Water; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30258794
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38411563
+1.1|Solvents: Methanol; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-1457449
+1.1|Solvents: Methanol; 5 h|
+
+CAS Reaction Number: 31-352-CAS-1550302
+1.1|Solvents: Methanol, Water; rt; 2.5 h, rt|
+
+CAS Reaction Number: 31-352-CAS-17742380
+1.1|Solvents: 1,4-Dioxane, Water; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22097808
+1.1|Solvents: Methanol; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-37948748
+1.1|Solvents: Ethanol, Water; 1 h, 20 °C|
+
+CAS Reaction Number: 31-575-CAS-18041146
+1.1|Reagents: Hydrofluoric acid|
+|Solvents: Methanol, Water|
+
+CAS Reaction Number: 31-575-CAS-11109983
+1.1|Solvents: Methanol; rt; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-29878440
+1.1|Solvents: Methanol, Dichloromethane; 30 s|
+
+CAS Reaction Number: 31-614-CAS-36707566
+1.1|Solvents: Methanol, Dichloromethane; 30 s, rt|
+
+CAS Reaction Number: 31-575-CAS-22093212
+1.1|Solvents: Ethanol, Methanol; rt|
+
+CAS Reaction Number: 31-614-CAS-24183971
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-614-CAS-28022243
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-614-CAS-28346004
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-30820464
+1.1|Solvents: Methanol, Dichloromethane; 30 s|
+
+CAS Reaction Number: 31-614-CAS-36707552
+1.1|Solvents: Methanol, Dichloromethane; 30 s, rt|
+
+CAS Reaction Number: 31-614-CAS-28275058
+1.1|Solvents: Methanol, Dichloromethane; 30 s|
+
+CAS Reaction Number: 31-614-CAS-36707562
+1.1|Solvents: Methanol, Dichloromethane; 30 s, rt|
+
+CAS Reaction Number: 31-614-CAS-30380769
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-7663008
+1.1|Solvents: Methanol; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25883451
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-25841547
+1.1|Solvents: Toluene; 1 h, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-39277596
+1.1|Solvents: Methanol; rt; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-40910089
+1.1|Solvents: Methanol, Tetrahydrofuran; 3 h, rt|
+
+CAS Reaction Number: 31-352-CAS-5172506
+1.1|Solvents: Water; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-41494289
+1.1|Solvents: Methanol; rt; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-27471362
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-575-CAS-113576
+1.1|Solvents: Dichloromethane, Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-3657248
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-575-CAS-9764516
+1.1|Solvents: Water; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38277686
+1.1|Solvents: Methanol; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-8518395
+1.1|Solvents: Methanol, Water; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-30478723
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-142-CAS-139100
+1.1|Reagents: Boric acid (H3BO3)|
+|Solvents: Methanol, Water; rt; 50 °C|
+
+CAS Reaction Number: 31-575-CAS-15366373
+1.1|Solvents: Water; 30 min, 40 °C|
+
+CAS Reaction Number: 31-575-CAS-21945403
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-2326892
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25599719
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-614-CAS-24183974
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-575-CAS-22352528
+1.1|Solvents: Dichloromethane, Water; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25488509
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-614-CAS-24183970
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-614-CAS-38411560
+1.1|Solvents: Methanol; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-6237466
+1.1|Solvents: Dichloromethane, Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-6514740
+1.1|Solvents: Dichloromethane, Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-9786808
+1.1|Solvents: Methanol; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-16541071
+1.1|Reagents: Ferric sulfate|
+|Solvents: Water; 1 d|
+
+CAS Reaction Number: 31-562-CAS-7067993
+1.1|Reagents: Ferric sulfate; 1 d, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-9646990
+1.1|Solvents: Methanol, Dichloromethane; rt; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38277684
+1.1|Solvents: Methanol; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26424863
+1.1|Solvents: Water; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22110483
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22101135
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-562-CAS-2474872
+1.1|Reagents: Ferric sulfate; 1 d, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-1332046
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-575-CAS-1599423
+1.1|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-353-CAS-3296654
+1.1|Solvents: Acetonitrile; overnight, 30 °C|
+
+CAS Reaction Number: 31-353-CAS-5059081
+1.1|Reagents: Trifluoroacetic acid; 10 min, 0 °C; 30 min, 0 °C|
+
+CAS Reaction Number: 31-353-CAS-17659661
+1.1|Reagents: Hydrogen|
+|Catalysts: Palladium|
+|Solvents: Methanol; 2 h, rt|
+
+CAS Reaction Number: 31-353-CAS-19058871
+1.1|Reagents: Hydrogen|
+|Catalysts: Palladium|
+|Solvents: Ethanol; 4 h, rt|
+
+CAS Reaction Number: 31-353-CAS-20239328
+1.1|Reagents: Hydrogen|
+|Catalysts: Palladium|
+|Solvents: Methanol, Water; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28065946
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-352-CAS-12305573
+1.1|Solvents: Ethanol; 1 h, 70 °C|
+
+CAS Reaction Number: 31-575-CAS-22100906
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22110302
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22110884
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22102314
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22110588
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-20547337
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-575-CAS-14044507
+1.1|Solvents: Water; rt; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-31730587
+1.1|Solvents: Water; 3 h, neutralized, rt|
+
+CAS Reaction Number: 31-575-CAS-103443
+1.1|Solvents: Water; 25 min, rt|
+
+CAS Reaction Number: 31-575-CAS-4419199
+1.1|Solvents: Water; 25 min, rt|
+
+CAS Reaction Number: 31-575-CAS-21216097
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-575-CAS-21215678
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-575-CAS-21282145
+1.1|Solvents: Methanol; 48 h, 21 °C|
+
+CAS Reaction Number: 31-614-CAS-28458540
+1.1|Solvents: Methanol; -20 °C; 15 min, -20 °C|
+
+CAS Reaction Number: 31-614-CAS-38634815
+1.1|Solvents: Methanol, Water; rt; 16 h, rt|
+
+CAS Reaction Number: 31-575-CAS-5011632
+1.1|Solvents: Water; rt → 40 °C; 20 min, 40 °C; 40 °C → rt; rt|
+
+CAS Reaction Number: 31-575-CAS-3192746
+1.1|Solvents: Methanol; 6 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26115023
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-20902433
+1.1|Solvents: Diethyl ether; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-18269067
+1.1|Solvents: Methanol; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-21322034
+1.1|Solvents: Water; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-9811595
+1.1|Solvents: Water; rt; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-22123473
+1.1|Solvents: Methanol; 0 °C; 5 min, 0 °C|
+
+CAS Reaction Number: 31-352-CAS-17930342
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-21156179
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-5758532
+1.1|Solvents: Water; 0 °C; 30 min, 0 °C|
+
+CAS Reaction Number: 31-352-CAS-22824239
+1.1|Solvents: Water; 1 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-21100865
+1.1|Solvents: Water; 1 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-18702794
+1.1|Solvents: Water; 1 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-18702793
+1.1|Solvents: Water; 1 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-11463346
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-352-CAS-18702791
+1.1|Solvents: Water; 1 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-18702790
+1.1|Solvents: Water; 1 h, 60 °C|
+
+CAS Reaction Number: 31-368-CAS-10386393
+1.1|Solvents: Ethanol; 2 h, 30 - 45 °C; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-4602651
+1.1|Solvents: Water; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24696588
+1.1|Solvents: Methanol, Water; rt; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-25238876
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-8564039
+1.1|Reagents: Ammonium chloride|
+|Solvents: Water; 24 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-18702792
+1.1|Solvents: Water; 1 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-98458
+1.1|Solvents: Water; rt; 1 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-993779
+1.1|Solvents: Water; 1 h, rt|
+
+CAS Reaction Number: 31-352-CAS-13513613
+1.1|Solvents: Methanol, Water; 2 h, 23 °C|
+
+CAS Reaction Number: 31-614-CAS-29032387
+1.1|Solvents: Tetrahydrofuran; 5 min, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-24917135
+1.1|Solvents: Water; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24917134
+1.1|Solvents: Water; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-36175901
+1.1|Solvents: Tetrahydrofuran, Water; 5 min, rt|
+
+CAS Reaction Number: 31-575-CAS-18110371
+1.1|Solvents: Methanol; overnight, rt|
+
+CAS Reaction Number: 31-352-CAS-17930338
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-21156884
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-18126432
+1.1|Solvents: Methanol; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-9080276
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21064107
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-6152711
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-11068837
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-1947191
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-18702795
+1.1|Solvents: Water; 1 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-4348066
+1.1|Solvents: Water; rt; 1 h, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-36766061
+1.1|Solvents: Methanol, Water; 5 min, rt|
+
+CAS Reaction Number: 31-575-CAS-18112207
+1.1|Solvents: Methanol; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-18114734
+1.1|Solvents: Methanol; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-14807741
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-575-CAS-22102224
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22110757
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22101012
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22110244
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-9397606
+1.1|Reagents: Ammonium chloride|
+|Solvents: Water; 24 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-31870574
+1.1|Solvents: Methanol; 3 min, rt|
+
+CAS Reaction Number: 31-084-CAS-5803065
+1.1|Solvents: Chloroform, Acetonitrile; 3 h, rt → 50 °C|
+
+CAS Reaction Number: 31-353-CAS-10858279
+1.1|Reagents: Trifluoroacetic acid; 10 min, 0 °C; 30 min, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-31870577
+1.1|Solvents: Methanol; 3 min, rt|
+
+CAS Reaction Number: 31-614-CAS-31870578
+1.1|Solvents: Methanol; 3 min, rt|
+
+CAS Reaction Number: 31-353-CAS-23295872
+1.1|Solvents: Acetonitrile; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-31870579
+1.1|Solvents: Methanol; 3 min, rt|
+
+CAS Reaction Number: 31-614-CAS-28981727
+1.1|Solvents: 1,2-Dichloroethane; heated; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-28336736
+1.1|10 min, rt; rt|
+
+CAS Reaction Number: 31-614-CAS-25240247
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Acetonitrile; 30 min, 30 °C|
+
+CAS Reaction Number: 31-575-CAS-22110666
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22110180
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22110980
+1.1|Solvents: Ethanol, Water; 12 h, rt|
+
+CAS Reaction Number: 31-352-CAS-17930341
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-25232355
+1.1|Solvents: Acetone; 48 h, rt|
+
+CAS Reaction Number: 31-575-CAS-2833525
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-28549608
+1.1|Solvents: Dimethyl sulfoxide; rt|
+
+CAS Reaction Number: 31-614-CAS-41605769
+1.1|rt; overnight, < 0.1 mbar, 70 °C|
+
+CAS Reaction Number: 31-575-CAS-13926359
+1.1|Solvents: Methanol; 4 h, 40 °C|
+
+CAS Reaction Number: 31-352-CAS-12371990
+1.1|Solvents: Water; 2 h, neutralized, 80 °C|
+
+CAS Reaction Number: 31-575-CAS-21258959
+1.1|Solvents: Methanol; 48 h, 21 °C|
+
+CAS Reaction Number: 31-575-CAS-21214512
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-575-CAS-21257291
+1.1|Solvents: Methanol; 48 h, 21 °C|
+
+CAS Reaction Number: 31-575-CAS-6796110
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-575-CAS-8932673
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-575-CAS-6805987
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-38634824
+1.1|Solvents: Methanol, Water; rt; 16 h, rt|
+
+CAS Reaction Number: 31-575-CAS-11285304
+1.1|Solvents: Water; pH 4 - 5, rt; pH 5 → pH 7, rt|
+
+CAS Reaction Number: 31-575-CAS-1499851
+1.1|Solvents: Water; 0 °C; 30 min, 0 °C|
+
+CAS Reaction Number: 31-575-CAS-3629338
+1.1|Solvents: Water; 0 °C; 30 min, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-39114137
+1.1|Solvents: Ethanol; rt; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-39605233
+1.1|Solvents: Ethanol; rt; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21321622
+1.1|Solvents: Water; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-11934624
+1.1|Solvents: Water; heated; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-21332772
+1.1|rt|
+
+CAS Reaction Number: 31-575-CAS-21289441
+1.1|rt|
+
+CAS Reaction Number: 31-575-CAS-21334463
+1.1|rt|
+
+CAS Reaction Number: 31-575-CAS-21180784
+1.1|rt|
+
+CAS Reaction Number: 31-575-CAS-21333722
+1.1|rt|
+
+CAS Reaction Number: 31-575-CAS-21334857
+1.1|rt|
+
+CAS Reaction Number: 31-575-CAS-1894879
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-15280473
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-21323293
+1.1|Solvents: Water; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-14061165
+1.1|Solvents: Water; rt; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-21334107
+1.1|rt|
+
+CAS Reaction Number: 31-614-CAS-30685811
+1.1|Solvents: Methanol; 10 min, rt|
+
+CAS Reaction Number: 31-575-CAS-10123862
+1.1|Solvents: Acetonitrile; 40 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29013505
+1.1|Solvents: Tetrahydrofuran; 5 min, 0 °C|
+
+CAS Reaction Number: 31-352-CAS-17930335
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-41494281
+1.1|Solvents: Methanol; rt; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21048961
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-38294625
+1.1|Solvents: Methanol, Water; 24 h, rt|
+
+CAS Reaction Number: 31-575-CAS-1722981
+1.1|Solvents: Acetonitrile; cooled; 90 min, cooled|
+
+CAS Reaction Number: 31-614-CAS-28804606
+1.1|24 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21322586
+1.1|Solvents: Water; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-7681834
+1.1|Solvents: Water; rt; 24 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-24468116
+1.1|Solvents: Methanol, Water; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26819955
+1.1|Solvents: Dichloromethane; 1 h, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-27610446
+1.1|Solvents: Dichloromethane; 1 h, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-25938903
+1.1|Solvents: Methanol, Acetonitrile; rt; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25689368
+1.1|Solvents: Methanol, Acetonitrile; rt; 30 min, rt|
+
+CAS Reaction Number: 31-575-CAS-23646207
+1.1|Solvents: Toluene; 60 °C; 1 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-10686996
+1.1|Solvents: Tetrahydrofuran; rt|
+
+CAS Reaction Number: 31-614-CAS-28074216
+1.1|Solvents: Acetonitrile; 5 min, rt|
+
+CAS Reaction Number: 31-575-CAS-6882805
+1.1|72 h, 60 °C|
+
+CAS Reaction Number: 31-022-CAS-716490
+1.1|Reagents: Triethylamine|
+|Catalysts: 4-(Dimethylamino)pyridine; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25200054
+1.1|Solvents: 1,2-Dichloroethane; heated; 4 min, rt|
+
+CAS Reaction Number: 31-575-CAS-2557671
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-4658109
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-21247481
+1.1|Solvents: Water; rt; 12 h, rt|
+
+CAS Reaction Number: 31-575-CAS-8940048
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-7175022
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-9225110
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25275140
+1.1|Solvents: Methanol; -20 °C; 15 min, -20 °C|
+
+CAS Reaction Number: 31-614-CAS-30662439
+1.1|Solvents: Methanol; -20 °C; 15 min, -20 °C|
+
+CAS Reaction Number: 31-575-CAS-18246576
+1.1|Solvents: Water; 10 min, rt|
+
+CAS Reaction Number: 31-575-CAS-21317605
+1.1|Solvents: Water; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-14946173
+1.1|Solvents: Water; rt; 24 h, 100 °C|
+
+CAS Reaction Number: 31-575-CAS-3772040
+1.1|Solvents: Methanol; 48 h, rt|
+
+CAS Reaction Number: 31-352-CAS-677945
+1.1|Solvents: Methanol, Tetrahydrofuran; 20 min, rt|
+
+CAS Reaction Number: 31-575-CAS-2986367
+1.1|Solvents: Methanol, Chloroform; 0 °C; 5 min, 0 °C|
+
+CAS Reaction Number: 31-575-CAS-18065816
+1.1|Reagents: Hydrofluoric acid|
+|Solvents: Methanol, Water|
+
+CAS Reaction Number: 31-575-CAS-21049225
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-12429697
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-575-CAS-6053483
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-575-CAS-6482890
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-352-CAS-2100538
+1.1|Solvents: Ethanol, Methanol, Water; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-18035124
+1.1|Reagents: Hydrofluoric acid|
+|Solvents: Methanol, Water|
+
+CAS Reaction Number: 31-575-CAS-22099748
+1.1|Reagents: Hydrochloric acid|
+|Solvents: Ethanol, Tetrahydrofuran, Water; 3 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21040553
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water|
+
+CAS Reaction Number: 31-562-CAS-3573922
+1.1|Solvents: Methanol, Dichloromethane; rt; 3 d, rt|
+
+CAS Reaction Number: 31-575-CAS-4061272
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-26762901
+1.1|Solvents: Water; rt; 1 h, 80 °C|
+
+CAS Reaction Number: 31-575-CAS-16585386
+1.1|Solvents: Ethanol; rt; overnight, -10 °C|
+
+CAS Reaction Number: 31-575-CAS-5763537
+1.1|Solvents: Dimethylacetamide; 30 min, 40 °C|
+
+CAS Reaction Number: 31-614-CAS-31870583
+1.1|Solvents: Methanol; 3 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25464467
+1.1|rt; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-42991629
+1.1|Solvents: Ethyl acetate; 3.5 h, 25 - 30 °C|
+
+CAS Reaction Number: 31-614-CAS-27142295
+1.1|Solvents: 1,2-Dichloroethane; heated; 5 min, rt|
+
+CAS Reaction Number: 31-575-CAS-411326
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-7400396
+1.1|Solvents: Methanol; 1 h, 25 °C|
+
+CAS Reaction Number: 31-575-CAS-6808229
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-575-CAS-4964120
+1.1|Solvents: Methanol; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29883618
+1.1|Solvents: Methanol, Tetrahydrofuran|
+
+CAS Reaction Number: 31-575-CAS-21423154
+1.1|Solvents: Water; 10 min, 20 °C|
+
+CAS Reaction Number: 31-575-CAS-21423546
+1.1|Solvents: Water; 10 min, 20 °C|
+
+CAS Reaction Number: 31-300-CAS-10843868
+1.1|Reagents: Potassium tetrachloropalladate|
+|Solvents: Methanol, Acetonitrile, Water; 60 °C; 10 h, > pH 7, 60 °C|
+
+CAS Reaction Number: 31-300-CAS-1713195
+1.1|Reagents: Potassium tetrachloropalladate|
+|Solvents: Methanol, Acetonitrile, Water; 60 °C; 10 h, > pH 7, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-2534234
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-614-CAS-31141229
+1.1|rt; 5 h, rt|
+
+CAS Reaction Number: 31-575-CAS-14886163
+1.1|Solvents: Water; 0 °C; 30 min, 0 °C|
+
+CAS Reaction Number: 31-352-CAS-17930337
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-352-CAS-17937811
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-8285226
+1.1|Solvents: Methanol; 1 h, 25 °C|
+
+CAS Reaction Number: 31-575-CAS-628826
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-31141233
+1.1|rt; 5 h, rt|
+
+CAS Reaction Number: 31-575-CAS-10271953
+1.1|Solvents: Tetrahydrofuran; 5 min, rt; 30 min, rt|
+
+CAS Reaction Number: 31-575-CAS-22315473
+1.1|Solvents: Water; 24 h, rt|
+
+CAS Reaction Number: 31-575-CAS-6732862
+1.1|Solvents: Water; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25805817
+1.1|Solvents: Tetrahydrofuran; 5 min, 0 °C|
+
+CAS Reaction Number: 31-575-CAS-4028356
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-21048581
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21023290
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-22099664
+1.1|Reagents: Hydrochloric acid|
+|Solvents: Ethanol, Tetrahydrofuran, Water; 3 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24183975
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-614-CAS-26421760
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-575-CAS-13195367
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-2214365
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-562-CAS-7110042
+1.1|Reagents: Ferric sulfate; 1 d, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-11870674
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-392-CAS-14206434
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Catalysts: Benzene, Ammonium iodide|
+|Solvents: Acetonitrile, 2,2,2-Trifluoroethanol; 24 h, rt|
+
+CAS Reaction Number: 31-353-CAS-11106294
+1.1|Solvents: Toluene; rt → 50 °C; 50 °C → rt; overnight, rt|
+
+CAS Reaction Number: 31-550-CAS-13028313
+1.1|Solvents: Tetrahydrofuran; 2 h, rt; rt → 5 °C; 4 h, 0 - 5 °C|
+
+CAS Reaction Number: 31-575-CAS-9947234
+1.1|Reagents: Isopropanol; rt → 50 °C; 2 h, 50 °C; 50 °C → rt; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-2180462
+1.1|Solvents: Isopropyl acetate; 5 min, 40 °C; 40 °C → 50 °C; 2 h, 50 °C; 50 °C → 25 °C; 16 h, 20 - 25 °C|
+
+CAS Reaction Number: 31-614-CAS-30680275
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 42 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30803300
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 42 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28177006
+1.1|Solvents: 1,2-Dichloroethane; heated; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26351857
+1.1|Solvents: 1,2-Dichloroethane; heated; 30 min, rt|
+
+CAS Reaction Number: 31-575-CAS-23674003
+1.1|Solvents: Ethanol; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-31870580
+1.1|Solvents: Methanol; 3 min, rt|
+
+CAS Reaction Number: 31-575-CAS-5147706
+1.1|Solvents: Ethanol, Ethyl acetate; rt|
+
+CAS Reaction Number: 31-575-CAS-4133486
+1.1|Solvents: Ethanol; heated; 60 °C; 60 °C → rt|
+
+CAS Reaction Number: 31-575-CAS-11895268
+1.1|Solvents: Methanol; 1 h, 25 °C|
+
+CAS Reaction Number: 31-353-CAS-13581345
+1.1|Solvents: Isopropanol, Water; 3 - 5 h, rt → 85 °C; 4 h, 85 °C → rt; 12 - 24 h, rt|
+
+CAS Reaction Number: 31-562-CAS-12979421
+1.1|Solvents: Methanol, Benzene; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-31141231
+1.1|rt; 5 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21233663
+1.1|Solvents: Methanol; 40 °C; 1 h, 40 °C|
+
+CAS Reaction Number: 31-614-CAS-27791867
+1.1|Solvents: Methanol; overnight, 35 °C|
+
+CAS Reaction Number: 31-614-CAS-41582852
+1.1|Solvents: Methanol, Water|
+
+CAS Reaction Number: 31-575-CAS-21087072
+1.1|Solvents: Ethanol; 8 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21322898
+1.1|Solvents: Water; 24 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-37046525
+1.1|Solvents: Methanol, Water; rt → 0 °C; overnight, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-29723100
+1.1|Reagents: Hydrofluoric acid|
+|Solvents: Methanol, Water|
+
+CAS Reaction Number: 31-575-CAS-5014584
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-12992184
+1.1|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-24183973
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-614-CAS-27108859
+1.1|Solvents: Ethanol, Methanol|
+
+CAS Reaction Number: 31-614-CAS-25652696
+1.1|Solvents: Water; pH 10.0, rt|
+
+CAS Reaction Number: 31-575-CAS-7076778
+1.1|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-26524752
+1.1|Solvents: Tetrahydrofuran; 5 min, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-34983927
+1.1|Solvents: Ethanol, Water; 5 min, rt|
+
+CAS Reaction Number: 31-352-CAS-19997468
+1.1|Solvents: 1,4-Dioxane; 1.5 h, pH 12, rt|
+
+CAS Reaction Number: 31-352-CAS-17930334
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-391-CAS-20609085
+1.1|Reagents: Oxygen|
+|Solvents: Methanol; rt; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-4344781
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-7436732
+1.1|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-40407415
+1.1|2 h|
+
+CAS Reaction Number: 31-575-CAS-14022060
+1.1|Solvents: Methanol, Tetrahydrofuran; rt; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29546079
+1.1|Solvents: Ethanol; rt; 4 h, rt|
+
+CAS Reaction Number: 31-353-CAS-12135267
+1.1|Solvents: Diethyl ether, Ethanol|
+
+CAS Reaction Number: 31-353-CAS-5467638
+1.1|Reagents: Trifluoroacetic acid; 30 min, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-26820209
+1.1|Solvents: Acetonitrile; 20 min, rt|
+
+CAS Reaction Number: 31-575-CAS-1548553
+1.1|Solvents: Methanol; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-13680919
+1.1|Solvents: Methanol; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-29728557
+1.1|Solvents: Acetonitrile; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-31870576
+1.1|Solvents: Methanol; 3 min, rt|
+
+CAS Reaction Number: 31-022-CAS-7485851
+1.1|Reagents: Triethylamine|
+|Solvents: Dichloromethane; 30 min, 0 °C; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-506622
+1.1|Solvents: Methanol; overnight, 35 °C|
+
+CAS Reaction Number: 31-575-CAS-21256888
+1.1|Solvents: Methanol; 48 h, 21 °C|
+
+CAS Reaction Number: 31-309-CAS-9860947
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-575-CAS-12382925
+1.1|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-38590883
+1.1|Solvents: Water; 4 h, rt; 48 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-31914804
+1.1|Solvents: Water; neutralized, rt|
+
+CAS Reaction Number: 31-614-CAS-27148482
+1.1|120 - 150 °C|
+
+CAS Reaction Number: 31-575-CAS-12141800
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-575-CAS-9906844
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-13609283
+1.1|Solvents: Water; neutralized, cooled; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30724012
+1.1|Solvents: Water; pH 10.0, rt|
+
+CAS Reaction Number: 31-575-CAS-21077750
+1.1|Solvents: Water; 24 h, 60 °C|
+
+CAS Reaction Number: 31-084-CAS-6082131
+1.1|Solvents: Chloroform, Acetonitrile; 3 h, rt → 50 °C|
+
+CAS Reaction Number: 31-614-CAS-39277593
+1.1|Solvents: Methanol; rt; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-24183972
+1.1|Solvents: Methanol, Water; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-29626461
+1.1|Solvents: Methanol, Water; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25838854
+1.1|Reagents: Hydrochloric acid|
+|Solvents: Ethanol, Tetrahydrofuran, Water; 3 h, rt|
+
+CAS Reaction Number: 31-575-CAS-13910056
+1.1|Solvents: Tetrahydrofuran, Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21284995
+1.1|Solvents: Methanol; rt; 1 min, rt|
+
+CAS Reaction Number: 31-575-CAS-15326094
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-28728690
+1.1|Solvents: Ethanol; 24 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21263412
+1.1|Solvents: Methanol, Water; rt|
+
+CAS Reaction Number: 31-614-CAS-29363080
+1.1|Solvents: Methanol, Hexane; 0.5 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21436758
+1.1|Solvents: Methanol; 15 min, neutralized, rt|
+
+CAS Reaction Number: 31-575-CAS-14004843
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-353-CAS-5915486
+1.1|Solvents: Ethanol; 1 h, 70 °C|
+
+CAS Reaction Number: 31-298-CAS-6297353
+1.1|Solvents: Tetrahydrofuran; 5 min, 0 °C → 10 °C; 15 min, 10 °C|
+
+CAS Reaction Number: 31-237-CAS-23149965
+1.1|Solvents: Dichloromethane; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25627628
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 65 h, 40 °C|
+
+CAS Reaction Number: 31-614-CAS-24002804
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 65 h, 40 °C|
+
+CAS Reaction Number: 31-022-CAS-14488946
+1.1|Reagents: Triethylamine|
+|Solvents: Dichloromethane; 30 min, 0 °C; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30078328
+1.1|Solvents: Dichloromethane; 10 min, rt; 48 h, rt|
+
+CAS Reaction Number: 31-352-CAS-17930339
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-575-CAS-14729289
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-575-CAS-4800310
+1.1|Solvents: Methanol; overnight, 35 °C|
+
+CAS Reaction Number: 31-614-CAS-24067100
+1.1|Reagents: Nickel(II) perchlorate|
+|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-309-CAS-3450734
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-575-CAS-13803740
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-575-CAS-13482893
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-614758
+1.1|Solvents: Methanol; rt|
+
+CAS Reaction Number: 31-575-CAS-21092503
+1.1|Solvents: Water; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-19726479
+1.1|Solvents: Tetrahydrofuran; heated|
+
+CAS Reaction Number: 31-575-CAS-1613882
+1.1|Solvents: Tetrahydrofuran; 30 min, rt|
+
+CAS Reaction Number: 31-575-CAS-11802686
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-614-CAS-27434696
+1.1|Solvents: Tetrahydrofuran|
+
+CAS Reaction Number: 31-575-CAS-672760
+1.1|Solvents: Water; rt; 24 h, 100 °C|
+
+CAS Reaction Number: 31-392-CAS-815391
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Catalysts: Benzene, Ammonium iodide|
+|Solvents: Acetonitrile, 2,2,2-Trifluoroethanol; 23 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21093857
+1.1|Solvents: Water; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-21296699
+1.1|Reagents: Oxygen|
+|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-22127827
+1.1|Solvents: Water; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-24551202
+1.1|Solvents: Water; 24 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-27045427
+1.1|120 - 150 °C|
+
+CAS Reaction Number: 31-575-CAS-7874024
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-029-CAS-11147884
+1.1|Solvents: Dimethylformamide; 2 h, 80 °C|
+
+CAS Reaction Number: 31-029-CAS-319437
+1.1|Solvents: Dimethylformamide|
+
+CAS Reaction Number: 31-575-CAS-9393505
+1.1|Solvents: Methanol, Chloroform; 0 °C; 5 min, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-28910610
+1.1|Solvents: Tetrahydrofuran; 5 min, 0 °C|
+
+CAS Reaction Number: 31-575-CAS-10003956
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-575-CAS-21435902
+1.1|Solvents: Methanol; 15 min, neutralized, rt|
+
+CAS Reaction Number: 31-614-CAS-29134258
+1.1|Solvents: Dichloromethane, Water; 10 min, rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28229414
+1.1|Solvents: Dimethylformamide; 12 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-36305795
+1.1|Solvents: Isopropanol; overnight, 62 °C|
+
+CAS Reaction Number: 31-392-CAS-7729564
+1.1|Reagents: 3-Iodosylbenzoic acid|
+|Solvents: Acetonitrile; 1 h, rt|
+
+CAS Reaction Number: 31-353-CAS-21687499
+1.1|Solvents: Ethyl acetate; 35 min, 60 °C; overnight, 60 °C → rt|
+
+CAS Reaction Number: 31-237-CAS-23147331
+1.1|Solvents: Dichloromethane; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28806655
+1.1|rt; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30581206
+1.1|Solvents: 1,2-Dichloroethane; heated; 25 min, rt|
+
+CAS Reaction Number: 31-575-CAS-12288482
+1.1|Solvents: Ethanol; 1 h, rt|
+
+CAS Reaction Number: 31-353-CAS-4411791
+1.1|Solvents: Acetonitrile; 24 h, rt|
+
+CAS Reaction Number: 31-562-CAS-16666019
+1.1|Reagents: Vanadyl sulfate|
+|Solvents: Methanol; 24 h, 125 °C|
+
+CAS Reaction Number: 31-614-CAS-30849530
+1.1|Solvents: Methanol; 10 - 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-36829129
+1.1|Reagents: Cupric perchlorate|
+|Solvents: Methanol; 70 °C; 30 min, 70 °C|
+
+CAS Reaction Number: 31-575-CAS-21216442
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-309-CAS-11994493
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-352-CAS-2220116
+1.1|Solvents: Water; rt; 1 h, 50 °C|
+
+CAS Reaction Number: 31-352-CAS-6202013
+1.1|Solvents: Water; rt; 1 h, 50 °C|
+
+CAS Reaction Number: 31-352-CAS-4132474
+1.1|Reagents: Potassium tetrachloropalladate|
+|Solvents: Methanol, Acetonitrile, Water; 60 °C; 10 h, pH 7, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-4359117
+1.1|Reagents: Vanadium oxide (V2O5), Periodic acid (H5IO6)|
+|Solvents: Water; 2 d|
+
+CAS Reaction Number: 31-356-CAS-23068551
+1.1|Solvents: Toluene; rt → 110 °C; 20 h, 110 °C|
+
+CAS Reaction Number: 31-356-CAS-15407693
+1.1|Solvents: Toluene; 8 h, rt → 110 °C|
+
+CAS Reaction Number: 31-614-CAS-38413011
+1.1|Solvents: Water; 24 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21093274
+1.1|Solvents: Water; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-40920517
+1.1|Solvents: Water; 20.5 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21320846
+1.1|Solvents: Water; 24 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-30908053
+1.1|120 - 150 °C|
+
+CAS Reaction Number: 31-356-CAS-4162174
+1.1|Solvents: Toluene; 8 h, rt → 110 °C|
+
+CAS Reaction Number: 31-575-CAS-14164957
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-14271182
+1.1|Solvents: Water; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29222503
+1.1|Solvents: Ethanol; 24 h, rt|
+
+CAS Reaction Number: 31-352-CAS-11931975
+1.1|Solvents: Methanol, Tetrahydrofuran; 20 min, rt|
+
+CAS Reaction Number: 31-575-CAS-21047615
+1.1|Solvents: Methanol, Water; rt|
+
+CAS Reaction Number: 31-392-CAS-8044223
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Catalysts: Benzene, Ammonium iodide|
+|Solvents: Acetonitrile, 2,2,2-Trifluoroethanol; 12 h, 60 °C|
+
+CAS Reaction Number: 31-366-CAS-3774170
+1.1|Solvents: Methanol, Water; rt → 40 °C; 30 min, 40 °C; 21 h, 40 °C|
+
+CAS Reaction Number: 31-352-CAS-10147970
+1.1|Solvents: Methanol, Water; 1 h, 0 °C|
+
+CAS Reaction Number: 31-352-CAS-9301006
+1.1|Solvents: Methanol, Water; 1 h, rt|
+
+CAS Reaction Number: 31-353-CAS-14061738
+1.1|Solvents: Ethanol; 3 h, rt → 75 °C|
+
+CAS Reaction Number: 31-575-CAS-20758058
+1.1|Solvents: Acetonitrile|
+
+CAS Reaction Number: 31-575-CAS-17659562
+1.1|Solvents: Acetonitrile; rt|
+
+CAS Reaction Number: 31-614-CAS-25522109
+1.1|Solvents: 1,2-Dichloroethane; heated; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29060499
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 14 h, rt|
+
+CAS Reaction Number: 31-084-CAS-24008098
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 14 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28928659
+1.1|Solvents: Acetonitrile; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26974331
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane; 24 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21070166
+1.1|Solvents: Methanol; 6 h, neutralized, rt|
+
+CAS Reaction Number: 31-575-CAS-21436274
+1.1|Solvents: Methanol; 15 min, neutralized, rt|
+
+CAS Reaction Number: 31-575-CAS-21309680
+1.1|Solvents: Water; 2 - 4 h, neutralized, rt|
+
+CAS Reaction Number: 31-614-CAS-25631265
+1.1|Solvents: Acetonitrile|
+
+CAS Reaction Number: 31-614-CAS-26453519
+1.1|Solvents: Acetonitrile|
+
+CAS Reaction Number: 31-575-CAS-21093475
+1.1|Solvents: Water; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-21091312
+1.1|Solvents: Water; overnight, rt|
+
+CAS Reaction Number: 31-356-CAS-2019442
+1.1|Solvents: Toluene; 8 h, rt → 110 °C|
+
+CAS Reaction Number: 31-614-CAS-29684840
+1.1|120 - 150 °C|
+
+CAS Reaction Number: 31-356-CAS-13565794
+1.1|Solvents: Toluene; 8 h, rt → 110 °C|
+
+CAS Reaction Number: 31-614-CAS-29637515
+1.1|Solvents: Methanol; 30 min, rt|
+
+CAS Reaction Number: 31-575-CAS-766407
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-10742909
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-575-CAS-11015732
+1.1|Solvents: Water; 2 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-25965469
+1.1|Solvents: Water; rt; 1 h, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-39277592
+1.1|Solvents: Methanol; rt; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25408317
+1.1|Solvents: Methanol; 60 min, rt|
+
+CAS Reaction Number: 31-614-CAS-41494290
+1.1|Solvents: Methanol; rt; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-29266261
+1.1|Solvents: Dichloromethane; 10 min, rt; 48 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26294482
+1.1|Catalysts: Acetic acid; 10 min, rt|
+
+CAS Reaction Number: 31-022-CAS-2327248
+1.1|Reagents: Triethylamine|
+|Solvents: Dichloromethane; rt → 0 °C; 0 °C → 20 °C; overnight, 20 °C|
+
+CAS Reaction Number: 31-575-CAS-21156544
+1.1|Solvents: Water; 1 h, 50 °C|
+
+CAS Reaction Number: 31-309-CAS-14123724
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-720628
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-5232857
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-2842956
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-1010536
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-14401910
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-13782748
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-9525222
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-11653745
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-3192844
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-12249095
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-7365147
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21310660
+1.1|Solvents: Water; 2 - 4 h, neutralized, rt|
+
+CAS Reaction Number: 31-309-CAS-7727958
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-309-CAS-5596751
+1.1|Solvents: Methanol; 3 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21310249
+1.1|Solvents: Water; 2 - 4 h, neutralized, rt|
+
+CAS Reaction Number: 31-356-CAS-15496030
+1.1|Solvents: Toluene; 24 h, 120 °C; 20 °C → rt|
+
+CAS Reaction Number: 31-562-CAS-9114197
+1.1|Reagents: Molybdate(3-), chromatehexa-μ3-hydroxyhexa-μ-oxododecaoxohexa-, ammonium (1:3)|
+|Solvents: Water; 3 h, 100 °C|
+
+CAS Reaction Number: 31-562-CAS-5597989
+1.1|Reagents: Molybdate(3-), chromatehexa-μ3-hydroxyhexa-μ-oxododecaoxohexa-, ammonium (1:3)|
+|Solvents: Water; 3 h, 100 °C|
+
+CAS Reaction Number: 31-562-CAS-3535264
+1.1|Reagents: Cuprous iodide|
+|Solvents: Chloroform, Acetonitrile; rt|
+
+CAS Reaction Number: 31-300-CAS-4459455
+1.1|Reagents: Potassium tetrachloropalladate|
+|Solvents: Methanol, Acetonitrile, Water; 60 °C; 10 h, > pH 7, 60 °C|
+
+CAS Reaction Number: 31-356-CAS-13285997
+1.1|Solvents: Toluene; 8 h, rt → 110 °C|
+
+CAS Reaction Number: 31-392-CAS-9327854
+1.1|Reagents: Iodobenzene diacetate; 10 min, rt; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-38413006
+1.1|Solvents: Water; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25715871
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-614-CAS-26538105
+1.1|Reagents: Potassium hydroxide|
+|Solvents: Water; rt|
+
+CAS Reaction Number: 31-575-CAS-18290355
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-7784637
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-18291462
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-18290059
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-575-CAS-18290961
+1.1|Solvents: Water; 2 h, rt|
+
+CAS Reaction Number: 31-368-CAS-7972759
+1.1|Solvents: Ethanol; 2 h, 30 - 45 °C; overnight, rt|
+
+CAS Reaction Number: 31-575-CAS-8885798
+1.1|Solvents: Water|
+
+CAS Reaction Number: 31-084-CAS-12624524
+1.1|Reagents: m-Chloroperbenzoic acid|
+|Solvents: Dichloromethane, 2,2,2-Trifluoroethanol; 3 d, rt|
+
+CAS Reaction Number: 31-574-CAS-16724424
+1.1|Catalysts: p-Toluenesulfonic acid|
+|Solvents: Polyethylene glycol; 1 - 4 h, 80 - 90 °C|
+
+CAS Reaction Number: 31-352-CAS-18809308
+1.1|Reagents: Cupric chloride|
+|Solvents: Methanol, Water; rt|
+
+CAS Reaction Number: 31-391-CAS-18253693
+1.1|Solvents: Tetrahydrofuran; 1.5 h, rt|
+
+CAS Reaction Number: 31-575-CAS-21107069
+1.1|Solvents: Water; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29046022
+1.1|Solvents: Dichloromethane, Water; rt|
+
+CAS Reaction Number: 31-614-CAS-29310974
+1.1|Solvents: Methanol|
+
+CAS Reaction Number: 31-575-CAS-18099547
+1.1|Solvents: Water; overnight, pH 7 - 7.5, rt|
+
+CAS Reaction Number: 31-353-CAS-13778621
+1.1|Solvents: Acetonitrile; 0 °C → rt; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-40899082
+1.1|Solvents: Chloroform; 1 h, 20 °C|
+
+CAS Reaction Number: 31-575-CAS-5586710
+1.1|rt; 2 - 3 h, 20 - 25 °C|
+
+CAS Reaction Number: 31-575-CAS-297306
+1.1|Solvents: Methanol; 2 h, rt|
+
+CAS Reaction Number: 31-084-CAS-2012179
+1.1|Solvents: tert-Butyl methyl ether; 30 min, rt; 1 h, rt|
+

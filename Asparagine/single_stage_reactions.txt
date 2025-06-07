@@ -1,0 +1,1017 @@
+CAS Reaction Number: 31-368-CAS-890411
+1.1|rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-9285441
+1.1|rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-4251425
+1.1|Solvents: Formamide; rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-12974378
+1.1|rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-2829926
+1.1|rt → 150 °C; 18 h, 150 °C; 50 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-3912001
+1.1|Solvents: Formamide; rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-12360206
+1.1|Solvents: Formamide; rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-28648191
+1.1|1.25 h, 185 °C; 185 °C → rt; 1 h, rt|
+
+CAS Reaction Number: 31-573-CAS-12051477
+1.1|Solvents: Formamide; rt → 180 °C; overnight, 180 °C; cooled|
+
+CAS Reaction Number: 31-573-CAS-8863445
+1.1|overnight, rt → 180 °C|
+
+CAS Reaction Number: 31-573-CAS-16484532
+1.1|2 h, 180 °C|
+
+CAS Reaction Number: 31-573-CAS-3390607
+1.1|1 h, reflux; reflux → rt|
+
+CAS Reaction Number: 31-573-CAS-20559558
+1.1|2 h, 180 °C|
+
+CAS Reaction Number: 31-573-CAS-10662626
+1.1|4 h, 180 °C; 180 °C → rt|
+
+CAS Reaction Number: 31-317-CAS-21207530
+1.1|overnight, 185 °C|
+
+CAS Reaction Number: 31-368-CAS-9605072
+1.1|Reagents: Ammonium formate; overnight, 135 °C|
+
+CAS Reaction Number: 31-368-CAS-11893093
+1.1|Solvents: Formamide; 5 h, 150 °C; overnight, cooled|
+
+CAS Reaction Number: 31-368-CAS-5582931
+1.1|8 h, 170 °C|
+
+CAS Reaction Number: 31-368-CAS-6294103
+1.1|6 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-789505
+1.1|6 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-16148454
+1.1|8 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-7866032
+1.1|Solvents: Formamide; 1.5 h, reflux; overnight, reflux → rt|
+
+CAS Reaction Number: 31-368-CAS-5532733
+1.1|1.5 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-2172860
+1.1|170 °C; 2.5 h, 190 °C|
+
+CAS Reaction Number: 31-363-CAS-7653786
+1.1|0.5 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-1478208
+1.1|Reagents: Ammonium formate; 2 h, 180 - 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-910230
+1.1|Solvents: Formamide; 5 h, 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-30356487
+1.1|Catalysts: Triethylamine; 15 min, 45 °C|
+
+CAS Reaction Number: 31-614-CAS-26350752
+1.1|Catalysts: 1,8-Diazabicyclo[5.4.0]undec-7-ene; 15 min, 10 bar, 20 °C|
+
+CAS Reaction Number: 31-032-CAS-8903029
+1.1|Solvents: Acetic acid; 5 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-8243250
+1.1|Reagents: Acetic acid; 24 h, 130 °C; 130 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-3560408
+1.1|Reagents: Ammonium formate; 3 h, rt → 180 °C; 180 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-13911556
+1.1|Reagents: Ammonium formate; 3 h, 180 °C; 180 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-12331763
+1.1|Reagents: Ammonium formate; 3 h, 180 °C; 180 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-8214171
+1.1|Reagents: Ammonium formate; 3 h, 180 °C; 180 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-8342079
+1.1|Reagents: Ammonium formate; 3 h, 180 °C; 180 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-3480157
+1.1|Reagents: Ammonium formate; 3 h, 180 °C; 180 °C → rt|
+
+CAS Reaction Number: 31-309-CAS-14064313
+1.1|Reagents: Chlorotrimethylsilane|
+
+CAS Reaction Number: 31-614-CAS-25069248
+1.1|24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-7469165
+1.1|Reagents: Ammonium formate; 3 h, 180 °C|
+
+CAS Reaction Number: 31-573-CAS-7317391
+1.1|Solvents: Formamide; 5 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-27516543
+1.1|Reagents: Carbamic acid; 150 °C|
+
+CAS Reaction Number: 31-363-CAS-11553346
+1.1|Catalysts: Ammonium formate; 23 °C; 23 °C → 150 °C; 2 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-25612538
+1.1|24 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-27435393
+1.1|Solvents: Formamide; 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-10554472
+1.1|Solvents: Formamide; 5 h, 180 °C|
+
+CAS Reaction Number: 31-309-CAS-7456373
+1.1|Solvents: Formamide; 0.5 h, rt → 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-309-CAS-12461915
+1.1|0.5 h, rt → 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-309-CAS-21310194
+1.1|Reagents: Ammonium formate; 0.5 h, rt → 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-309-CAS-6487774
+1.1|0.5 h, rt → 190 °C|
+
+CAS Reaction Number: 31-309-CAS-21316620
+1.1|0.5 h, rt → 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-33119281
+1.1|1 h, 165 °C|
+
+CAS Reaction Number: 31-614-CAS-28377266
+1.1|Reagents: Ammonium formate; 18 h, 160 °C|
+
+CAS Reaction Number: 31-313-CAS-5920307
+1.1|Reagents: Formic acid; rt → reflux; reflux → rt|
+
+CAS Reaction Number: 31-368-CAS-5193254
+1.1|Solvents: Formamide; 16 h, 140 °C|
+
+CAS Reaction Number: 31-478-CAS-15902583
+1.1|12 h, 210 °C|
+
+CAS Reaction Number: 31-614-CAS-30988890
+1.1|1 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-29563357
+1.1|1 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-25162933
+1.1|1 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-28240334
+1.1|24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-7295815
+1.1|Reagents: Ammonium formate; 3 h, 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-7545695
+1.1|Reagents: Ammonium formate; 3 h, 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-14751699
+1.1|Reagents: Ammonium formate; 3 h, rt → 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-1575341
+1.1|Reagents: Ammonium formate; 3 h, 190 °C; 190 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-28259966
+1.1|24 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-30908786
+1.1|24 h, 150 °C|
+
+CAS Reaction Number: 31-363-CAS-18274646
+1.1|Catalysts: Manganese oxide (MnO2); 3 h, 150 °C|
+
+CAS Reaction Number: 31-363-CAS-11107546
+1.1|Catalysts: Sodium tungsten oxide; 20 min, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-27561787
+1.1|1 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-27375132
+1.1|Catalysts: Citric acid, Iron oxide (Fe3O4); 8 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-42417661
+1.1|Reagents: Formic acid; 2 h, 170 °C|
+
+CAS Reaction Number: 31-317-CAS-22113777
+1.1|10 h, reflux|
+
+CAS Reaction Number: 31-363-CAS-8206812
+1.1|Catalysts: Ammonium formate; 23 °C; 23 °C → 150 °C; 50 min, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-29783719
+1.1|Catalysts: Ammonium formate; 2 h, rt → 150 °C|
+
+CAS Reaction Number: 31-363-CAS-64374
+1.1|24 h, 80 °C|
+
+CAS Reaction Number: 31-313-CAS-11165404
+1.1|Reagents: Formic acid; 12 h, 170 °C|
+
+CAS Reaction Number: 31-041-CAS-3872107
+1.1|Solvents: Formamide; 8 h, 150 °C|
+
+CAS Reaction Number: 31-317-CAS-21289261
+1.1|rt; 12 h, reflux; reflux → rt|
+
+CAS Reaction Number: 31-614-CAS-30896987
+1.1|1 h, 120 °C|
+
+CAS Reaction Number: 31-363-CAS-13238653
+1.1|Catalysts: Sodium tungsten oxide; 20 min, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-26719110
+1.1|24 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-30158585
+1.1|Catalysts: Iron oxide (Fe3O4), Sulfuric acid; 2 h, 120 °C|
+
+CAS Reaction Number: 31-313-CAS-10378803
+1.1|Reagents: Formic acid; 2 h, 180 °C|
+
+CAS Reaction Number: 31-313-CAS-17943715
+1.1|Reagents: Formic acid; 1 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-29585562
+1.1|1 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-28991616
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-614-CAS-31670821
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-363-CAS-4154801
+1.1|Catalysts: Chitosan; 36 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-36040175
+1.1|4 h, rt → 160 °C|
+
+CAS Reaction Number: 31-368-CAS-2061363
+1.1|Reagents: Formic acid; 5 h, 135 °C|
+
+CAS Reaction Number: 31-363-CAS-8471055
+1.1|Catalysts: Chitosan; 36 h, 150 °C|
+
+CAS Reaction Number: 31-363-CAS-10777612
+1.1|Catalysts: Sodium tungsten oxide; 20 min, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-31670818
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-31670816
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-21290403
+1.1|3 - 5 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-31670823
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-21290052
+1.1|3 - 5 h, 120 °C|
+
+CAS Reaction Number: 31-368-CAS-18346826
+1.1|6 h, 140 - 150 °C|
+
+CAS Reaction Number: 31-368-CAS-5712068
+1.1|6 h, 140 - 150 °C|
+
+CAS Reaction Number: 31-368-CAS-12115740
+1.1|Solvents: Formamide; 1.5 h, reflux; overnight, reflux → rt|
+
+CAS Reaction Number: 31-368-CAS-16826705
+1.1|Reagents: Formamidine acetate; overnight, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-37544635
+1.1|1 h, 165 °C; 1 h, 175 °C|
+
+CAS Reaction Number: 31-614-CAS-31670814
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-7109208
+1.1|160 °C|
+
+CAS Reaction Number: 31-614-CAS-31670819
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-21289610
+1.1|3 - 5 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-31670812
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-21288093
+1.1|3 - 5 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-26205271
+1.1|4 h, 130 - 135 °C|
+
+CAS Reaction Number: 31-309-CAS-21091784
+1.1|Solvents: Formamide; 6 h, 165 °C; 165 °C → rt|
+
+CAS Reaction Number: 31-614-CAS-38331759
+1.1|4 - 6 h, 140 °C|
+
+CAS Reaction Number: 31-614-CAS-31670813
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-21288366
+1.1|3 - 5 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-31670825
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-21196428
+1.1|3 - 5 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-21221764
+1.1|4 h, 165 °C|
+
+CAS Reaction Number: 31-309-CAS-9626059
+1.1|1.5 h, rt → 200 °C|
+
+CAS Reaction Number: 31-309-CAS-21035809
+1.1|160 °C|
+
+CAS Reaction Number: 31-363-CAS-18262396
+1.1|Catalysts: Manganese oxide (MnO2); 3 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-31670817
+1.1|5 - 8 h, 120 °C|
+
+CAS Reaction Number: 31-309-CAS-21287691
+1.1|3 - 5 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-38331760
+1.1|4 - 6 h, 140 °C|
+
+CAS Reaction Number: 31-041-CAS-7405159
+1.1|Catalysts: Dimanganese decacarbonyl; 3 h, 120 °C|
+
+CAS Reaction Number: 31-041-CAS-22291079
+1.1|85 °C → 140 °C; 3 h, 140 °C|
+
+CAS Reaction Number: 31-614-CAS-26076380
+1.1|Catalysts: Graphene; rt; 1 h, 90 - 100 °C|
+
+CAS Reaction Number: 31-614-CAS-29599669
+1.1|Catalysts: Graphene; 4 h, 100 - 130 °C|
+
+CAS Reaction Number: 31-614-CAS-27315104
+1.1|1 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-31002360
+1.1|2 h, 70 °C; overnight, cooled|
+
+CAS Reaction Number: 31-239-CAS-13481633
+1.1|Reagents: Trifluoroacetic acid, Potassium bromide; 8 h, 90 °C|
+
+CAS Reaction Number: 31-614-CAS-30790742
+1.1|2 h, 180 °C|
+
+CAS Reaction Number: 31-313-CAS-12500777
+1.1|Reagents: Formic acid; 2 h, 180 °C|
+
+CAS Reaction Number: 31-317-CAS-18240689
+1.1|3 h, reflux|
+
+CAS Reaction Number: 31-317-CAS-18053594
+1.1|2 h, reflux|
+
+CAS Reaction Number: 31-317-CAS-18149232
+1.1|Solvents: Formamide; 3 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-26735498
+1.1|Solvents: Formamide; 2 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-28458125
+1.1|Solvents: Formamide; 4 - 16 h, reflux|
+
+CAS Reaction Number: 31-239-CAS-13750450
+1.1|Reagents: Trifluoroacetic acid, Potassium bromide; 8 h, 90 °C|
+
+CAS Reaction Number: 31-092-CAS-8323755
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-363-CAS-15050396
+1.1|15 min, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-30899062
+1.1|2 h, 70 °C; overnight, cooled|
+
+CAS Reaction Number: 31-317-CAS-21323470
+1.1|rt; 12 h, reflux; reflux → rt|
+
+CAS Reaction Number: 31-317-CAS-21288802
+1.1|rt; 12 h, reflux; reflux → rt|
+
+CAS Reaction Number: 31-368-CAS-13514635
+1.1|4 - 6 h, 90 - 100 °C|
+
+CAS Reaction Number: 31-317-CAS-21263860
+1.1|4 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-17933806
+1.1|165 - 170 °C|
+
+CAS Reaction Number: 31-614-CAS-25339110
+1.1|Solvents: Water; 4 h, 175 °C|
+
+CAS Reaction Number: 31-363-CAS-6216492
+1.1|Solvents: Formamide; 1 h, 80 °C|
+
+CAS Reaction Number: 31-317-CAS-21085528
+1.1|4 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-36040013
+1.1|4 h, rt → 160 °C|
+
+CAS Reaction Number: 31-317-CAS-21090928
+1.1|Solvents: Formamide; 6 h, 180 °C; 165 °C → rt|
+
+CAS Reaction Number: 31-329-CAS-14440103
+1.1|Catalysts: Phosphorus oxychloride; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-092-CAS-7994201
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-092-CAS-14705065
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-309-CAS-12376188
+1.1|Catalysts: Montmorillonite ((Al1.33-1.67Mg0.33-0.67)(Ca0-1Na0-1)0.33Si4(OH)2O10.xH2O)|
+
+CAS Reaction Number: 31-309-CAS-21444752
+1.1|30 min, 130 °C; 4 h, 160 °C|
+
+CAS Reaction Number: 31-032-CAS-22530563
+1.1|Reagents: Acetic acid; 4 h, 120 °C|
+
+CAS Reaction Number: 31-032-CAS-20235088
+1.1|Reagents: Acetic acid; 4 h, 120 °C|
+
+CAS Reaction Number: 31-329-CAS-10173096
+1.1|Catalysts: Phosphorus oxychloride; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-614-CAS-28268110
+1.1|Solvents: Formamide; 6 h, 100 °C|
+
+CAS Reaction Number: 31-092-CAS-10398603
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-032-CAS-546293
+1.1|Reagents: Trifluoroacetic acid, Lithium bromide; 8 h, 90 °C|
+
+CAS Reaction Number: 31-368-CAS-15091138
+1.1|rt → 190 °C; 10 h, 180 - 190 °C|
+
+CAS Reaction Number: 31-092-CAS-3710535
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-614-CAS-26268649
+1.1|2 h, 170 - 180 °C|
+
+CAS Reaction Number: 31-363-CAS-18264286
+1.1|Catalysts: Manganese oxide (MnO2); 3 h, 150 °C|
+
+CAS Reaction Number: 31-313-CAS-20456744
+1.1|Catalysts: Citric acid, Iron oxide (Fe3O4); 8 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-30746739
+1.1|Solvents: Formamide; 3 - 4 h, 190 °C|
+
+CAS Reaction Number: 31-313-CAS-8913192
+1.1|Reagents: Formic acid; 2 h, 180 °C|
+
+CAS Reaction Number: 31-092-CAS-5857750
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-317-CAS-21300961
+1.1|rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-317-CAS-21364241
+1.1|Solvents: Formamide; rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-16148457
+1.1|8 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-26840612
+1.1|rt → 150 °C; 18 h, 150 °C; 150 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-3783565
+1.1|12 h, 190 °C|
+
+CAS Reaction Number: 31-317-CAS-21321772
+1.1|Solvents: Formamide; 2 - 3 h, reflux; cooled|
+
+CAS Reaction Number: 31-614-CAS-26839998
+1.1|24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-19326443
+1.1|3 h, 200 °C|
+
+CAS Reaction Number: 31-309-CAS-23591276
+1.1|30 min, reflux|
+
+CAS Reaction Number: 31-313-CAS-13176372
+1.1|Reagents: Formic acid; 2 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-34270930
+1.1|12 h, reflux|
+
+CAS Reaction Number: 31-363-CAS-4463808
+1.1|Reagents: Formic acid|
+
+CAS Reaction Number: 31-368-CAS-10644624
+1.1|6 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-38331762
+1.1|4 - 6 h, 140 °C|
+
+CAS Reaction Number: 31-363-CAS-4092945
+1.1|Catalysts: Sodium tungsten oxide; 20 min, 100 °C|
+
+CAS Reaction Number: 31-317-CAS-21026519
+1.1|17 h, 155 °C|
+
+CAS Reaction Number: 31-317-CAS-21251023
+1.1|17 h, 155 °C|
+
+CAS Reaction Number: 31-317-CAS-21259885
+1.1|17 h, 155 °C|
+
+CAS Reaction Number: 31-317-CAS-21261821
+1.1|17 h, 155 °C|
+
+CAS Reaction Number: 31-317-CAS-21144367
+1.1|17 h, 155 °C|
+
+CAS Reaction Number: 31-614-CAS-34270932
+1.1|12 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-25667895
+1.1|6 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-29791695
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-329-CAS-1051611
+1.1|Catalysts: Phosphorus oxychloride; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-368-CAS-3229133
+1.1|3 h, 200 - 205 °C; cooled|
+
+CAS Reaction Number: 31-614-CAS-29145900
+1.1|Catalysts: Graphene; 4.5 h, 100 - 130 °C|
+
+CAS Reaction Number: 31-368-CAS-12257104
+1.1|Solvents: Formamide; overnight, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-11741458
+1.1|Solvents: Formamide; overnight, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-31629495
+1.1|2 h, 190 - 200 °C|
+
+CAS Reaction Number: 31-614-CAS-26505339
+1.1|5 h, 160 °C|
+
+CAS Reaction Number: 31-092-CAS-3391548
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-317-CAS-18238314
+1.1|3 h, reflux|
+
+CAS Reaction Number: 31-317-CAS-18316318
+1.1|2 h, reflux|
+
+CAS Reaction Number: 31-317-CAS-18151563
+1.1|Solvents: Formamide; 3 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-41548559
+1.1|5 h, 150 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-455971
+1.1|4 - 6 h, 90 - 100 °C|
+
+CAS Reaction Number: 31-614-CAS-34270922
+1.1|12 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-37447684
+1.1|Solvents: Formamide; 2 h, reflux|
+
+CAS Reaction Number: 31-239-CAS-15322760
+1.1|Reagents: Trifluoroacetic acid, Potassium bromide; 8 h, 90 °C|
+
+CAS Reaction Number: 31-363-CAS-18258661
+1.1|Catalysts: Manganese oxide (MnO2); 3 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-28250628
+1.1|2 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-34270924
+1.1|12 h, reflux|
+
+CAS Reaction Number: 31-317-CAS-22158199
+1.1|1.5 h, > 100 °C|
+
+CAS Reaction Number: 31-329-CAS-5926468
+1.1|Catalysts: Phosphorus oxychloride; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-092-CAS-8267868
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-614-CAS-25664923
+1.1|Catalysts: Iodobenzene diacetate; 20 h, 110 °C|
+
+CAS Reaction Number: 31-313-CAS-3510891
+1.1|Reagents: Formic acid; 2 h, 180 °C|
+
+CAS Reaction Number: 31-317-CAS-21167415
+1.1|Solvents: Formamide; 6 h, reflux|
+
+CAS Reaction Number: 31-317-CAS-21409234
+1.1|5 h, reflux|
+
+CAS Reaction Number: 31-573-CAS-12743860
+1.1|40 h, rt → 160 °C|
+
+CAS Reaction Number: 31-573-CAS-15346907
+1.1|40 h, rt → 160 °C|
+
+CAS Reaction Number: 31-317-CAS-21310992
+1.1|27 h, rt → 160 °C|
+
+CAS Reaction Number: 31-317-CAS-21318019
+1.1|27 h, rt → 160 °C|
+
+CAS Reaction Number: 31-239-CAS-375800
+1.1|Reagents: Trifluoroacetic acid, Potassium bromide; 8 h, 90 °C|
+
+CAS Reaction Number: 31-239-CAS-4939831
+1.1|Reagents: Methanesulfonic acid, Trifluoroacetic acid; 8 h, 90 °C|
+
+CAS Reaction Number: 31-368-CAS-619485
+1.1|Reagents: Ammonium formate; overnight, 150 °C|
+
+CAS Reaction Number: 31-092-CAS-1598746
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-614-CAS-31670880
+1.1|6 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-17357647
+1.1|3.5 h, rt → 180 °C; 180 °C → rt|
+
+CAS Reaction Number: 31-368-CAS-18710628
+1.1|rt → 180 °C; 16 h, 180 °C|
+
+CAS Reaction Number: 31-317-CAS-21088757
+1.1|3 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-28957132
+1.1|6 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-26837499
+1.1|6 h, 180 °C; 12 h, 20 °C|
+
+CAS Reaction Number: 31-317-CAS-22114287
+1.1|Solvents: Formamide; 6 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-32751603
+1.1|48 h, 130 °C|
+
+CAS Reaction Number: 31-614-CAS-41255458
+1.1|24 h, 190 °C|
+
+CAS Reaction Number: 31-614-CAS-30043359
+1.1|4 h, reflux|
+
+CAS Reaction Number: 31-317-CAS-21320525
+1.1|rt; 12 h, reflux; reflux → rt|
+
+CAS Reaction Number: 31-573-CAS-18786283
+1.1|25 - 30 °C; 30 °C → 180 °C; 19 h, 180 °C|
+
+CAS Reaction Number: 31-614-CAS-34270934
+1.1|12 h, reflux|
+
+CAS Reaction Number: 31-363-CAS-12582332
+1.1|Solvents: Formamide; rt; rt → 80 °C; 4 h, 80 °C|
+
+CAS Reaction Number: 31-313-CAS-11302802
+1.1|Reagents: Formic acid; 2 h, 180 °C|
+
+CAS Reaction Number: 31-317-CAS-21041734
+1.1|1.5 h, > 100 °C|
+
+CAS Reaction Number: 31-092-CAS-14378145
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-092-CAS-12666796
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-032-CAS-22530566
+1.1|Reagents: Acetic acid; 4 h, 125 °C|
+
+CAS Reaction Number: 31-032-CAS-20235084
+1.1|Reagents: Acetic acid; 4 h, 120 °C|
+
+CAS Reaction Number: 31-368-CAS-7419827
+1.1|6 h, reflux; cooled|
+
+CAS Reaction Number: 31-368-CAS-10980134
+1.1|24 h, 200 °C|
+
+CAS Reaction Number: 31-092-CAS-4070203
+1.1|Reagents: Phosphorus tribromide; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-573-CAS-8111665
+1.1|5 h, 160 °C|
+
+CAS Reaction Number: 31-573-CAS-6945175
+1.1|5 h, 150 °C|
+
+CAS Reaction Number: 31-573-CAS-14835057
+1.1|5 h, 160 °C|
+
+CAS Reaction Number: 31-573-CAS-13684840
+1.1|5 h, 160 °C|
+
+CAS Reaction Number: 31-368-CAS-23350460
+1.1|3 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-15870797
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-4854774
+1.1|1.5 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-15957662
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-23726126
+1.1|Reagents: Acetic acid; reflux|
+
+CAS Reaction Number: 31-363-CAS-9024208
+1.1|Catalysts: 1H-Benzotriazole; 24 h, 100 °C|
+
+CAS Reaction Number: 31-614-CAS-25593765
+1.1|24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-15956100
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-309-CAS-4032755
+1.1|7 h, 180 °C|
+
+CAS Reaction Number: 31-309-CAS-21074198
+1.1|Solvents: Formamide; 7 h, 180 °C|
+
+CAS Reaction Number: 31-309-CAS-5242110
+1.1|4 - 6 h, 140 °C|
+
+CAS Reaction Number: 31-368-CAS-15845951
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-15885237
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-614-CAS-38331758
+1.1|4 - 6 h, 140 °C|
+
+CAS Reaction Number: 31-614-CAS-31924275
+1.1|Reagents: Acetic acid; 40 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-15872566
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-573-CAS-20358777
+1.1|Solvents: Formamide; 8 h, 150 °C|
+
+CAS Reaction Number: 31-573-CAS-17931000
+1.1|Solvents: Formamide; 8 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-2919189
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-309-CAS-12640477
+1.1|1 h, reflux; cooled|
+
+CAS Reaction Number: 31-309-CAS-14790853
+1.1|1 h, reflux; cooled|
+
+CAS Reaction Number: 31-368-CAS-9637718
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-9919043
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-313-CAS-17943714
+1.1|Reagents: Formic acid; 1 h, 180 °C|
+
+CAS Reaction Number: 31-368-CAS-13527249
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-25667239
+1.1|Catalysts: p-Toluenesulfonic acid; 24 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-26163579
+1.1|Solvents: Dichloromethane; 8 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24933805
+1.1|Solvents: Dichloromethane; 24 h, rt|
+
+CAS Reaction Number: 31-314-CAS-21165001
+1.1|Reagents: Hydrochloric acid; 1 h, 40 °C → 80 °C|
+
+CAS Reaction Number: 31-317-CAS-21258618
+1.1|4 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-7184262
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-317-CAS-21289930
+1.1|rt; 12 h, reflux; reflux → rt|
+
+CAS Reaction Number: 31-368-CAS-15886849
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-7458631
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-15822054
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-13844674
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-22833824
+1.1|Solvents: Formamide; 2 h, 190 - 200 °C|
+
+CAS Reaction Number: 31-614-CAS-29751192
+1.1|3 h, 80 °C|
+
+CAS Reaction Number: 31-368-CAS-11348831
+1.1|4 - 6 h, 90 - 100 °C|
+
+CAS Reaction Number: 31-368-CAS-11723531
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-25726239
+1.1|Solvents: Formamide; 7 h, reflux|
+
+CAS Reaction Number: 31-614-CAS-26667311
+1.1|1 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-4955486
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-317-CAS-21323384
+1.1|rt; 12 h, reflux; reflux → rt|
+
+CAS Reaction Number: 31-614-CAS-35242041
+1.1|2 h, 180 °C|
+
+CAS Reaction Number: 31-368-CAS-1783867
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-15954994
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-14835477
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-4603913
+1.1|6 h, rt → 165 °C|
+
+CAS Reaction Number: 31-368-CAS-8919534
+1.1|6 h, rt → 165 °C|
+
+CAS Reaction Number: 31-368-CAS-8452005
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-329-CAS-1308511
+1.1|Catalysts: Phosphorus oxychloride; 0.5 - 1 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-368-CAS-1124742
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-7126167
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-5653707
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-3232077
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-15932258
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-1448901
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-614-CAS-30614706
+1.1|Catalysts: Bis(neodymium)hexakis(tetrahydrofuran)tetrakis[μ-(2,2,2-trifluoroethanolato-κO:κO)]decakis[μ3-(2,2,2-trifluoroethanolato-κO:κO:κO)]octasodium; 5 h, 120 °C|
+
+CAS Reaction Number: 31-368-CAS-9994808
+1.1|Solvents: Formamide; 1.5 h, reflux; overnight, reflux → rt|
+
+CAS Reaction Number: 31-368-CAS-7677966
+1.1|1.5 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-6759476
+1.1|Reagents: Acetic acid; 24 h, 120 °C|
+
+CAS Reaction Number: 31-573-CAS-10923202
+1.1|90 min, 180 °C|
+
+CAS Reaction Number: 31-368-CAS-15931218
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-9766838
+1.1|160 °C|
+
+CAS Reaction Number: 31-368-CAS-15862991
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-7257136
+1.1|6 h, 165 °C|
+
+CAS Reaction Number: 31-368-CAS-15927947
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-3567818
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-15849592
+1.1|24 h, 160 - 170 °C|
+
+CAS Reaction Number: 31-368-CAS-4384421
+1.1|Reagents: Ammonium formate; overnight, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-3462467
+1.1|Reagents: Ammonium formate; overnight, 150 °C|
+
+CAS Reaction Number: 31-313-CAS-14306380
+1.1|Reagents: Formic acid|
+
+CAS Reaction Number: 31-368-CAS-736467
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-4723460
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-5984489
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-368-CAS-3194091
+1.1|Reagents: Ammonium formate; 16 - 24 h, 150 °C|
+
+CAS Reaction Number: 31-363-CAS-15484649
+1.1|1.5 h, 110 - 120 °C|
+
+CAS Reaction Number: 31-614-CAS-37447679
+1.1|Solvents: Formamide; 2 h, reflux|
+
+CAS Reaction Number: 31-368-CAS-15618711
+1.1|8 - 10 h, rt → 150 °C|
+
+CAS Reaction Number: 31-041-CAS-6145373
+1.1|Catalysts: Dimanganese decacarbonyl; 2 - 3 h, 120 - 130 °C|
+
+CAS Reaction Number: 31-368-CAS-4542043
+1.1|rt → 190 °C; 10 h, 180 - 190 °C|
+
+CAS Reaction Number: 31-562-CAS-10165301
+1.1|Reagents: Cadmium iodide|
+
+CAS Reaction Number: 31-313-CAS-20622985
+1.1|Reagents: Formic acid, Water; 4 h, 160 °C|
+
+CAS Reaction Number: 31-313-CAS-20223919
+1.1|Reagents: Formic acid, Water; 90 min, 160 °C|
+
+CAS Reaction Number: 31-309-CAS-21219629
+1.1|Solvents: 2-Methoxyethanol; 3 h, reflux|
+

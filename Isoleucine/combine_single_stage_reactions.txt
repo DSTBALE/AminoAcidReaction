@@ -1,0 +1,59 @@
+CAS Reaction Number: 31-614-CAS-29933497
+1.1|Reagents: Hydrogen|
+|Catalysts: Sulfate; 170 h, 3 MPa, 50 °C|
+
+CAS Reaction Number: 31-614-CAS-31974038
+1.1|Reagents: Isobutane|
+|Catalysts: Alumina, Cobalt nitrate hexahydrate, Zinc nitrate hexahydrate; 1.8 MPa, 75 °C|
+
+CAS Reaction Number: 31-614-CAS-36894533
+1.1|Reagents: Oxygen|
+|Catalysts: Vanadium oxide (V2O5), Phosphoric acid, KH 460; 300 kPa, 430 °C; 200 kPa, 400 °C|
+
+CAS Reaction Number: 31-479-CAS-19400142
+1.1|Reagents: Oxygen; 0.2 MPa, 50 °C; 150 °C; 180 °C|
+
+CAS Reaction Number: 31-479-CAS-19032486
+1.1|Reagents: Trimethyl phosphate|
+|Catalysts: Phosphorus vanadium oxide|
+|Solvents: Water; 1935 h, rt|
+
+CAS Reaction Number: 31-479-CAS-2949258
+1.1|Reagents: Oxygen; 190 kPa, 400 °C|
+
+CAS Reaction Number: 31-479-CAS-11977209
+1.1|Reagents: Oxygen|
+|Catalysts: [μ-[Diphosphato(4-)-κO,κO′′:κO′,κO′′′]]dioxodivanadium; 425 - 450 °C|
+
+CAS Reaction Number: 31-614-CAS-24025117
+1.1|Reagents: Oxygen|
+|Catalysts: Phosphorus vanadium oxide; 312 h, 0.03 MPa, 400 °C|
+
+CAS Reaction Number: 31-479-CAS-29366414
+1.1|Reagents: Oxygen|
+|Catalysts: Vanadium oxide (V2O5), Phosphoric acid, Hexanoic acid, 2-ethyl-, molybdenum salt (1:?); 40 - 60 °C; 100 - 150 °C; 150 - 180 °C|
+
+CAS Reaction Number: 31-614-CAS-27312352
+1.1|Reagents: Ethane|
+|Catalysts: Platinum, Potassium; 0.13 MPa, 610 °C; 0.1 MPa, 605 °C; 0.05 MPa, 600 °C|
+
+CAS Reaction Number: 31-464-CAS-21419280
+1.1|Reagents: Hydrogen|
+|Catalysts: Palladium; 20 °C|
+
+CAS Reaction Number: 31-464-CAS-21095395
+1.1|Reagents: Hydrogen; 3 MPa, 240 °C|
+
+CAS Reaction Number: 31-614-CAS-39929708
+1.1|Reagents: 1,4,5,6-Tetrahydro-1,2-dimethylpyrimidine|
+|Catalysts: Ferrous carbonate, Bipyridine|
+|Solvents: Dimethylformamide; 36 h, 85 °C|
+
+CAS Reaction Number: 31-614-CAS-27103266
+1.1|Reagents: Potassium persulfate, Water|
+|Catalysts: Cuprate(1-), rel-[μ-(benzoato-κO:κO′)][μ-[2-[(R)-[2-(hydroxy-κO:κO)ethyl][2-(hydroxy-κO)ethyl]amino-κN]ethanesulfonato(2-)-κO]][μ-[2-[(S)-[2-(hydroxy-κO:κO)ethyl][2-(hydroxy-κO)ethyl]amino-κN]ethanesulfonato(2-)-κO]]bis[μ-[2-[(R)-[2-(hydroxy-κO:κO)ethyl][2-(hydroxy-κO)ethyl]amino-κN]ethanesulfonato(2-)]]tetra-, sodium (1:1), stereoisomer|
+|Solvents: Acetonitrile, Water; 11 atm, rt; 6 h, 50 °C|
+
+CAS Reaction Number: 31-161-CAS-11996760
+1.1|Reagents: Hydrogen|
+|Catalysts: Rhodium|

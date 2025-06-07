@@ -1,0 +1,318 @@
+CAS Reaction Number: 31-614-CAS-34355987
+1.1|Solvents: Acetonitrile; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28437728
+1.1|Reagents: Triethylamine|
+|Solvents: Methanol; 24 h, rt|
+
+CAS Reaction Number: 31-562-CAS-4397521
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-4400827
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-5219815
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-34355992
+1.1|Solvents: Acetonitrile; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-30792721
+1.1|Reagents: Oxygen; 80 °C; 20 °C|
+
+CAS Reaction Number: 31-614-CAS-29972262
+1.1|Reagents: Oxygen; 80 °C; 20 °C|
+
+CAS Reaction Number: 31-562-CAS-5520886
+1.1|Solvents: Toluene; 30 min, rt|
+
+CAS Reaction Number: 31-317-CAS-13832221
+1.1|Solvents: Acetonitrile; 70 °C|
+
+CAS Reaction Number: 31-614-CAS-39889232
+1.1|Solvents: Acetonitrile; 1 h, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-36112160
+1.1|Solvents: Acetonitrile, Dichloromethane; overnight, rt|
+
+CAS Reaction Number: 31-562-CAS-4781114
+1.1|Solvents: Benzene; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34355998
+1.1|Solvents: Acetonitrile; 12 h, rt|
+
+CAS Reaction Number: 31-562-CAS-1578777
+1.1|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-562-CAS-6259800
+1.1|Solvents: Benzene, Heptane; rt; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-14374336
+1.1|Solvents: Benzene, Heptane; rt; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-9578733
+1.1|Solvents: Benzene, Heptane; rt; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-41524000
+1.1|Reagents: Oxygen; 1 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-41524001
+1.1|Reagents: Oxygen; 1 h, 200 °C|
+
+CAS Reaction Number: 31-562-CAS-19909206
+1.1|Solvents: 1,2-Dimethoxyethane; -78 °C → rt; 16 h, rt|
+
+CAS Reaction Number: 31-614-CAS-26354751
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-3064847
+1.1|30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-3637401
+1.1|Solvents: Toluene; 3 h, rt|
+
+CAS Reaction Number: 31-562-CAS-13431583
+1.1|Solvents: Tetrahydrofuran; -35 °C; 30 min, -35 °C → rt|
+
+CAS Reaction Number: 31-562-CAS-371728
+1.1|Solvents: Tetrahydrofuran; rt|
+
+CAS Reaction Number: 31-562-CAS-1317793
+1.1|Solvents: Tetrahydrofuran; overnight, rt|
+
+CAS Reaction Number: 31-562-CAS-17799779
+1.1|Solvents: Tetrahydrofuran; rt; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-8570017
+1.1|Solvents: Tetrahydrofuran; -35 °C; 30 min, -35 °C → rt|
+
+CAS Reaction Number: 31-562-CAS-9713760
+1.1|rt; 5 min, rt|
+
+CAS Reaction Number: 31-562-CAS-17799777
+1.1|Solvents: Tetrahydrofuran; rt|
+
+CAS Reaction Number: 31-562-CAS-2324233
+1.1|Solvents: Tetrahydrofuran; 2 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-36982089
+1.1|Solvents: Tetrahydrofuran; 20 h, 20 °C|
+
+CAS Reaction Number: 31-614-CAS-23916457
+1.1|Solvents: Tetrahydrofuran; 16 h, rt|
+
+CAS Reaction Number: 31-562-CAS-8924467
+1.1|Solvents: Tetrahydrofuran; 1 h, 0 °C|
+
+CAS Reaction Number: 31-562-CAS-11791448
+1.1|Reagents: Bis[1,1′-oxybis[ethane]]bis[μ-[1,1,1-trimethyl-N-(trimethylsilyl)silanaminato]]dilithium|
+|Solvents: Tetrahydrofuran; -78 °C → rt; 2 h, rt|
+
+CAS Reaction Number: 31-562-CAS-9224253
+1.1|Solvents: Tetrahydrofuran|
+
+CAS Reaction Number: 31-614-CAS-27704811
+1.1|Reagents: (2,4,6-Trimethylphenyl)copper|
+|Solvents: Toluene; 3 h, rt|
+
+CAS Reaction Number: 31-562-CAS-2272833
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-3096197
+1.1|Solvents: Bromobenzene, Toluene; 30 min, rt|
+
+CAS Reaction Number: 31-562-CAS-4181903
+1.1|Solvents: Bromobenzene; 15 min, rt|
+
+CAS Reaction Number: 31-614-CAS-26135332
+1.1|Reagents: Iodine|
+|Solvents: Dichloromethane; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-27070139
+1.1|Solvents: Benzene|
+
+CAS Reaction Number: 31-614-CAS-26064507
+1.1|Reagents: Diisopropylethylamine, 3-Nitro-1,2,4-triazole, Bis(2-oxo-3-oxazolidinyl)phosphinic chloride|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25517955
+1.1|Reagents: Diisopropylethylamine, Bis(2-oxo-3-oxazolidinyl)phosphinic chloride, MSNT|
+|Solvents: Tetrahydrofuran|
+
+CAS Reaction Number: 31-614-CAS-30576992
+1.1|Reagents: Diisopropylethylamine, Bis(2-oxo-3-oxazolidinyl)phosphinic chloride, MSNT|
+|Solvents: Tetrahydrofuran|
+
+CAS Reaction Number: 31-562-CAS-2982502
+1.1|Solvents: Acetonitrile|
+
+CAS Reaction Number: 31-562-CAS-9390869
+1.1|Solvents: Acetonitrile|
+
+CAS Reaction Number: 31-614-CAS-28673290
+1.1|Reagents: Iodine|
+|Solvents: Dichloromethane; 10 min, rt|
+
+CAS Reaction Number: 31-614-CAS-30583977
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 40 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25636170
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 45 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25654851
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 45 min, rt|
+
+CAS Reaction Number: 31-562-CAS-16739735
+1.1|Solvents: Dichloromethane; 1 h, rt|
+
+CAS Reaction Number: 31-575-CAS-20993243
+1.1|Solvents: Diethyl ether; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-28881466
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29895087
+1.1|Solvents: Ethanol, Water; 20 °C; 4 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-614-CAS-30726178
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-27672022
+1.1|Reagents: Diisopropylethylamine, 3-Nitro-1,2,4-triazole, Bis(2-oxo-3-oxazolidinyl)phosphinic chloride|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29662986
+1.1|Reagents: Sodium hydroxide|
+|Solvents: Water; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-25069454
+1.1|Solvents: Ethanol, Water; 20 °C; 4 h, 50 - 60 °C|
+
+CAS Reaction Number: 31-562-CAS-9893089
+1.1|Solvents: Benzene; 30 min, rt|
+
+CAS Reaction Number: 31-575-CAS-20888016
+1.1|Solvents: Diethyl ether; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-27190422
+1.1|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate), 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Dimethylformamide; 24 h, 27 °C|
+
+CAS Reaction Number: 31-614-CAS-29276342
+1.1|Solvents: Ethanol; heated|
+
+CAS Reaction Number: 31-614-CAS-31604808
+1.1|Solvents: Diethyl ether; rt; 1 h, rt|
+
+CAS Reaction Number: 31-614-CAS-31604815
+1.1|Solvents: Benzene; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29397439
+1.1|Catalysts: Chloro[tris[4-(trifluoromethyl)phenyl]phosphine-κP]gold|
+|Solvents: Methanol; 15 - 17 h, rt|
+
+CAS Reaction Number: 31-614-CAS-34849067
+1.1|Solvents: Tetrahydrofuran; rt; 2 min, rt|
+
+CAS Reaction Number: 31-614-CAS-41964304
+1.1|Catalysts: Palladium diacetate|
+|Solvents: 1,2-Dichloroethane; 6 h, 35 °C|
+
+CAS Reaction Number: 31-575-CAS-20714248
+1.1|Reagents: Potassium tert-butoxide|
+|Solvents: Tetrahydrofuran; 30 min, rt|
+
+CAS Reaction Number: 31-614-CAS-27797426
+1.1|Solvents: Benzene; 2.5 h, rt|
+
+CAS Reaction Number: 31-562-CAS-5732312
+1.1|Solvents: Tetrahydrofuran; 90 min, 80 °C|
+
+CAS Reaction Number: 31-614-CAS-28703812
+1.1|Solvents: Benzene; 12 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25954448
+1.1|Solvents: Benzene; 24 h, rt|
+
+CAS Reaction Number: 31-614-CAS-25258236
+1.1|Solvents: Benzene; rt|
+
+CAS Reaction Number: 31-614-CAS-26978087
+1.1|Solvents: Tetrahydrofuran; 20 min, rt|
+
+CAS Reaction Number: 31-614-CAS-28717047
+1.1|Solvents: Toluene; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-29838910
+1.1|Solvents: Toluene; overnight, rt|
+
+CAS Reaction Number: 31-614-CAS-31011773
+1.1|Solvents: Toluene; 15 h, rt|
+
+CAS Reaction Number: 31-614-CAS-27433373
+1.1|Solvents: Pentane, Tetrahydrofuran; 2 d, rt → -25 °C|
+
+CAS Reaction Number: 31-614-CAS-26723059
+1.1|Solvents: Toluene; 48 h, rt|
+
+CAS Reaction Number: 31-203-CAS-11690525
+1.1|Solvents: Dichloromethane; 30 min, 25 °C|
+
+CAS Reaction Number: 31-614-CAS-41964299
+1.1|Catalysts: Palladium diacetate|
+|Solvents: 1,2-Dichloroethane; 6 h, 35 °C|
+
+CAS Reaction Number: 31-614-CAS-39889227
+1.1|Solvents: Tetrahydrofuran; 1 h, 0 °C|
+
+CAS Reaction Number: 31-614-CAS-38007513
+1.1|Solvents: Tetrahydrofuran; rt; 2 h, rt|
+
+CAS Reaction Number: 31-614-CAS-24979911
+1.1|Catalysts: 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethyl sulfoxide; 24 h, 27 °C|
+
+CAS Reaction Number: 31-562-CAS-16202308
+1.1|Reagents: Pivalic acid|
+|Solvents: Dimethylformamide, Acetonitrile; 24 h, 60 °C|
+
+CAS Reaction Number: 31-614-CAS-31823864
+1.1|Solvents: Tetrahydrofuran; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29014649
+1.1|Solvents: Dichloromethane|
+
+CAS Reaction Number: 31-562-CAS-13209836
+1.1|Reagents: Pivalic acid|
+|Solvents: Dimethylformamide; rt; 1 h, 120 °C|
+
+CAS Reaction Number: 31-562-CAS-1960506
+1.1|Reagents: Pivalic acid|
+|Solvents: Dimethyl sulfoxide; rt; 1 h, 120 °C|
+
+CAS Reaction Number: 31-614-CAS-41964305
+1.1|Catalysts: Palladium diacetate|
+|Solvents: 1,2-Dichloroethane; 6 h, 35 °C|
+
+CAS Reaction Number: 31-575-CAS-2577471
+1.1|Reagents: Ammonium hydroxide|
+|Solvents: Water; 1 h, rt|
+
+CAS Reaction Number: 31-491-CAS-18140416
+1.1|Reagents: Hydrazine, phenyl-|
+|Solvents: Chloroform-d; 5 min, rt|
+
+CAS Reaction Number: 31-614-CAS-29126813
+1.1|Reagents: Cupric acetate|
+|Solvents: Methanol, Chloroform-d; 10 min, rt|
+
+CAS Reaction Number: 31-353-CAS-3821386
+1.1|Reagents: Hydrogen, Amberlite IRA 958|
+|Catalysts: Palladium|
+|Solvents: Methanol; 6 h, 35 ± 5 °C|
